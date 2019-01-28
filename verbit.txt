@@ -1,3 +1,5 @@
+# lista on parsittu http://kaino.kotus.fi/sanat/nykysuomi/
+# Sanalista julkaistaan lisensseillä GNU LGPL (Lesser General Public License), EUPL v.1.1 (Euroopan unionin yleinen lisenssi) 
 aakkostaa
 aallota
 aallottaa
