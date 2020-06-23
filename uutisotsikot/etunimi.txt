@@ -16,6 +16,7 @@ Arja
 Bruce
 Charlotte
 Christina
+Daniel
 David
 Donald
 Eetu
@@ -27,13 +28,16 @@ Erkki
 Esa
 Gabriel
 George
+Hannu
 Harry
 Heidi
 Ida
 Ilma
 Ilta
+Jack
 Jake
 Jari
+Jarmo
 Jasmin
 Jasper
 Joel
@@ -47,6 +51,7 @@ Kaisa
 Katri
 Kiia
 Kim
+Lasse
 Manu
 Maria
 Marika
@@ -55,6 +60,7 @@ Matti
 Max
 Melissa
 Mette
+Mia
 Michael
 Mikael
 Mike
@@ -64,6 +70,7 @@ Niko
 Noora
 Olavi
 Päivä
+Päivi
 Patrik
 Pekka
 Peter
@@ -96,3 +103,4 @@ Unelma
 Valtteri
 Ville
 Vladimir
+William

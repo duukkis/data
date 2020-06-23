@@ -4,6 +4,7 @@ Ahvenanmaa
 Amazon
 Australia
 Baltia
+Barcelona
 Bologna
 Britannia
 Etelä-Afrikka
@@ -24,6 +25,7 @@ Jyväskylä
 Kalajoki
 Kanada
 Kaustinen
+Kemi
 Kiina
 Kitee
 Kolari
@@ -34,6 +36,7 @@ Kuopio
 Kypros
 Länsi-Suomi
 Lappi
+Levi
 Liverpool
 Loimaa
 Lontoo
@@ -41,6 +44,7 @@ Loviisa
 Madrid
 Maksamaa
 Mali
+Manchester
 Mari
 Mars
 Minneapolis
@@ -51,6 +55,7 @@ Nigeria
 Nokia
 Oman
 Osta
+Oulanka
 Oulu
 Pasila
 Pohjois-Carolina

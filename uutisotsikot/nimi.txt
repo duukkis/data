@@ -2,8 +2,10 @@ Akava
 Apollon
 Apple
 Aurinko
+Beatles
 Facebook
 Finnair
+Ford
 Google
 Jaguar
 Lidl
@@ -11,6 +13,7 @@ Microsoft
 Musti
 Netflix
 Puh
+Samsung
 Saturnus
 Schengen-Maa
 Sony

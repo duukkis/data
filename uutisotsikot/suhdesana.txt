@@ -2,5 +2,6 @@ alla
 asti
 huolimatta
 kanssa
+kohti
 ohi
 yli

@@ -46,11 +46,13 @@ kymmenittäin
 kyse
 lähellä
 lähes
+liki
 mikäli
 miten
 muassa
 muinoin
 mukaan
+muuten
 myös
 myötä
 näin
@@ -73,6 +75,7 @@ rikki
 seassa
 selvillä
 siellä
+silloin
 silti
 sitten
 täällä
@@ -87,6 +90,7 @@ tasan
 täysi
 toistaiseksi
 tuskin
+uudestaan
 vähitellen
 vain
 vasta

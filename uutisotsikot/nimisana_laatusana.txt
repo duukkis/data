@@ -14,6 +14,7 @@ ilmainen
 iso
 kauhea
 kiire
+komea
 korkea
 kova
 k-poppa
@@ -60,5 +61,7 @@ vajaa
 vanha
 vapaa
 venäläinen
+ventovieras
 vihreä
 viimeinen
+villi
