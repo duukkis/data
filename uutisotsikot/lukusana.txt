@@ -1,6 +1,7 @@
 8:30
 ensimmäinen
 II
+III
 kahdeksan
 kaksi
 kolmas
@@ -16,6 +17,7 @@ sata
 seitsemäs
 toinen
 tuhat
+viides
 viisi
 xi
 yksi

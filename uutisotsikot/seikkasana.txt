@@ -1,5 +1,7 @@
 aiemmin
 aina
+aivan
+ajoittain
 alas
 alasti
 alhaalla
@@ -20,6 +22,8 @@ ensin
 entä
 erittäin
 esillä
+etänä
+eteenpäin
 etenkin
 heti
 hyvin
@@ -28,6 +32,7 @@ ikinä
 itsestään
 jälleen
 jo
+joskus
 julki
 kadoksissa
 kai
@@ -37,6 +42,7 @@ kauas
 keskellä
 kesken
 kiinni
+kohta
 koskaan
 kuitenkaan
 kuitenkin
@@ -49,6 +55,7 @@ lähes
 liki
 mikäli
 miten
+mönkään
 muassa
 muinoin
 mukaan
@@ -62,16 +69,21 @@ noin
 nopeiten
 nurin
 nyt
+ohitse
 oikein
+osittain
 pahiten
 paikoin
 paitsi
 päiväsaikaan
 päivittäin
+parissa
+poikki
 pois
 poissa
 portaittain
 rikki
+saakka
 seassa
 selvillä
 siellä
@@ -90,9 +102,12 @@ tasan
 täysi
 toistaiseksi
 tuskin
+ulos
+uudelleen
 uudestaan
 vähitellen
 vain
+väkisin
 vasta
 vastaan
 vielä
@@ -101,6 +116,7 @@ viikoittain
 vuoksi
 yhä
 yhdessä
+yhtä
 yhtään
 yhteensä
 yksin
