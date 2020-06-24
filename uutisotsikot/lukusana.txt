@@ -1,3 +1,4 @@
+13:45
 8:30
 ensimmäinen
 II
@@ -6,6 +7,7 @@ kahdeksan
 kaksi
 kolmas
 kolme
+kolmekymmentä
 kuusi
 kymmenen
 miljardi
@@ -20,4 +22,5 @@ tuhat
 viides
 viisi
 xi
+yhdeksän
 yksi

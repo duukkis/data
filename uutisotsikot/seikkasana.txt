@@ -1,4 +1,5 @@
 aiemmin
+aikaisemmin
 aina
 aivan
 ajoittain
@@ -25,10 +26,16 @@ esillä
 etänä
 eteenpäin
 etenkin
+hereillä
 heti
+hieman
+hiljaa
+hukassa
+huomenna
 hyvin
 ihan
 ikinä
+irti
 itsestään
 jälleen
 jo
@@ -39,6 +46,7 @@ kai
 kaikkialla
 kateissa
 kauas
+kertaalleen
 keskellä
 kesken
 kiinni
@@ -52,7 +60,9 @@ kymmenittäin
 kyse
 lähellä
 lähes
+lähettyvillä
 liki
+melkein
 mikäli
 miten
 mönkään
@@ -74,14 +84,17 @@ oikein
 osittain
 pahiten
 paikoin
+päinvastoin
 paitsi
 päiväsaikaan
 päivittäin
 parissa
+peräti
 poikki
 pois
 poissa
 portaittain
+pro
 rikki
 saakka
 seassa
@@ -113,6 +126,7 @@ vastaan
 vielä
 vihdoin
 viikoittain
+viimein
 vuoksi
 yhä
 yhdessä
