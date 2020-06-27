@@ -1,3 +1,4 @@
+eräs
 hän
 he
 joka
@@ -9,6 +10,7 @@ kukaan
 kumpi
 me
 mikä
+mikään
 minä
 muu
 nämä

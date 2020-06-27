@@ -1,3 +1,6 @@
 ei
 ellei
 ettei
+miksei
+muttei
+vaikkei
