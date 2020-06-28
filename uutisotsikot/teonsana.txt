@@ -1,6 +1,7 @@
 äänestää
 ahdistaa
 ahdistella
+ahnehtia
 ahtaa
 aiheuttaa
 aiheutua
@@ -15,12 +16,15 @@ ajatella
 ajautua
 ajella
 ajoneuvokokoontua
+älähtää
 alentaa
 aliarvioida
 alistaa
 alittaa
+alivakuuttaa
 alkaa
 allekirjoittaa
+aloitella
 aloittaa
 alustaa
 älytä
@@ -30,11 +34,14 @@ animoitua
 anoa
 ansaita
 antaa
+antautua
 ärähtää
+arkipäiväistää
 arpoa
 ärsyttää
 ärsyyntyä
 arvata
+arvella
 arveluttaa
 arvioida
 arvostaa
@@ -76,10 +83,12 @@ ennakoida
 ennakoitua
 ennaltaehkäistä
 ennustaa
+ensikohdata
 enteillä
 entistää
 epäillä
 epäonnistua
+erikoistaa
 eristää
 erota
 erottaa
@@ -109,7 +118,9 @@ hakkeroida
 haksahtaa
 halailla
 halata
+hallita
 haluta
+halvaantua
 halveksia
 hälyttää
 hämätä
@@ -142,6 +153,7 @@ hehkuttaa
 heikentää
 heikentyä
 heiketä
+heilahtaa
 heilauttaa
 heilua
 heilutella
@@ -159,6 +171,7 @@ henkilöityä
 herätä
 herättää
 herkutella
+hermostua
 herutella
 hidastaa
 hieraista
@@ -175,8 +188,10 @@ hoikistua
 hoitaa
 höllentää
 hölmöillä
+hortoilla
 houkutella
 huhuta
+huidella
 huijata
 huilata
 huipentua
@@ -198,8 +213,10 @@ huveta
 huvittaa
 hylätä
 hyljätä
+hymyillä
 hyödyntää
 hyökätä
+hyökyä
 hyötyä
 hypätä
 hyväksikäyttää
@@ -237,6 +254,7 @@ irvailla
 iskeä
 iskeytyä
 isota
+istahtaa
 istua
 istuskella
 IT-johtaa
@@ -266,6 +284,7 @@ johdattaa
 johtaa
 johtua
 jonottaa
+joustaa
 joutua
 juhlia
 juhlistaa
@@ -292,6 +311,8 @@ kaataa
 kaatua
 kaavailla
 kadota
+kadottaa
+kahmaista
 kähmiä
 kaihtaa
 kaivaa
@@ -315,6 +336,7 @@ kärsiä
 kartoittaa
 käsitellä
 käskeä
+käskyttää
 kastella
 kasvaa
 kasvattaa
@@ -348,6 +370,7 @@ kelata
 kellua
 kelpuuttaa
 kelvata
+kerääntyä
 kerätä
 keretä
 kertoa
@@ -361,6 +384,7 @@ kestää
 keventää
 kevetä
 kiduttaa
+kiehtoa
 kieltää
 kieltäytyä
 kiepauttaa
@@ -400,6 +424,9 @@ kohdata
 kohdella
 kohdentua
 kohdistaa
+kohdistua
+kohentaa
+koheta
 kohota
 kohottaa
 koittaa
@@ -432,6 +459,7 @@ köyhtyä
 kritisoida
 kritisoitua
 kruunata
+kuherrella
 kuitata
 kuivaa
 kukistaa
@@ -444,6 +472,7 @@ kummastella
 kumota
 kunnioittaa
 kunnostautua
+kuohahtaa
 kuohua
 kuohuttaa
 kuolettaa
@@ -473,6 +502,7 @@ kypsyttää
 kyseenalaistaa
 kysyä
 kyteä
+kytkeytyä
 kyynelehtiä
 laajentaa
 laajeta
@@ -544,6 +574,7 @@ löytyä
 luikerrella
 luisua
 lukea
+lukeutua
 lukita
 luoda
 luodata
@@ -567,6 +598,7 @@ mahdollistua
 mahtua
 mainostaa
 maistaa
+maistella
 maistua
 majoittaa
 makoilla
@@ -581,13 +613,16 @@ massavangita
 matkustaa
 mättää
 meinata
+meloa
 menehtyä
 menettää
 mennä
 merkitä
+metsästää
 metsittää
 miekkailla
 miettiä
+militarisoida
 mitata
 mobiilimaksaa
 moittia
@@ -596,6 +631,7 @@ motivoida
 muhia
 muistaa
 muistella
+muistua
 muistuttaa
 mullistaa
 muokata
@@ -619,6 +655,7 @@ nähdä
 naida
 näkyä
 napata
+näpäyttää
 naputella
 narahtaa
 nauraa
@@ -638,6 +675,7 @@ nilkuttaa
 nimetä
 nimittää
 nojata
+nolata
 nollata
 nolottaa
 nopeuttaa
@@ -720,6 +758,7 @@ parantaa
 parantua
 pärjätä
 parkkeerata
+parveilla
 passittaa
 päteä
 patikoida
@@ -744,6 +783,7 @@ perustella
 perustua
 peruuntua
 peruuttaa
+pesiä
 pestä
 pestata
 pettää
@@ -766,6 +806,7 @@ piinata
 piipahtaa
 piitata
 pilata
+pilkkoa
 pimittää
 pinkoa
 pinnata
@@ -784,6 +825,7 @@ poistua
 polkea
 poltella
 polttaa
+pompata
 pomppia
 ponnahtaa
 poseerata
@@ -810,6 +852,8 @@ puolata
 puolittua
 puoltaa
 puolustaa
+puolustautua
+puristaa
 purkaa
 purkautua
 purskahtaa
@@ -824,12 +868,14 @@ pyörittää
 pyörtää
 pyrkiä
 pysähtyä
+pysäköityä
 pysäyttää
 pystyä
 pystyttää
 pysyä
 pysytellä
 pyydellä
+pyyhältää
 pyyhkäistä
 pyyhkiä
 pyytää
@@ -839,6 +885,7 @@ rahoittaa
 raikastaa
 raiskata
 räiskyä
+raitistua
 raivostua
 räjähtää
 rajata
@@ -852,6 +899,7 @@ rantautua
 raottua
 rapistua
 raportoida
+raskia
 rasvata
 ratista
 ratkaista
@@ -863,11 +911,15 @@ ravistella
 reagoida
 rekisteröidä
 rekrytoida
+rentouttaa
+rentoutua
 repäistä
 repiä
 retkeillä
 revetä
+riehaantua
 riehua
+riemastua
 riemuita
 rientää
 riepotella
@@ -887,6 +939,7 @@ rohkaista
 roihahtaa
 roihuta
 roikkua
+rökittää
 romahtaa
 roskata
 runnella
@@ -897,6 +950,7 @@ ruotsalaistaa
 ruuhkauttaa
 ruuhkautua
 ryhtyä
+rynniä
 rynnistää
 ryöpsähtää
 ryöpytä
@@ -905,6 +959,7 @@ ryöstää
 ryövätä
 rysähtää
 rysäyttää
+rytistä
 ryydittää
 saada
 saapua
@@ -915,13 +970,16 @@ säätää
 saattaa
 saavuttaa
 sadella
+sähköistää
 säikähtää
 säikäyttää
+säilöä
 säilyä
 säilyttää
 sairastaa
 sairastua
 sairastuttaa
+sakottaa
 salakuljettaa
 salamoida
 sallia
@@ -929,12 +987,14 @@ samastaa
 sammua
 sammuttaa
 sanoa
+särkeä
 sataa
 säteillä
 satsata
 sattua
 sauhuta
 säväyttää
+savuta
 seikkailla
 seilata
 seisoa
@@ -959,11 +1019,13 @@ sijata
 sijoittua
 silpoa
 sinetöidä
+sinetöityä
 sinnitellä
 sisältää
 sitoutua
 siunata
 sivaltaa
+sivuta
 sivuuttaa
 skeitata
 soitella
@@ -974,6 +1036,7 @@ sopeuttaa
 sopia
 sortua
 sorvata
+sotia
 sotkea
 sotkeutua
 soveltua
@@ -995,12 +1058,14 @@ suoda
 suojata
 suojautua
 suojella
+suolata
 suomalaistaa
 suomia
 suorittaa
 suosia
 suositella
 suostua
+supistaa
 supistua
 surra
 survoa
@@ -1028,6 +1093,7 @@ syventää
 syvetä
 syyllistyä
 syyttää
+taantua
 tähdätä
 tähdittää
 tahkota
@@ -1061,8 +1127,10 @@ tarkoittaa
 tarttua
 tarvita
 tasapainottaa
+tasoittaa
 tavata
 tavoitella
+täydentää
 täydentyä
 täyttää
 täyttyä
@@ -1101,6 +1169,7 @@ toistaa
 toistella
 toivoa
 toivottaa
+toljottaa
 toppuutella
 torjua
 törmätä
@@ -1115,6 +1184,7 @@ tukea
 tukehtua
 tukistaa
 tukistella
+tukkia
 tulistua
 tulla
 tunaroida
@@ -1157,6 +1227,8 @@ uhota
 uhrata
 uida
 uiskennella
+ukkostaa
+ulkoiluttaa
 ulottua
 unelmoida
 unohtaa
@@ -1168,6 +1240,7 @@ uskaltaa
 uskoa
 uudistaa
 uudistua
+uupua
 uusia
 vaania
 vääntää
@@ -1180,12 +1253,14 @@ vähentyä
 vähetä
 vahvistaa
 vahvistua
+vaientaa
 vaieta
 vaihtaa
 vaihtua
 vaikeuttaa
 vaikuttaa
 vaikuttua
+vaimentaa
 vaimeta
 vainota
 väistyä
@@ -1209,6 +1284,8 @@ valkaista
 vallata
 valloittaa
 valmentaa
+valmistaa
+valmistautua
 valmistella
 valmistua
 valottaa
@@ -1250,6 +1327,7 @@ vetäytyä
 videoitua
 viedä
 vierailla
+vieriä
 viestiä
 vietellä
 viettää
@@ -1259,6 +1337,7 @@ vihtoa
 viihdyttää
 viihtyä
 viilentää
+viilentyä
 viiletä
 viilettää
 viimeistellä
@@ -1290,6 +1369,7 @@ yksilöityä
 yksipuolistua
 yksityistää
 yleistää
+ylettyä
 ylistää
 ylittää
 ylittyä

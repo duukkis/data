@@ -4,6 +4,7 @@ Aapo
 Aarni
 Aaro
 Aatto
+Aatu
 Abraham
 Adele
 Ahti
@@ -34,6 +35,7 @@ Anja
 Anna
 Anna-Maija
 Anne
+Anneli
 Anniina
 Annika
 Anselmi
@@ -69,10 +71,12 @@ David
 Diana
 Donald
 Douglas
+Eddie
 Eerikki
 Eero
 Eetu
 Elena
+Elias
 Elina
 Elisa
 Elisabet
@@ -108,8 +112,10 @@ Heljä
 Helli
 Henri
 Henry
+Herman
 Ida
 Iida
+Iina
 Ilkka
 Ilma
 Ilmari
@@ -126,6 +132,7 @@ Jacques
 Jake
 James
 Janette
+Jani
 Jan-Mikael
 Janne
 Jannika
@@ -144,6 +151,8 @@ Joel
 Johanna
 John
 Jon
+Joni
+Jonna
 Jonne
 Jorma
 Jouni
@@ -167,6 +176,7 @@ Kasperi
 Katariina
 Katja
 Katri
+Kauko
 Keke
 Kenneth
 Kev
@@ -179,6 +189,7 @@ Lasse
 Lassi
 Laura
 Lauri
+Leevi
 Leo
 Leonardo
 Liisa
@@ -206,6 +217,7 @@ Markus
 Martina
 Martti
 Matti
+Maunu
 Mauri
 Max
 Mel
@@ -213,7 +225,10 @@ Melissa
 Mette
 Mia
 Michael
+Michel
 Michelle
+Miia
+Miika
 Mika
 Mikael
 Mike
@@ -228,7 +243,9 @@ Mona
 Morris
 Nanna
 Napoleon
+Netta
 Nico
+Niilo
 Niina
 Niklas
 Niko
@@ -252,14 +269,17 @@ Paul
 Paula
 Pekka
 Perry
+Pertti
 Peter
 Petra
 Petteri
 Philippe
 Pia
 Pirjo
+Pirjo-Leena
 Raimo
 Raisa
+Rami
 Rauha
 Reetta
 Regina
@@ -272,6 +292,7 @@ Robert
 Robin
 Roope
 Roosa
+Rose
 Ruth
 Saara
 Saga
@@ -287,6 +308,7 @@ Sasu
 Sauli
 Sebastian
 Selma
+Senni
 Seppo
 Sergei
 Siiri
@@ -312,6 +334,8 @@ Tea
 Teemu
 Teppo
 Tero
+Terry
+Thomas
 Tiia
 Tiina
 Tilda
@@ -328,6 +352,7 @@ Tove
 Tuija
 Tuomas
 Tuomo
+Turkka
 Tuukka
 Tuula
 Unelma
@@ -337,8 +362,10 @@ Uuno
 Valtteri
 Veikko
 Veronica
+Victor
 Viljo
 Ville
+Vilma
 Vladimir
 Will
 William

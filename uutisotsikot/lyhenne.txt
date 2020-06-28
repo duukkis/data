@@ -1,7 +1,10 @@
 €
+a
 ABC
+b
 bar
 BBC
+c
 CD
 DNA
 EK
@@ -13,9 +16,11 @@ MM
 MTK
 MTV
 NHL
+OK
 oy
 PC
 PS
+q
 ry
 SAK
 SDP
@@ -23,6 +28,8 @@ sote
 STT
 TV
 USA
+v
 WHO
 WTO
+x
 YK

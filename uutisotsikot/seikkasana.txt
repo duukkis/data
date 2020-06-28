@@ -40,6 +40,7 @@ hereillä
 heti
 hieman
 hiljaa
+hiljalleen
 hukassa
 huomenna
 hyvin
@@ -77,8 +78,10 @@ kymmenittäin
 kyse
 lähellä
 lähes
+lähestulkoon
 lähettyvillä
 liki
+lopen
 luokse
 melkein
 meneillä
@@ -133,10 +136,12 @@ pro
 rikki
 roppakaupalla
 saakka
+salaa
 samoin
 seassa
 selvillä
 siellä
+siis
 siksi
 silloin
 silti
@@ -163,6 +168,7 @@ uudestaan
 vähitellen
 vailla
 vain
+vaiti
 väkisin
 valtoimena
 vasta
