@@ -19,6 +19,7 @@ Asimov
 Asukas
 Autio
 Autto
+Bach
 Backman
 Bauer
 Berg
@@ -153,7 +154,6 @@ Kovanen
 Kraemer
 Kuikka
 Kunnas
-kuorma-Autto
 Kuparinen
 Kurki
 Kuronen

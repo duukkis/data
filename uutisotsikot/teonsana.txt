@@ -16,6 +16,7 @@ ajatella
 ajautua
 ajella
 ajoneuvokokoontua
+aktivoitua
 älähtää
 alentaa
 aliarvioida
@@ -380,6 +381,7 @@ kannustaa
 kantaa
 kärähtää
 karata
+karistaa
 kariutua
 kärjistyä
 karkottaa
@@ -613,6 +615,7 @@ lämmetä
 lanseerata
 laskea
 laskeutua
+lässähtää
 lässyttää
 latoa
 laueta
@@ -923,6 +926,7 @@ pestä
 pestata
 pettää
 pettyä
+pidätellä
 pidättää
 pidättäytyä
 pidellä
@@ -951,6 +955,7 @@ pinkoa
 pinnata
 pinnistää
 piristää
+piristyä
 pissata
 pistää
 pitää

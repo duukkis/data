@@ -432,6 +432,7 @@ inhottava
 inkoolainen
 innovatiivinen
 intensiivinen
+interaktiivinen
 intiimi
 intohimoinen
 irvaileva
@@ -483,6 +484,7 @@ järkyttynyt
 järvinen
 jätetty
 jatkava
+jatkettu
 jatkunut
 jatkuva
 jättänyt
@@ -722,6 +724,7 @@ kokkolalainen
 kokoaikainen
 kokoinen
 kokoontuva
+kolisuteltu
 kolkutteleva
 kolmekymppinen
 kolmimetrinen
@@ -741,6 +744,7 @@ korni
 koronakaranteeninen
 koronakatastrofinen
 koronakriisinen
+koronakuuluminen
 koronalin
 koronapositiivinen
 korostava
@@ -960,6 +964,7 @@ luultu
 luumäkeläinen
 luvannut
 luvaton
+luvattu
 lyhyt
 lykännyt
 lyönyt
@@ -1175,6 +1180,7 @@ oleillut
 olematon
 oleva
 ollut
+oloinen
 oltava
 oltu
 oluenhuuruinen
@@ -1637,6 +1643,7 @@ strateginen
 stressaantunut
 suhteeton
 suhteutettu
+suitsuttu
 sujuva
 sulava
 suljettu
@@ -1706,6 +1713,7 @@ taivaallinen
 tajunnut
 takaava
 takainen
+takavarikoinut
 takavetoinen
 takonut
 taktinen
@@ -1923,6 +1931,7 @@ urhea
 usea
 uskaltanut
 uskomaton
+uskonnollinen
 uskottava
 uskova
 uudelleenkatsottu
@@ -2078,7 +2087,9 @@ viettelevä
 vievä
 vihainen
 vihattu
+viheliäinen
 vihjaileva
+vihollisleirinen
 viihdyttävä
 viikoittainen
 viileä
@@ -2131,6 +2142,7 @@ yksimielinen
 yksinäinen
 yksinkertainen
 yksipuolinen
+yksipyöräinen
 yksiselitteinen
 yksittäinen
 yksityinen

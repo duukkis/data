@@ -152,6 +152,7 @@ pois
 poissa
 portaittain
 pro
+puhelin
 rikki
 roppakaupalla
 saakka
