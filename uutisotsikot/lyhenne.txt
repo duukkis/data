@@ -1,17 +1,16 @@
 €
-a
 ABC
-b
 bar
 BBC
-c
 CD
+CNN
 DNA
 EK
 EU
 FBI
 IMF
 klo
+kuu-WC
 MM
 MTK
 MTV
@@ -20,7 +19,6 @@ OK
 oy
 PC
 PS
-q
 ry
 SAK
 SDP
@@ -28,8 +26,7 @@ sote
 STT
 TV
 USA
-v
+VR
 WHO
 WTO
-x
 YK

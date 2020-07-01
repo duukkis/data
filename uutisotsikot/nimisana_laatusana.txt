@@ -3,8 +3,10 @@ aikuinen
 äimä
 ainoa
 aituri
+äkkisyvä
 akuutti
 apea
+arkkivihollinen
 avojalo
 brittiläinen
 demokraatti
@@ -14,8 +16,10 @@ ekstra
 eläkeläinen
 entinen
 epäpyhä
+epätodennäköinen
 epävarma
 erityinen
+erityistiukka
 hämärä
 hassu
 hauska
@@ -36,6 +40,7 @@ iso
 jenkkiläinen
 juoni
 juutalainen
+jyrkkä
 kalju
 kamala
 kauhea
@@ -47,6 +52,7 @@ kiire
 kilpailuviranomainen
 kiltti
 kipeä
+kolea
 komea
 korkea
 korkuinen
@@ -54,6 +60,7 @@ kova
 köyhä
 kuiva
 kulovalkea
+kulta
 kuuma
 kuuro
 kylmä
@@ -64,9 +71,13 @@ latinalainen
 liberaali
 liika
 löysä
+luisu
+maanläheinen
 mainio
+makea
 märkä
 matala
+MM-kulta
 mobiili
 mukainen
 musta
@@ -81,6 +92,7 @@ nykyinen
 nykyisenkaltainen
 oikea
 oikeudenmukainen
+ökyrikas
 oma
 omainen
 orpo
@@ -90,11 +102,13 @@ paljo
 parka
 pehmo
 perussuomalainen
+pika-aituri
 pikkuinen
 pilkkopimeä
 pimeä
 pitkä
 pohjoinen
+pohjois-korea
 poliittinen
 puhdas
 pyhä
@@ -103,6 +117,7 @@ radikaali
 rakas
 rietas
 rikas
+rikollinen
 rohkea
 ruma
 ruotsalainen
@@ -110,6 +125,7 @@ saamelaisnuori
 sairas
 sellainen
 silkka
+sisäpiiriläinen
 sisäpoliittinen
 slaavilainen
 SM-kulta
@@ -127,6 +143,7 @@ tavanomainen
 täyspitkä
 terve
 tiukka
+todennäköinen
 törkeä
 tosi
 tuollainen
@@ -134,11 +151,13 @@ tupla
 turha
 tuttu
 tyhjä
+tyhmä
 ulkomaalainen
 ummikko
 utelias
 uusiseelantilainen
 uutissuomalainen
+uutukainen
 väärä
 vähä
 vajaa
@@ -146,6 +165,7 @@ väkevä
 valio
 väljä
 valkea
+valkomusta
 vanha
 vapaa
 varma
@@ -153,6 +173,7 @@ varsinaissuomalainen
 vasen
 vekkuli
 venäläinen
+venäläisviranomainen
 ventovieras
 vieras
 vietto
