@@ -405,6 +405,7 @@ avaruusseikkailu
 avaruusturismiyritys
 avaruusvessa
 avaus
+avaushinta
 avausjakso
 avauskierros
 avauskilpailu
@@ -412,6 +413,7 @@ avauskisa
 avauskokoonpano
 avauslaji
 avausmaali
+avauspäivä
 avenue
 avioehto
 avioero
@@ -613,6 +615,7 @@ ehdotus
 ehto
 Eiffel-torni
 eilisilta
+Eiranrannan-ökyasunto
 ekonomi
 ekonomisti
 eksoplaneetta
@@ -641,6 +644,7 @@ elämänviisaus
 elämänvyöhyke
 elämys
 elämysbisnes
+elämyskeskus
 ele
 Elina-vuohi
 elinikä
@@ -795,6 +799,7 @@ erotuomari
 erouutinen
 esiintyjä
 esiintymä
+esiintymiskoulutus
 esiintymislapa
 esiintymisvalmennus
 esikko
@@ -853,6 +858,7 @@ etulyöntiasemassa
 etumatka
 etuohjelma
 etuovi
+etuturvavyö
 etuus
 EU
 EU-asia
@@ -1178,6 +1184,7 @@ herkkupala
 hermo
 herra
 Herttoniemenranta
+herttua
 herttuatar
 herutuskuva
 heteropari
@@ -1457,6 +1464,7 @@ hyväksyntä
 hyväntahtoisuus
 hyväntekeväisyys
 hyväntekeväisyysjärjestö
+hyväntekeväisyyspyöräily
 hyvästi
 hyvinvointi
 hyvinvointivalmennus
@@ -2262,6 +2270,7 @@ käyttötarkoitus
 k-citymarketti
 kebab
 kehä
+kehärata
 kehittäjä
 kehittämä
 kehitys
@@ -2383,6 +2392,7 @@ keskikesä
 keskinopeus
 keskiö
 keskipohjalaismies
+keskipohjalaki
 keskiryhmä
 keskisarja
 keskivertohinta
@@ -2927,6 +2937,7 @@ kulta-aika
 kultainennoutaja
 kultakaivos
 kultakausi
+kultakimpale
 kultaleijona
 kulttipelaaja
 kulttipeli
@@ -3202,6 +3213,7 @@ lämpömassa
 lämpöpumppu
 lämpötila
 lämpötilaennätys
+lanka
 länkkäri
 länkkärimaisema
 länsi
@@ -3465,6 +3477,7 @@ lobotomia
 logo
 logoäänestys
 lohikala
+lohikunta
 lohirysä
 lohko
 löhöilijä
@@ -3553,6 +3566,7 @@ luokitus
 luokka
 luokkaretki
 luola
+luomus
 luomutuotanto
 luonnonilmiö
 luonnonlaki
@@ -3670,6 +3684,7 @@ maanviljelijä
 maapallo
 määrä
 maarakennusala
+määräraha
 määräys
 maaseutu
 maastaveto
@@ -4234,6 +4249,7 @@ nakki
 näkö
 näkökulma
 näkökyky
+näköpiiri
 nakumissi
 näky
 näkymä
@@ -4779,6 +4795,7 @@ päiväkeskus
 päiväkirjamerkintä
 päiväkoti
 päiväkotimatka
+päiväkotipaikka
 päiväluku
 päivämäärä
 päivänvalo
@@ -5333,6 +5350,7 @@ protestikielto
 protestisääntö
 provinssi
 PS-nainen
+psykologi
 psykoosi
 psykopaatti
 pubi
@@ -5607,6 +5625,7 @@ rasisti
 raskassarja
 raskaus
 raskaushuhu
+rästi
 rastipäivä
 rata
 ratakausi
@@ -5658,6 +5677,7 @@ remmi
 remonttifirma
 remu
 Renault-pomo
+Renault-talli
 rengas
 rengastus
 rentoutumiskeino
@@ -5945,6 +5965,7 @@ salovaara
 sama
 sammakko
 sammalmaa
+sammutin
 sammuttaja
 sammutus
 sammutusryhmä
@@ -6096,6 +6117,7 @@ selostaja
 selvittely
 selvitys
 selvityshenkilö
+selvitystila
 selvitystyö
 selviytymiskeino
 selvyys
@@ -6254,6 +6276,7 @@ sitoutumisongelma
 sitra
 siunaus
 sivellin
+siveyssääntö
 siviiliauto
 sivistysjohtaja
 sivu
@@ -6523,6 +6546,7 @@ supertähti
 supertietokone
 supertuote
 supertupo
+superviikonloppu
 supikoira
 surffaaja
 surffari
@@ -7022,6 +7046,7 @@ tietojärjestelmä
 tietokone
 tietokonejätti
 tietolähde
+tietomaa
 tietosi
 tietoturvaguru
 tietoturvapuhelin
@@ -7317,6 +7342,7 @@ turvallisuus
 turvallisuusjoukko
 turvallisuuslaki
 turvallisuuspuoli
+turvallisuusriski
 turvallisuustoimi
 turvallisuusuhka
 turvamies
@@ -7623,6 +7649,7 @@ vaihtohybridi
 vaihtokärki
 vaihtokauppa
 vaihtoruljanssi
+vaijeripyörä
 vaikeus
 vaikute
 vaikuttaja
@@ -7633,6 +7660,7 @@ vainio
 väite
 väittelijä
 vaiva
+vakautusohjelma
 vakavuus
 väki
 väkijoukko
@@ -7809,6 +7837,7 @@ varkaus
 varmistuma
 varmuus
 varoitus
+varoituskyltti
 varoitusmerkintä
 varomattomuus
 varpu
@@ -7881,6 +7910,7 @@ vehje
 veikkausliiga
 veikkausliigakatsomo
 veikkausliigakausi
+veikkausliigaottelu
 veikkausliiga-podcast
 veikkausliigaseura
 veisto
@@ -7888,6 +7918,7 @@ veistos
 veitsi
 veitsi-isku
 veitsiluoto
+velanhoito
 velho
 veli
 velipoika
@@ -7956,6 +7987,7 @@ vesiharrastus
 vesijohtotyö
 vesikulkuväline
 vesiliikenne
+vesiliikennelaki
 vesilintu
 vesimyyrä
 vesinäyte
@@ -8162,6 +8194,7 @@ vuokrahelpotus
 vuokralainen
 vuokramökkihuijaus
 vuokranantaja
+vuokrarästi
 vuokraus
 vuokrausbisnes
 vuori

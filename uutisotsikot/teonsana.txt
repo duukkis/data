@@ -276,6 +276,7 @@ ilahduttaa
 iljetä
 ilkkua
 ilmaista
+ilmentyä
 ilmestyä
 ilmiantaa
 ilmoittaa
@@ -742,6 +743,7 @@ muistella
 muistua
 muistuttaa
 mullistaa
+mullistua
 muokata
 muovata
 muovautua
@@ -1471,6 +1473,7 @@ uudistaa
 uudistua
 uupua
 uusia
+uutisoida
 vaania
 vääntää
 vääntyä

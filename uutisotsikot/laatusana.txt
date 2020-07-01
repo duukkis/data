@@ -435,6 +435,7 @@ intensiivinen
 interaktiivinen
 intiimi
 intohimoinen
+irtaantunut
 irvaileva
 irvokas
 isännöivä
@@ -1269,6 +1270,7 @@ palkattu
 palkittu
 pallollinen
 panostettava
+panostettu
 pantattu
 paranneltu
 parantanut
@@ -1282,6 +1284,7 @@ passiivinen
 pätevä
 pehmentänyt
 peittänyt
+pelaava
 pelannut
 pelännyt
 pelastanut
@@ -2097,6 +2100,7 @@ viilenevä
 viime
 viimeinen
 viinanhuuruinen
+viisikielinen
 viisikymppinen
 viisinkertainen
 viisinkertaistunut
