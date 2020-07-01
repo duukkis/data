@@ -9,5 +9,3 @@ for file in data/uutisotsikot/*.txt; do
     sort -u -o  "$file" "$file"
 done
 
-# remove number lines from lukusana
-sed -i '/^[[:digit:]]*$/d' data/uutisotsikot/lukusana.txt
