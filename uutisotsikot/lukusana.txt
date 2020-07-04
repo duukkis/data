@@ -1,3 +1,4 @@
+-050
 aamukahdeksan
 ensimmäinen
 II
@@ -12,6 +13,7 @@ kaksisataa
 kolmas
 kolme
 kolmekymmentä
+kolmesataa
 kolmetoista
 kolmisen
 kolmisenkymmentä
@@ -30,6 +32,7 @@ satatuhatta
 seitsemän
 seitsemäs
 toinen
+tuhannes
 tuhat
 viides
 viisi

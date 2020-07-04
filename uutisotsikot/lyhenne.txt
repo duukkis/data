@@ -8,8 +8,10 @@ DNA
 EK
 EU
 FBI
+Hz
 IMF
 klo
+km
 kuu-WC
 MM
 MTK
@@ -19,6 +21,7 @@ OK
 oy
 PC
 PS
+RKP
 ry
 SAK
 SDP

@@ -5,6 +5,7 @@ ainoa
 aituri
 äkkisyvä
 akuutti
+a-nuori
 apea
 arkkivihollinen
 avojalo
@@ -16,11 +17,15 @@ ekstra
 eläkeläinen
 entinen
 epäpyhä
+epäsuomalainen
 epätodennäköinen
 epävarma
 erityinen
 erityistiukka
+EU-kilpailuviranomainen
+haikea
 hämärä
+harmaa
 hassu
 hauska
 helle
@@ -28,11 +33,13 @@ hirmu
 hirmuhelle
 hölmö
 hölmöläinen
+hömppä
 huippuaituri
 hullu
 humalainen
 huono
 ikävä
+ikinuori
 ikioma
 ilmainen
 inkeriläinen
@@ -43,6 +50,7 @@ juutalainen
 jyrkkä
 kalju
 kamala
+karkulainen
 kauhea
 kaupunkilainen
 käyrä
@@ -65,6 +73,7 @@ kuuma
 kuuro
 kylmä
 läheinen
+lahtelainen
 lainen
 lämmin
 latinalainen
@@ -72,6 +81,7 @@ liberaali
 liika
 löysä
 luisu
+lyhytnäköinen
 maanläheinen
 mainio
 makea
@@ -80,9 +90,11 @@ matala
 MM-kulta
 mobiili
 mukainen
+mukava
 musta
 näköinen
 naku
+nami
 niukka
 norja
 normaali
@@ -99,6 +111,7 @@ orpo
 outo
 paha
 paljo
+paranormaali
 parka
 pehmo
 perussuomalainen
@@ -123,7 +136,9 @@ ruma
 ruotsalainen
 saamelaisnuori
 sairas
+sekava
 sellainen
+semmoinen
 silkka
 sisäpiiriläinen
 sisäpoliittinen
@@ -146,9 +161,11 @@ tiukka
 todennäköinen
 törkeä
 tosi
+tulokas
 tuollainen
 tupla
 turha
+tuttava
 tuttu
 tyhjä
 tyhmä
@@ -185,4 +202,5 @@ villi
 violetti
 viranomainen
 vissi
+yhteensopiva
 ylisuuri

@@ -27,6 +27,7 @@ enintään
 eniten
 ennallaan
 ennen
+ennestään
 ensi
 ensin
 entä
@@ -41,6 +42,7 @@ hallussa
 hämillä
 harvassa
 helvetti
+hengissä
 hereillä
 heti
 hieman
@@ -50,6 +52,7 @@ hissun
 hukassa
 huomenna
 hyväksi
+hyvänen
 hyvin
 ihan
 ikinä
@@ -69,10 +72,12 @@ karku
 kateissa
 kauan
 kauas
+kauttaalta
 kertaalleen
 keskellä
 kesken
 keskenään
+keskimäärin
 kiinni
 kilpasilla
 kissun
@@ -85,6 +90,7 @@ kumminkin
 kumossa
 kuoliaaksi
 kuten
+kuulemma
 kyllä
 kyllin
 kymmenittäin
@@ -95,6 +101,7 @@ lähestulkoon
 lähettyvillä
 lainkaan
 liki
+liossa
 loitolla
 lopen
 luo
@@ -118,8 +125,10 @@ myös
 myötä
 myöten
 näet
+nähden
 näin
 näkemiin
+näköjään
 niin
 no
 noin
@@ -157,8 +166,10 @@ rikki
 roppakaupalla
 saakka
 salaa
+sammuksissa
 samoin
 seassa
+selin
 selvillä
 siellä
 siis
@@ -173,6 +184,7 @@ täällä
 taas
 tahallaan
 tahansa
+takaapäin
 takana
 takia
 tallessa
@@ -211,6 +223,7 @@ viikoittain
 viimein
 viimeksi
 vuoksi
+vuosittain
 yhä
 yhdessä
 yhtä
@@ -220,8 +233,11 @@ yhteensä
 yhtenä
 yksin
 yksinään
+yleensä
 ylen
 yllä
 ylös
+ylöspäin
+ymmällä
 ympäri
 ympärillä

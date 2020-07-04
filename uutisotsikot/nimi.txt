@@ -32,14 +32,17 @@ Joma
 Jupiter
 Kaleva
 Kemira
+keski-Maa
 Koraani
 Lada
 Lidl
 Linux
 Lost
 Marimekko
+Mersu
 Microsoft
 Musti
+Nato
 Netflix
 Nintendo
 Oscar
@@ -55,6 +58,7 @@ Schengen-Maa
 Sony
 Stuka
 Tehy
+Tokmanni
 Toyota
 Twitter
 Valmet
@@ -62,6 +66,7 @@ van
 Venus
 Volkswagen
 Volvo
+Wärtsilä
 WhatsApp
 Windows
 Yle

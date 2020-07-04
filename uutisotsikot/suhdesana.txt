@@ -4,6 +4,7 @@ huolimatta
 kanssa
 kera
 keskuudessa
+kohden
 kohti
 ohi
 varten
