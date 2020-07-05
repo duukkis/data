@@ -32,6 +32,7 @@ ensi
 ensin
 entä
 entisellään
+entuudelta
 erillään
 erittäin
 esillä
@@ -81,6 +82,7 @@ keskimäärin
 kiinni
 kilpasilla
 kissun
+kohme
 kohta
 koskaan
 kotosalla
@@ -100,6 +102,7 @@ lähes
 lähestulkoon
 lähettyvillä
 lainkaan
+läsnä
 liki
 liossa
 loitolla
@@ -150,12 +153,14 @@ päinvastoin
 paitsi
 päiväsaikaan
 päivittäin
+pälkähästä
 parhaiten
 parissa
 pelkästään
 peräti
 perillä
 piakkoin
+pitkälti
 poikki
 pois
 poissa
@@ -184,6 +189,7 @@ täällä
 taas
 tahallaan
 tahansa
+tainnoksissa
 takaapäin
 takana
 takia

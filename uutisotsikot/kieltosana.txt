@@ -1,6 +1,7 @@
 ei
 ellei
 ettei
+koskei
 miksei
 muttei
 vaikkei

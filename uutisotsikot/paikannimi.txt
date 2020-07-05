@@ -41,6 +41,7 @@ Brasilia
 Bremen
 Britannia
 Broadway
+Bryssel
 Cambridge
 Carolina
 Chicago
@@ -60,6 +61,7 @@ Enso
 Espanja
 Espoo
 Etelä-Afrikka
+Etelä-Carolina
 Etelä-Intia
 Etelä-Karjala
 Etelä-Korea
@@ -76,8 +78,10 @@ Forssa
 Francisco
 Geneve
 Getsemane
+Ghana
 Glasgow
 Göteborg
+Gotlanti
 Grönlanti
 Halsua
 Häme
@@ -99,12 +103,14 @@ Hyvinkää
 Ii
 Iisalmi
 Iittala
+Ilomantsi
 Imatra
 Impivaara
 Inari
 Indiana
 Indonesia
 Inkeri
+Inkoo
 Intia
 Iowa
 Irak
@@ -123,6 +129,7 @@ Itä-Suomi
 Itä-Uusimaa
 Itävalta
 Jämsä
+Janakkala
 Japani
 Järvenpää
 Jemen
@@ -152,6 +159,8 @@ Karjala
 Karkkila
 Kärkölä
 Kärsämäki
+Kaskinen
+Katalonia
 Kauhajoki
 Kauniainen
 Kaustinen
@@ -218,6 +227,7 @@ Lapua
 Lempäälä
 Leppilampi
 Levi
+Libanon
 Libya
 Lieksa
 Lieto
@@ -249,6 +259,7 @@ Mari
 Marokko
 Mars
 Meksiko
+Melbourne
 Meri-Lappi
 mestari-Liverpool
 Metsälä
@@ -290,6 +301,7 @@ Nousiainen
 Nubia
 Nummela
 Nurmes
+Nürnberg
 Nuuksio
 Ohio
 Olari
@@ -347,6 +359,7 @@ Raisio
 Ranska
 Rapala
 Rauma
+Rautavaara
 Riihimäki
 Riika
 Ristijärvi
@@ -380,6 +393,7 @@ Seinäjoki
 Serbia
 Sevilla
 Shanghai
+Sidney
 Siikajoki
 Siikalatva
 Siilinjärvi
@@ -426,6 +440,7 @@ Toulouse
 Tshekki
 Tukholma
 Tula
+Turenki
 Turkki
 Turku
 Tuusniemi
@@ -450,6 +465,7 @@ varsinais-Suomi
 Venezuela
 Vihanti
 Viikki
+Viipuri
 Vimpeli
 Virginia
 virtuaali-Cannes
@@ -466,3 +482,4 @@ Ylöjärvi
 York
 Yyteri
 Zimbabwe
+Zürich

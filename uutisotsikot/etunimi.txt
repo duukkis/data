@@ -5,6 +5,7 @@ Aarni
 Aaro
 Aatto
 Aatu
+Abel
 Abraham
 Adam
 Adele
@@ -69,6 +70,7 @@ Arttu
 Arvi
 Atte
 August
+Aulis
 Ben
 Benito
 Benjam
@@ -98,6 +100,7 @@ Eddie
 Eerikki
 Eero
 Eetu
+Eevi
 Eini
 Eino
 Ekaterina
@@ -115,6 +118,8 @@ Emil
 Emilia
 Emily
 Emma
+Emmi-Lydia
+Eppu
 Erik
 Erika
 Erin
@@ -122,6 +127,7 @@ Erja
 Erkki
 Esa
 Esko
+Esko-Juha
 Essi
 Eva
 Eveliina
@@ -146,10 +152,12 @@ Henriikka
 Henrik
 Henry
 Herman
+Hermanni
 Ida
 Iida
 Iina
 Iivo
+Ilja
 Ilkka
 Ilma
 Ilmari
@@ -162,6 +170,7 @@ Ira
 Irina
 Iro
 Isaac
+Ismo
 Isto
 Ivan
 Jaakko
@@ -259,6 +268,7 @@ Leevi
 Leo
 Leonardo
 Liisa
+Linda
 Linus
 Lisa
 Louis
@@ -297,6 +307,7 @@ Maunu
 Mauri
 Max
 Mel
+Melina
 Melissa
 Meri-Tuuli
 Mervi
@@ -311,6 +322,7 @@ Mika
 Mikael
 Mike
 Mikko
+Miko
 Mila
 Milka
 Milla
@@ -330,6 +342,7 @@ Napoleon
 Natalia
 Natalie
 Netta
+NHL-Unelma
 Nico
 Niilo
 Niina
@@ -351,6 +364,7 @@ Oskari
 Ossi
 Outi
 Paavo
+Pablo
 Päivä
 Päivi
 Päiviö
@@ -390,6 +404,7 @@ Reetta
 Regina
 Reijo
 Reima
+Riikka
 Riina
 Riitta
 Riku
@@ -415,6 +430,8 @@ Samu
 Samuel
 Samuli
 Sanna
+Sanna-Liisa
+Sanna-Liisi
 Sanni
 Santeri
 Sarah
@@ -443,12 +460,14 @@ Taimi
 Taisto
 Taneli
 Tanja
+tapahtuma-Alan
 Tapio
 Tarja
 Taru
 Tea
 Teemu
 Teppo
+Terhi
 Tero
 Terry
 Teuvo
@@ -460,7 +479,9 @@ Timo
 Tino
 Titta
 Toimi
+Toivo
 Tom
+Tomi
 Tommi
 Tommy
 Toni
@@ -473,7 +494,9 @@ Tuomo
 Turkka
 Tuukka
 Tuula
+Tuuli
 Tuure
+Ulla
 Unelma
 Urho
 Urmas
@@ -494,6 +517,7 @@ Ville
 Vilma
 Virve
 Vladimir
+Walter
 Will
 William
 Wilma
