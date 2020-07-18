@@ -8,10 +8,13 @@ koska
 kuin
 kuinka
 kun
+kunhan
 kunnes
+kunpa
 mutta
 sekä
 tai
 vaan
 vai
 vaikka
+vaiko

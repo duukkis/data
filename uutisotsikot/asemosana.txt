@@ -13,8 +13,10 @@ mikä
 mikään
 minä
 muu
+muuan
 nämä
 ne
+nuo
 se
 sinä
 tämä

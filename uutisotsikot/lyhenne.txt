@@ -8,15 +8,19 @@ DNA
 EK
 EU
 FBI
+FT
 Hz
 IMF
 klo
 km
+kpl
 kuu-WC
+LED
 MM
 MTK
 MTV
 NHL
+OECD
 OK
 oy
 PC
@@ -28,6 +32,7 @@ SDP
 sote
 SPR
 STT
+tosi-TV
 TV
 USA
 VR
