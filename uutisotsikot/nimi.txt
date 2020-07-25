@@ -18,6 +18,7 @@ Estonia
 EU-Maa
 Facebook
 Fazer
+Finlandia
 Finnair
 Ford
 Fortum
@@ -25,6 +26,7 @@ Google
 Graal
 Halloween
 Helios
+Hesburger
 Hyundai
 Instagram
 Internet
@@ -53,6 +55,7 @@ Musti
 Nato
 Netflix
 Nintendo
+Off
 öky-Mersu
 Orion
 Oscar
@@ -83,9 +86,11 @@ van
 Venus
 Volkswagen
 Volvo
+von
 Wärtsilä
 WhatsApp
 Wikipedia
 Windows
+Yaris
 Yle
 YouTube

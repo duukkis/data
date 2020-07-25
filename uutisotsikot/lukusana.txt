@@ -12,6 +12,7 @@ ensimmäinen
 II
 III
 iltayhdeksän
+iv
 IV
 kahdeksan
 kahdeksas
@@ -59,3 +60,4 @@ xi
 yhdeksän
 yhdeksäs
 yksi
+yksitoista

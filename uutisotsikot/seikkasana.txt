@@ -1,3 +1,5 @@
+aamutuimaan
+äärimmillään
 aiemmin
 aikaisemmin
 aikaisin
@@ -29,6 +31,7 @@ ehkä
 eilen
 enää
 enemmän
+enimmäkseen
 enintään
 eniten
 ennallaan
@@ -41,6 +44,7 @@ entä
 entisellään
 entuudelta
 erillään
+eritoten
 erittäin
 esillä
 etänä
@@ -49,8 +53,10 @@ etenkin
 hajalla
 halki
 hallussa
+haltioissaan
 hamassa
 hämillä
+harvaan
 harvakseltaan
 harvassa
 harvoin
@@ -61,6 +67,7 @@ hereillä
 heti
 hevin
 hieman
+hiirenhiljaa
 hiljaa
 hiljalleen
 hiljattain
@@ -75,11 +82,16 @@ hyvänen
 hyvänsä
 hyvin
 ihan
+ihmeemmin
 ikinä
+ilkosilla
 ilmatie
 infra
 irti
+itsekseen
+itsessään
 itsestään
+jälkeenpäin
 jalkeilla
 jälleen
 jamassa
@@ -87,6 +99,7 @@ jo
 jolloin
 joskus
 jotenkin
+joukoittain
 julki
 kadoksissa
 kahtia
@@ -112,6 +125,7 @@ kilpasilla
 kissun
 kohme
 kohta
+kontalla
 koskaan
 kosolti
 kotoisin
@@ -119,7 +133,9 @@ kotosalla
 kuitenkaan
 kuitenkin
 kumminkin
+kumollaan
 kumossa
+kunnittain
 kuoliaaksi
 kuten
 kuulemma
@@ -127,6 +143,7 @@ kyllä
 kyllin
 kymmenittäin
 kyse
+lähekkäin
 lähellä
 lähemmäs
 lähes
@@ -143,6 +160,7 @@ luo
 luokse
 melkein
 meneillä
+mieluusti
 mikäli
 miltei
 miten
@@ -189,6 +207,7 @@ päiväsaikaan
 päivittäin
 pakosalla
 pälkähästä
+paraikaa
 parhaiten
 parissa
 pelkästään
@@ -197,6 +216,8 @@ peräti
 perillä
 perjantaisin
 piakkoin
+pikkuhiljaa
+pikkuhoususilla
 pitkälti
 poikittain
 poikki
@@ -205,6 +226,7 @@ poissa
 portaittain
 pro
 puhelin
+puolittain
 puolueittain
 rikki
 roppakaupalla
@@ -227,6 +249,7 @@ sinänsä
 sittemmin
 sitten
 suinkin
+sujut
 suomalaisittain
 taaksepäin
 täällä
@@ -249,10 +272,12 @@ täytäntöön
 tekeillä
 tieten
 tiettävästi
+tohjona
 toissa
 toistaiseksi
 toki
 tonneittain
+tukkanuottasilla
 tuolloin
 tuoreeltaan
 tuskin
