@@ -1,8 +1,11 @@
 -00
 -050
+-162
+-40
 -4000
 -45
 -5
+-84
 aamukahdeksan
 aamukolme
 aamuseitsemän
@@ -10,6 +13,7 @@ aamuviisi
 biljoona
 ensimmäinen
 II
+iii
 III
 iltayhdeksän
 iv
@@ -18,6 +22,7 @@ kahdeksan
 kahdeksas
 kahdeskymmenes
 kaksi
+kaksikymmentä
 kaksikymmentätuhatta
 kaksisataa
 kaksitoista
@@ -30,6 +35,8 @@ kolmisen
 kolmisenkymmentä
 kuudes
 kuusi
+kuusikymmentä
+kuusitoista
 kuusituhatta
 kymmenen
 kymmenentuhatta
@@ -40,6 +47,7 @@ miljoona
 neljä
 neljäkymmentä
 neljäs
+parisenkymmentä
 puolitoista
 sata
 satatuhatta
@@ -49,6 +57,7 @@ toinen
 toistakymmentä
 tuhannes
 tuhat
+vi
 VI
 vii
 viides
@@ -57,7 +66,10 @@ viisi
 viisikymmentä
 viisitoista
 xi
+xvi
+XVI
 yhdeksän
 yhdeksäs
+yhdestoista
 yksi
 yksitoista

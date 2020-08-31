@@ -4,6 +4,7 @@ he
 joka
 jokin
 joku
+jompikumpi
 ken
 kuka
 kukaan
@@ -12,6 +13,8 @@ me
 mikä
 mikään
 minä
+mones
+moni
 muu
 muuan
 nämä
