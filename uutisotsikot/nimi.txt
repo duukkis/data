@@ -37,6 +37,7 @@ g-Mersu
 Google
 Graal
 Halloween
+Hamlet
 Helios
 Hesburger
 Hyundai
@@ -49,6 +50,7 @@ Jehova
 Joma
 Jupiter
 Kaleva
+Kalevala
 Kemira
 keski-Maa
 Kesko
@@ -82,6 +84,7 @@ Psycho
 Puh
 Raamattu
 Renault
+Reuters
 Saab
 Saint
 Samsung
@@ -99,6 +102,7 @@ Stuka
 Suomi-Twitter
 Supo
 Tavastia
+Teboil
 tehdas-Hyundai
 Tehy
 Tokmanni

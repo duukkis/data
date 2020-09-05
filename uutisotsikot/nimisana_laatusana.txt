@@ -38,12 +38,15 @@ epänormaali
 epäoikeudenmukainen
 epäpyhä
 epäsuomalainen
+epäterve
 epätodennäköinen
 epävarma
+erikoispitkä
 erinäköinen
 erityinen
 erityistiukka
 eteläkarjalainen
+eteläsuomalainen
 EU-kilpailuviranomainen
 eurooppalaistulokas
 EU-suomalainen
@@ -69,6 +72,7 @@ höperö
 huippuaituri
 huippuhelle
 huippukova
+huippurikas
 huipputulokas
 hullu
 humalainen
@@ -157,12 +161,15 @@ kypsä
 läheinen
 lahtelainen
 lainen
+lainmukainen
 laiska
 lämmin
+länsisuomalainen
 lappilaisnuori
 latinalainen
 liberaali
 liika
+liikenneviranomainen
 likinäköinen
 loisto
 lomalainen
@@ -217,6 +224,7 @@ omainen
 omanlainen
 ontto
 orpo
+oulaistelainen
 outo
 öykkäri
 paha
@@ -248,7 +256,9 @@ pitkä
 pitkäaikaissairas
 pituinen
 pohjoinen
+pohjoiskarjalainen
 pohjois-korea
+pohjoismaalainen
 pohjois-norja
 pohjoispohjanmaalainen
 poliittinen
@@ -265,6 +275,7 @@ raaka
 radikaali
 rajaviranomainen
 rakas
+ranskalaisrakas
 ratto
 rauhanomainen
 rietas
@@ -274,6 +285,7 @@ riskialtis
 rohkea
 roisto
 rokkarihölmöläinen
+rukka
 ruma
 ruotsalainen
 ruotsalaistulokas
@@ -316,6 +328,7 @@ suomalaisaituri
 suomalaisbrittiläinen
 suomalaisnuori
 suomalaisrakas
+suomalaistulokas
 suomenruotsalainen
 suora
 superhauska
@@ -330,9 +343,11 @@ suuhunpantava
 suuri
 suvereeni
 syvä
+syyshelle
 taianomainen
 taistolainen
 takamusta
+takavasen
 tällainen
 talouspoliittinen
 talousrikollinen
@@ -373,6 +388,7 @@ ulkopoliittinen
 ummikko
 unenomainen
 upporikas
+uskalikko
 utelias
 uudenmallinen
 uusimaalainen

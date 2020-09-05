@@ -5,6 +5,7 @@ Aapo
 Aarne
 Aarni
 Aaro
+Aaron
 Aatto
 Aatu
 Abel
@@ -42,6 +43,7 @@ Alice
 Aliisa
 Alina
 Alisa
+Alisa-Sisko
 Allan
 Allen
 Alma
@@ -99,11 +101,13 @@ Arturo
 Arvi
 Arvid
 Asko
+Asta
 Atte
 August
 Aulis
 Aurora
 Auvo
+avomies-Paul
 Axel
 Barack
 Barbara
@@ -401,9 +405,11 @@ Kari-Matti
 Karita
 Karl
 Karoliina
+Karolina
 Kasper
 Kasperi
 Katariina
+Katarina
 Kati
 Katja
 Katri
@@ -591,6 +597,7 @@ Natalie
 Nea
 Nea-Sofia
 Neea
+Nella
 Nelli
 Nelly
 Nelson
@@ -708,6 +715,7 @@ Rembrandt
 Richard
 Riikka
 Riina
+Riina-Maija
 Riitta
 Riitta-Liisa
 Riku
@@ -868,6 +876,7 @@ Unelma
 Uoti
 Urho
 Urmas
+Urpo
 Ursula
 Uuno
 vaha-Harry

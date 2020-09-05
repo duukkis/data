@@ -178,6 +178,7 @@ loitolla
 lopen
 luo
 luokse
+lytyssä
 maittain
 melkein
 meneillä
@@ -206,6 +207,7 @@ näin
 näkemiin
 näköjään
 näkösällä
+naukin
 näytillä
 niin
 nimenomaan
@@ -284,6 +286,7 @@ selvillä
 sentään
 siellä
 siis
+sikäli
 sikseen
 siksi
 silloin

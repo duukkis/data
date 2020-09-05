@@ -47,6 +47,7 @@ Auschwitz
 Australia
 Azerbaidžan
 Azerbaidzhan
+Babylon
 Bahama
 Bahrain
 Baijeri
@@ -54,6 +55,7 @@ Bali
 Balkan
 Baltia
 Bangkok
+Bangladesh
 Barbados
 Barcelona
 Beirut
@@ -68,6 +70,7 @@ Bordeaux
 Boston
 Botswana
 Brasilia
+Bratislava
 Bremen
 Bristol
 Britannia
@@ -130,6 +133,7 @@ Euraasia
 Eurajoki
 Eurooppa
 Evijärvi
+Färsaari
 Filippiini
 Fiskars
 Florida
@@ -141,6 +145,7 @@ Geneve
 Genova
 Getsemane
 Ghana
+Gibraltar
 Glasgow
 Gomorra
 Göteborg
@@ -220,6 +225,7 @@ Istanbul
 Itä-Afrikka
 Itä-Eurooppa
 Itä-Helsinki
+Itä-Kiina
 Itä-Lappi
 Italia
 Itämeri
@@ -251,6 +257,7 @@ Jordania
 Joroinen
 Joutseno
 Juankoski
+Jugoslavia
 Junttila
 Juuka
 Juutinrauma
@@ -282,6 +289,7 @@ Kankaanpää-Pöytyä
 Kannus
 Kansas
 Kanta-Häme
+Kapkaupunki
 Karibia
 Karijoki
 Karjaa
@@ -301,6 +309,7 @@ Kaukoitä
 Kauniainen
 Kaustinen
 Kazakstan
+Kazan
 Keitele
 Kemi
 Kemijärvi
@@ -321,6 +330,7 @@ Keuruu
 kiekko-Espoo
 kiekko-Suomi
 kiekko-Vantaa
+Kiihtelysvaara
 Kiiminki
 Kiiminkijoki
 Kiina
@@ -381,8 +391,10 @@ Kursk
 Kustavi
 Kuuba
 Kuusamo
+Kuusankoski
 Kuusela
 Kuwait
+k-Vantaa
 Kylmäkoski
 Kymi
 Kypros
@@ -401,11 +413,13 @@ Länsi-Lontoo
 Länsi-Pohja
 Länsi-Pori
 Länsi-Suomi
+Länsi-Tampere
 Länsi-Uusimaa
 Lappajärvi
 Lappi
 Lapua
 Laukaa
+Lausanne
 Lavia
 Lehmo
 Leipzig
@@ -526,11 +540,13 @@ Nieminen
 Niger
 Nigeria
 Niili
+Niirala
 Nilsiä
 Niskala
 Nivala
 Nizza
 Nokia
+Noljakka
 Noormarkku
 Nousiainen
 Nubia
@@ -558,6 +574,7 @@ Osaka
 Oseania
 Oslo
 Osta
+Otaniemi
 Ottawa
 Oulainen
 Oulanka
@@ -601,6 +618,7 @@ Petsamo
 Philadelphia
 Pieksämäki
 Pielavesi
+Pielinen
 Pielisjärvi
 pieni-Sulkava
 Pietarsaari
@@ -662,6 +680,7 @@ Rautalampi
 Rautavaara
 Rautjärvi
 Reisjärvi
+Reykjavik
 Riihimäki
 Riika
 Rissala
@@ -671,6 +690,7 @@ Rodos
 Romania
 Rooma
 Rosa-Mari
+Rotterdam
 Rovaniemi
 Ruanda
 Ruokolahti
@@ -683,9 +703,11 @@ Saana
 sääntö-Suomi
 Saarenmaa
 Saarijärvi
+Saario
 Sahara
 Saimaa
 Saksa
+Saksa-Espanja
 Saku
 Säkylä
 Salla
@@ -749,10 +771,12 @@ Suolahti
 Suomen-Ruotsi
 Suomi
 Suomi-Viro
+Suomi-Wales
 Suomussalmi
 Suonenjoki
 super-Mattila
 Suur-Hollola
+Suur-Manchester
 Suursaari
 Sveitsi
 Sydney
@@ -788,6 +812,7 @@ Texas
 Thaimaa
 Tikkala
 Tikkurila
+tirehtööri-Kangasniemi
 Tiroli
 Toholampi
 Toijala
@@ -841,9 +866,11 @@ Uutela
 Vääksy
 Vaala
 Vaasa
+Vainikkala
 Väisälä
 Valencia
 väli-Amerikka
+Valkjärvi
 valko-Venäjä
 Vallila
 Vanajavesi
@@ -883,6 +910,7 @@ Ylitornio
 Ylivieska
 Ylöjärvi
 York
+Ypäjä
 Yyteri
 Zimbabwe
 Zürich

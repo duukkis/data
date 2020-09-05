@@ -1,4 +1,6 @@
 €
+aamu-TV
+ab
 ABC
 ALV
 bar
@@ -10,6 +12,7 @@ CV
 DNA
 DVD
 EK
+EM
 EU
 FBI
 FM
@@ -24,6 +27,7 @@ kk
 klo
 km
 kpl
+krs
 kuu-WC
 LED
 LP
@@ -52,6 +56,7 @@ SPR
 STT
 tosi-TV
 TV
+UKK
 USA
 VR
 VTT
