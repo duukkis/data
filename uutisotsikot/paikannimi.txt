@@ -118,6 +118,7 @@ Etelä-Helsinki
 Etelä-Intia
 Etelä-Karjala
 Etelä-Kiina
+Etelä-Konnevesi
 Etelä-Korea
 Etelä-Ranska
 Etelä-Ruotsi
@@ -335,6 +336,9 @@ Kiiminki
 Kiiminkijoki
 Kiina
 Kilpisjärvi
+Kinnari
+Kinnula
+Kiova
 Kirgisia
 Kiribati
 Kirkkonummi
@@ -454,6 +458,7 @@ Maalahti
 Maaninka
 Määri
 Maarianhamina
+Madagaskar
 Madrid
 Makari
 Makedonia
@@ -528,6 +533,7 @@ Nairobi
 Nakkila
 Napoli
 Närpiö
+Narva
 Nashville
 Näsijärvi
 Nastola
@@ -541,6 +547,7 @@ Niger
 Nigeria
 Niili
 Niirala
+Nikkilä
 Nilsiä
 Niskala
 Nivala
@@ -549,6 +556,7 @@ Nokia
 Noljakka
 Noormarkku
 Nousiainen
+Novosibirsk
 Nubia
 Nummela
 Nuorgam
@@ -628,6 +636,7 @@ Pikisaari
 pikku-Kamppi
 pikku-Suomi
 Pirkkala
+Pirkkola
 Pohja
 Pohjois-Afrikka
 Pohjois-Amerikka
@@ -665,6 +674,8 @@ Purola
 Puumala
 Pyhäntä
 Pyhtää
+Pyrene
+Pyylampi
 Qatar
 Quebec
 Raahe
@@ -683,6 +694,7 @@ Reisjärvi
 Reykjavik
 Riihimäki
 Riika
+Riika-Helsinki
 Rissala
 Ristiina
 Ristijärvi
@@ -727,6 +739,7 @@ Saudi-Arabia
 Savitaipale
 Savo
 Savukoski
+Schengen
 Seattle
 Seinäjoki
 Senegal
@@ -770,6 +783,7 @@ Sulkava
 Suolahti
 Suomen-Ruotsi
 Suomi
+Suomi-Ruotsi
 Suomi-Viro
 Suomi-Wales
 Suomussalmi
@@ -814,8 +828,10 @@ Tikkala
 Tikkurila
 tirehtööri-Kangasniemi
 Tiroli
+Tohmajärvi
 Toholampi
 Toijala
+Toivakka
 Tokio
 Töölö
 Torino
@@ -857,6 +873,7 @@ Utah
 Utajärvi
 Utsjoki
 Uumaja
+Uusi-Guinea
 Uusikaarlepyy
 Uusikaupunki
 Uusimaa

@@ -78,11 +78,13 @@ Blomqvist-Kakko
 Bond
 Borgman
 Borgström
+Boström
 Bragge
 Brandt
 Brask
 Bridges
 Brunila
+Bush
 Byström
 Caine
 Cameron
@@ -98,6 +100,7 @@ Disney
 Donner
 Dracula
 Dufva
+Eco
 Eden
 Eerikäinen
 Ehrnrooth
@@ -132,6 +135,7 @@ Forss
 Forssell
 Forsström
 Frankenstein
+Fräntti
 Friberg
 Gerber
 Gibson
@@ -156,6 +160,7 @@ Haavisto
 Hackzell
 Hägglund
 Hagman
+Hagström
 Hakala
 Häkkänen
 Hakkarainen
@@ -164,6 +169,7 @@ Hakola
 Hakulinen
 Hall
 halla-Aho
+halla-Aholainen
 Hallikainen
 Halminen
 Halonen
@@ -171,6 +177,7 @@ Halttunen
 Hämäläinen
 Hamilton
 Hänninen
+Hannula
 Harinen
 Harjula
 Härkönen
@@ -235,6 +242,7 @@ Honkala
 Honkanen
 Honkonen
 Hopponen
+Hoskonen
 Hostikka
 Hotakainen
 Hubble
@@ -252,6 +260,7 @@ Hynninen
 Hynynen
 Hyppönen
 Hytönen
+Hyväri
 Hyvärinen
 Hyvönen
 Hyyrynen
@@ -344,6 +353,7 @@ Kauppi
 Kauppinen
 Kautto
 Keihänen
+Keinänen
 Kekäläinen
 Kekki
 Kekkonen
@@ -508,6 +518,7 @@ Lipsanen
 Litmanen
 Litvinov
 Liukko
+Liukkonen
 Loikkanen
 Lovecraft
 Lukkala
@@ -644,11 +655,13 @@ Ojanen
 Oksanen
 Oksman
 Ollikainen
+Ollila
 Onerva
 Oranen
 Österberg
 Österlund
 Outinen
+Ovaska
 Owen
 Paakkinen
 Pääkkönen
@@ -661,6 +674,7 @@ Paavola
 Packalen
 Packalén
 Päivinen
+Pajula
 Pakarinen
 Päkkilä
 Palander
@@ -763,6 +777,8 @@ Rantalainen
 Rantanen
 Ranta-Toppila
 Räsänen
+Rasila
+Rasimus
 Ratia
 Räty
 Raudaskoski
@@ -776,6 +792,7 @@ Rekonen
 Rento
 Reynolds
 Riekki
+Riikola
 Riikonen
 Rintala
 Ripatti
@@ -787,6 +804,7 @@ Roininen
 Rokka
 Rönkä
 Ronkainen
+Rönnqvist
 Roos
 Roponen
 Rosberg
@@ -899,6 +917,7 @@ Tapola
 Taponen
 Tarkka
 Tarkkanen
+Taskinen
 Tauriainen
 Taylor
 Teijo
@@ -932,6 +951,7 @@ Tolppanen
 Tolvanen
 Tonteri
 Toppila
+Toppinen
 Torikka
 Törmänen
 Torsti
@@ -976,12 +996,14 @@ Valkeinen
 Vallin
 Valtanen
 Valtonen
+Vanhala
 Vanhanen
 Vanninen
 Vänskä
 Vänttinen
 Vartiainen
 Vatanen
+Vatjus
 Väyrynen
 Vehviläinen
 Veijola
@@ -1022,6 +1044,7 @@ Westerlund
 Wiklund
 Wikström
 Wilder
+Willberg
 Williams
 Wilson
 Wright

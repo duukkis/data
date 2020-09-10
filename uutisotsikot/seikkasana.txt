@@ -120,6 +120,7 @@ kai
 kaikkialla
 kaltoin
 karku
+kasoittain
 kasvokkain
 kasvotusten
 kateissa
@@ -234,6 +235,7 @@ paikkakunnittain
 paikkeilla
 paikoin
 päin
+painuksissa
 päinvastoin
 paitsi
 päiväsaikaan
@@ -256,6 +258,7 @@ pikimmiten
 pikkuhiljaa
 pikkuhoususilla
 pitkälti
+pohjimmiltaan
 poikittain
 poikki
 pois
@@ -299,6 +302,7 @@ sittemmin
 sitten
 suinkin
 sujut
+sunnuntaisin
 suomalaisittain
 supussa
 taaksepäin

@@ -1,6 +1,7 @@
 Aada
 Aada-Liina
 Aamu
+Aapeli
 Aapo
 Aarne
 Aarni
@@ -11,6 +12,7 @@ Aatu
 Abel
 Abraham
 Adam
+Ade
 Adele
 Ahmed
 Ahti
@@ -48,7 +50,9 @@ Allan
 Allen
 Alma
 Alpo
+ALV-Ale
 Alvar
+Amalia
 Amanda
 Amelia
 ammattikuljettaja-Timo
@@ -69,6 +73,7 @@ Anna-Kaisa
 Anna-Kari
 Anna-Kristiina
 Anna-Leena
+Anna-Lisa
 Anna-Maija
 Anne
 Anne-Elisabeth
@@ -76,10 +81,12 @@ Anneli
 Anni
 Anniina
 Annika
+Annukka
 Anselmi
 Anssi
 Antero
 Anthony
+Anton
 Antonio
 Antti
 Antto
@@ -100,11 +107,13 @@ Artturi
 Arturo
 Arvi
 Arvid
+asianajaja-Sini
 Asko
 Asta
 Atte
 August
 Aulis
+Auri
 Aurora
 Auvo
 avomies-Paul
@@ -201,6 +210,7 @@ Erin
 Erja
 Erkki
 Ernest
+Erno
 Ernst
 Esa
 Esa-Pekka
@@ -219,6 +229,7 @@ Francis
 Frank
 Frans
 Franz
+Fredrik
 Frida
 fysiikkavalmentaja-Jere
 Gabriel
@@ -260,6 +271,7 @@ Henrik
 Henrikki
 Henry
 heppatyttö-Anne
+Herbert
 Herman
 Hermanni
 Hessu
@@ -426,6 +438,7 @@ Kim
 Kimi
 Kimmo
 Kingsley
+kippari-Kalle
 kirja-Alan
 kirsi-Liisa
 Kirsti
@@ -437,6 +450,7 @@ krapula-Aamu
 Krista
 Kristian
 Kristiina
+Kristina
 Kurt
 Kustaa
 Kyösti
@@ -453,6 +467,7 @@ Lawrence
 Lea
 Leena
 Leevi
+Leif
 Lena
 Lenita
 Lenni
@@ -521,6 +536,7 @@ Marketta
 Markku
 Marko
 Markus
+Mårten
 Martin
 Martina
 Martta
@@ -572,6 +588,7 @@ Minna
 Minttu
 Mira
 Miranda
+Mirja
 Mirjami
 Mirka
 Mirkka
@@ -605,6 +622,7 @@ Netta
 NHL-Kasperi
 NHL-Laina
 NHL-Unelma
+Nicholas
 Nico
 Niilo
 Niina
@@ -780,6 +798,7 @@ Severi
 Sherlock
 Siiri
 Siirin-Päivi
+siivooja-Tuula
 siivousyrittäjä-Jaana
 Silja
 Silva
@@ -807,6 +826,7 @@ super-Marjo
 Susan
 Susanna
 susi-Kalle
+suvi-Anne
 Sven-Göran
 Svetlana
 Sylvester
@@ -814,6 +834,7 @@ Sylvia
 Taavetti
 Taavi
 Taimi
+Taina
 Taisto
 Taneli
 Tanja
@@ -872,6 +893,7 @@ Ukko
 Ukko-Pekka
 Ulla
 Ulrika
+Umberto
 Unelma
 Uoti
 Urho
@@ -890,14 +912,17 @@ varusmies-Markus
 Veera
 Veeti
 Veijo
+Veikka
 Veikka-Matti
 Veikko
+Veini
 veli-Matti
 venäjä-Toimi
 Venla
 Vera
 Veronica
 Veronika
+Vertti
 vesa-Matti
 Victor
 Victoria

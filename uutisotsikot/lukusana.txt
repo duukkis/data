@@ -50,9 +50,11 @@ miljoona
 neljä
 neljäkymmentä
 neljäs
+neljästoista
 neljätoista
 parisenkymmentä
 puolitoista
+sadas
 sata
 satatuhatta
 seitsemän
@@ -70,6 +72,7 @@ viisi
 viisikymmentä
 viisitoista
 viitisen
+viitisentoista
 xi
 xvi
 XVI

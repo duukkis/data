@@ -62,6 +62,7 @@ hassu
 hassunhauska
 hauska
 helle
+hento
 hirmu
 hirmuhelle
 hollantilaisrakas
@@ -93,6 +94,7 @@ inkerinsuomalainen
 introvertti
 irlantilaisrakas
 iso
+itämerensuomalainen
 itäsuomalainen
 jälkeläinen
 jälkimmäinen
@@ -103,6 +105,7 @@ joutilas
 juoni
 juutalainen
 jyrkkä
+kaakkois-norja
 kähärä
 kaheli
 kalju
@@ -116,6 +119,7 @@ kauhunomainen
 kaupunkilainen
 käyrä
 kelpo
+kelta
 keskeinen
 keskisuomalainen
 keskisuuri
@@ -264,6 +268,7 @@ pohjoispohjanmaalainen
 poliittinen
 polo
 poppa
+portugalilaisnuori
 PS-aktiivi
 puhdas
 puolihöhlä
@@ -363,6 +368,7 @@ t-mallinen
 todennäköinen
 tohelo
 tökerö
+tonttu
 törkeä
 tosi
 totuudenmukainen
@@ -385,6 +391,7 @@ tyven
 ulkomaalainen
 ulkonäkökeskeinen
 ulkopoliittinen
+ulkosuomalainen
 ummikko
 unenomainen
 upporikas
@@ -393,12 +400,14 @@ utelias
 uudenmallinen
 uusimaalainen
 uusiseelantilainen
+uusmaalainen
 uusvanha
 uutissuomalainen
 uutukainen
 vaaleanruskea
 vaaliviranomainen
 väärä
+väestöpoliittinen
 vähä
 väistämisvelvollinen
 vajaa
@@ -448,3 +457,4 @@ yhteensopiva
 yhteistupalainen
 ylipitkä
 ylisuuri
+ylitörkeä
