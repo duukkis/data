@@ -14,6 +14,7 @@ Ateneum
 Athene
 Audi
 Aurinko
+Basic
 Beatles
 bensa-Mersu
 bin
@@ -72,6 +73,7 @@ Musti
 Nato
 Netflix
 Nintendo
+Odin
 OECD-Maa
 Off
 öky-Mersu

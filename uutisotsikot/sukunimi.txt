@@ -20,6 +20,7 @@ Aittola
 Åkerman
 Alanen
 Alanko
+Alenius
 Alkio
 Alonso
 Alzheimer
@@ -58,6 +59,7 @@ Backlund
 Backman
 Bäckman
 Bacon
+Bagge
 Barbarossa
 Bates
 Bauer
@@ -161,6 +163,7 @@ Hackzell
 Hägglund
 Hagman
 Hagström
+Hainari
 Hakala
 Häkkänen
 Hakkarainen
@@ -213,6 +216,7 @@ Helenius
 Helin
 Heliövaara
 Helkama
+Hellman
 Hellsten
 Hellström
 Helminen
@@ -225,6 +229,7 @@ Hilden
 Hildén
 Hiltunen
 Hintikka
+Hintsala
 Hintsanen
 Hirvonen
 Hitchcock
@@ -278,6 +283,7 @@ Itkonen
 Ivanov
 Ivanova
 Jaakkola
+Jaakola
 Jaatinen
 Jackson
 Jakonen
@@ -321,6 +327,7 @@ Kämäräinen
 Kananen
 Kanerva
 Kangas
+Kangasvuo
 kanki-Kaikkonen
 Kankkunen
 Kanninen
@@ -383,6 +390,7 @@ Klemola
 Koiranen
 Koistinen
 Koivu
+Koivula
 Koivunen
 Kokkila
 Kokkonen
@@ -605,6 +613,7 @@ Mussolini
 Mustonen
 Mutanen
 Muurainen
+Muurinen
 Mykkänen
 Myllylä
 Myllys
@@ -748,6 +757,7 @@ Putin
 Putkinen
 Puttonen
 Puumalainen
+Puurunen
 Puustinen
 Pyrrö
 Pyykkö
@@ -790,6 +800,7 @@ Reijonen
 Reinikainen
 Rekonen
 Rento
+Reponen
 Reynolds
 Riekki
 Riikola
@@ -798,6 +809,7 @@ Rintala
 Ripatti
 Riski
 Rissanen
+Ristolainen
 Roberts
 Roiha
 Roininen
@@ -911,6 +923,7 @@ Tallberg
 Tallgren
 Talonen
 Tamminen
+Tanner
 Tanskanen
 Tanttu
 Tapola
@@ -1027,6 +1040,7 @@ Virkkunen
 Virolainen
 Virtanen
 Viskari
+Visuri
 Voutilainen
 vuokra-Asukas
 vuokra-Autto

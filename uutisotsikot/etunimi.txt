@@ -296,11 +296,13 @@ Ilmi
 Ilona
 Ilpo
 Ilta
+Inga
 Ingrid
 Inka
 Ira
 Irene
 Irina
+Irja
 Irma
 Iro
 Isaac
@@ -558,6 +560,7 @@ Mel
 Melina
 Melissa
 Meri
+Meri-Anna
 Meri-Tuuli
 Merja
 Mervi
@@ -582,6 +585,7 @@ Mila
 Milja
 Milka
 Milla
+Mimmi
 Mimosa
 Minea
 Minna
@@ -722,6 +726,7 @@ Ray
 Raymond
 Rea
 Rebecca
+Rebekka
 Reeta
 Reetta
 Regina

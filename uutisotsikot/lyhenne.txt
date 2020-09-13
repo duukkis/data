@@ -2,6 +2,7 @@
 aamu-TV
 ab
 ABC
+ADHD
 ALV
 bar
 BBC
@@ -42,6 +43,7 @@ oyj
 PC
 peli-PC
 pj
+poliisi-TV
 PR
 PS
 RKP
@@ -57,6 +59,7 @@ STT
 tosi-TV
 TV
 UKK
+urheilu-TV
 USA
 VR
 VTT

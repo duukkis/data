@@ -62,6 +62,7 @@ Beirut
 Belgia
 Belgrad
 Berliini
+Bern
 Birmingham
 Bodom
 Bolivia
@@ -98,6 +99,7 @@ Ebola
 Eckerö
 Ecuador
 Edmonton
+Egeanmeri
 Egypti
 Eira
 Englanti
@@ -141,6 +143,7 @@ Florida
 Forssa
 Francisco
 Frankfurt
+Gabon
 Gaza
 Geneve
 Genova
@@ -221,6 +224,7 @@ Irlanti
 Island
 Islanti
 Iso-Britannia
+Isokyrö
 Israel
 Istanbul
 Itä-Afrikka
@@ -275,6 +279,7 @@ Kainuu
 Kaisaniemi
 Kajaani
 Kalajoki
+Kalanti
 Kalifornia
 Kallavesi
 Kalliola
@@ -365,6 +370,7 @@ Kontiolahti
 Kontula
 Kööpenhamina
 Korea
+korona-Ranska
 korona-Suomi
 Korpilahti
 Korppoo
@@ -518,6 +524,7 @@ Montreal
 Mosambik
 Moskova
 Muhos
+Multala
 Multia
 Mumbai
 München
@@ -527,6 +534,7 @@ Muurame
 Muurola
 Myanmar
 Mynämäki
+Myrskylä
 Naantali
 Nagasaki
 Nairobi
@@ -617,6 +625,7 @@ Pedersöre
 Peking
 Pello
 Peltola
+Pennsylvania
 Penttilä
 Peräseinäjoki
 Perho
@@ -637,6 +646,7 @@ pikku-Kamppi
 pikku-Suomi
 Pirkkala
 Pirkkola
+Pispala
 Pohja
 Pohjois-Afrikka
 Pohjois-Amerikka
@@ -741,6 +751,7 @@ Savo
 Savukoski
 Schengen
 Seattle
+Sedan
 Seinäjoki
 Senegal
 Serbia
@@ -768,6 +779,7 @@ Skotlanti
 Slovakia
 Slovenia
 Sodankylä
+Södertälje
 Soini
 Somalia
 Somero
@@ -887,6 +899,7 @@ Vainikkala
 Väisälä
 Valencia
 väli-Amerikka
+väli-Suomi
 Valkjärvi
 valko-Venäjä
 Vallila

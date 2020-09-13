@@ -81,6 +81,7 @@ hiljattain
 hilkulla
 hissukseen
 hissun
+hitto
 höplästä
 hoteissa
 hukassa
@@ -170,6 +171,8 @@ lähestulkoon
 lähettyvillä
 lähtöisin
 lainkaan
+lainsäädäntötie
+lakitie
 läsnä
 letkoittain
 liki

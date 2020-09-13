@@ -34,12 +34,14 @@ elatusvelvollinen
 EM-kulta
 entinen
 epäkypsä
+epämukava
 epänormaali
 epäoikeudenmukainen
 epäpyhä
 epäsuomalainen
 epäterve
 epätodennäköinen
+epätosi
 epävarma
 erikoispitkä
 erinäköinen
@@ -88,6 +90,7 @@ ikinuori
 ikioma
 ikivanha
 ikivihreä
+ilmailuviranomainen
 ilmainen
 inkeriläinen
 inkerinsuomalainen
@@ -108,10 +111,12 @@ jyrkkä
 kaakkois-norja
 kähärä
 kaheli
+kaiho
 kalju
 kaltainen
 kamala
 kanadansuomalainen
+karanteeninomainen
 karkulainen
 katolinen
 kauhea
@@ -277,6 +282,7 @@ puolustusviranomainen
 putipuhdas
 pyhä
 raaka
+raavas
 radikaali
 rajaviranomainen
 rakas
@@ -370,6 +376,7 @@ tohelo
 tökerö
 tonttu
 törkeä
+tornimallinen
 tosi
 totuudenmukainen
 transsinomainen
@@ -430,6 +437,8 @@ vauras
 vehmas
 veikeä
 vekkuli
+velmu
+veltto
 venäläinen
 venäläisviranomainen
 ventovieras
