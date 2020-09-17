@@ -11,12 +11,15 @@ Aatto
 Aatu
 Abel
 Abraham
+Ada
 Adam
 Ade
 Adele
 Ahmed
 Ahti
 Ahto
+Ahvo
+Aila
 Aili
 Aini
 Aino
@@ -52,6 +55,7 @@ Alma
 Alpo
 ALV-Ale
 Alvar
+Amadeus
 Amalia
 Amanda
 Amelia
@@ -148,6 +152,7 @@ Christopher
 Claes
 Clarice
 Colin
+Dagmar
 Daisy
 Daniel
 Daniela
@@ -229,6 +234,7 @@ Francis
 Frank
 Frans
 Franz
+Fred
 Fredrik
 Frida
 fysiikkavalmentaja-Jere
@@ -283,6 +289,7 @@ Hugo
 Ida
 Iida
 Iina
+Iines
 Iiris
 Iiro
 Iisakki
@@ -446,6 +453,7 @@ kirsi-Liisa
 Kirsti
 Klaara
 Klaus
+kohu-Sini
 Konsta
 Konstantinos
 krapula-Aamu
@@ -491,6 +499,7 @@ Luka
 Lukas
 Luukas
 maajussi-Ale
+maajussi-Aleksi
 maajussi-Arttu
 maajussi-Heidi
 maajussi-Heikki
@@ -649,6 +658,7 @@ Oliver
 Olivia
 Olli
 Olli-Pekka
+Olof
 Oona
 opiskelu-Unelma
 Osama
@@ -676,6 +686,7 @@ Paula
 Pauli
 Pauliina
 Pekka
+Pellervo
 Penelope
 Pentti
 Peppi
@@ -706,6 +717,7 @@ Pirkka
 Pirkko
 poliisikoira-Max
 povi-Riina
+punamulta-Akseli
 Pyry
 Raakel
 Rafael
@@ -720,6 +732,7 @@ Rasmus
 rasva-Antero
 Rauha
 Rauli
+Rauni
 Rauno
 ravintola-Alan
 Ray
@@ -730,6 +743,7 @@ Rebekka
 Reeta
 Reetta
 Regina
+Reija
 Reijo
 Reima
 Reino
@@ -900,6 +914,7 @@ Ulla
 Ulrika
 Umberto
 Unelma
+Uolevi
 Uoti
 Urho
 Urmas
@@ -937,6 +952,7 @@ Vilho
 Viljami
 Viljo
 Ville
+Ville-Matti
 Vilma
 Virva
 Virve

@@ -7,6 +7,7 @@ ainoa
 aituri
 äkkisyvä
 aktiivi
+aktiivimallinen
 akuutti
 altis
 aluepoliittinen
@@ -92,6 +93,7 @@ ikivanha
 ikivihreä
 ilmailuviranomainen
 ilmainen
+ilmastopoliittinen
 inkeriläinen
 inkerinsuomalainen
 introvertti
@@ -176,12 +178,14 @@ lämmin
 länsisuomalainen
 lappilaisnuori
 latinalainen
+lestadiolainen
 liberaali
 liika
 liikenneviranomainen
 likinäköinen
 loisto
 lomalainen
+löperö
 löysä
 luisu
 luonnonläheinen
@@ -203,6 +207,7 @@ mukainen
 mukava
 musta
 muunmaalainen
+mykkä
 myöhä
 näköinen
 naku
@@ -237,6 +242,7 @@ oulaistelainen
 outo
 öykkäri
 paha
+pahannäköinen
 pakettiautomallinen
 paksu
 paljo
@@ -347,6 +353,7 @@ superhelle
 superkuuma
 superpitkä
 superrikas
+superrohkea
 supersuuri
 supertulokas
 supisuomalainen
@@ -387,6 +394,7 @@ tuollainen
 tupla
 tuplatupla
 turha
+turvallisuuspoliittinen
 turvallisuusviranomainen
 tuttava
 tuttu
@@ -395,6 +403,7 @@ tyhmä
 työsuojeluviranomainen
 typykkä
 tyven
+uimapukumallinen
 ulkomaalainen
 ulkonäkökeskeinen
 ulkopoliittinen
@@ -428,6 +437,7 @@ valkomusta
 valkovenäläinen
 valoisa
 vanha
+vanhoillislestadiolainen
 vapaa
 varma
 varsinaissuomalainen

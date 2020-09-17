@@ -71,6 +71,7 @@ hengissä
 henkihieverissä
 hereillä
 heti
+hetkittäin
 hevillä
 hevin
 hieman
@@ -86,6 +87,7 @@ höplästä
 hoteissa
 hukassa
 huomenna
+huonoiten
 huutia
 hyväksi
 hyvänen
@@ -119,6 +121,7 @@ kadoksissa
 kahtia
 kai
 kaikkialla
+kalpaten
 kaltoin
 karku
 kasoittain
@@ -135,6 +138,7 @@ keskellä
 kesken
 keskenään
 keskimäärin
+keskiviikkoisin
 keulilla
 kiinni
 kiloittain
@@ -144,6 +148,7 @@ kohme
 kohta
 konsa
 kontalla
+koommin
 köpelösti
 koskaan
 kosolti

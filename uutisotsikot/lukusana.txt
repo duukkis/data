@@ -16,6 +16,7 @@ ensimmäinen
 II
 iii
 III
+iltakuusi
 iltaseitsemän
 iltayhdeksän
 iv
@@ -44,8 +45,10 @@ kuusituhatta
 kymmenen
 kymmenentuhatta
 kymmenes
+kymmenisen
 miljardi
 miljoona
+miljoonas
 -neljä
 neljä
 neljäkymmentä

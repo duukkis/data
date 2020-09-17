@@ -8,6 +8,7 @@ jompikumpi
 ken
 kuka
 kukaan
+kukin
 kumpi
 me
 mikä
