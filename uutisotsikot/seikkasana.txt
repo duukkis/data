@@ -117,6 +117,7 @@ jotenkin
 joukoittain
 julki
 juovuksissa
+juovuspäissä
 kadoksissa
 kahtia
 kai
@@ -179,6 +180,7 @@ lainkaan
 lainsäädäntötie
 lakitie
 läsnä
+lauantaisin
 letkoittain
 liki
 liossa
@@ -280,6 +282,7 @@ pulloittain
 puoliltaöin
 puolittain
 puolueittain
+retuperällä
 rikki
 rinnakkain
 roppakaupalla
@@ -347,6 +350,7 @@ toistaiseksi
 toki
 tonneittain
 torstaisin
+tuhansittain
 tuiki
 tukkanuottasilla
 tuolloin

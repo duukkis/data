@@ -126,6 +126,7 @@ Etelä-Konnevesi
 Etelä-Korea
 Etelä-Ranska
 Etelä-Ruotsi
+Etelä-Satakunta
 Etelä-Savo
 Etelä-Sudan
 Etelä-Suomi
@@ -310,6 +311,7 @@ Kärkölä
 Karlskrona
 Kärsämäki
 Karstula
+Karvia
 Kashmir
 Kaskinen
 Kaspianmeri
@@ -446,6 +448,7 @@ Levi
 Libanon
 Libya
 Lieksa
+Lielahti
 Lieto
 Liminka
 Lissabon
@@ -465,6 +468,7 @@ Louisiana
 Lounais-Lappi
 Loviisa
 Luhanka
+Luulaja
 Luvia
 Luxemburg
 Maalahti
@@ -574,6 +578,7 @@ Nokia
 Noljakka
 Noormarkku
 Nousiainen
+Novgorod
 Novosibirsk
 Nubia
 Nummela
@@ -623,6 +628,7 @@ Paltamo
 p-Amerikka
 Panama
 Pansio
+Papua
 Paraguay
 Parainen
 Pariisi
@@ -817,6 +823,7 @@ super-Mattila
 Suur-Hollola
 Suur-Manchester
 Suursaari
+Suur-Savo
 Sveitsi
 Sydney
 syrjä-Suomi
@@ -842,6 +849,7 @@ Tartto
 Teheran
 Teisko
 Teksas
+Tennessee
 Teno
 Tenojoki
 Tervo
@@ -950,6 +958,7 @@ Ylä-Lappi
 Yläne
 Yli-Ii
 Ylikiiminki
+yli-Mannila
 Ylitornio
 Ylivieska
 Ylöjärvi

@@ -5,6 +5,7 @@ Aarnio
 Abbey
 Adams
 Ahlfors
+Ahlgren
 Ahlström
 Aho
 Ahola
@@ -55,6 +56,7 @@ Attila
 Autio
 Autto
 Auvinen
+avolava-Autto
 Bach
 Backlund
 Backman
@@ -70,6 +72,7 @@ Berg
 Bergholm
 Berglund
 Berner
+Biaudet
 Björk
 Björklund
 Björkman
@@ -176,6 +179,7 @@ Hakulinen
 Hall
 halla-Aho
 halla-Aholainen
+Hallberg
 Hallikainen
 Halminen
 Halonen
@@ -255,6 +259,7 @@ Hostikka
 Hotakainen
 Hubble
 Huhtala
+Huhtinen
 Hujanen
 Hukkanen
 Hulkko
@@ -264,6 +269,7 @@ Hume
 Huovinen
 Hurri
 Huttunen
+huumori-Nobel
 Hynninen
 Hynynen
 Hyppönen
@@ -389,6 +395,7 @@ Kivelä
 Kivinen
 Kiviniemi
 Kivistö
+k-Kauppi
 Klemetti
 Klemola
 Kohonen
@@ -403,6 +410,7 @@ kola-Nyström
 Kolehmainen
 Koli
 Kolumbus
+Komulainen
 Kononen
 Konstig
 Kontinen
@@ -435,6 +443,7 @@ Kultanen
 Kumpulainen
 Kunnas
 Kuokka
+Kuokkanen
 Kuoppala
 kuorma-Autto
 Kuosmanen
@@ -445,6 +454,7 @@ Kurkinen
 Kuronen
 Kurttila
 Kurvinen
+Kuusinen
 Kuusisto
 Kuutti
 Kuvaaja
@@ -501,6 +511,7 @@ Lehtonen
 Leikola
 Leino
 Leinonen
+Leminen
 Lempinen
 Lenin
 Lepistö
@@ -508,6 +519,7 @@ Leppälä
 Leppänen
 Leskinen
 Levänen
+Liikanen
 Liimatainen
 Liimatta
 Lind
@@ -582,6 +594,7 @@ Matilainen
 Mattila
 Mattsson
 Matula
+Maunuksela
 Maunula
 Maxwell
 McLaren
@@ -606,6 +619,7 @@ Moilanen
 Moisander
 Moisio
 Molotov
+Mönkkönen
 Mononen
 Monroe
 Moore
@@ -634,6 +648,7 @@ Nevala
 Newton
 NHL-Hall
 NHL-Kapanen
+Nielikäinen
 Niemelä
 Niemeläinen
 niemi-Manninen
@@ -804,6 +819,7 @@ Rasimus
 Ratia
 Räty
 Raudaskoski
+Rautanen
 Rautiainen
 Rautio
 Rehn
@@ -823,9 +839,11 @@ Ripatti
 Riski
 Rissanen
 Ristolainen
+Ritala
 Roberts
 Roiha
 Roininen
+Roivainen
 Rokka
 Rönkä
 Ronkainen
@@ -834,6 +852,7 @@ Roos
 Roponen
 Rosberg
 Rosenberg
+Roslund
 Rossi
 Rovanperä
 Rowling
@@ -853,6 +872,7 @@ Rytkönen
 Saarela
 Saarikko
 sähkö-Helkama
+sähkökuorma-Autto
 Saikkonen
 Sainio
 Säkkinen
@@ -945,6 +965,7 @@ Tarkka
 Tarkkanen
 Taskinen
 Tauriainen
+Tavast
 Taylor
 Teijo
 Teittinen
@@ -1021,6 +1042,7 @@ Väänänen
 Väätäinen
 vähä-Heikkilä
 Vahtera
+Vainikka
 Väisänen
 Valkeinen
 Vallin
@@ -1058,6 +1080,7 @@ Virolainen
 Virtanen
 Viskari
 Visuri
+Vornanen
 Voutilainen
 vuokra-Asukas
 vuokra-Autto
@@ -1082,6 +1105,7 @@ Wright
 Wu
 ylä-Rautio
 yli-Erkkilä
+yli-Hannuksela
 yli-Luoma
 Ylinen
 Ylönen

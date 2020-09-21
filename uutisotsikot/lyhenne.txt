@@ -32,6 +32,7 @@ krs
 kuu-WC
 LED
 LP
+LSD
 MM
 MTK
 MTV

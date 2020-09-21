@@ -46,6 +46,7 @@ Alf
 Alfred
 Alice
 Aliisa
+alijäämä-Matti
 Alina
 Alisa
 Alisa-Sisko
@@ -189,6 +190,7 @@ Elina
 Elisa
 Elisabet
 Elisabeth
+Elise
 Elizabeth
 Elke
 Ella
@@ -242,6 +244,7 @@ Gabriel
 Georg
 George
 Gösta
+Guillaume
 Gunnar
 Gustav
 Håkan
@@ -282,6 +285,7 @@ Herman
 Hermanni
 Hessu
 Heta
+hilkka-Sisko
 himomarjastaja-Aimo
 hoiva-Alan
 Hollywood-Unelma
@@ -314,6 +318,7 @@ Irma
 Iro
 Isaac
 Isadora
+isä-Juha
 Ismo
 Isto
 IT-Mikko
@@ -487,6 +492,7 @@ Leonardo
 Leo-Pekka
 Liisa
 Lilian
+Lilli
 Linda
 Linus
 Lisa
@@ -852,6 +858,7 @@ Sylvester
 Sylvia
 Taavetti
 Taavi
+taika-Pasi
 Taimi
 Taina
 Taisto
@@ -896,6 +903,7 @@ Toni
 Tony
 Topi
 Topias
+torjunta-Aini
 Touko
 Tove
 Tracy

@@ -13,6 +13,7 @@ altis
 aluepoliittinen
 älypuhelinmallinen
 amerikansuomalainen
+amerikkalaisviranomainen
 ammattirikollinen
 a-nuori
 apea
@@ -191,6 +192,7 @@ luisu
 luonnonläheinen
 luonnonmukainen
 lyhytnäköinen
+maalainen
 maanläheinen
 mainio
 makea
@@ -246,6 +248,7 @@ pahannäköinen
 pakettiautomallinen
 paksu
 paljo
+paranoidi
 paranormaali
 parka
 paskiainen
@@ -283,6 +286,7 @@ portugalilaisnuori
 PS-aktiivi
 puhdas
 puolihöhlä
+puolikuiva
 puolityhjä
 puolustusviranomainen
 putipuhdas
@@ -290,6 +294,7 @@ pyhä
 raaka
 raavas
 radikaali
+rahanpesuviranomainen
 rajaviranomainen
 rakas
 ranskalaisrakas
@@ -370,6 +375,7 @@ tällainen
 talouspoliittinen
 talousrikollinen
 tämmöinen
+tarkoituksenmukainen
 tasapaksu
 tavanomainen
 täyspitkä
