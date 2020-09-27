@@ -17,6 +17,7 @@ Alaska
 Alastaro
 Alavieska
 Alavus
+Albania
 Alppi
 Amazon
 Amerikka
@@ -124,6 +125,7 @@ Etelä-Karjala
 Etelä-Kiina
 Etelä-Konnevesi
 Etelä-Korea
+Etelä-Libanon
 Etelä-Ranska
 Etelä-Ruotsi
 Etelä-Satakunta
@@ -137,6 +139,7 @@ etu-Töölö
 Eura
 Euraasia
 Eurajoki
+eurocup-Koitto
 Eurooppa
 Evijärvi
 Färsaari
@@ -267,12 +270,14 @@ Joutseno
 Juankoski
 Jugoslavia
 Junttila
+Jurva
 Juuka
 Juutinrauma
 Juva
 Jyväskylä
 Jyväskylä-Tampere
 Kaaba
+Kaakkois-Aasia
 Kaamanen
 Kaarela
 Kaarina
@@ -282,6 +287,7 @@ Kaija
 Kainuu
 Kaisaniemi
 Kajaani
+Kakola
 Kalajoki
 Kalanti
 Kalifornia
@@ -318,6 +324,7 @@ Kaspianmeri
 Katalonia
 Kauhajoki
 Kauhava
+Kaukasia
 Kaukoitä
 Kauniainen
 Kaustinen
@@ -350,6 +357,8 @@ Kiiminki
 Kiiminkijoki
 Kiina
 Kilpisjärvi
+kimeä-Ääninen
+Kingston
 Kinnari
 Kinnula
 Kiova
@@ -423,6 +432,7 @@ Lähi-itä
 Laihia
 Laitila
 lama-Suomi
+Lammi
 Längelmäki
 Lanka
 Länsi-Afrikka
@@ -438,6 +448,7 @@ Lappajärvi
 Lappi
 Lapua
 Laukaa
+Laukko
 Lausanne
 Lavia
 Lehmo
@@ -480,6 +491,7 @@ Madrid
 Makari
 Makedonia
 Mäkelä
+Mäkelä-Nummela
 Mäkkylä
 Maksamaa
 Malawi
@@ -513,6 +525,7 @@ Meksiko
 Melbourne
 Merikarvia
 Meri-Lappi
+Meri-Pori
 mestari-Liverpool
 Metsälä
 Mette-Mari
@@ -691,6 +704,7 @@ Pöytyä
 Praha
 Pudasjärvi
 Puijo
+Puistola
 Pukkila
 Punainenmeri
 Punkaharju
@@ -734,6 +748,7 @@ Rosa-Mari
 Rotterdam
 Rovaniemi
 Ruanda
+Ruka
 Ruokolahti
 Ruotsi
 Ruotsinpyhtää
@@ -799,6 +814,7 @@ Slovakia
 Slovenia
 Sodankylä
 Södertälje
+Sodoma
 Soini
 Somalia
 Somero
@@ -811,6 +827,7 @@ Sri
 Strasbourg
 Sudan
 Sulkava
+Sumiainen
 Suolahti
 Suomen-Ruotsi
 Suomi
@@ -846,6 +863,7 @@ Tampere-Pirkkala
 Tanska
 Tapiola
 Tartto
+Tasmania
 Teheran
 Teisko
 Teksas
@@ -931,6 +949,7 @@ Vantaa
 Varpaisjärvi
 varsinais-Suomi
 Vehmaa
+Veikkola
 Venetsia
 Venezuela
 Vesala
@@ -956,6 +975,7 @@ Yellowstone
 Yhdysvalta
 Ylä-Lappi
 Yläne
+Ylä-Savo
 Yli-Ii
 Ylikiiminki
 yli-Mannila

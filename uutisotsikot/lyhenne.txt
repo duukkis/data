@@ -18,6 +18,7 @@ EU
 FBI
 FM
 FT
+GPS
 HIV
 Hz
 IMF
@@ -33,6 +34,7 @@ kuu-WC
 LED
 LP
 LSD
+mini-LP
 MM
 MTK
 MTV

@@ -80,6 +80,7 @@ Anna-Kristiina
 Anna-Leena
 Anna-Lisa
 Anna-Maija
+Anna-Stina
 Anne
 Anne-Elisabeth
 Anneli
@@ -101,6 +102,7 @@ Anu-Elina
 Anu-Maarit
 Ari
 Ariel
+Ari-Kyösti
 Ari-Pekka
 Arja
 Armi
@@ -115,6 +117,7 @@ Arvid
 asianajaja-Sini
 Asko
 Asta
+Atso
 Atte
 August
 Aulis
@@ -122,6 +125,7 @@ Auri
 Aurora
 Auvo
 avomies-Paul
+avustaja-Helmi
 Axel
 Barack
 Barbara
@@ -153,6 +157,7 @@ Christopher
 Claes
 Clarice
 Colin
+cup-Unelma
 Dagmar
 Daisy
 Daniel
@@ -178,6 +183,7 @@ Eevi
 Eija
 Eija-Riitta
 Eila
+Einari
 Eini
 Eino
 Eivor
@@ -241,8 +247,11 @@ Fredrik
 Frida
 fysiikkavalmentaja-Jere
 Gabriel
+Geoffrey
 Georg
 George
+golf-Maila
+Göran
 Gösta
 Guillaume
 Gunnar
@@ -434,6 +443,7 @@ Karoliina
 Karolina
 Kasper
 Kasperi
+kassi-Alma
 Katariina
 Katarina
 Kati
@@ -468,8 +478,10 @@ Kristiina
 Kristina
 Kurt
 Kustaa
+Kyllikki
 Kyösti
 Laila
+Lalli
 Lars
 Lars-Göran
 Lasse
@@ -532,6 +544,8 @@ Maisa
 Maksim
 Manu
 Marcus
+Margareeta
+Margareetta
 Margaret
 Maria
 Marianna
@@ -622,6 +636,7 @@ Mona-Liisa
 Monica
 Monika
 Moona
+mörkö-Marko
 Morris
 Muhammad
 Muhammed
@@ -701,6 +716,7 @@ Perry
 Pertti
 Perttu
 Peter
+Petr
 Petra
 Petri
 Petrus
@@ -769,6 +785,7 @@ Robert
 Robert-Veli
 Robin
 Roger
+Roland
 Ronald
 Roni
 Ronja
@@ -779,6 +796,7 @@ Rose
 Ruth
 Ruusu
 Saara
+Saara-Lotta
 Saara-Sofia
 Sabina
 Sabine
@@ -813,6 +831,7 @@ Sauli
 Sebastian
 Seela
 Seija
+sekakäyttäjä-Jani
 seksi-Olli
 Selma
 Senja
@@ -837,6 +856,7 @@ Sivi
 SM-Taisto
 Sofia
 Soile
+Solveig
 Sonja
 Stefan
 Stella
@@ -852,6 +872,7 @@ Susan
 Susanna
 susi-Kalle
 suvi-Anne
+Sven
 Sven-Göran
 Svetlana
 Sylvester
@@ -874,6 +895,7 @@ Tatu
 Tauno
 Tea
 Teemu
+Teija
 teknologia-Alan
 Tellervo
 Teppo
@@ -908,8 +930,10 @@ Touko
 Tove
 Tracy
 Tuija
+Tuire
 Tuomas
 Tuomo
+turbo-Timo
 Turkka
 Tuukka
 Tuula
@@ -933,6 +957,7 @@ vaha-Harry
 vaimo-Vivian
 Väinö
 Valentin
+Valter
 Valto
 Valtteri
 Vanessa
@@ -954,9 +979,12 @@ Vertti
 vesa-Matti
 Victor
 Victoria
+Vieno
 Viivi
 Viktor
+Vilhelmiina
 Vilho
+Vili
 Viljami
 Viljo
 Ville
@@ -969,6 +997,7 @@ Vladimir
 vuokra-Ale
 Wäinö
 Walter
+Waltteri
 Will
 William
 Wilma

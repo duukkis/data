@@ -88,6 +88,7 @@ hoteissa
 hukassa
 huomenna
 huonoiten
+huosta
 huutia
 hyväksi
 hyvänen
@@ -118,6 +119,7 @@ joukoittain
 julki
 juovuksissa
 juovuspäissä
+juttusilla
 kadoksissa
 kahtia
 kai
@@ -157,6 +159,7 @@ kotoisin
 kotosalla
 kuitenkaan
 kuitenkin
+kulloin
 kumminkin
 kumollaan
 kumossa
@@ -175,12 +178,15 @@ lähemmäs
 lähes
 lähestulkoon
 lähettyvillä
+lähimmäs
 lähtöisin
+laimin
 lainkaan
 lainsäädäntötie
 lakitie
 läsnä
 lauantaisin
+laukuittain
 letkoittain
 liki
 liossa
@@ -248,6 +254,7 @@ päin
 painuksissa
 päinvastoin
 paitsi
+päittäin
 päiväsaikaan
 päivittäin
 pakosalla
@@ -271,6 +278,7 @@ pitkälti
 pohjimmiltaan
 poikittain
 poikki
+poikkiteloin
 pois
 poispäin
 poissa
@@ -286,6 +294,7 @@ retuperällä
 rikki
 rinnakkain
 roppakaupalla
+rutto
 saakka
 saatana
 saati
@@ -303,6 +312,7 @@ siis
 sikäli
 sikseen
 siksi
+silleen
 silloin
 silti
 sinällään
@@ -313,6 +323,7 @@ sittemmin
 sitten
 suinkin
 sujut
+sukkasillaan
 sunnuntaisin
 suomalaisittain
 supussa
@@ -330,6 +341,7 @@ takana
 takia
 tallessa
 tällöin
+tamperelaisittain
 tänään
 tanskalaisittain
 tarjolla
@@ -406,6 +418,8 @@ yhteensä
 yhtenä
 yksin
 yksinään
+yksinomaan
+yksitellen
 ykskantaan
 yleensä
 ylen

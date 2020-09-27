@@ -11,6 +11,7 @@ aktiivimallinen
 akuutti
 altis
 aluepoliittinen
+alueviranomainen
 älypuhelinmallinen
 amerikansuomalainen
 amerikkalaisviranomainen
@@ -20,6 +21,7 @@ apea
 arkkivihollinen
 armas
 asianmukainen
+asianomainen
 auringonkaltainen
 australialaisrakas
 avojalo
@@ -57,6 +59,7 @@ EU-suomalainen
 EU-viranomainen
 EU-vironomainen
 evankelis-luterilainen
+farkkutakamusta
 geopoliittinen
 haikea
 hämärä
@@ -73,6 +76,7 @@ hollantilaisrakas
 hölmö
 hölmöläinen
 hömppä
+höntti
 höperö
 huippuaituri
 huippuhelle
@@ -99,6 +103,7 @@ inkeriläinen
 inkerinsuomalainen
 introvertti
 irlantilaisrakas
+islamilainen
 iso
 itämerensuomalainen
 itäsuomalainen
@@ -171,6 +176,7 @@ kylmä
 kylmänviileä
 kypsä
 läheinen
+lahkolainen
 lahtelainen
 lainen
 lainmukainen
@@ -198,6 +204,7 @@ mainio
 makea
 mallinen
 märkä
+marras
 mätä
 matala
 mattamusta
@@ -255,6 +262,7 @@ paskiainen
 pehmeä
 pehmo
 pelastusviranomainen
+perisuomalainen
 perussuomalainen
 perussuomalaisaktiivi
 petosrikollinen
@@ -279,6 +287,8 @@ pohjois-korea
 pohjoismaalainen
 pohjois-norja
 pohjoispohjanmaalainen
+pohjoissuomalainen
+pökkelö
 poliittinen
 polo
 poppa
@@ -320,6 +330,7 @@ saamelaisnuori
 saarelainen
 säikky
 sairas
+saksalaishirmu
 samankaltainen
 samannäköinen
 satamaviranomainen
@@ -348,6 +359,7 @@ sulo
 suomalainen
 suomalaisaituri
 suomalaisbrittiläinen
+suomalaisloisto
 suomalaisnuori
 suomalaisrakas
 suomalaistulokas
@@ -367,6 +379,7 @@ suuri
 suvereeni
 syvä
 syyshelle
+syyttäjäviranomainen
 taianomainen
 taistolainen
 takamusta
@@ -416,6 +429,7 @@ ulkopoliittinen
 ulkosuomalainen
 ummikko
 unenomainen
+unkarilais-suomalainen
 upporikas
 uskalikko
 utelias
@@ -474,6 +488,7 @@ viimeinen
 villi
 violetti
 viranomainen
+virolaisrikollinen
 virtolainen
 vissi
 v-käyrä

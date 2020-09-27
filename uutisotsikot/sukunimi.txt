@@ -43,6 +43,7 @@ Arkivuo
 Arminen
 Armstrong
 Aro
+Arola
 Aronen
 Arponen
 Arvonen
@@ -53,6 +54,7 @@ Asukas
 Asunmaa
 Atkinson
 Attila
+Auer
 Autio
 Autto
 Auvinen
@@ -111,6 +113,7 @@ Eco
 Eden
 Eerikäinen
 Ehrnrooth
+Eiffel
 Einstein
 Eklund
 Ekman-Larsson
@@ -134,6 +137,7 @@ Filppula
 Fisher
 Fjäder
 Flemming
+Föhr
 formula-Autto
 Forsberg
 Forsell
@@ -148,6 +152,7 @@ Gerber
 Gibson
 Goldberg
 Gorbatshov
+Gorbatšov
 Granberg
 Granholm
 Granlund
@@ -205,6 +210,7 @@ Hatakka
 Hätinen
 Hätönen
 Hautala
+Havukainen
 Hedlund
 Hedman
 Heikka
@@ -280,6 +286,7 @@ Hyvönen
 Hyyrynen
 Hyysalo
 Ihalainen
+Ihamäki
 Ihamuotila
 Iivanainen
 Ikonen
@@ -329,6 +336,8 @@ Kafka
 Kähkönen
 Kaikkonen
 Kainulainen
+Kaivola
+Kajander
 Kakko
 Kallinen
 Kallio
@@ -398,6 +407,7 @@ Kivistö
 k-Kauppi
 Klemetti
 Klemola
+Knuuttila
 Kohonen
 Koiranen
 Koistinen
@@ -452,6 +462,7 @@ Kurkela
 Kurki
 Kurkinen
 Kuronen
+Kurppa
 Kurttila
 Kurvinen
 Kuusinen
@@ -547,6 +558,7 @@ Litvinov
 Liukko
 Liukkonen
 Loikkanen
+London
 Lovecraft
 Lukkala
 Lukkarinen
@@ -569,6 +581,7 @@ Lyytikäinen
 Lyytinen
 Määttä
 Madetoja
+Maikku
 Major
 Mäkeläinen
 Mäki
@@ -582,6 +595,7 @@ Manner
 Mannerheim
 Manni
 Manninen
+Männistö
 Mantere
 Mäntylä
 Mao
@@ -601,6 +615,7 @@ McLaren
 Mela
 Melkko
 Mentula
+Merikanto
 Meriläinen
 Meri-Toppila
 Mertanen
@@ -644,6 +659,8 @@ Myllys
 Naukkarinen
 Näveri
 Nenonen
+Neuvonen
+neuvostokuorma-Autto
 Nevala
 Newton
 NHL-Hall
@@ -665,6 +682,7 @@ Nissilä
 Nissinen
 Nobel
 Nokelainen
+Nordlund
 Nordman
 Noronen
 Novak
@@ -678,6 +696,7 @@ Nygård
 Nyholm
 Nykänen
 Nykopp
+Nylander
 Nylund
 Nyman
 Nyström
@@ -687,6 +706,7 @@ Oikarainen
 Ojala
 Ojala-Niemelä
 Ojanen
+Oksala
 Oksanen
 Oksman
 Ollikainen
@@ -698,6 +718,7 @@ Oranen
 Outinen
 Ovaska
 Owen
+Paajanen
 Paakkinen
 Pääkkönen
 Paananen
@@ -741,6 +762,7 @@ Penttinen
 Perälä
 Perttilä
 Perttula
+Perttunen
 Pesonen
 Peters
 Pettersson
@@ -849,6 +871,7 @@ Rönkä
 Ronkainen
 Rönnqvist
 Roos
+Roosevelt
 Roponen
 Rosberg
 Rosenberg
@@ -873,6 +896,7 @@ Saarela
 Saarikko
 sähkö-Helkama
 sähkökuorma-Autto
+Sahlstedt
 Saikkonen
 Sainio
 Säkkinen
@@ -881,6 +905,7 @@ salin-Pakarinen
 Sallinen
 Salminen
 Salonen
+Sandholm
 Santanen
 Sarasvuo
 Sariola
@@ -907,6 +932,7 @@ Sibelius
 Siekkinen
 Sievinen
 Sihvonen
+siika-Aho
 Siilasmaa
 Sillman
 Siltala
@@ -925,8 +951,11 @@ Snellman
 Söderholm
 Söderström
 Sohlberg
+Somppi
 Sopanen
+Sorjonen
 Sorvali
+Springer
 Ståhl
 Stalin
 Starling
@@ -938,6 +967,7 @@ Strömberg
 Stubb
 Suhonen
 Suikkanen
+Sulander
 Summanen
 Sundell
 Sundqvist
@@ -1059,6 +1089,7 @@ Vatjus
 Väyrynen
 Vehviläinen
 Veijola
+Vepsäläinen
 Verronen
 Vesalainen
 Vesterinen
@@ -1092,6 +1123,7 @@ Walden
 Wallin
 Waltari
 Watson
+Wells
 Wesley
 Westerholm
 Westerlund

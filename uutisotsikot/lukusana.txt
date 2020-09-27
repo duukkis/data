@@ -8,6 +8,7 @@
 -84
 aamukahdeksan
 aamukolme
+aamukuusi
 aamuseitsemän
 aamuviisi
 aamuyhdeksän
@@ -56,6 +57,7 @@ neljäs
 neljästoista
 neljätoista
 parisenkymmentä
+parisensataa
 puolitoista
 sadas
 sata

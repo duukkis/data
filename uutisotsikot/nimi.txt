@@ -5,6 +5,7 @@ Akava
 Akira
 Al
 Alko
+Allah
 Al-Qaida
 Andromeda
 Apollo
@@ -18,6 +19,7 @@ Basic
 Beatles
 bensa-Mersu
 bin
+Burana
 Coca-Cola
 Core
 Crash
@@ -107,6 +109,7 @@ Stockmann
 Stuka
 Suomi-Twitter
 Supo
+Tarzan
 Tavastia
 Teboil
 tehdas-Hyundai
@@ -127,6 +130,7 @@ Wärtsilä
 WhatsApp
 Wikipedia
 Windows
+Yakuza
 Yaris
 Yle
 YouTube
