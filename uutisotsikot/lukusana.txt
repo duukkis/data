@@ -9,6 +9,7 @@
 aamukahdeksan
 aamukolme
 aamukuusi
+aamuneljä
 aamuseitsemän
 aamuviisi
 aamuyhdeksän

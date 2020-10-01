@@ -279,6 +279,7 @@ Jyväskylä-Tampere
 Kaaba
 Kaakkois-Aasia
 Kaamanen
+Kaanaa
 Kaarela
 Kaarina
 Kaavi
@@ -325,6 +326,7 @@ Katalonia
 Kauhajoki
 Kauhava
 Kaukasia
+Kaukasus
 Kaukoitä
 Kauniainen
 Kaustinen
@@ -407,6 +409,7 @@ Kruununhaka
 Kruunupyy
 Kuha
 Kuhmo
+Kuittinen
 Kukkola
 Kulho
 Kulju
@@ -426,6 +429,7 @@ k-Vantaa
 Kylmäkoski
 Kymi
 Kypros
+Kyyjärvi
 Laajasalo
 Laatokka
 Lähi-itä
@@ -628,6 +632,7 @@ Oulu
 Oulujärvi
 Oulujoki
 Oulu-Kajaani-Kuopio
+Ounasvaara
 Outokumpu
 Oxford
 Padasjoki
@@ -683,6 +688,7 @@ Pohjois-Afrikka
 Pohjois-Amerikka
 Pohjois-Carolina
 Pohjois-Eurooppa
+Pohjois-Haaga
 Pohjois-Intia
 Pohjois-Irlanti
 Pohjois-Lappi
@@ -706,6 +712,7 @@ Pudasjärvi
 Puijo
 Puistola
 Pukkila
+Pulkkila
 Punainenmeri
 Punkaharju
 Punkalaidun
@@ -931,6 +938,7 @@ Uusimaa
 Uusi-Seelanti
 Uusi-Siperia
 Uutela
+Vaajakoski
 Vääksy
 Vaala
 Vaasa
@@ -956,6 +964,7 @@ Vesala
 Vierumäki
 Vihanti
 Vihti
+Viiala
 Viikki
 Viipuri
 Vilna
@@ -981,6 +990,7 @@ Ylikiiminki
 yli-Mannila
 Ylitornio
 Ylivieska
+Ylläs
 Ylöjärvi
 York
 Ypäjä

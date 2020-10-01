@@ -163,6 +163,7 @@ Daisy
 Daniel
 Daniela
 David
+diakonissa-Marika
 Diana
 Donald
 Douglas
@@ -216,6 +217,7 @@ Emma
 Emmi-Lydia
 Enni
 Eppu
+erä-Veikko
 Erik
 Erika
 Erikka
@@ -528,6 +530,7 @@ maajussi-Lauri
 maajussi-Miia
 maajussi-Paavo
 maajussi-Pia
+Maaret
 Maaria
 Maarit
 Madeleine
@@ -552,12 +555,14 @@ Marianna
 Maria-Riitta
 Marie
 Mariella
+Mariitta
 Marika
 Mari-Leena
 Mario
 Marita
 Marja
 Marjaana
+Marja-Aron
 Marja-Leena
 marjastaja-Pertti
 Marjo
@@ -713,6 +718,7 @@ Pentti
 Peppi
 Pernilla
 Perry
+Pertteli
 Pertti
 Perttu
 Peter
@@ -849,6 +855,7 @@ Silva
 Silvia
 Simeon
 Sinikka
+sinkku-Joni
 Sinuhe
 sirkka-Liisa
 Sirpa
@@ -883,6 +890,7 @@ taika-Pasi
 Taimi
 Taina
 Taisto
+Tamara
 Taneli
 Tanja
 tapahtuma-Alan
@@ -980,6 +988,7 @@ vesa-Matti
 Victor
 Victoria
 Vieno
+Vihtori
 Viivi
 Viktor
 Vilhelmiina

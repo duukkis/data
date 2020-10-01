@@ -146,6 +146,7 @@ keulilla
 kiinni
 kiloittain
 kilpasilla
+kirje
 kissun
 kohme
 kohta

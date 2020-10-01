@@ -101,12 +101,14 @@ ilmainen
 ilmastopoliittinen
 inkeriläinen
 inkerinsuomalainen
+intellektuelli
 introvertti
 irlantilaisrakas
 islamilainen
 iso
 itämerensuomalainen
 itäsuomalainen
+jäävi
 jälkeläinen
 jälkimmäinen
 jalo
@@ -250,6 +252,7 @@ orpo
 oulaistelainen
 outo
 öykkäri
+pääkaupunkilainen
 paha
 pahannäköinen
 pakettiautomallinen
@@ -402,6 +405,7 @@ tohelo
 tökerö
 tonttu
 törkeä
+torkku
 tornimallinen
 tosi
 totuudenmukainen
@@ -430,6 +434,7 @@ ulkosuomalainen
 ummikko
 unenomainen
 unkarilais-suomalainen
+upeannäköinen
 upporikas
 uskalikko
 utelias

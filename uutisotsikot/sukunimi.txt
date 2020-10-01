@@ -10,6 +10,7 @@ Ahlström
 Aho
 Ahola
 Ahonen
+Ahtee
 Ahtiainen
 Ahti-Hallberg
 Äijälä
@@ -21,6 +22,7 @@ Aittola
 Åkerman
 Alanen
 Alanko
+Alén
 Alenius
 Alkio
 Alonso
@@ -49,6 +51,7 @@ Arponen
 Arvonen
 Asikainen
 Asimov
+Asperger
 Åström
 Asukas
 Asunmaa
@@ -99,6 +102,7 @@ Caine
 Cameron
 Canth
 Carlson
+Chydenius
 Coulthard
 Dahl
 Dahlström
@@ -126,6 +130,7 @@ Ericsson
 Eriksson
 Erkko
 Eronen
+Ervasti
 Eskelinen
 Eskola
 EU-Eronen
@@ -137,6 +142,7 @@ Filppula
 Fisher
 Fjäder
 Flemming
+Flink
 Föhr
 formula-Autto
 Forsberg
@@ -168,6 +174,7 @@ Haapanen
 Haapio
 Haarala
 Haatainen
+Haataja
 Haatanen
 Haavisto
 Hackzell
@@ -338,6 +345,7 @@ Kaikkonen
 Kainulainen
 Kaivola
 Kajander
+Kajanoja
 Kakko
 Kallinen
 Kallio
@@ -374,6 +382,7 @@ Karvinen
 Karvonen
 Kaste
 Katainen
+katu-Pösö
 Kauhanen
 Kauppi
 Kauppinen
@@ -400,6 +409,7 @@ Kilpinen
 Kimmel
 King
 Kinnunen
+kiusaaja-Trump
 Kivelä
 Kivinen
 Kiviniemi
@@ -426,6 +436,7 @@ Konstig
 Kontinen
 Kontio
 Kontkanen
+Konttila
 Koponen
 Korhonen
 Korkalainen
@@ -673,6 +684,7 @@ niemi-Nikkola
 Niinistö
 Niiranen
 Nikkanen
+Nikkinen
 Nikkola
 Niklas-Salminen
 Nikula
@@ -684,6 +696,7 @@ Nobel
 Nokelainen
 Nordlund
 Nordman
+Nordström
 Noronen
 Novak
 Nummelin
@@ -726,6 +739,7 @@ Paasio
 Paasonen
 Paatelainen
 Paatero
+Paavilainen
 Paavola
 Packalen
 Packalén
@@ -852,6 +866,7 @@ Rekonen
 Remes
 Rento
 Reponen
+Reunanen
 Reynolds
 Riekki
 Riikola
@@ -867,6 +882,7 @@ Roiha
 Roininen
 Roivainen
 Rokka
+Romppanen
 Rönkä
 Ronkainen
 Rönnqvist
@@ -984,6 +1000,7 @@ Takanen
 Talaslahti
 Tallberg
 Tallgren
+Tallqvist
 Talonen
 Tamminen
 Tanner
@@ -1060,10 +1077,12 @@ Tyni
 Tynkkynen
 Uimonen
 Ukko-Koli
+Uosukainen
 Uotila
 Uotinen
 Urpilainen
 Utriainen
+uusi-Illikainen
 Uusimäki
 Uusitalo
 Uusitalo-Seppälä

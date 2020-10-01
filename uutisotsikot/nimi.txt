@@ -60,14 +60,17 @@ Kemira
 keski-Maa
 Kesko
 Kia
+kohu-Jaguar
 Koraani
 Lada
+lähi-Alko
 Lego
 Lidl
 Linux
 Lost
 luksus-Mersu
 Maamme-laulu
+maasturi-Lada
 Marimekko
 Mersu
 Microsoft
@@ -85,6 +88,7 @@ Oscar
 Otava
 Panadol
 Peugeot
+pistoke-Volvo
 Porsche
 Poseidon
 Prometheus
@@ -97,6 +101,7 @@ Saab
 Saint
 Samsung
 San
+sarjatuotanto-Peugeot
 Saturnus
 Sauber
 Schengen-Maa
