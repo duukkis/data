@@ -186,6 +186,7 @@ Helsinki-Turku
 Helsinki-Vantaa
 Herttoniemi
 Hervanta
+Himalaja
 Himanka
 Hiroshima
 Hollola
@@ -236,11 +237,13 @@ Istanbul
 Itä-Afrikka
 Itä-Eurooppa
 Itä-Helsinki
+Itä-Karjala
 Itä-Kiina
 Itä-Lappi
 Italia
 Itämeri
 Itä-Pori
+Itä-Saksa
 Itä-Savo
 Itä-Suomi
 Itä-Ukraina
@@ -516,6 +519,7 @@ Mäntsälä
 Mänttä-Vilppula
 Mäntyharju
 Mari
+Marino
 Marokko
 Mars
 Marseille
@@ -575,6 +579,7 @@ Nashville
 Näsijärvi
 Nastola
 natsi-Saksa
+natsi-Suomi
 Nauvo
 Nellim
 Nevada
@@ -642,6 +647,8 @@ Paimio
 Pakistan
 Palestiina
 Pälkäne
+palladium-Malmi
+Palojärvi
 Paltamo
 p-Amerikka
 Panama
@@ -717,6 +724,7 @@ Punainenmeri
 Punkaharju
 Punkalaidun
 Puola
+Puolala
 Puolanka
 Puotila
 Purola
@@ -733,6 +741,7 @@ Raasepori
 Raisio
 Ranska
 Rantasalmi
+Rantsila
 Ranua
 Rapala
 Rauma
@@ -978,6 +987,7 @@ Vuosaari
 Vuotso
 Wales
 Washington
+Westend
 Wien-Helsinki
 Wisconsin
 Yellowstone

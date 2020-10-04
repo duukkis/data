@@ -559,6 +559,7 @@ Mariitta
 Marika
 Mari-Leena
 Mario
+Mari-Sisko
 Marita
 Marja
 Marjaana
@@ -683,6 +684,7 @@ Olga
 Oliver
 Olivia
 Olli
+Olli-Jussi
 Olli-Pekka
 Olof
 Oona
@@ -854,6 +856,7 @@ Silja
 Silva
 Silvia
 Simeon
+Simo-Pekka
 Sinikka
 sinkku-Joni
 Sinuhe
@@ -978,6 +981,7 @@ Veikka-Matti
 Veikko
 Veini
 veli-Matti
+veli-Pekka
 venäjä-Toimi
 Venla
 Vera

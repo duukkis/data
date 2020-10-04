@@ -61,6 +61,7 @@ EU-vironomainen
 evankelis-luterilainen
 farkkutakamusta
 geopoliittinen
+goottilainen
 haikea
 hämärä
 hapan
@@ -81,6 +82,7 @@ höperö
 huippuaituri
 huippuhelle
 huippukova
+huippupitkä
 huippurikas
 huipputulokas
 hullu
@@ -133,6 +135,7 @@ kauhea
 kauhunomainen
 kaupunkilainen
 käyrä
+käytännönläheinen
 kelpo
 kelta
 keskeinen
@@ -250,6 +253,7 @@ omanlainen
 ontto
 orpo
 oulaistelainen
+oululaisnuori
 outo
 öykkäri
 pääkaupunkilainen
@@ -380,8 +384,10 @@ supisuomalainen
 suuhunpantava
 suuri
 suvereeni
+sveitsiläisrakas
 syvä
 syyshelle
+syyslomalainen
 syyttäjäviranomainen
 taianomainen
 taistolainen

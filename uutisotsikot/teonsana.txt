@@ -107,6 +107,7 @@ arvella
 arveluttaa
 arvioida
 arvioittaa
+arvosijoittaa
 arvostaa
 arvostella
 arvuutella
@@ -239,6 +240,7 @@ esittäytyä
 eskaloitua
 estää
 estellä
+estyä
 etä-äänestää
 etäännyttää
 etäjuhlia
@@ -347,6 +349,7 @@ haravoida
 harhailla
 harhautella
 harhauttaa
+harhautua
 harjata
 harjoitella
 harjoittaa
@@ -360,6 +363,7 @@ härnätä
 harpata
 harppoa
 harrastaa
+harsia
 harventaa
 harveta
 hassutella
@@ -375,6 +379,7 @@ haudata
 haukkoa
 haukkua
 haukotella
+hauskuttaa
 hauskuuttaa
 hautautua
 hautoa
@@ -472,6 +477,7 @@ himmetä
 himoita
 himota
 hinata
+hinkata
 hinnoitella
 hioa
 hiota
@@ -518,6 +524,7 @@ hortoilla
 hosua
 hotellikohdata
 hotkaista
+hotkia
 houkutella
 houkuttaa
 höynäyttää
@@ -711,6 +718,7 @@ jäähtyä
 jäätyä
 jaella
 jahdata
+jahkailla
 jahkata
 jähmettyä
 jakaa
@@ -723,10 +731,12 @@ jäljittää
 jalkapallovalmentaa
 jalkautua
 jälleenkohdata
+jälleenmyydä
 jälleenrakentaa
 jallittaa
 jaloitella
 jalostaa
+jalostua
 jämähtää
 jankata
 jännätä
@@ -844,6 +854,7 @@ kahmia
 kähmiä
 kähveltää
 kaihertaa
+kaihota
 kaihtaa
 kaikota
 kaikua
@@ -1073,6 +1084,7 @@ kiillottaa
 kiiltää
 kiilua
 kiinnijäädä
+kiinnisaada
 kiinnittää
 kiinnittyä
 kiinnostaa
@@ -1240,6 +1252,7 @@ korostua
 körötellä
 korottaa
 korreloida
+korttimaksaa
 korvata
 korvautua
 korveta
@@ -1339,6 +1352,7 @@ kuristaa
 kurittaa
 kurkata
 kurkistaa
+kurkistella
 kurkkia
 kurkotella
 kurkottaa
@@ -1516,6 +1530,7 @@ lentää
 lepattaa
 letkauttaa
 levätä
+leveillä
 leventää
 levitä
 levittää
@@ -1544,6 +1559,7 @@ liikennekäyttäytyä
 liikennöidä
 liikennöityä
 liikkua
+liikuntapaikkarakentaa
 liikuskella
 liikutella
 liikuttaa
@@ -1635,6 +1651,7 @@ lukeutua
 lukita
 lukittautua
 lukkaroida
+lumilautailla
 lumota
 lunastaa
 luoda
@@ -1648,6 +1665,7 @@ luotsata
 luottaa
 luovuttaa
 lupailla
+lusia
 luukuttaa
 luulla
 luurata
@@ -1667,6 +1685,7 @@ lypsää
 lysähtää
 lytätä
 lyyhistyä
+maadoittaa
 maalailla
 maalata
 maalineduspelata
@@ -1820,6 +1839,7 @@ munia
 muodostaa
 muodostua
 muokata
+muotoilla
 muotoutua
 muovata
 muovautua
@@ -1836,6 +1856,7 @@ murjottaa
 murjoutua
 murskaantua
 murskata
+murskautua
 murtaa
 murtautua
 murtua
@@ -1843,6 +1864,7 @@ museoida
 musertaa
 musertua
 musisoida
+mustamaalata
 mutkistua
 mutkitella
 muuntaa
@@ -2242,6 +2264,7 @@ pierrä
 piestä
 pietä
 piharakentaa
+piikata
 piikitellä
 piikittää
 piileksiä
@@ -2767,6 +2790,7 @@ säihkyä
 säikähtää
 säikäyttää
 säikkyä
+säikytellä
 säikyttää
 säilöä
 säilyä
@@ -2882,6 +2906,7 @@ silittää
 silmäillä
 silmätä
 silpoa
+silputa
 simuloida
 sinetöidä
 sinetöityä
@@ -2949,6 +2974,7 @@ sovitella
 sovittaa
 sparrata
 spekuloida
+spekuloitua
 sponsoroida
 spurtata
 startata
@@ -3194,6 +3220,7 @@ telttailla
 temmata
 temmeltää
 tempaista
+tempoa
 temppuilla
 tenttiä
 tepastella
@@ -3301,6 +3328,7 @@ tuhlailla
 tuhlata
 tuhota
 tuhoutua
+tuhraantua
 tuhria
 tuijotella
 tuijottaa
@@ -3368,6 +3396,7 @@ tuskastuttaa
 tussahtaa
 tuta
 tutista
+tutkailla
 tutkia
 tutustua
 tutustuttaa
@@ -3561,6 +3590,7 @@ valmistaa
 valmistautua
 valmistella
 valmistua
+valokuvata
 valottaa
 vältellä
 välttää
@@ -3619,6 +3649,7 @@ vastustaa
 vastustella
 väsyä
 väsyttää
+vatkata
 vatvoa
 vauhdittaa
 vauhdittua
@@ -3677,6 +3708,7 @@ viekoitella
 vieraannuttaa
 vierähtää
 vierailla
+vierastaa
 vieriä
 viestiä
 viestitellä
@@ -3729,8 +3761,10 @@ villiintyä
 villitä
 vilustua
 vilvoitella
+vinguttaa
 vinkata
 vinoilla
+vipata
 virallistaa
 viritä
 viritellä

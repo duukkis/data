@@ -124,6 +124,7 @@ kadoksissa
 kahtia
 kai
 kaikkialla
+kallellaan
 kalpaten
 kaltoin
 karku
@@ -185,6 +186,7 @@ laimin
 lainkaan
 lainsäädäntötie
 lakitie
+läpi
 läsnä
 lauantaisin
 laukuittain
@@ -342,6 +344,7 @@ takana
 takia
 tallessa
 tällöin
+talviteloilla
 tamperelaisittain
 tänään
 tanskalaisittain
@@ -398,6 +401,7 @@ vasten
 vastikään
 vastoin
 väsyksissä
+verekseltään
 verran
 verrattain
 vertaansa
