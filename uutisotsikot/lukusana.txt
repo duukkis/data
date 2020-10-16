@@ -1,6 +1,7 @@
 -00
 -050
 -162
+-20
 -40
 -4000
 -45
@@ -39,6 +40,7 @@ kolmetoista
 kolmisen
 kolmisenkymmentä
 kuudes
+kuudestoista
 kuusi
 kuusikymmentä
 kuusisataa
@@ -75,14 +77,17 @@ VI
 vii
 viides
 viii
+VIII
 viisi
 viisikymmentä
 viisitoista
 viitisen
 viitisentoista
 xi
+xiv
 xvi
 XVI
+xxxi
 yhdeksän
 yhdeksäs
 yhdestoista

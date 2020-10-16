@@ -6,6 +6,7 @@ ADHD
 ALV
 bar
 BBC
+BKT
 CD
 CIA
 CNN
@@ -24,6 +25,7 @@ HTML
 Hz
 IMF
 IT
+juhla-DVD
 kg
 kJ
 kk
@@ -32,6 +34,7 @@ km
 kpl
 krs
 kuu-WC
+kWh
 LED
 LP
 LSD
@@ -72,5 +75,6 @@ VR
 VTT
 WC
 WHO
+WSOY
 WTO
 YK

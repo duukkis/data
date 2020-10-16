@@ -4,6 +4,7 @@
 äännellä
 ääntää
 aavistaa
+abortoitua
 adoptoida
 ahdistaa
 ahdistella
@@ -44,6 +45,7 @@ ajoittua
 ajoneuvokokoontua
 äkätä
 äkkipoistua
+äksyillä
 aktivoida
 aktivoitua
 älähtää
@@ -80,6 +82,7 @@ ampaista
 ampua
 amputoida
 analysoida
+analysoitua
 anastaa
 anella
 animoitua
@@ -93,6 +96,7 @@ apinoida
 ärähtää
 arastaa
 ärhennellä
+aristella
 ärjäistä
 ärjyä
 arkipäiväistää
@@ -115,6 +119,7 @@ aseistaa
 asemoitua
 asennoitua
 asentaa
+asentua
 asetella
 asettaa
 asettua
@@ -135,6 +140,7 @@ aukaista
 aukoa
 aurata
 autioittaa
+autioitua
 autoilla
 autokokoontua
 automaattiajaa
@@ -149,14 +155,17 @@ avustaa
 bailata
 blogata
 blokkiutua
+bluffata
 boikotoida
 bongata
 buuata
 debytoida
+demonisoida
 demonstroida
 desinfioida
 diagnosoida
 digitalisoida
+digitalisoitua
 diskata
 dokumentoida
 dominoida
@@ -195,6 +204,7 @@ elpyä
 elvyttää
 emännöidä
 empiä
+ennakkoilmoittautua
 ennakoida
 ennakoitua
 ennallistaa
@@ -213,6 +223,7 @@ epäkunnioittaa
 epäonnistua
 epäröidä
 erääntyä
+erakoitua
 erata
 erehdyttää
 erehtyä
@@ -230,9 +241,11 @@ erityisosata
 eriytyä
 erkaantua
 erota
+erotella
 erottaa
 erottua
 esiintyä
+esiselvittää
 esitellä
 esitelmöidä
 esittää
@@ -266,6 +279,7 @@ formuloida
 globaalistaa
 golfata
 grillata
+haahuilla
 haaksirikkoutua
 haalia
 häämöttää
@@ -297,6 +311,7 @@ haista
 haistaa
 haistatella
 haistattaa
+haistella
 haitata
 hajaantua
 hajauttaa
@@ -315,6 +330,7 @@ halailla
 halata
 haljeta
 halkaista
+halkeilla
 halkoa
 hallinnoida
 hallita
@@ -328,6 +344,7 @@ halventaa
 hälventää
 halveta
 hälyttää
+hämärtää
 hämärtyä
 hämätä
 hämmästellä
@@ -376,6 +393,7 @@ hätkähtää
 hätkäyttää
 hätyytellä
 haudata
+haukata
 haukkoa
 haukkua
 haukotella
@@ -416,6 +434,7 @@ heittelehtiä
 heittoistuinpelastautua
 heivata
 hekotella
+hekottaa
 hekumoida
 helähtää
 helistä
@@ -430,6 +449,7 @@ hempeillä
 hengähtää
 hengästyä
 hengästyttää
+hengitellä
 hengittää
 henkiä
 henkilöityä
@@ -519,14 +539,18 @@ horjahtaa
 horjua
 horjuttaa
 hörpätä
+hörppiä
 horrostaa
 hortoilla
 hosua
 hotellikohdata
+hotelliyöpyä
 hotkaista
 hotkia
 houkutella
 houkuttaa
+höyhentää
+höykyttää
 höynäyttää
 höyrytä
 huhkia
@@ -575,6 +599,7 @@ hurahtaa
 hurauttaa
 huristella
 hurjastella
+hurjistua
 hurmaantua
 hurmata
 hurrata
@@ -599,6 +624,7 @@ hylkiä
 hyllyttää
 hymähdellä
 hymähtää
+hymistä
 hymyillä
 hymyilyttää
 hyödyntää
@@ -612,6 +638,7 @@ hyötyä
 hypätä
 hypnotisoida
 hyppiä
+hyräillä
 hyväillä
 hyväksikäyttää
 hyväksyä
@@ -649,6 +676,7 @@ illallistaa
 illastaa
 ilmaantua
 ilmaista
+ilmakuvata
 ilmentää
 ilmentyä
 ilmestyä
@@ -693,9 +721,12 @@ irtisanoa
 irtisanoutua
 irvailla
 irviä
+irvistää
+irvistellä
 isännöidä
 iskeä
 iskeytyä
+iskostaa
 isoilla
 isota
 istahtaa
@@ -720,6 +751,7 @@ jaella
 jahdata
 jahkailla
 jahkata
+jähmettää
 jähmettyä
 jakaa
 jakaantua
@@ -754,6 +786,7 @@ järkyttää
 järkyttyä
 jarrutella
 jarruttaa
+jätättää
 jatkaa
 jatkomatkustaa
 jatkua
@@ -770,12 +803,15 @@ johtaa
 johtua
 jököttää
 jomottaa
+jonotella
 jonottaa
+joogata
 jouduttaa
 joukkoaltistua
 joukkoampua
 joukkoirtisanoa
 joukkokadota
+joukkokokoontua
 joukkotavata
 joustaa
 joutaa
@@ -842,6 +878,7 @@ kaataa
 kaatua
 kaatuilla
 kaavailla
+kaavoittaa
 kadehtia
 kadota
 kadottaa
@@ -865,6 +902,7 @@ kaivaa
 kaivata
 kaivautua
 kaivella
+kaivertaa
 kajahtaa
 kajastaa
 kajauttaa
@@ -902,11 +940,13 @@ kansainvälistyä
 kansalaisvaikuttaa
 kantaa
 kantautua
+käpälöidä
 käpertyä
 kapinoida
 karahtaa
 kärähtää
 karaista
+karaistua
 käräjöidä
 karata
 karauttaa
@@ -926,6 +966,7 @@ kärkkyä
 karkottaa
 karmaista
 karmia
+kärräillä
 kärrätä
 karsia
 kärsiä
@@ -936,6 +977,7 @@ kärttää
 karttua
 kärvistellä
 kärytä
+käryttää
 kasaantua
 kasata
 kasautua
@@ -1017,6 +1059,7 @@ keinua
 keittää
 keksiä
 kelata
+kellahtaa
 kellistää
 kellottaa
 kellua
@@ -1064,9 +1107,12 @@ kiepauttaa
 kieppua
 kierähtää
 kieriä
+kieriskellä
 kierrättää
 kierrellä
 kiertää
+kiertyä
+kietoa
 kietoutua
 kihauttaa
 kihistä
@@ -1090,6 +1136,7 @@ kiinnittyä
 kiinnostaa
 kiinnostella
 kiinnostua
+kiinteistösijoittaa
 kiipeillä
 kiirehtiä
 kiiruhtaa
@@ -1098,6 +1145,7 @@ kiistellä
 kiitää
 kiitellä
 kiittää
+kiivailla
 kiivastua
 kiivetä
 kikkailla
@@ -1112,6 +1160,7 @@ kilpailla
 kilpailuttaa
 kilpistyä
 kimallella
+kimmota
 kimpaantua
 kimpoilla
 kinastella
@@ -1161,10 +1210,12 @@ klikata
 koeajaa
 koe-esiintyä
 koelentää
+koemaistaa
 koetella
 koettaa
 koeviljellä
 kohahduttaa
+kohahtaa
 kohauttaa
 kohdata
 kohdella
@@ -1176,6 +1227,7 @@ kohennella
 kohentaa
 kohentua
 koheta
+köhiä
 kohista
 kohoilla
 kohota
@@ -1306,6 +1358,7 @@ kukistaa
 kukistua
 kukittaa
 kukkia
+kukkua
 kukoistaa
 kulauttaa
 kuljeskella
@@ -1367,6 +1420,7 @@ kurvata
 kuskata
 kusta
 kustantaa
+kutea
 kutistaa
 kutistua
 kutitella
@@ -1376,6 +1430,7 @@ kutkuttaa
 kutsua
 kuulla
 kuulostaa
+kuulostella
 kuultaa
 kuulua
 kuulustella
@@ -1422,6 +1477,7 @@ kyykistyä
 kyykkiä
 kyykyttää
 kyynelehtiä
+laahata
 laahustaa
 laajentaa
 laajentua
@@ -1457,10 +1513,12 @@ laiskistua
 laiskotella
 laistaa
 laittaa
+laivanrakentaa
 lajitella
 läjittää
 läkähtyä
 lakaista
+lakastua
 lakata
 lakkauttaa
 lakkoilla
@@ -1522,8 +1580,10 @@ leiskauttaa
 leiskua
 lekotella
 lelliä
+lemahtaa
 lemmiskellä
 lenkkeillä
+lennähtää
 lennättää
 lennellä
 lentää
@@ -1533,6 +1593,7 @@ levätä
 leveillä
 leventää
 levitä
+levitellä
 levittää
 levittäytyä
 levyttää
@@ -1564,6 +1625,7 @@ liikuskella
 liikutella
 liikuttaa
 liikuttua
+liimailla
 liimata
 liioitella
 liitää
@@ -1586,6 +1648,7 @@ lipsauttaa
 lipsua
 lipua
 liputtaa
+lirauttaa
 lisääntyä
 lisätä
 lisensoida
@@ -1603,6 +1666,7 @@ livetä
 livistää
 lobata
 lohduttaa
+lohduttautua
 lohkaista
 loihtia
 loikata
@@ -1617,12 +1681,14 @@ loiveta
 lojua
 loksahdella
 loksahtaa
+loksautella
 loksauttaa
 lomailla
 lomauttaa
 lopahtaa
 lopettaa
 loppua
+lorauttaa
 lorista
 lörpötellä
 lotista
@@ -1650,6 +1716,7 @@ lukea
 lukeutua
 lukita
 lukittautua
+lukittua
 lukkaroida
 lumilautailla
 lumota
@@ -1665,6 +1732,7 @@ luotsata
 luottaa
 luovuttaa
 lupailla
+lupautua
 lusia
 luukuttaa
 luulla
@@ -1673,8 +1741,10 @@ luvata
 lyhentää
 lyhentyä
 lyhetä
+lykästää
 lykätä
 lykkääntyä
+lykkäytyä
 lykkiä
 lymyillä
 lymytä
@@ -1722,6 +1792,7 @@ majoittua
 makoilla
 maksaa
 maksattaa
+maksella
 maksimoida
 maksukäyttäytyä
 mällätä
@@ -1743,6 +1814,7 @@ masentaa
 masentua
 masinoida
 maskeerata
+massa-altistua
 mässäillä
 massavangita
 masturboida
@@ -1753,6 +1825,7 @@ matkata
 matkia
 mätkiä
 matkustaa
+matkustella
 mättää
 maustaa
 mediatavata
@@ -1778,6 +1851,7 @@ metsästää
 metsittää
 miehittää
 miekkailla
+mielenosoittaa
 mielenosoitusampua
 mieliä
 miellyttää
@@ -1803,13 +1877,16 @@ mokailla
 mokata
 mökkeillä
 mököttää
+möläyttää
 mölistä
 mollata
+mölytä
 moninkertaistaa
 moninkertaistua
 monipuolistaa
 monipuolistua
 mönkiä
+monottaa
 mopoilla
 morjestaa
 motata
@@ -1827,6 +1904,7 @@ muistella
 muistua
 muistutella
 muistuttaa
+mukailla
 mukauttaa
 mukautua
 mukista
@@ -1895,6 +1973,7 @@ näännyttää
 nääntyä
 naarata
 naarmuttaa
+naarmuuntua
 nähdä
 nahistella
 naida
@@ -1906,6 +1985,7 @@ nakuttaa
 näkyä
 naljailla
 nälkiinnyttää
+nälviä
 napata
 napauttaa
 näpäyttää
@@ -1916,9 +1996,12 @@ näpistellä
 napostella
 nappailla
 näppäillä
+näprätä
 napsahtaa
+napsauttaa
 napsia
 naputella
+naputtaa
 näpytellä
 narahtaa
 närästää
@@ -1927,6 +2010,7 @@ narista
 närkästyä
 närkästyttää
 narrata
+naruttaa
 nauhoittaa
 naukkailla
 naukua
@@ -1988,6 +2072,7 @@ nostella
 noteerata
 notkahtaa
 notkua
+noudatella
 noudattaa
 noukkia
 nousta
@@ -2009,13 +2094,16 @@ nuorentaa
 nuorentua
 nuortua
 nuotata
+nurista
 nurkata
 nuuhkia
 nuuskata
 nuuskia
 nyhjätä
 nyhtää
+nykäistä
 nylkeä
+nyppiä
 nyrjähtää
 nyrkkeillä
 nytkähtää
@@ -2035,6 +2123,7 @@ oikaista
 oikeuskuulla
 oikeuttaa
 oikoa
+oirehtia
 oireilla
 oivaltaa
 ojentaa
@@ -2066,8 +2155,10 @@ optimoitua
 organisoida
 organisoitua
 osa-aikaistaa
+osallistaa
 osallistua
 osata
+osoitella
 osoittaa
 osoittautua
 ostaa
@@ -2110,6 +2201,7 @@ paikkailla
 paikkamaalata
 paimentaa
 painaa
+painattaa
 paineistaa
 painella
 painia
@@ -2135,6 +2227,7 @@ pakahtua
 pakastaa
 pakata
 paketoida
+paketoitua
 pakkailla
 pakkautua
 pakoilla
@@ -2154,6 +2247,7 @@ pallotella
 palvella
 palveluasua
 palvoa
+pamahdella
 pamahtaa
 pamauttaa
 pamppailla
@@ -2213,6 +2307,7 @@ pelata
 pelätä
 peljätä
 pelkistää
+pelleillä
 pelmahtaa
 pelotella
 pelottaa
@@ -2315,6 +2410,7 @@ pissata
 pissiä
 pistää
 pistäytyä
+pistellä
 pitää
 pitäytyä
 pitkittää
@@ -2371,8 +2467,10 @@ porhaltaa
 porista
 pornoilla
 porrastaa
+pörröttää
 porskuttaa
 pörssilistautua
+posauttaa
 poseerata
 postittaa
 potea
@@ -2389,6 +2487,7 @@ protestoida
 provosoida
 provosoitua
 pröystäillä
+pudistella
 pudota
 pudottaa
 pudottautua
@@ -2490,6 +2589,7 @@ pyörtää
 pyörtyä
 pyristellä
 pyrkiä
+pyryttää
 pysähtyä
 pysäköidä
 pysäköityä
@@ -2512,6 +2612,7 @@ raahata
 raahautua
 raaistua
 rääkäistä
+rääkätä
 raakkua
 raapaista
 raapia
@@ -2568,6 +2669,7 @@ rantautua
 raottaa
 raottua
 räpätä
+rapauttaa
 rapautua
 räpiköidä
 rapista
@@ -2612,6 +2714,7 @@ rehkiä
 rehottaa
 reissata
 reistailla
+reistata
 reitittää
 rekisteröidä
 rekisteröityä
@@ -2628,6 +2731,7 @@ rengastaa
 rentouttaa
 rentoutua
 repäistä
+repeillä
 repeytyä
 repiä
 retkahtaa
@@ -2665,6 +2769,7 @@ rikkoa
 rikkoontua
 rikkoutua
 rimpuilla
+rinnakkaislistautua
 rinnastaa
 rinnastua
 ripittää
@@ -2703,6 +2808,7 @@ rosvota
 rötöstellä
 rouskuttaa
 ruhjoa
+ruikuttaa
 ruiskuttaa
 rukata
 rukoilla
@@ -2741,6 +2847,7 @@ rynniä
 rynnistää
 ryömiä
 ryöpsähtää
+ryöpsäyttää
 ryöpytä
 ryöpyttää
 ryöstää
@@ -2779,6 +2886,7 @@ sabotoida
 sadatella
 sädehtiä
 sadella
+saeta
 sähähtää
 sahailla
 sahata
@@ -2809,6 +2917,7 @@ salamurhata
 salata
 sallia
 salpautua
+salvoa
 samaistua
 samastaa
 samastua
@@ -2820,6 +2929,7 @@ samota
 sanailla
 sanallistaa
 sanastaa
+saneerata
 sanella
 sännätä
 sanoa
@@ -2844,11 +2954,14 @@ satuttaa
 sauhuta
 saumata
 saunoa
+sävähdyttää
 säväyttää
 säveltää
+savirakentaa
 savustaa
 savuta
 savuttaa
+seestyä
 seikkailla
 seilata
 seisahtua
@@ -2866,6 +2979,7 @@ selättää
 selitellä
 selittää
 selkeyttää
+selkiyttää
 selostaa
 selventää
 selvitä
@@ -2888,11 +3002,13 @@ siepata
 sietää
 sievistää
 siintää
+siirrättää
 siirrellä
 siirtää
 siirtyä
 siistiä
 siitä
+siittää
 siivittää
 siivota
 siivouttaa
@@ -2910,6 +3026,7 @@ silputa
 simuloida
 sinetöidä
 sinetöityä
+singahdella
 singahtaa
 sinkoilla
 sinkoutua
@@ -2932,6 +3049,7 @@ sivistää
 sivuta
 sivuttaa
 sivuuttaa
+skaalautua
 skannata
 skeitata
 soida
@@ -2939,6 +3057,7 @@ sointua
 soitella
 soittaa
 sokaista
+sokaistua
 sokeerata
 sokeutua
 solahtaa
@@ -2950,6 +3069,7 @@ solvata
 someavautua
 somettaa
 somevaikuttaa
+somistaa
 sompailla
 sonnustautua
 sontia
@@ -2958,6 +3078,7 @@ sopeuttaa
 sopeutua
 sopia
 sorata
+sormeilla
 sorsia
 sortaa
 sortua
@@ -2983,6 +3104,7 @@ stressata
 stripata
 suhahtaa
 suhtautua
+suhteellistaa
 suihkuta
 suihkuttaa
 suistaa
@@ -2996,6 +3118,7 @@ sukeltaa
 sukeutua
 sukia
 sukkuloida
+suksia
 sulaa
 sulatella
 sulattaa
@@ -3017,6 +3140,7 @@ suoltaa
 suomalaisosata
 suomalaistaa
 suomia
+suoratoistaa
 suoria
 suorittaa
 suoriutua
@@ -3038,6 +3162,7 @@ sutata
 sutkauttaa
 suudella
 suukotella
+suukottaa
 suunnata
 suunnistaa
 suunnitella
@@ -3046,6 +3171,7 @@ suurennella
 suurentaa
 suuttua
 suututtaa
+suvaita
 suvunjatkaa
 sykähdyttää
 sykkiä
@@ -3085,6 +3211,7 @@ syyhytä
 syyllistää
 syyllistyä
 syynätä
+syyslomatehdä
 syyspukeutua
 syytää
 syytellä
@@ -3211,6 +3338,7 @@ tekeytyä
 tekstata
 tekstittää
 telakoitua
+televisioesiintyä
 televisioida
 teljetä
 telmiä
@@ -3223,24 +3351,29 @@ tempaista
 tempoa
 temppuilla
 tenttiä
+teorioida
 tepastella
 tepsiä
+terästää
 terävöittää
 terävöityä
 terrorisoida
 tervata
 tervehtiä
+tervehtyä
 testailla
 testamentata
 testata
 testauttaa
 teurastaa
+tiedonjulkistaa
 tiedostaa
 tiedottaa
 tiedustella
 tienata
 tietää
 tihkua
+tiirailla
 tiirata
 tiivistää
 tiivistyä
@@ -3322,6 +3455,7 @@ traumatisoida
 treenailla
 treenata
 tuberkuloosialtistua
+tuhahdella
 tuhista
 tuhkata
 tuhlailla
@@ -3334,6 +3468,7 @@ tuijotella
 tuijottaa
 tuikata
 tuikkia
+tuiskuta
 tuivertaa
 tukahduttaa
 tukahtua
@@ -3400,6 +3535,7 @@ tutkailla
 tutkia
 tutustua
 tutustuttaa
+tuudittautua
 tuuletella
 tuulettaa
 tuulettua
@@ -3412,6 +3548,7 @@ tuuppia
 tuurata
 tuutata
 TV-esiintyä
+Twitter-uhota
 tyhjentää
 tyhjentyä
 tyhjetä
@@ -3514,6 +3651,7 @@ väärentää
 väärinymmärtää
 vääristää
 vääristellä
+vääristyä
 vaatia
 vaellella
 vaeltaa
@@ -3593,6 +3731,7 @@ valmistua
 valokuvata
 valottaa
 vältellä
+valtiollistaa
 välttää
 välttyä
 valtuuttaa
@@ -3676,6 +3815,7 @@ velvoittaa
 venähtää
 veneillä
 venyä
+venytellä
 venyttää
 verhota
 verhoutua
@@ -3700,12 +3840,14 @@ vetäytyä
 vetreyttää
 videoida
 videoitua
+videokuvata
 videotavata
 viedä
 viehättää
 viehättyä
 viekoitella
 vieraannuttaa
+vieraantua
 vierähtää
 vierailla
 vierastaa
@@ -3722,6 +3864,7 @@ viheltää
 vihjailla
 vihjata
 vihkiä
+vihmoa
 vihoitella
 vihtoa
 viihdyttää
@@ -3735,6 +3878,7 @@ viillellä
 viiltää
 viimeistellä
 viipyä
+viisikkopelata
 viisinkertaistaa
 viitata
 viitsiä
@@ -3756,6 +3900,7 @@ vilkastua
 vilkastuttaa
 vilkkua
 vilkuilla
+vilkutella
 vilkuttaa
 villiintyä
 villitä
@@ -3783,7 +3928,9 @@ viskata
 viskautua
 viskoa
 vispata
+vitkastella
 vitsailla
+vittuilla
 vituttaa
 viuhahtaa
 viuhua
@@ -3814,6 +3961,7 @@ yhteisrakentaa
 yhtenäistää
 yhtiöittää
 yhtyä
+yhyttää
 yksilöityä
 yksilöllistää
 yksinkertaistaa
@@ -3833,6 +3981,8 @@ ylistää
 ylisuorittaa
 ylittää
 ylittyä
+ylivelkaantua
+ylivoimaonnistua
 yliyrittää
 ylläpitää
 yllättää

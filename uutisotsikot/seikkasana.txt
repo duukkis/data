@@ -19,6 +19,7 @@ alati
 alemmas
 alhaalla
 ällikällä
+alueittain
 ammateittain
 ani
 anteeksi
@@ -100,6 +101,7 @@ ihmeemmin
 ikinä
 ilkosilla
 ilmatie
+iltapäivisin
 infra
 irrallaan
 irti
@@ -168,6 +170,7 @@ kumossa
 kunnittain
 kuoliaaksi
 kuten
+kuukausittain
 kuulemma
 kyllä
 kyllin
@@ -187,6 +190,7 @@ lainkaan
 lainsäädäntötie
 lakitie
 läpi
+läpikotaisin
 läsnä
 lauantaisin
 laukuittain
@@ -200,11 +204,14 @@ luo
 luokse
 lytyssä
 maittain
+massoittain
 melkein
 meneillä
+mieluiten
 mieluummin
 mieluusti
 mikäli
+milloin
 miltei
 miten
 moksis
@@ -253,6 +260,7 @@ pahitteeksi
 paikkakunnittain
 paikkeilla
 paikoin
+paikoittain
 päin
 painuksissa
 päinvastoin
@@ -291,6 +299,7 @@ puhelin
 puhki
 pulloittain
 puoliltaöin
+puoliltapäivin
 puolittain
 puolueittain
 retuperällä
@@ -329,7 +338,9 @@ sujut
 sukkasillaan
 sunnuntaisin
 suomalaisittain
+suotta
 supussa
+taaemmas
 taaksepäin
 täällä
 taannoin
@@ -347,10 +358,12 @@ tällöin
 talviteloilla
 tamperelaisittain
 tänään
+tanassa
 tanskalaisittain
 tarjolla
 tasa
 tasan
+täsmälleen
 täysi
 täytäntöön
 tekeillä
@@ -361,6 +374,7 @@ tismalleen
 tiukilla
 tohjona
 toisaalla
+toisinpäin
 toissa
 toistaiseksi
 toki

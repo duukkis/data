@@ -99,6 +99,7 @@ Raamattu
 Renault
 Reuters
 Roche
+Rotary
 Saab
 Saint
 Samsung
@@ -107,6 +108,7 @@ sarjatuotanto-Peugeot
 Saturnus
 Sauber
 Schengen-Maa
+Schumi
 Shell
 Siska
 Sokos
@@ -127,6 +129,7 @@ Tuonela
 Twitter
 Unesco
 UNICEF
+Ursa
 Valmet
 van
 Venus
@@ -141,3 +144,4 @@ Yakuza
 Yaris
 Yle
 YouTube
+Zeus
