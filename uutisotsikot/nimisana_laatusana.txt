@@ -1,3 +1,4 @@
+äänekoskelaisnuori
 äärioikeistolainen
 aava
 äijä
@@ -22,6 +23,7 @@ a-nuori
 apea
 arkkivihollinen
 armas
+aseennäköinen
 asevelvollinen
 asianmukainen
 asianomainen
@@ -31,6 +33,7 @@ avojalo
 avomallinen
 baltialaisvieras
 brittiläinen
+burleski
 dekadentti
 demokraatti
 edellinen
@@ -46,6 +49,7 @@ epänormaali
 epäoikeudenmukainen
 epäpyhä
 epäsuomalainen
+epäsuora
 epäterve
 epätodennäköinen
 epätosi
@@ -63,6 +67,7 @@ EU-suomalainen
 EU-viranomainen
 EU-vironomainen
 evankelis-luterilainen
+evankelisluterilainen
 farkkutakamusta
 geopoliittinen
 goottilainen
@@ -84,8 +89,10 @@ hölmöläinen
 hömppä
 höntti
 höperö
+höppänä
 huippuaituri
 huippuhelle
+huippukorkea
 huippukova
 huippupitkä
 huippurikas
@@ -99,6 +106,7 @@ huumerikollinen
 huutolainen
 hyvännäköinen
 ikävä
+iki-ihanainen
 ikinuori
 ikioma
 ikivanha
@@ -106,6 +114,7 @@ ikivihreä
 ilmailuviranomainen
 ilmainen
 ilmastopoliittinen
+imbesilli
 inkeriläinen
 inkerinsuomalainen
 intellektuelli
@@ -130,6 +139,7 @@ kaakkois-norja
 kähärä
 kaheli
 kaiho
+kaikennäköinen
 kalju
 kaltainen
 kamala
@@ -161,6 +171,7 @@ kirjava
 kivikko
 kodinomainen
 kohurikollinen
+koillismaalainen
 kokoomuslainen
 kolea
 kolttasaamelainen
@@ -170,6 +181,7 @@ korkea
 korkuinen
 kotitoimistosi
 koukero
+kouvolalaisnuori
 kova
 köyhä
 k-poppa
@@ -204,9 +216,11 @@ latinalainen
 lauha
 lestadiolainen
 liberaali
+liettualais-suomalainen
 liika
 liikenneviranomainen
 likinäköinen
+lipeä
 loisto
 lomalainen
 löperö
@@ -253,12 +267,14 @@ normaali
 nousukas
 nuori
 nuorisorikollinen
+nuoska
 nurmijärveläinen
 nykyinen
 nykyisenkaltainen
 oikea
 oikeistolainen
 oikeudenmukainen
+oikeusviranomainen
 ökyrikas
 olympiakulta
 oma
@@ -275,6 +291,7 @@ paha
 pahannäköinen
 pakettiautomallinen
 paksu
+paksukainen
 paljo
 paranoidi
 paranormaali
@@ -286,6 +303,7 @@ pelastusviranomainen
 perisuomalainen
 perussuomalainen
 perussuomalaisaktiivi
+perusuomalainen
 petosrikollinen
 pika-aituri
 pikimusta
@@ -350,10 +368,12 @@ ruotsalaistulokas
 ruotsinsuomalainen
 ruskea
 rutiköyhä
+rutikuiva
 rutto
 saamelainen
 saamelaisnuori
 saarelainen
+saaristolainen
 säikky
 sairas
 saksalaishirmu
@@ -372,6 +392,7 @@ siivo
 silkka
 sisäpiiriläinen
 sisäpoliittinen
+sisäsuora
 siviili
 slaavilainen
 SM-kulta
@@ -393,16 +414,21 @@ suomalaisbrittiläinen
 suomalaisloisto
 suomalaisnuori
 suomalaisrakas
+suomalais-ruotsalainen
 suomalaistulokas
 suomenruotsalainen
 suora
 superhauska
 superhelle
+superkomea
 superkuuma
+superkylmä
+superlämmin
 superpitkä
 superrikas
 superrohkea
 supersuuri
+supertiukka
 supertulokas
 supisuomalainen
 suppea
@@ -417,6 +443,7 @@ syyttäjäviranomainen
 taianomainen
 taistolainen
 takamusta
+takapiru
 takavasen
 tällainen
 talouspoliittinen
@@ -426,9 +453,11 @@ tarkoituksenmukainen
 tasapaksu
 tavanomainen
 täyspitkä
+terrorismiviranomainen
 terve
 terveysviranomainen
 tiedusteluviranomainen
+tihku
 tiukka
 t-mallinen
 todenmukainen
@@ -450,6 +479,7 @@ tuollainen
 tupla
 tuplatupla
 turha
+turkulaisnuori
 turvallisuuspoliittinen
 turvallisuusviranomainen
 tuttava
@@ -457,6 +487,7 @@ tuttu
 tyhjä
 tyhmä
 työsuojeluviranomainen
+typötyhjä
 typykkä
 tyven
 uimapukumallinen
@@ -464,6 +495,7 @@ ulkomaalainen
 ulkonäkökeskeinen
 ulkopoliittinen
 ulkosuomalainen
+ultraviileä
 ummikko
 unenomainen
 unkarilais-suomalainen
@@ -534,6 +566,8 @@ v-käyrä
 yhdysvaltalaisviranomainen
 yhteensopiva
 yhteistupalainen
+yhtiömallinen
 ylipitkä
 ylisuuri
 ylitörkeä
+ympäristöviranomainen

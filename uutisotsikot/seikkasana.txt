@@ -18,8 +18,10 @@ alasti
 alati
 alemmas
 alhaalla
+alias
 ällikällä
 alueittain
+alushoususilla
 ammateittain
 ani
 anteeksi
@@ -56,7 +58,9 @@ etäämpänä
 etänä
 eteenpäin
 etenkin
+eurooppalaisittain
 hajalla
+hakoteillä
 halki
 hallussa
 haltioissaan
@@ -139,6 +143,7 @@ kauan
 kauas
 kauttaalta
 kenties
+kerroksittain
 kertaalleen
 keskellä
 kesken
@@ -146,6 +151,8 @@ keskenään
 keskimäärin
 keskiviikkoisin
 keulilla
+kieppeillä
+kiikissä
 kiinni
 kiloittain
 kilpasilla
@@ -153,6 +160,7 @@ kirje
 kissun
 kohme
 kohta
+kolme
 konsa
 kontalla
 koommin
@@ -203,6 +211,8 @@ lopen
 luo
 luokse
 lytyssä
+maakunnittain
+maanosittain
 maittain
 massoittain
 melkein
@@ -224,6 +234,7 @@ mukaan
 muualla
 muulloin
 muuten
+myöden
 myös
 myötä
 myöten
@@ -244,6 +255,8 @@ no
 noin
 nopeiten
 nurin
+nurinpäin
+nykyä
 nykyään
 nykyisellään
 nyreissään
@@ -251,6 +264,7 @@ nyt
 ohimennen
 ohitse
 oikein
+oikeustie
 oitis
 ojossa
 osittain
@@ -314,6 +328,7 @@ sähköposti
 salaa
 sammuksissa
 samoin
+sangen
 seassa
 seisaalla
 selin
@@ -364,10 +379,12 @@ tarjolla
 tasa
 tasan
 täsmälleen
+tästedes
 täysi
 täytäntöön
 tekeillä
 tekstiviesti
+ties
 tieten
 tiettävästi
 tismalleen
@@ -383,6 +400,7 @@ torstaisin
 tuhansittain
 tuiki
 tukkanuottasilla
+tukuittain
 tuolloin
 tuoreeltaan
 turvoksissa
@@ -421,6 +439,7 @@ verrattain
 vertaansa
 via
 vielä
+vierekkäin
 vihdoin
 viikoittain
 viimein

@@ -1,7 +1,11 @@
 -00
+-04
 -050
+-15
 -162
+-167
 -20
+-205
 -40
 -4000
 -45
@@ -53,6 +57,7 @@ kymmenisen
 miljardi
 miljoona
 miljoonas
+nelisen
 -neljä
 neljä
 neljäkymmentä
@@ -64,12 +69,14 @@ parisensataa
 puolitoista
 sadas
 sata
+satamiljoonaa
 satatuhatta
 seitsemän
 seitsemäs
 toinen
 toistakymmentä
 toistasataa
+toistatuhatta
 tuhannes
 tuhat
 vi
@@ -84,6 +91,7 @@ viisitoista
 viitisen
 viitisentoista
 xi
+XIII
 xiv
 xvi
 XVI

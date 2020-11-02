@@ -42,6 +42,7 @@ mini-LP
 MM
 MTK
 MTV
+musiikki-TV
 netti-TV
 NHL
 OECD
@@ -64,6 +65,7 @@ SOS
 sote
 SPR
 STT
+teho-PC
 teksti-TV
 tl
 tosi-TV
@@ -78,3 +80,4 @@ WHO
 WSOY
 WTO
 YK
+YM

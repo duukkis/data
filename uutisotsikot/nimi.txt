@@ -11,6 +11,7 @@ Andromeda
 Apollo
 Apollon
 Apple
+arvo-Porsche
 Ateneum
 Athene
 Audi
@@ -69,13 +70,16 @@ Lidl
 Linux
 Lost
 luksus-Mersu
+Lumikki
 Maamme-laulu
 maasturi-Lada
 Marimekko
+Masala
 Mersu
 Microsoft
 Mitsubishi
 Musti
+napero-Finlandia
 Nato
 Netflix
 Nintendo
@@ -83,6 +87,7 @@ Odin
 OECD-Maa
 Off
 öky-Mersu
+öky-Porsche
 Orion
 Oscar
 Ossian
@@ -90,6 +95,7 @@ Otava
 Panadol
 Peugeot
 pistoke-Volvo
+Pluto
 Porsche
 Poseidon
 Prometheus
@@ -130,6 +136,7 @@ Twitter
 Unesco
 UNICEF
 Ursa
+Väinämöinen
 Valmet
 van
 Venus
