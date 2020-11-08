@@ -1,6 +1,6 @@
 eräs
-he
 hän
+he
 joka
 jokin
 joku
@@ -18,11 +18,11 @@ mones
 moni
 muu
 muuan
+nämä
 ne
 nuo
-nämä
 se
 sinä
+tämä
 te
 tuo
-tämä

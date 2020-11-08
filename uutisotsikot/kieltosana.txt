@@ -2,6 +2,7 @@ ehkei
 ei
 ellei
 ettei
+jollei
 jottei
 koskei
 miksei
