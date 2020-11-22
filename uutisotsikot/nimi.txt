@@ -23,9 +23,11 @@ bensa-Mersu
 bin
 Burana
 Coca-Cola
+Colt
 Core
 Crash
 Dalai-lama
+Dei
 El
 Englannin-Maa
 Esso
@@ -39,6 +41,8 @@ Finnair
 Firefox
 Ford
 Fortum
+Gaudeamus
+Gestapo
 g-Mersu
 Google
 Graal
@@ -47,6 +51,7 @@ Hamlet
 Helios
 Hesari
 Hesburger
+hybridi-Audi
 Hyundai
 Instagram
 Internet
@@ -72,12 +77,14 @@ Lada
 lähi-Alko
 Lego
 Lidl
+Linnea
 Linux
 Lost
 luksus-Mersu
 Lumikki
 Maamme-laulu
 maasturi-Lada
+maasturi-Mersu
 Marimekko
 Masala
 Mersu
@@ -86,6 +93,7 @@ Mitsubishi
 Musti
 napero-Finlandia
 Nato
+Natura
 Netflix
 Nintendo
 Odin
@@ -107,9 +115,12 @@ Poseidon
 Prometheus
 Psycho
 Puh
+Qaida
 Raamattu
+Ramses
 Renault
 Reuters
+Riigikogu
 Roche
 Rotary
 Saab
@@ -123,11 +134,13 @@ Schengen-Maa
 Schumi
 Shell
 Siska
+Sojuz
 Sokos
 Sony
 Sputnik
 Stockmann
 Stuka
+Suomi-Instagram
 Suomi-Twitter
 Supo
 Tarzan
@@ -138,6 +151,7 @@ Tehy
 Tokmanni
 Toyota
 Tuonela
+TV-Aurinko
 Twitter
 Unesco
 UNICEF
