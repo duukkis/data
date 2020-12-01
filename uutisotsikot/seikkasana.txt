@@ -61,6 +61,7 @@ entuudelta
 erillään
 eritoten
 erittäin
+erityisvastuualueittain
 esillä
 etäällä
 etäämpänä
@@ -71,6 +72,7 @@ etenkin
 eurooppalaisittain
 hajalla
 hakoteillä
+hakukohteittain
 halki
 hallinnonaloittain
 hallussa
@@ -81,6 +83,7 @@ harvaan
 harvakseltaan
 harvassa
 harvoin
+häthätää
 helpoiten
 helvetti
 hengissä
@@ -96,6 +99,7 @@ hienokseltaan
 hiirenhiljaa
 hiljaa
 hiljalleen
+hiljan
 hiljattain
 hilkulla
 hissukseen
@@ -125,6 +129,7 @@ iltapäivisin
 infra
 irrallaan
 irti
+irvessä
 itsekseen
 itsessään
 itsestään
@@ -148,6 +153,7 @@ juovuksissa
 juovuspäissä
 juttusilla
 kadoksissa
+kahtaalla
 kahtia
 kai
 kaikkialla
@@ -155,6 +161,7 @@ kallellaan
 kalpaten
 kaltoin
 karku
+käsikkäin
 kasoittain
 kasvokkain
 kasvotusten
@@ -163,6 +170,8 @@ kateissa
 katumapäällä
 kauan
 kauas
+kaupunginosittain
+kausittain
 kauttaalta
 kenties
 kerroksittain
@@ -174,6 +183,7 @@ keskimäärin
 keskiviikkoisin
 keulilla
 kieppeillä
+kiertotie
 kiikissä
 kiinni
 kiloittain
@@ -193,6 +203,7 @@ kotoisin
 kotosalla
 kuitenkaan
 kuitenkin
+kukaties
 kulloin
 kumminkin
 kumollaan
@@ -234,6 +245,7 @@ likellä
 liki
 likimain
 liossa
+litroittain
 lohkoittain
 loitolla
 lopen
@@ -256,6 +268,7 @@ mieluusti
 mikäli
 milloin
 miltei
+missäpäin
 miten
 moksis
 moni
@@ -296,12 +309,15 @@ nykyään
 nykyisellään
 nyreissään
 nyt
+nyttemmin
 ohimennen
 ohitse
 oikein
 oikeustie
 oitis
 ojossa
+olleti
+osavaltioittain
 osittain
 päällekkäin
 päällepäin
@@ -367,8 +383,10 @@ rutto
 saakka
 saatana
 saati
+saatille
 sähköposti
 salaa
+samaten
 sammuksissa
 samoin
 sangen
@@ -420,6 +438,7 @@ taiten
 taivasalla
 takaapäin
 takana
+takaperin
 takia
 tallessa
 tällöin
@@ -441,9 +460,12 @@ täysi
 täytäntöön
 tekeillä
 tekstiviesti
+tiedekunnittain
 ties
 tieten
 tiettävästi
+tiimeittäin
+tiistai-iltapäivisin
 tismalleen
 tiukilla
 tohjona
@@ -468,6 +490,7 @@ tykö
 tyystin
 ulkoapäin
 ulkosalla
+ulommas
 ulos
 ulospäin
 umpimähkään
@@ -488,6 +511,7 @@ vakavissaan
 väkisin
 valkovenäläisittäin
 valtoimena
+vanhemmiten
 varhain
 varhemmin
 varuilla
@@ -500,6 +524,7 @@ vasten
 vastikään
 vastoin
 väsyksissä
+venäläisittäin
 verekseltään
 vereslihalla
 verkalleen
@@ -518,10 +543,12 @@ viimeksi
 viljalti
 vilkkaan
 vuoksi
+vuosiluokittain
 vuosittain
 yhä
 yhdessä
 yhtä
+yhtäällä
 yhtään
 yhtäkkiä
 yhteensä

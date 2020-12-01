@@ -17,11 +17,13 @@ Adam
 Ade
 Adele
 Adolf
+Agnes
 Ahmed
 Ahti
 ahtisaari-Päivi
 Ahto
 Ahvo
+AIDS-Päivä
 Aija
 Aila
 Aili
@@ -86,6 +88,7 @@ Angela
 Anita
 Anitta
 Anja
+Anja-Riitta
 Anna
 Anna-Kaisa
 Anna-Kari
@@ -114,6 +117,8 @@ Anthony
 Anton
 Antonio
 Antti
+Antti-Jussi
+Antti-Pekka
 Antto
 Antton
 Anu
@@ -181,12 +186,14 @@ Camilla
 Carita
 Carl
 Carl-Kristian
+Carola
 Caroline
 Cecilia
 Charles
 Charlotta
 Charlotte
 Chris
+Christer
 Christian
 Christina
 Christopher
@@ -200,6 +207,7 @@ Dagmar
 Daisy
 Daniel
 Daniela
+Dario
 David
 diakonissa-Marika
 Diana
@@ -223,6 +231,7 @@ Eeva
 Eeva-Johanna
 Eeva-Liisa
 Eeva-Riitta
+Eevert
 Eevi
 Eija
 Eija-Riitta
@@ -274,6 +283,7 @@ erä-Veikko
 Erik
 Erika
 Erikka
+erikois-Emma
 Erin
 Erja
 Erkki
@@ -306,6 +316,7 @@ Frida
 Friedrich
 fysiikkavalmentaja-Jere
 Gabriel
+Geena
 Geoffrey
 Georg
 George
@@ -341,6 +352,7 @@ Harry
 Heidi
 Heikki
 Heini
+Heini-Tuuli
 Heino
 Helen
 Helena
@@ -348,6 +360,7 @@ Helene
 Helga
 Heli
 Heljä
+Helka
 Hellevi
 Helli
 Helmer
@@ -394,8 +407,10 @@ Ilmi
 Ilona
 Ilpo
 Ilta
+Immanuel
 Immo
 Inga
+Inger
 Ingrid
 Inka
 Ira
@@ -405,6 +420,7 @@ Irja
 Irma
 Iro
 Isaac
+Isabella
 Isadora
 isä-Juha
 Ismo
@@ -433,12 +449,14 @@ Jan-Mikael
 Janna
 Janna-Juuli
 Janne
+Janne-Olli
 Jannika
 Jared
 Jari
 Jari-Matti
 Jari-Pekka
 Jarkko
+Jarl
 Jarmo
 Jarno
 Jaska
@@ -449,6 +467,7 @@ Jasmine
 Jason
 Jasper
 Jean
+Jean-Daniel
 Jean-Michel
 Jenna
 Jenni
@@ -501,6 +520,7 @@ Jouni
 Juha
 Juha-Jaakko
 Juha-Matti
+Juha-Mikko
 Juhani
 Juha-Pekka
 Juha-Petri
@@ -519,6 +539,7 @@ Jussi-Pekka
 Justiina
 Justus
 Jutta
+Jutta-Riina
 Juuli
 Juulia
 Juuso
@@ -540,6 +561,7 @@ Kalevi
 Kalle
 Kalle-Pekka
 kampaaja-Birgitta
+kanttori-Senni
 karhu-Sulo
 Kari-Matti
 Kari-Pekka
@@ -557,6 +579,7 @@ Katja
 Katri
 Katriina
 Kauko
+Kauno
 Kay
 Keijo
 Keke
@@ -579,9 +602,11 @@ kirsi-Marja
 Kirsti
 kisa-Aamu
 Klaara
+Klaudia
 Klaus
 Kleopatra
 kohu-Sini
+Konrad
 Konsta
 Konstantinos
 koronavasta-Aini
@@ -591,15 +616,19 @@ Krista
 Kristian
 Kristiina
 Kristina
+Kristoffer
 kryptovaluutta-Alan
 Kullervo
 kunta-Alan
 Kurt
 kuski-Ari
 Kustaa
+Kusti
+kuu-Ukko
 Kylli
 Kyllikki
 Kyösti
+lääkäri-Anni
 Laila
 Lalli
 Lars
@@ -616,6 +645,7 @@ Leena
 Leevi
 Leif
 Leila
+Lemminkäinen
 Lena
 Lenita
 Lennart
@@ -626,11 +656,13 @@ Leonardo
 Leo-Pekka
 Leopold
 liero-Iiro
+liha-Alan
 Liisa
 Lilian
 Lilli
 Lina
 Linda
+Linda-Thomas
 Linus
 Lisa
 Lissu
@@ -638,6 +670,7 @@ Lolita
 Louis
 Luca
 Lucas
+Lucia
 Ludvig
 Ludwig
 Luka
@@ -657,6 +690,7 @@ maajussi-Lauri
 maajussi-Miia
 maajussi-Paavo
 maajussi-Pia
+maanantai-Aamu
 Maaret
 Maaria
 Maarit
@@ -689,9 +723,11 @@ Mariella
 Mariitta
 Marika
 Mari-Leena
+Marin-Saarikko-Akseli
 Mario
 Mari-Sisko
 Marita
+Maritta
 Marja
 Marjaana
 Marja-Aron
@@ -751,6 +787,7 @@ Miia
 Miika
 Miikka
 Miina
+Miina-Liisa
 Miisa
 Mika
 Mikael
@@ -802,6 +839,7 @@ Nanna
 Napoleon
 Natalia
 Natalie
+navajo-Heimo
 Nea
 Nea-Sofia
 Neea
@@ -867,9 +905,11 @@ Patrick
 Patrik
 Paul
 Paula
+Paul-Henri
 Pauli
 Pauliina
 Pekka
+Pekka-Matias
 Pekka-Veli
 Pellervo
 Penelope
@@ -882,6 +922,7 @@ Perry
 Pertteli
 Pertti
 Perttu
+perus-Sami
 Peter
 Petr
 Petra
@@ -893,6 +934,7 @@ Philip
 Philippe
 Pia
 Pietari
+Pietro
 Pihla
 Piia
 Piia-Noora
@@ -920,6 +962,7 @@ Pyry
 Raakel
 Rafael
 Raija
+Raija-Sisko
 Raila
 Raili
 Raimo
@@ -935,6 +978,7 @@ Rauha
 Rauli
 Rauni
 Rauno
+rauta-Kukka
 ravintola-Alan
 Ray
 Raymond
@@ -977,6 +1021,7 @@ Ronald
 Roni
 Ronja
 Roope
+Roope-Santeri
 Roosa
 Rosa
 Rose
@@ -1019,6 +1064,7 @@ Santtu
 Santtu-Matias
 Sarah
 Sari-Helena
+Sari-Minna
 Sarita
 Sasu
 satu-Kirsi
@@ -1048,6 +1094,7 @@ Silvia
 Simeon
 Simo-Pekka
 Sinikka
+sinkku-Ella
 sinkku-Jesse
 sinkku-Joni
 sinkku-Tino
@@ -1079,7 +1126,9 @@ Stina
 Sue
 Sulevi
 Suni
+sunnuntai-Aamu
 Suomi-Helmi
+Suomi-sarja-Laina
 super-Marjo
 Susan
 Susanna
@@ -1108,6 +1157,7 @@ Tapio
 Tarja
 Tarmo
 Taru
+Tatjana
 Tatu
 Tauno
 Tea
@@ -1173,6 +1223,7 @@ Ulpu
 Ulrika
 Umberto
 Unelma
+Uno
 Unto
 Uolevi
 Uoti
@@ -1185,12 +1236,14 @@ vaha-Harry
 vaimo-Vivian
 Väinö
 Valentin
+Valfrid
 Valter
 Valto
 Valtteri
 Vanessa
 varusmies-Markus
 Vasili
+vasta-Aini
 Veera
 Veeti
 Veijo
@@ -1198,6 +1251,7 @@ Veikka
 Veikka-Matti
 Veikko
 Veini
+Veli
 veli-Matti
 veli-Pekka
 venäjä-Toimi
@@ -1229,6 +1283,7 @@ Ville-Matti
 Ville-Pekka
 Ville-Valtteri
 Ville-Veikko
+Ville-Veli
 Vilma
 Virpi
 virpi-Liisa
@@ -1242,6 +1297,7 @@ vuokra-Ale
 Wäinö
 Walter
 Waltteri
+Wes
 Wilhelm
 Wilhelmiina
 Will

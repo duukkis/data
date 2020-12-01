@@ -6,6 +6,7 @@ Abhasia
 Afganistan
 Afrikka
 Ähtäri
+Ähtävä
 Ahvenanmaa
 Ahvenisto
 Ainola
@@ -33,12 +34,14 @@ Ambomaa
 Amerikka
 Amsterdam
 Amuri
+Anatolia
 Andalusia
 Andi
 Andorra
 Angeles
 Angeli
 Angola
+Anna-Mari
 Anne-Mari
 Antarktis
 Antwerpen
@@ -57,10 +60,12 @@ Atlantis
 Atlantti
 Auckland
 Aulanko
+Aunus
 Aura
 Aurajoki
 Auschwitz
 Australia
+Äyräpää
 Azerbaidžan
 Azerbaidzhan
 Babylon
@@ -89,6 +94,7 @@ Birmingham
 Bodom
 Bolivia
 Bologna
+Bonn
 Böömi
 Bordeaux
 bosnia-Hertsegovina
@@ -105,6 +111,7 @@ Brunei
 Bryssel
 Budapest
 Bukarest
+Burundi
 Calgary
 California
 Cambridge
@@ -228,6 +235,7 @@ Halsua
 Halti
 Häme
 Hämeenkyrö
+Hämeenlinna-Vanaja
 Hamina
 Haminan-Kotka
 Hammerfest
@@ -246,7 +254,9 @@ Hauho
 Hausjärvi
 Havaiji
 Heidelberg
+Heinjoki
 Heinola
+Helsingborg
 Helsinki
 Helsinki-Oulu
 Helsinki-Tampere
@@ -254,6 +264,7 @@ Helsinki-Turku
 Helsinki-Uusimaa
 Helsinki-Vantaa
 Hennala
+Hertsegovina
 Herttoniemi
 Hervanta
 Himalaja
@@ -261,6 +272,7 @@ Himanka
 Hiroshima
 Hollola
 Hollywood
+Hölmölä
 Honduras
 Hongkong
 Houston
@@ -270,6 +282,7 @@ Huittinen
 Hulmi
 Humppila
 hurrikaani-Loimaa
+Hyrylä
 Hyrynsalmi
 Hyvinkää
 Iberia
@@ -303,6 +316,7 @@ Innsbruck
 Intia
 Iowa
 Irak
+Ira-Mari
 Iran
 Irlanti
 Island
@@ -311,7 +325,9 @@ Iso-Britannia
 Isokyrö
 Israel
 Istanbul
+Itä-Aasia
 Itä-Afrikka
+Itä-Englanti
 Itä-Eurooppa
 Itä-Hakkila
 Itä-Helsinki
@@ -331,6 +347,7 @@ Itä-Turku
 Itä-Ukraina
 Itä-Uusimaa
 Itävalta
+Itä-Vantaa
 Ivalo
 Ivalojoki
 Jaala
@@ -343,6 +360,7 @@ Jämijärvi
 Jämsä
 Janakkala
 Japani
+Japanin-Venäjä
 Järvenpää
 järvi-Suomi
 Jatta-Mari
@@ -373,6 +391,7 @@ Jyväskylä
 Jyväskylä-Tampere
 Kaaba
 Kaakkois-Aasia
+Kaakkois-Brasilia
 Kaamanen
 Kaanaa
 Kaarela
@@ -394,6 +413,7 @@ Kalkkinen
 Kallavesi
 Kallela
 Kalliola
+Kallislahti
 Kälviä
 Kalvola
 Kambodža
@@ -405,6 +425,7 @@ Kanada-Suomi
 Kanaria
 Kangasala
 Kangasniemi
+Kankaala
 Kankaanpää
 Kankaanpää-Pöytyä
 Kannus
@@ -454,6 +475,7 @@ Kerava
 kesä-Helsinki
 Kesälahti
 kesä-Suomi
+Keski-Aasia
 Keski-Afrikka
 Keski-Amerikka
 Keski-Eurooppa
@@ -466,6 +488,7 @@ Keski-Pasila
 Keski-Ruotsi
 Keski-Suomi
 Keski-Uusimaa
+k-Espoo
 Kessi
 Kestilä
 Kettula
@@ -498,6 +521,9 @@ Kivijärvi
 Klaukkala
 Koillis-Afrikka
 Koillis-Espanja
+Koillis-Helsinki
+Koillis-Moskova
+Koillis-Nigeria
 Koillis-Ranska
 Koillis-Savo
 Koillis-Syyria
@@ -507,15 +533,18 @@ Koivisto
 Kökar
 Kokemäki
 Kokkola
+Kokkola-Pietarsaari
 Kolari
 Köln
 Kolumbia
+Konala
 Konginkangas
 Kongo
 Konnevesi
 Konstantinopoli
 Kontiola
 Kontiolahti
+Kontiolahti-Eno
 Kontula
 Kööpenhamina
 Korea
@@ -530,10 +559,13 @@ Koski
 Kosovo
 Kotka
 Kotka-Hamina
+Kotka-Kymi
+Kotkan-Hamina
 Kouvola
 Köyliö
 Krakova
 Kreeta
+Kreeta-Mari
 Kreikka
 Kreml
 Krim
@@ -553,6 +585,7 @@ Kulju
 Kumpula
 Kuokkala
 Kuopio
+Kuorevesi
 Kuortane
 Kupittaa
 Kurdistan
@@ -570,6 +603,7 @@ k-Vantaa
 Kylmäkoski
 Kymi
 Kypros
+Kyröskoski
 Kyyjärvi
 Laajalahti
 Laajasalo
@@ -582,14 +616,17 @@ Lammi
 Längelmäki
 Lanka
 Länsi-Afrikka
+Länsi-Australia
 Länsi-Balkan
 Länsi-Etiopia
 Länsi-Eurooppa
+Länsi-Helsinki
 Länsi-Lappi
 Länsi-Lontoo
 Länsi-Niili
 Länsi-Pohja
 Länsi-Pori
+Länsi-Ranska
 Länsi-Sahara
 Länsi-Saksa
 Länsi-Suomi
@@ -708,6 +745,7 @@ Mauritania
 Mauritius
 Medina
 Meilahti
+Mekrijärvi
 Meksiko
 Melbourne
 Mellunkylä
@@ -716,6 +754,7 @@ Merikarvia
 Meri-Lappi
 Merimasku
 Meri-Pori
+Messilä
 mestari-Liverpool
 Metsälä
 metsä-Suomi
@@ -766,6 +805,7 @@ Nakkila
 Napoli
 Närpiö
 Narva
+Narva-Tartto
 Nashville
 Näsijärvi
 Nastola
@@ -776,9 +816,11 @@ Nauvo
 Nebraska
 Nellim
 Nepal
+neuvosto-Karjala
 neuvosto-Venäjä
 neuvosto-Viro
 Nevada
+Newark
 NHL-Seattle
 NHL-Taipale
 Niagara
@@ -809,6 +851,7 @@ Nürnberg
 Nuuksio
 nyky-Eurooppa
 nyky-Hollywood
+nyky-Saksa
 Ohio
 Okinawa
 Oklahoma
@@ -818,6 +861,7 @@ Olos
 Oman
 Onkamo
 Ontario
+Oravainen
 Oravi
 Oregon
 Orimattila
@@ -881,9 +925,11 @@ Pennsylvania
 Penttilä
 Peräseinäjoki
 Perho
+Perniö
 Persia
 Peru
 Petäjävesi
+Petroskoi
 Petsamo
 Philadelphia
 Pia-Mari
@@ -897,12 +943,14 @@ Pietarsaari
 Pihlajisto
 Pihtipudas
 Piikkiö
+Piippola
 Pikisaari
 pikku-Haiti
 pikku-Kamppi
 pikku-Suomi
 Pirkkala
 Pirkkola
+Pisa
 Pispala
 Pohja
 Pohjois-Afganistan
@@ -925,6 +973,7 @@ Pohjois-Jyllanti
 Pohjois-Kypros
 Pohjois-Lappi
 Pohjois-Lontoo
+Pohjois-Satakunta
 Pohjois-Savo
 Pohjois-Syyria
 Pohjois-Tallinna
@@ -979,6 +1028,7 @@ Raasepori
 Raisio
 Raja-Jooseppi
 Ranska
+Ranskan-Saksa
 Rantasalmi
 Rantsila
 Ranua
@@ -1002,6 +1052,7 @@ Rissala
 Ristiina
 Ristijärvi
 Rodos
+Röksä
 Romania
 Rooma
 Rosa-Mari
@@ -1050,6 +1101,7 @@ Särkijärvi
 Sastamala
 Satakunta
 Saudi-Arabia
+Sauvo
 Savela
 Savikko
 Savio
@@ -1057,11 +1109,13 @@ Savitaipale
 Savo
 Savo-Karjala
 Savukoski
+Säynätsalo
 Schengen
 Seattle
 Sedan
 Seelanti
 Seinäjoki
+Seiskari
 Senegal
 Serbia
 Sevastopol
@@ -1069,6 +1123,7 @@ Sevettijärvi
 Sevilla
 Seychelli
 Shanghai
+Siam
 Sidney
 Sievi
 siika-Altai
@@ -1085,6 +1140,8 @@ Siperia
 Sipola
 Sipoo
 Sippola
+sisä-Mongolia
+sisä-Savo
 sisä-Suomi
 Sisilia
 Siuntio
@@ -1112,6 +1169,7 @@ Strasbourg
 Strömfors
 Stuttgart
 Sudan
+Suistamo
 Sukeva
 Sulkava
 Sumiainen
@@ -1120,6 +1178,8 @@ Suomen-Ruotsi
 Suomi
 Suomi-Ruotsi
 Suomi-Serbia
+Suomi-Somalia
+Suomi-Syyria
 Suomi-Viro
 Suomi-Wales
 Suomussalmi
@@ -1131,6 +1191,7 @@ Suur-Miehikkälä
 Suursaari
 Suur-Savo
 Suur-Suomi
+Suvela
 Sveitsi
 Sydän-Satakunta
 Sydney
@@ -1174,6 +1235,7 @@ Teuva
 Texas
 Thaimaa
 Tiibet
+Tiirismaa
 Tikkala
 Tikkurila
 tirehtööri-Kangasniemi
@@ -1248,7 +1310,9 @@ Uzbekistan
 Vaajakoski
 Vääksy
 Vaala
+Vaarala
 Vaasa
+Vaasa-Uumaja
 Vähä-Rauma
 Vainikkala
 Väisälä
@@ -1293,6 +1357,7 @@ virtuaali-Cannes
 Visby
 Vöyri
 Vuokatti
+Vuokatti-Ruka
 Vuosaari
 Vuotso
 v-Venäjä

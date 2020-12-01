@@ -32,6 +32,7 @@ iltakahdeksan
 iltakuusi
 iltaseitsemän
 iltayhdeksän
+iltayhdentoista
 iv
 IV
 ix
@@ -48,8 +49,10 @@ kaksisataa
 kaksitoista
 kaksituhatta
 kolmas
+kolmaskymmenes
 kolme
 kolmekymmentä
+kolmekymmentäkuusi
 kolmesataa
 kolmetoista
 kolmetuhatta
@@ -92,8 +95,10 @@ sadas
 sata
 satamiljoonaa
 satatuhatta
+sataviisikymmentä
 seitsemän
 seitsemäs
+seitsemisenkymmentä
 toinen
 toistakymmentä
 toistasataa
@@ -119,6 +124,7 @@ viitisenkymmentä
 viitisensataa
 viitisentoista
 xi
+XI
 XIII
 xiv
 xl
@@ -126,6 +132,8 @@ xvi
 XVI
 xxxi
 yhdeksän
+yhdeksänkymmentä
+yhdeksänkymmentäyhdeksän
 yhdeksäntuhatta
 yhdeksäs
 yhdeksästoista

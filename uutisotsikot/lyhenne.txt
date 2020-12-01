@@ -4,12 +4,15 @@ aamu-TV
 ab
 ABC
 ADHD
+AIDS
 ALV
+ATK
 bar
 BBC
 BKT
 CD
 CIA
+cm
 CNN
 CV
 DNA
@@ -18,6 +21,7 @@ EK
 EM
 EU
 FBI
+fi
 FM
 FT
 GPS
@@ -28,6 +32,7 @@ IMF
 IPCC
 IT
 juhla-DVD
+kaapeli-TV
 kg
 kJ
 kk
@@ -41,6 +46,7 @@ LED
 LP
 LSD
 mini-LP
+mini-PC
 MM
 MTK
 MTV
@@ -78,7 +84,9 @@ TV
 UKK
 urheilu-TV
 USA
+vara-pj
 VR
+VRK
 VTT
 WC
 WHO

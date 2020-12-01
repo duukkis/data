@@ -9,6 +9,7 @@ Alko
 Allah
 Al-Qaida
 Andromeda
+Animalia
 Apollo
 Apollon
 Apple
@@ -69,6 +70,7 @@ Kemira
 keski-Maa
 Kesko
 Kia
+Kiasma
 kohu-Jaguar
 Koraani
 Kotus
@@ -90,6 +92,7 @@ Masala
 Mersu
 Microsoft
 Mitsubishi
+Mossad
 Musti
 napero-Finlandia
 Nato
@@ -99,6 +102,7 @@ Nintendo
 Odin
 OECD-Maa
 Off
+öky-Audi
 öky-Mersu
 öky-Porsche
 Olavinlinna
@@ -132,10 +136,12 @@ Saturnus
 Sauber
 Schengen-Maa
 Schumi
+Selecta
 Shell
 Siska
 Sojuz
 Sokos
+Sonera
 Sony
 Sputnik
 Stockmann
@@ -148,6 +154,7 @@ Tavastia
 Teboil
 tehdas-Hyundai
 Tehy
+tieto-Finlandia
 Tokmanni
 Toyota
 Tuonela
@@ -156,9 +163,11 @@ Twitter
 Unesco
 UNICEF
 Ursa
+Väinämö
 Väinämöinen
 Valmet
 van
+Vellamo
 Venus
 Volkswagen
 Volvo
