@@ -29,6 +29,7 @@ HIV
 HTML
 Hz
 IMF
+invalidi-WC
 IPCC
 IT
 juhla-DVD
@@ -56,6 +57,7 @@ netti-TV
 NHL
 OECD
 OK
+ostos-TV
 oy
 oyj
 PC

@@ -20,6 +20,7 @@ albaani
 alkiolainen
 allergianomainen
 altis
+aluehallintaviranomainen
 aluehallintoviranomainen
 aluepoliittinen
 alueviranomainen
@@ -38,6 +39,7 @@ asiakeskeinen
 asianmukainen
 asianomainen
 asuntopoliittinen
+aukea
 auringonkaltainen
 australialais-brittiläinen
 australialaisrakas
@@ -57,6 +59,7 @@ demokraatti
 edellinen
 eilinen
 ei-poliittinen
+ei-suomalainen
 ei-vasemmistolainen
 ekstra
 eläkeläinen
@@ -112,6 +115,7 @@ hauska
 helle
 helluntailainen
 helsinkiläisnuori
+hengenheimolainen
 hento
 heroiininkaltainen
 hirmu
@@ -155,6 +159,7 @@ ilmastopoliittinen
 imatralaisnuori
 imbesilli
 inkeriläinen
+inkerinkarjalainen
 inkerinsuomalainen
 intellektuelli
 introvertti
@@ -194,6 +199,7 @@ kanadalaisnuori
 kanadansuomalainen
 kansanomainen
 kansanterveysviranomainen
+kansanvihollinen
 kantahämäläinen
 kantasuomalainen
 karanteeninomainen
@@ -223,6 +229,8 @@ keskisuomalainen
 keskisuuri
 keskivertosuomalainen
 keskustalainen
+keskustaoikeistolainen
+keskustavasemmistolainen
 kihara
 kiinalaisviranomainen
 kiire
@@ -269,6 +277,7 @@ kuubanjuutalainen
 kuuma
 kuuro
 kuuromykkä
+kuvankaltainen
 kyberrikollinen
 kylmä
 kylmänviileä
@@ -296,6 +305,7 @@ latinalainen
 lauha
 lestadiolainen
 liberaali
+liero
 liettualais-suomalainen
 liika
 liikenneviranomainen
@@ -308,6 +318,7 @@ loppilainen
 löyhkä
 löysä
 luisu
+lukivaikeusaikuinen
 luonnonläheinen
 luonnonmukainen
 luonteenomainen
@@ -316,6 +327,7 @@ luterilainen
 lyhytnäköinen
 maahanmuuttopoliittinen
 maahantulomallinen
+maailmanpoliittinen
 maalainen
 maanläheinen
 mainio
@@ -328,6 +340,7 @@ marxilainen
 mätä
 matala
 matkustajaliitännäinen
+matkustusmallinen
 mattamusta
 mestaririkollinen
 mieleinen
@@ -340,6 +353,7 @@ mukainen
 mukava
 musta
 mustalainen
+mustalipeä
 mustankorkea
 muunmaalainen
 mykkä
@@ -360,6 +374,7 @@ niukka
 Nokia-älypuhelinmallinen
 nollakerholainen
 norja
+norjalaisviranomainen
 normaali
 nousuhumalainen
 nousukas
@@ -391,6 +406,7 @@ orpo
 oulaistelainen
 oululaisnuori
 outo
+outokumma
 öykkäri
 pääkaupunkilainen
 paha
@@ -402,6 +418,7 @@ pakettiautomallinen
 pakonomainen
 paksu
 paksukainen
+palestiinalaisviranomainen
 paljo
 paranoidi
 paranormaali
@@ -420,6 +437,7 @@ pika-aituri
 pikimusta
 pikkuinen
 pikkumusta
+pikkurikollinen
 pikkutuhma
 pikkuvanha
 pilkkopimeä
@@ -429,6 +447,7 @@ pirulainen
 pistokoeomainen
 pitäjäläinen
 pitkä
+pitkäaikaisriski
 pitkäaikaissairas
 pituinen
 pohjanmaalainen
@@ -470,12 +489,14 @@ raaka
 raavas
 radikaali
 rahanpesuviranomainen
+rahapoliittinen
 rahoitusmallinen
 rajavalvontaviranomainen
 rajaviranomainen
 rakas
 rampa
 ranskalaisrakas
+ranskalais-suomalainen
 ranskalaisviranomainen
 ratto
 rauhanomainen
@@ -504,6 +525,7 @@ rutikuiva
 rutto
 saamelainen
 saamelaisnuori
+sääntelyviranomainen
 saarelainen
 saaristolainen
 säikky
@@ -513,6 +535,7 @@ samankaltainen
 samannäköinen
 samanpituinen
 satamaviranomainen
+seitakuorolainen
 sekava
 seksuaalirikollinen
 sekulaari
@@ -520,6 +543,7 @@ sellainen
 semmoinen
 serbialais-ruotsalainen
 siilinjärveläisnuori
+siirtokarjalainen
 siivekäs
 siivo
 silkka
@@ -575,11 +599,13 @@ supertulokas
 supisuomalainen
 suppea
 suuhunpantava
+suunnitelmanmukainen
 suuri
 suursuomalainen
 suvereeni
 sveitsiläisrakas
 syvä
+syväkylmä
 syyshelle
 syyslomalainen
 syyspimeä
@@ -604,6 +630,7 @@ tavoitekeskeinen
 täyspitkä
 terrorismiviranomainen
 terve
+terveydenhuoltoviranomainen
 terveyspoliittinen
 terveysviranomainen
 tiedusteluviranomainen
@@ -654,6 +681,7 @@ typötyhjä
 typykkä
 tyven
 uimapukumallinen
+ulkoilulainmukainen
 ulkomaalainen
 ulkonäkökeskeinen
 ulkopoliittinen
@@ -672,6 +700,7 @@ uusimaalainen
 uusiseelantilainen
 uusmaalainen
 uusrikas
+uussuomalainen
 uusvanha
 uutissuomalainen
 uutukainen
@@ -679,6 +708,7 @@ vaaleanruskea
 vaaleanvihreä
 vaaliviranomainen
 väärä
+vääränmallinen
 väestöpoliittinen
 väestötietoviranomainen
 vähä
@@ -757,6 +787,7 @@ yleispoliittinen
 ylipitkä
 ylirohkea
 ylisuuri
+ylitiukka
 ylitörkeä
 ympäristönsuojeluviranomainen
 ympäristöviranomainen

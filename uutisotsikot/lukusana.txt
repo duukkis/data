@@ -38,6 +38,7 @@ IV
 ix
 kahdeksan
 kahdeksankymmentä
+kahdeksantoista
 kahdeksas
 kahdeskymmenes
 kahdestoista
@@ -130,6 +131,7 @@ xiv
 xl
 xvi
 XVI
+xx
 xxxi
 yhdeksän
 yhdeksänkymmentä

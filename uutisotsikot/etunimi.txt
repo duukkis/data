@@ -94,6 +94,7 @@ Anna-Kaisa
 Anna-Kari
 Anna-Kristiina
 Anna-Leena
+Anna-Lena
 Anna-Liisa
 Anna-Lisa
 Anna-Maija
@@ -129,6 +130,7 @@ Ari
 Ariel
 Ari-Kyösti
 Ari-Pekka
+Aristoteles
 Arja
 Armi
 Arno
@@ -150,6 +152,7 @@ ATK-Alan
 Atso
 Atte
 August
+Aukusti
 Auli
 Aulikki
 Aulis
@@ -185,6 +188,7 @@ Burt
 Camilla
 Carita
 Carl
+Carl-Gustaf
 Carl-Kristian
 Carola
 Caroline
@@ -216,6 +220,7 @@ Douglas
 Dwight
 Eddie
 Edgar
+Eduard
 Edvard
 Edward
 Edwin
@@ -236,6 +241,7 @@ Eevi
 Eija
 Eija-Riitta
 Eila
+Einar
 Einari
 Eine
 Eini
@@ -243,6 +249,7 @@ Eino
 Eivor
 Ekaterina
 Eki
+e-Laina
 elementti-Sampo
 Elena
 Elias
@@ -265,6 +272,7 @@ Elmi
 Elmo
 elokuva-Alan
 Elsa
+Else
 Elsi
 Elvi
 Elvis
@@ -301,6 +309,7 @@ EU-Toimi
 Eva
 Eveliina
 Evelina
+Fanni
 Fanny
 Felix
 Ferdinand
@@ -312,6 +321,7 @@ Franz
 Fred
 Freddy
 Fredrik
+Freja
 Frida
 Friedrich
 fysiikkavalmentaja-Jere
@@ -330,6 +340,7 @@ Gunnar
 Gustaf
 Gustav
 Håkan
+haku-Veikko
 Hal
 Hanna
 Hanna-Katariina
@@ -375,6 +386,7 @@ Henrikki
 Henry
 heppatyttö-Anne
 Herbert
+Herkko
 Herman
 Hermanni
 Hessu
@@ -391,6 +403,7 @@ Ibrahim
 Ida
 Ida-Elina
 Iida
+Iida-Elisa
 Iina
 Iines
 Iiris
@@ -434,6 +447,8 @@ Jaana
 Jack
 Jacques
 Jake
+Jallu
+Jalmari
 James
 Jami
 jami-Petteri
@@ -451,6 +466,7 @@ Janna-Juuli
 Janne
 Janne-Olli
 Jannika
+Jäntti-Alan
 Jared
 Jari
 Jari-Matti
@@ -469,6 +485,7 @@ Jasper
 Jean
 Jean-Daniel
 Jean-Michel
+Jean-Philippe
 Jenna
 Jenni
 Jennifer
@@ -556,6 +573,7 @@ Kaisa
 Kaisa-Maija
 Kaisu
 Kaj
+kala-Alan
 Kalervo
 Kalevi
 Kalle
@@ -662,6 +680,7 @@ Lilian
 Lilli
 Lina
 Linda
+Linda-Lotta
 Linda-Thomas
 Linus
 Lisa
@@ -744,6 +763,7 @@ Marketta
 Markku
 Marko
 Markus
+Marleena
 Mårten
 Martin
 Martina
@@ -905,6 +925,7 @@ Patrick
 Patrik
 Paul
 Paula
+Paula-Sirkka
 Paul-Henri
 Pauli
 Pauliina
@@ -940,6 +961,7 @@ Piia
 Piia-Noora
 pikku-Einari
 pikku-Elmeri
+pikku-Jussi
 pikku-Venla
 Pinja
 pinta-Alan
@@ -957,11 +979,13 @@ pornokaunotar-Jenni
 poro-Jorma
 povi-Riina
 Prospero
+punahilkka-Satu
 punamulta-Akseli
 Pyry
 Raakel
 Rafael
 Raija
+Raija-Leena
 Raija-Sisko
 Raila
 Raili
@@ -1049,6 +1073,7 @@ Sam
 Sami
 Sami-Matti
 Sami-Petteri
+Sammeli
 Sampsa
 Samu
 Samuel
@@ -1108,6 +1133,7 @@ siviili-Pasi
 sivuosa-Jussi
 SM-Taisto
 Sofia
+Sohvi
 Soile
 Solja
 Solveig
@@ -1147,6 +1173,7 @@ taika-Pasi
 Taimi
 Taina
 Taisto
+taito-Valpuri
 Talvikki
 Tamara
 Taneli
@@ -1254,6 +1281,7 @@ Veini
 Veli
 veli-Matti
 veli-Pekka
+venäjän-Päivä
 venäjä-Toimi
 Venla
 Vera
@@ -1311,3 +1339,4 @@ yli-Maaria
 yrittäjä-Elina
 yrittäjä-Pasi
 Yrjö
+Yrjö-Tapio

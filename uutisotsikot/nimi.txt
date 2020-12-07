@@ -13,6 +13,7 @@ Animalia
 Apollo
 Apollon
 Apple
+arkkitehtuuri-Finlandia
 arvo-Porsche
 Ateneum
 Athene
@@ -22,6 +23,7 @@ Basic
 Beatles
 bensa-Mersu
 bin
+Botnia
 Burana
 Coca-Cola
 Colt
@@ -29,6 +31,7 @@ Core
 Crash
 Dalai-lama
 Dei
+Dionysos
 El
 Englannin-Maa
 Esso
@@ -42,6 +45,8 @@ Finnair
 Firefox
 Ford
 Fortum
+Galileo
+Ganymedes
 Gaudeamus
 Gestapo
 g-Mersu
@@ -89,6 +94,7 @@ maasturi-Lada
 maasturi-Mersu
 Marimekko
 Masala
+Merkurius
 Mersu
 Microsoft
 Mitsubishi
@@ -111,6 +117,7 @@ Oscar
 Ossian
 Otava
 Panadol
+Partek
 Peugeot
 pistoke-Volvo
 Pluto

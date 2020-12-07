@@ -1,8 +1,10 @@
 Äänekoski
 Äänekoski-Pihtipudas
 Ääninen
+Äänislinna
 Aasia
 Abhasia
+Adrianmeri
 Afganistan
 Afrikka
 Ähtäri
@@ -16,6 +18,7 @@ Alabama
 Alahärmä
 Alajärvi
 Alankomaa
+Ala-Satakunta
 Alaska
 Alastaro
 Ala-Tikkurila
@@ -84,11 +87,13 @@ Beirut
 Belgia
 Belgrad
 Belize
+Benin
 Bergen
 Berliini
 Berliinin-Brandenburg
 Bermuda
 Bern
+Betlehem
 Bhutan
 Birmingham
 Bodom
@@ -97,10 +102,12 @@ Bologna
 Bonn
 Böömi
 Bordeaux
+Borneo
 bosnia-Hertsegovina
 Boston
 Botswana
 Brandenburg
+Brändö
 Brasilia
 Bratislava
 Bremen
@@ -143,6 +150,7 @@ Eckerö
 Ecuador
 Edinburgh
 Edmonton
+Eesti
 Egeanmeri
 Egypti
 Eira
@@ -164,6 +172,7 @@ Etelä-Australia
 Etelä-Brasilia
 Etelä-Carolina
 Etelä-Dakota
+Etelä-Englanti
 Etelä-Espoo
 Etelä-Eurooppa
 Etelä-Georgia
@@ -187,6 +196,9 @@ Etelä-Satakunta
 Etelä-Savo
 Etelä-Sudan
 Etelä-Suomi
+Etelä-Tanska
+Etelä-Tapiola
+Etelä-Tiroli
 Etelä-Vantaa
 Etelä-Viro
 Etelä-Wales
@@ -207,6 +219,7 @@ Filippiini
 Firenze
 Fiskars
 Florida
+Föglö
 Forssa
 Francisco
 Frankfurt
@@ -231,6 +244,7 @@ haapaveden-Siikalatva
 Hailuoto
 Haiti
 Hakala-Mikkola
+Halikko
 Halsua
 Halti
 Häme
@@ -253,6 +267,7 @@ Hattula
 Hauho
 Hausjärvi
 Havaiji
+Havanna
 Heidelberg
 Heinjoki
 Heinola
@@ -348,6 +363,7 @@ Itä-Ukraina
 Itä-Uusimaa
 Itävalta
 Itä-Vantaa
+Itä-Viro
 Ivalo
 Ivalojoki
 Jaala
@@ -374,6 +390,7 @@ Jomala
 Jordan
 Jordania
 Joroinen
+Joutsa
 Joutseno
 Juankoski
 Jugoslavia
@@ -405,6 +422,7 @@ Kaisaniemi
 Kaivoksela
 Kajaani
 Kakola
+Kalahari
 Kalajoki
 Kalanti
 Kalifornia
@@ -485,6 +503,7 @@ Keski-Jyllanti
 Keski-Lappi
 Keski-Päijänne
 Keski-Pasila
+Keski-Pori
 Keski-Ruotsi
 Keski-Suomi
 Keski-Uusimaa
@@ -548,6 +567,7 @@ Kontiolahti-Eno
 Kontula
 Kööpenhamina
 Korea
+Korhola
 Korkiamäki
 korona-Ranska
 korona-Suomi
@@ -557,10 +577,12 @@ Korsika
 Korsnäs
 Koski
 Kosovo
+koti-Suomi
 Kotka
 Kotka-Hamina
 Kotka-Kymi
 Kotkan-Hamina
+koto-Suomi
 Kouvola
 Köyliö
 Krakova
@@ -591,6 +613,7 @@ Kupittaa
 Kurdistan
 Kurikka
 Kursk
+Kuru
 Kustavi
 Kuttura
 Kuuba
@@ -618,8 +641,10 @@ Lanka
 Länsi-Afrikka
 Länsi-Australia
 Länsi-Balkan
+Länsi-Englanti
 Länsi-Etiopia
 Länsi-Eurooppa
+Länsi-Grönlanti
 Länsi-Helsinki
 Länsi-Lappi
 Länsi-Lontoo
@@ -683,6 +708,7 @@ Loppi
 Los
 Louhela
 Louisiana
+Lounais-Afrikka
 Lounais-Lappi
 Lounas-Suomi
 Loviisa
@@ -727,6 +753,7 @@ Manner-Kiina
 Manner-Suomi
 Mannila
 Mäntsälä
+Mänttä
 Mänttä-Vilppula
 Mäntyharju
 Marburg
@@ -781,6 +808,7 @@ Montpellier
 Montreal
 Mosambik
 Moskova
+Mouhijärvi
 Muhos
 Multala
 Multia
@@ -802,6 +830,7 @@ Näätämö
 Nagasaki
 Nairobi
 Nakkila
+Namibia
 Napoli
 Närpiö
 Narva
@@ -844,6 +873,7 @@ Novgorod
 Novosibirsk
 Nubia
 Nummela
+nummi-Pusula
 Nuorgam
 Nurmes
 Nurmo
@@ -851,7 +881,9 @@ Nürnberg
 Nuuksio
 nyky-Eurooppa
 nyky-Hollywood
+nyky-Namibia
 nyky-Saksa
+nyky-Venäjä
 Ohio
 Okinawa
 Oklahoma
@@ -921,6 +953,7 @@ Pedersöre
 Peking
 Pello
 Peltola
+Peltovuoma
 Pennsylvania
 Penttilä
 Peräseinäjoki
@@ -947,6 +980,7 @@ Piippola
 Pikisaari
 pikku-Haiti
 pikku-Kamppi
+pikku-Pariisi
 pikku-Suomi
 Pirkkala
 Pirkkola
@@ -973,6 +1007,7 @@ Pohjois-Jyllanti
 Pohjois-Kypros
 Pohjois-Lappi
 Pohjois-Lontoo
+Pohjois-Namibia
 Pohjois-Satakunta
 Pohjois-Savo
 Pohjois-Syyria
@@ -1027,6 +1062,8 @@ Rääkkylä
 Raasepori
 Raisio
 Raja-Jooseppi
+raja-Karjala
+Ramallah
 Ranska
 Ranskan-Saksa
 Rantasalmi
@@ -1051,6 +1088,7 @@ Riikka-Mari
 Rissala
 Ristiina
 Ristijärvi
+Ristola
 Rodos
 Röksä
 Romania
@@ -1091,6 +1129,7 @@ Salmi
 Salo
 Salvador
 Salzburg
+Sambia
 Sanna-Mari
 Santahamina
 Santiago
@@ -1103,6 +1142,7 @@ Satakunta
 Saudi-Arabia
 Sauvo
 Savela
+Savikka
 Savikko
 Savio
 Savitaipale
@@ -1198,6 +1238,7 @@ Sydney
 Syrjälä
 syrjä-Suomi
 Sysmä
+Syväri
 Syyria
 Tahiti
 Taipale
@@ -1250,6 +1291,7 @@ Tokio
 Töölö
 Torino
 Törmälä
+Törnävä
 Tornio
 Toronto
 Toscana
@@ -1284,12 +1326,14 @@ Tuulos
 Tuupovaara
 Tuusniemi
 Tuusula
+Tuvalu
 Tyrnävä
 Tyynimeri
 Uganda
 Ukkola
 Ullava
 Ulvila
+Upinniemi
 Uppsala
 Ural
 Urjala
@@ -1297,6 +1341,7 @@ Uruguay
 Utah
 Utajärvi
 Utsjoki
+Uudenmaan-Häme
 Uumaja
 Uurainen
 Uusi-Guinea
@@ -1355,6 +1400,8 @@ Vimpeli
 Virginia
 virtuaali-Cannes
 Visby
+Voikkaa
+Volga
 Vöyri
 Vuokatti
 Vuokatti-Ruka
