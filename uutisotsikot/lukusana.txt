@@ -31,6 +31,7 @@ III
 iltakahdeksan
 iltakuusi
 iltaseitsemän
+iltaviisi
 iltayhdeksän
 iltayhdentoista
 iv
@@ -98,6 +99,8 @@ satamiljoonaa
 satatuhatta
 sataviisikymmentä
 seitsemän
+seitsemänsataa
+seitsemäntoista
 seitsemäs
 seitsemisenkymmentä
 toinen
@@ -112,6 +115,7 @@ vi
 VI
 vii
 viides
+viidessadas
 viidestoista
 viii
 VIII

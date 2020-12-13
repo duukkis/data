@@ -1,6 +1,7 @@
 Äänekoski
 Äänekoski-Pihtipudas
 Ääninen
+Äänisjärvi
 Äänislinna
 Aasia
 Abhasia
@@ -14,6 +15,7 @@ Ahvenisto
 Ainola
 Airisto
 Akaa
+Äkäslompolo
 Alabama
 Alahärmä
 Alajärvi
@@ -49,6 +51,7 @@ Anne-Mari
 Antarktis
 Antwerpen
 Arabia
+Arabiemiirikunta
 Argentiina
 Arizona
 Arkansas
@@ -89,6 +92,7 @@ Belgrad
 Belize
 Benin
 Bergen
+Berkeley
 Berliini
 Berliinin-Brandenburg
 Bermuda
@@ -200,6 +204,7 @@ Etelä-Tanska
 Etelä-Tapiola
 Etelä-Tiroli
 Etelä-Vantaa
+Etelä-Venäjä
 Etelä-Viro
 Etelä-Wales
 Etiopia
@@ -214,8 +219,10 @@ Evijärvi
 fantasia-Lappi
 Färsaari
 Fennoskandia
+Ferrari-Taipale
 Fidži
 Filippiini
+Finnmark
 Firenze
 Fiskars
 Florida
@@ -239,11 +246,14 @@ Grönlanti
 Guantanamo
 Guatemala
 Guinea
+Guyana
 Haag
+Haaga
 haapaveden-Siikalatva
 Hailuoto
 Haiti
 Hakala-Mikkola
+Hakkila
 Halikko
 Halsua
 Halti
@@ -251,6 +261,7 @@ Häme
 Hämeenkyrö
 Hämeenlinna-Vanaja
 Hamina
+Hamina-Kotka
 Haminan-Kotka
 Hammerfest
 Hampshire
@@ -273,6 +284,7 @@ Heinjoki
 Heinola
 Helsingborg
 Helsinki
+Helsinki-Bangkok
 Helsinki-Oulu
 Helsinki-Tampere
 Helsinki-Turku
@@ -334,6 +346,7 @@ Irak
 Ira-Mari
 Iran
 Irlanti
+Islamabad
 Island
 Islanti
 Iso-Britannia
@@ -341,10 +354,12 @@ Isokyrö
 Israel
 Istanbul
 Itä-Aasia
+Itä-Afganistan
 Itä-Afrikka
 Itä-Englanti
 Itä-Eurooppa
 Itä-Hakkila
+Itä-Häme
 Itä-Helsinki
 Itä-Karjala
 Itä-Kiina
@@ -385,7 +400,9 @@ Jero
 Jersey
 Jerusalem
 Joensuu
+Johannesburg
 Jokioinen
+Jokipii
 Jomala
 Jordan
 Jordania
@@ -418,6 +435,7 @@ Kabul
 Kaija
 Kainuu
 Kairo
+Kaisa-Mari
 Kaisaniemi
 Kaivoksela
 Kajaani
@@ -446,6 +464,7 @@ Kangasniemi
 Kankaala
 Kankaanpää
 Kankaanpää-Pöytyä
+Kannonkoski
 Kannus
 Kansas
 Kanta-Häme
@@ -496,6 +515,7 @@ kesä-Suomi
 Keski-Aasia
 Keski-Afrikka
 Keski-Amerikka
+Keski-Englanti
 Keski-Eurooppa
 Keski-Helsinki
 Keski-Jaava
@@ -538,6 +558,7 @@ Kiukainen
 Kiuruvesi
 Kivijärvi
 Klaukkala
+Kluuvi
 Koillis-Afrikka
 Koillis-Espanja
 Koillis-Helsinki
@@ -580,6 +601,7 @@ Kosovo
 koti-Suomi
 Kotka
 Kotka-Hamina
+Kotka-Kouvola
 Kotka-Kymi
 Kotkan-Hamina
 koto-Suomi
@@ -678,6 +700,7 @@ Leningrad
 Lepola
 Leppilampi
 Leskelä
+Lesotho
 Levi
 Levitunturi
 Libanon
@@ -709,6 +732,7 @@ Los
 Louhela
 Louisiana
 Lounais-Afrikka
+Lounais-Häme
 Lounais-Lappi
 Lounas-Suomi
 Loviisa
@@ -806,6 +830,7 @@ Montana
 Montenegro
 Montpellier
 Montreal
+möreä-Ääninen
 Mosambik
 Moskova
 Mouhijärvi
@@ -882,9 +907,12 @@ Nuuksio
 nyky-Eurooppa
 nyky-Hollywood
 nyky-Namibia
+nyky-Ruotsi
 nyky-Saksa
 nyky-Venäjä
 Ohio
+Ojala-Nieminen
+Ojamäki
 Okinawa
 Oklahoma
 Olari
@@ -984,8 +1012,11 @@ pikku-Pariisi
 pikku-Suomi
 Pirkkala
 Pirkkola
+p-Irlanti
+Pirttimäki
 Pisa
 Pispala
+p-Makedonia
 Pohja
 Pohjois-Afganistan
 Pohjois-Afrikka
@@ -1004,6 +1035,7 @@ Pohjois-Irak
 Pohjois-Irlanti
 Pohjois-Itämeri
 Pohjois-Jyllanti
+Pohjois-Kalifornia
 Pohjois-Kypros
 Pohjois-Lappi
 Pohjois-Lontoo
@@ -1060,6 +1092,7 @@ Quebec
 Raahe
 Rääkkylä
 Raasepori
+raatteen-Suomussalmi
 Raisio
 Raja-Jooseppi
 raja-Karjala
@@ -1111,6 +1144,7 @@ Ruukki
 ry-Pohja
 Sääksjärvi
 Saana
+Saanatunturi
 sääntö-Suomi
 Saarenmaa
 Saarijärvi
@@ -1129,8 +1163,11 @@ Salmi
 Salo
 Salvador
 Salzburg
+Samaria
 Sambia
+Sammatti
 Sanna-Mari
+Sanni-Mari
 Santahamina
 Santiago
 Sarajärvi
@@ -1175,6 +1212,7 @@ Siinai
 Silvola
 Simo
 Simojoki
+Simola
 Singapore
 Siperia
 Sipola
@@ -1231,6 +1269,7 @@ Suur-Miehikkälä
 Suursaari
 Suur-Savo
 Suur-Suomi
+Suutarila
 Suvela
 Sveitsi
 Sydän-Satakunta
@@ -1279,6 +1318,7 @@ Tiibet
 Tiirismaa
 Tikkala
 Tikkurila
+Tirana
 tirehtööri-Kangasniemi
 Tiroli
 Tobago
@@ -1288,6 +1328,7 @@ Toholampi
 Toijala
 Toivakka
 Tokio
+Tonga
 Töölö
 Torino
 Törmälä
@@ -1311,6 +1352,7 @@ Tšetšenia
 Tshekki
 Tshekkoslovakia
 Tsheljabinsk
+Tshetshenia
 Tukholma
 Tula
 Tunguska
@@ -1421,10 +1463,12 @@ Ylä-Lappi
 Ylämaa
 Yläne
 Ylä-Savo
+Ylihärmä
 Yli-Ii
 Ylikiiminki
 yli-Mannila
 Ylistaro
+yli-Tepsa
 Ylitornio
 Ylivieska
 Ylläs

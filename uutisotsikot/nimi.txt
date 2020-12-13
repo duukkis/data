@@ -59,6 +59,7 @@ Hesari
 Hesburger
 hybridi-Audi
 Hyundai
+Ilta-Aurinko
 Instagram
 Internet
 Interpol
@@ -96,6 +97,7 @@ Marimekko
 Masala
 Merkurius
 Mersu
+metsä-Botnia
 Microsoft
 Mitsubishi
 Mossad
@@ -156,6 +158,7 @@ Stuka
 Suomi-Instagram
 Suomi-Twitter
 Supo
+Tamiflu
 Tarzan
 Tavastia
 Teboil
@@ -164,6 +167,7 @@ Tehy
 tieto-Finlandia
 Tokmanni
 Toyota
+traileri-Saab
 Tuonela
 TV-Aurinko
 Twitter
@@ -183,6 +187,7 @@ Wärtsilä
 WhatsApp
 Wikipedia
 Windows
+Xinhua
 Yakuza
 Yaris
 YK-Maa

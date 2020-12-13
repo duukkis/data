@@ -52,6 +52,7 @@ bisnesrikollinen
 boikotinomainen
 bonusmallinen
 brittiläinen
+brittiviranomainen
 buddhalainen
 burleski
 dekadentti
@@ -70,6 +71,7 @@ EM-kulta
 energiaviranomainen
 entinen
 epäjohdonmukainen
+epäkelpo
 epäkypsä
 epämukava
 epänormaali
@@ -93,6 +95,7 @@ erityistiukka
 eteläkarjalainen
 eteläsaamelainen
 eteläsuomalainen
+etelävenäläinen
 EU-kilpailuviranomainen
 eurooppalaistulokas
 EU-suomalainen
@@ -112,6 +115,7 @@ harvinaissairas
 hassu
 hassunhauska
 hauska
+heikkonäköinen
 helle
 helluntailainen
 helsinkiläisnuori
@@ -165,6 +169,8 @@ intellektuelli
 introvertti
 irlantilaisrakas
 irlantilais-suomalainen
+irtain
+irtokulta
 islamilainen
 iso
 itäkarjalainen
@@ -241,9 +247,11 @@ kiltti
 kipeä
 kirjava
 kirkkaanvihreä
+kisamallinen
 kivikko
 kodinomainen
 kohtalonomainen
+kohtisuora
 kohurikollinen
 koillismaalainen
 kokoomuslainen
@@ -257,6 +265,7 @@ korkuinen
 kotikeskeinen
 kotitoimistosi
 koukero
+koulutuspoliittinen
 kouvolalaisnuori
 kova
 köyhä
@@ -271,8 +280,10 @@ kuluttajansuojaviranomainen
 kuluttajaviranomainen
 kumma
 kunnallispoliittinen
+kuopiolaisnuori
 kuorolainen
 kuppimallinen
+kurdiviranomainen
 kuubanjuutalainen
 kuuma
 kuuro
@@ -290,6 +301,7 @@ läheinen
 lähiomainen
 lähisukulainen
 lahkolainen
+lahkonomainen
 laho
 lahtelainen
 lahtelaisnuori
@@ -322,6 +334,7 @@ lukivaikeusaikuinen
 luonnonläheinen
 luonnonmukainen
 luonteenomainen
+luottokorttirikollinen
 lupaviranomainen
 luterilainen
 lyhytnäköinen
@@ -347,6 +360,7 @@ mieleinen
 MM-kulta
 mobiili
 mokoma
+monenkeskeinen
 muinaissuomalainen
 muinais-ugrilainen
 mukainen
@@ -427,6 +441,7 @@ paskiainen
 pehmeä
 pehmo
 pelastusviranomainen
+perheenomainen
 perhekeskeinen
 perisuomalainen
 perussuomalainen
@@ -494,6 +509,7 @@ rahoitusmallinen
 rajavalvontaviranomainen
 rajaviranomainen
 rakas
+rämä
 rampa
 ranskalaisrakas
 ranskalais-suomalainen
@@ -517,6 +533,7 @@ ruotsalais-brittiläinen
 ruotsalaisnuori
 ruotsalaisrakas
 ruotsalaistulokas
+ruotsalaisviranomainen
 ruotsinsuomalainen
 ruskea
 rutiininomainen
@@ -525,6 +542,7 @@ rutikuiva
 rutto
 saamelainen
 saamelaisnuori
+säännönmukainen
 sääntelyviranomainen
 saarelainen
 saaristolainen
@@ -561,6 +579,7 @@ sokko
 somalimaalainen
 sopimismallinen
 sosiaalidemokraatti
+sosiaaliviranomainen
 sosialidemokraatti
 sotarikollinen
 sotilaspoliittinen
@@ -619,6 +638,7 @@ tällainen
 talouspoliittinen
 talousrikollinen
 tämmöinen
+tanskalais-ruotsalainen
 tarkkanäköinen
 tarkoituksenmukainen
 tartuntatautiviranomainen
@@ -628,14 +648,18 @@ tautiviranomainen
 tavanomainen
 tavoitekeskeinen
 täyspitkä
+teemasuomalainen
 terrorismiviranomainen
 terve
 terveydenhuoltoviranomainen
+terveyskeskeinen
 terveyspoliittinen
 terveysviranomainen
 tiedusteluviranomainen
 tietoturvaviranomainen
 tihku
+tilanteenmukainen
+tilastoviranomainen
 tiukka
 t-mallinen
 todenmukainen
@@ -657,6 +681,7 @@ tuhma
 tukiaikuinen
 tulliviranomainen
 tulokas
+tulopoliittinen
 tummanharmaa
 tummanvihreä
 tuollainen
@@ -682,6 +707,7 @@ typykkä
 tyven
 uimapukumallinen
 ulkoilulainmukainen
+ulkolainen
 ulkomaalainen
 ulkonäkökeskeinen
 ulkopoliittinen

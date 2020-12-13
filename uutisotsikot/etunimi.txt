@@ -40,7 +40,9 @@ Aki
 Aksel
 Akseli
 Aku
+Aku-Veli
 Alan
+Alastair
 Albert
 Albin
 Ale
@@ -65,6 +67,7 @@ Alisa-Sisko
 Allan
 Allen
 Alma
+Al-Noora
 Alpo
 Altti
 ALV-Ale
@@ -109,6 +112,7 @@ Anni
 Anniina
 Annika
 Annikki
+Annina
 Anni-Sofia
 Annukka
 Anselmi
@@ -170,6 +174,7 @@ Bengt
 Benito
 Benjam
 Benjamin
+Benni
 Bernhard
 Bernie
 Bertel
@@ -180,6 +185,7 @@ Bill
 Birger
 Birgitta
 Boris
+Bram
 Brita
 Bruce
 Bruno
@@ -189,6 +195,7 @@ Camilla
 Carita
 Carl
 Carl-Gustaf
+Carl-Henrik
 Carl-Kristian
 Carola
 Caroline
@@ -207,14 +214,17 @@ Clarice
 Clayton
 Colin
 cup-Unelma
+Daavid
 Dagmar
 Daisy
 Daniel
 Daniela
+Dante
 Dario
 David
 diakonissa-Marika
 Diana
+d-Max
 Donald
 Douglas
 Dwight
@@ -231,8 +241,10 @@ Eerika
 Eerikki
 Eero
 Eero-Matti
+Eero-Veli
 Eetu
 Eeva
+Eeva-Helena
 Eeva-Johanna
 Eeva-Liisa
 Eeva-Riitta
@@ -309,6 +321,7 @@ EU-Toimi
 Eva
 Eveliina
 Evelina
+Fabian
 Fanni
 Fanny
 Felix
@@ -357,6 +370,7 @@ Hanno
 Hannu
 Hannu-Pekka
 Hans
+Hans-Georg
 Hanski
 Harald
 Harry
@@ -369,19 +383,23 @@ Helen
 Helena
 Helene
 Helga
+Helge
 Heli
 Heljä
+Heljä-Sisko
 Helka
 Hellevi
 Helli
 Helmer
 helmi-Leena
+Helvi
 Hemmi
 henna-Mia
 Henri
 Henrietta
 Henriikka
 Henrik
+Henrika
 Henrikki
 Henry
 heppatyttö-Anne
@@ -391,6 +409,7 @@ Herman
 Hermanni
 Hessu
 Heta
+Heta-Elena
 hilkka-Sisko
 Hilppa
 himomarjastaja-Aimo
@@ -398,10 +417,12 @@ Hjalmar
 hoiva-Alan
 Hollywood-Unelma
 Hugo
+huolinta-Alan
 huume-Eeva
 Ibrahim
 Ida
 Ida-Elina
+Idi
 Iida
 Iida-Elisa
 Iina
@@ -532,7 +553,9 @@ Josef
 Josefiina
 Joseph
 Josif
+Joukahainen
 Jouko
+joulu-Unelma
 Jouni
 Juha
 Juha-Jaakko
@@ -569,6 +592,7 @@ Kaarlo
 Kai
 Kaija-Leena
 Kaino
+Kai-Pekka
 Kaisa
 Kaisa-Maija
 Kaisu
@@ -647,6 +671,7 @@ Kylli
 Kyllikki
 Kyösti
 lääkäri-Anni
+lääkäri-Tatu
 Laila
 Lalli
 Lars
@@ -664,6 +689,7 @@ Leevi
 Leif
 Leila
 Lemminkäinen
+Lempi
 Lena
 Lenita
 Lennart
@@ -675,6 +701,7 @@ Leo-Pekka
 Leopold
 liero-Iiro
 liha-Alan
+liina-Kaisa
 Liisa
 Lilian
 Lilli
@@ -685,6 +712,7 @@ Linda-Thomas
 Linus
 Lisa
 Lissu
+logistiikka-Alan
 Lolita
 Louis
 Luca
@@ -760,6 +788,7 @@ Marjukka
 Marjut
 Mark
 Marketta
+Markit
 Markku
 Marko
 Markus
@@ -801,6 +830,7 @@ Mette
 Mia
 Michael
 Michel
+Michelangelo
 Michelle
 Miguel
 Miia
@@ -823,6 +853,7 @@ Mimmi
 Mimosa
 Minea
 Minerva
+mini-Teemu
 Minja
 Minna
 Minna-Liisa
@@ -856,6 +887,7 @@ Muhammed
 musiikki-Jussi
 Nadine
 Nanna
+Nanny
 Napoleon
 Natalia
 Natalie
@@ -895,6 +927,7 @@ Oliver
 Olivia
 Olli
 Olli-Jussi
+Olli-Matti
 Olli-Pekka
 Olof
 Olov
@@ -970,6 +1003,7 @@ Pirjo
 Pirjo-Leena
 Pirjo-Riitta
 Pirkka
+Pirkka-Pekka
 Pirkko
 playboy-Rinna
 playboy-Taru
@@ -1000,6 +1034,7 @@ Rasmus
 rasva-Antero
 Rauha
 Rauli
+Rauna
 Rauni
 Rauno
 rauta-Kukka
@@ -1031,6 +1066,7 @@ Riku-Matti
 Riku-Sakari
 Rimma
 Rinna
+rinta-Alan
 Risto
 Ritva
 Ritva-Liisa
@@ -1108,6 +1144,7 @@ Seppo
 Sergei
 Severi
 Sherlock
+Signe
 Sigurd
 Siiri
 Siirin-Päivi
@@ -1162,12 +1199,14 @@ Susanne
 susi-Kalle
 suvi-Anne
 Sven
+Sven-Erik
 Sven-Göran
 Svetlana
 Sylvester
 Sylvia
 Taavetti
 Taavi
+Tage
 Taija
 taika-Pasi
 Taimi
@@ -1241,7 +1280,9 @@ Tuukka
 Tuula
 Tuuli
 Tuure
+TV-Alan
 Tytti
+tyyny-Mike
 Uki
 Ukko
 Ukko-Pekka
@@ -1262,6 +1303,7 @@ Uuno
 vaha-Harry
 vaimo-Vivian
 Väinö
+Valdo
 Valentin
 Valfrid
 Valter
@@ -1338,5 +1380,6 @@ YK-Jouko
 yli-Maaria
 yrittäjä-Elina
 yrittäjä-Pasi
+Yrjänä
 Yrjö
 Yrjö-Tapio

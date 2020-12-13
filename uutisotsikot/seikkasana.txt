@@ -1,3 +1,4 @@
+aamupäivisin
 aamutuimaan
 aamuvarhain
 ääneti
@@ -23,6 +24,7 @@ alemmas
 alhaalla
 alias
 ällikällä
+aloittain
 alueittain
 alushoususilla
 amerikkalaisittain
@@ -188,9 +190,11 @@ keskenään
 keskimäärin
 keskiviikkoisin
 keulilla
+keväämmällä
 kieppeillä
 kiertotie
 kiikissä
+kiinalaisittain
 kiinni
 kiloittain
 kilpasilla
@@ -207,6 +211,7 @@ koskaan
 kosolti
 kotoisin
 kotosalla
+koulutusasteittain
 kuitenkaan
 kuitenkin
 kukaties
@@ -301,14 +306,17 @@ näköjään
 näkösällä
 naukin
 näytillä
+neljännesvuosittain
 nenätysten
 niin
 nimenomaan
 nimittäin
 nipin
+niukalti
 no
 noin
 nopeiten
+nukuksissa
 nurin
 nurinpäin
 nykyä
@@ -342,6 +350,7 @@ päittäin
 päiväsaikaan
 päivittäin
 pakosalla
+paliskunnittain
 paljolti
 pälkähästä
 paraikaa
@@ -359,6 +368,7 @@ piakkoin
 piirikunnittain
 pika
 pikemmin
+pikimmin
 pikimmiten
 pikkuhiljaa
 pikkuhoususilla
@@ -388,12 +398,15 @@ rikki
 rinnakkain
 roppakaupalla
 rutto
+ryhmittäin
 saakka
 saatana
 saati
 saatille
+sadoittain
 sähköposti
 sairaanhoitopiireittäin
+säkeittäin
 salaa
 samaten
 sammuksissa
@@ -408,6 +421,7 @@ sentään
 siellä
 siis
 sikäli
+sikin
 sikseen
 siksi
 silleen
@@ -449,6 +463,7 @@ taiten
 taivasalla
 takaapäin
 takana
+takanapäin
 takaperin
 takia
 tallessa
