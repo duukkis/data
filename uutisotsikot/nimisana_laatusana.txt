@@ -139,6 +139,7 @@ huippukova
 huippumukava
 huippupitkä
 huippurikas
+huipputiukka
 huipputulokas
 hullu
 hullunhauska
@@ -150,6 +151,7 @@ hurjannäköinen
 huumerikollinen
 huutolainen
 hyvännäköinen
+ihanainen
 ihmisläheinen
 ikävä
 iki-ihanainen
@@ -165,6 +167,7 @@ imbesilli
 inkeriläinen
 inkerinkarjalainen
 inkerinsuomalainen
+instrumentaali
 intellektuelli
 introvertti
 irlantilaisrakas
@@ -361,6 +364,7 @@ MM-kulta
 mobiili
 mokoma
 monenkeskeinen
+monituottajamallinen
 muinaissuomalainen
 muinais-ugrilainen
 mukainen
@@ -649,6 +653,7 @@ tavanomainen
 tavoitekeskeinen
 täyspitkä
 teemasuomalainen
+teneriffalaisvieras
 terrorismiviranomainen
 terve
 terveydenhuoltoviranomainen
@@ -694,6 +699,7 @@ turvallisuuspoliittinen
 turvallisuusviranomainen
 tuttava
 tuttu
+tutuntuttu
 tyhjä
 tyhmä
 työkyvyttömyyseläkeläinen
@@ -707,6 +713,7 @@ typykkä
 tyven
 uimapukumallinen
 ulkoilulainmukainen
+ulkokulta
 ulkolainen
 ulkomaalainen
 ulkonäkökeskeinen
@@ -724,6 +731,7 @@ utelias
 uudenmallinen
 uusimaalainen
 uusiseelantilainen
+uusliberaali
 uusmaalainen
 uusrikas
 uussuomalainen

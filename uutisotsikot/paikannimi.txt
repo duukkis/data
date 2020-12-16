@@ -137,6 +137,7 @@ Chile
 Colorado
 Colosseum
 Connecticut
+Cornwall
 Dakota
 Dallas
 Damaskos
@@ -193,6 +194,7 @@ Etelä-Lappi
 Etelä-Libanon
 Etelä-Miami
 Etelä-Pohja
+Etelä-Posio
 Etelä-Ranska
 Etelä-Ruotsi
 Etelä-Saksa
@@ -426,6 +428,7 @@ Jyväskylä-Tampere
 Kaaba
 Kaakkois-Aasia
 Kaakkois-Brasilia
+Kaakkois-Nigeria
 Kaamanen
 Kaanaa
 Kaarela
@@ -509,6 +512,7 @@ Kempele
 Kenia
 Kentucky
 Kerava
+Kerimäki
 kesä-Helsinki
 Kesälahti
 kesä-Suomi
@@ -590,6 +594,7 @@ Kööpenhamina
 Korea
 Korhola
 Korkiamäki
+korona-Helsinki
 korona-Ranska
 korona-Suomi
 Korpilahti
@@ -683,6 +688,7 @@ Länsi-Vantaa
 Länsi-Virginia
 Laos
 Lappajärvi
+Lappee
 lappeenrannan-Lahti
 Lappi
 Lapua
@@ -1020,6 +1026,7 @@ p-Makedonia
 Pohja
 Pohjois-Afganistan
 Pohjois-Afrikka
+Pohjois-Alaska
 Pohjois-Amerikka
 Pohjois-Atlantti
 Pohjois-Böömi
@@ -1263,6 +1270,7 @@ Suomi-Wales
 Suomussalmi
 Suonenjoki
 super-Mattila
+Suur-Helsinki
 Suur-Hollola
 Suur-Manchester
 Suur-Miehikkälä
@@ -1272,6 +1280,7 @@ Suur-Suomi
 Suutarila
 Suvela
 Sveitsi
+Swazimaa
 Sydän-Satakunta
 Sydney
 Syrjälä
@@ -1304,6 +1313,7 @@ Tasmania
 Teheran
 Teisko
 Teksas
+Tenerife
 Teneriffa
 Tennessee
 Teno
@@ -1417,6 +1427,7 @@ Vanaja
 Vanajavesi
 Vancouver
 Vantaa
+Vantaa-Kerava
 Vanuatu
 Varpaisjärvi
 varsinais-Suomi

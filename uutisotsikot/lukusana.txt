@@ -37,6 +37,7 @@ iltayhdentoista
 iv
 IV
 ix
+IX
 kahdeksan
 kahdeksankymmentä
 kahdeksantoista
@@ -133,6 +134,7 @@ XI
 XIII
 xiv
 xl
+XV
 xvi
 XVI
 xx

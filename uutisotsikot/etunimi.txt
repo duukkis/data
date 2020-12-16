@@ -156,6 +156,7 @@ ATK-Alan
 Atso
 Atte
 August
+Augusti
 Aukusti
 Auli
 Aulikki
@@ -246,6 +247,7 @@ Eetu
 Eeva
 Eeva-Helena
 Eeva-Johanna
+Eeva-Leena
 Eeva-Liisa
 Eeva-Riitta
 Eevert
@@ -667,6 +669,7 @@ kuski-Ari
 Kustaa
 Kusti
 kuu-Ukko
+kyberturva-Alan
 Kylli
 Kyllikki
 Kyösti
@@ -965,6 +968,7 @@ Pauliina
 Pekka
 Pekka-Matias
 Pekka-Veli
+Pekko
 Pellervo
 Penelope
 Penna
@@ -1005,6 +1009,7 @@ Pirjo-Riitta
 Pirkka
 Pirkka-Pekka
 Pirkko
+Pirkko-Liisa
 playboy-Rinna
 playboy-Taru
 poliisikoira-Max
@@ -1091,6 +1096,7 @@ ruoka-Aini
 ruoka-Alan
 Ruth
 Ruusu
+Saana-Sisko
 Saara
 Saara-Lotta
 Saara-Sofia
@@ -1140,6 +1146,7 @@ seksi-Olli
 Selma
 Senja
 Senni
+seppä-Antti
 Seppo
 Sergei
 Severi
@@ -1227,6 +1234,7 @@ Tatjana
 Tatu
 Tauno
 Tea
+Teea
 Teemu
 Teija
 Teija-Liisa

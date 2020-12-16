@@ -115,6 +115,7 @@ höplästä
 hoteissa
 hujakoilla
 hukassa
+hukuksissa
 huomenna
 huoneistoittain
 huonoiten
@@ -157,6 +158,7 @@ jouten
 julki
 juovuksissa
 juovuspäissä
+justiin
 juttusilla
 kadoksissa
 kahtaalla
@@ -336,6 +338,7 @@ osavaltioittain
 osittain
 päällekkäin
 päällepäin
+pääpiirteittäin
 pahiten
 pahitteeksi
 paikkakunnittain
@@ -433,6 +436,7 @@ sisäänpäin
 siten
 sittemmin
 sitten
+sivu
 sivumpana
 sivuttain
 sokin

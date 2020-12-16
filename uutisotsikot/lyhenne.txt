@@ -47,6 +47,7 @@ kWh
 LED
 LP
 LSD
+mg
 mini-LP
 mini-PC
 MM

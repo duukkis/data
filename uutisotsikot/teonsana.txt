@@ -44,6 +44,7 @@ aistia
 aitoa
 äityä
 aivastaa
+aivastella
 ajaa
 ajankohtaistaa
 ajanmukaistaa
@@ -292,6 +293,7 @@ emännöidä
 empiä
 energiahyödyntää
 ennakkoilmoittautua
+ennakkokuulla
 ennakoida
 ennakoitua
 ennallistaa
@@ -374,6 +376,7 @@ etoa
 etsiä
 etsintäkuuluttaa
 etsiskellä
+etuilla
 euroepäonnistua
 eurooppalaistaa
 EU-vaikuttaa
@@ -526,6 +529,7 @@ harsia
 harventaa
 harventua
 harveta
+harvinaistua
 hassutella
 hätääntyä
 hätäillä
@@ -1189,6 +1193,7 @@ kaljoitella
 kaljuuntua
 kallistaa
 kallistua
+kalskahtaa
 kaltaistaa
 kalustaa
 kaluta
@@ -1325,6 +1330,7 @@ käynnistää
 käynnistellä
 käynnistyä
 käyskennellä
+käytellä
 käyttää
 käyttäytyä
 kehaista
@@ -1390,6 +1396,7 @@ kertyä
 kesäjuoda
 kesäpukeutua
 kesätehdä
+kesätyöllistyä
 kesiä
 keskeyttää
 keskeytyä
@@ -1423,6 +1430,7 @@ kierähtää
 kieriä
 kieriskellä
 kierrättää
+kierrätyskuluttaa
 kierrellä
 kiertää
 kiertyä
@@ -1608,6 +1616,7 @@ koluta
 komeilla
 komentaa
 komistaa
+komistua
 kommentoida
 kommentoitua
 kommunikoida
@@ -1730,6 +1739,7 @@ kruunata
 kuhahdella
 kuherrella
 kuhista
+kuihduttaa
 kuihtua
 kuiskata
 kuiskia
@@ -1774,6 +1784,7 @@ kummastella
 kummastua
 kummastuttaa
 kummeksua
+kummeksuttaa
 kummitella
 kummuta
 kumota
@@ -2190,6 +2201,7 @@ loukkaantua
 loukuttaa
 lounastaa
 lounastavata
+löyhentää
 löyhkätä
 löylyttää
 löysätä
@@ -2219,6 +2231,7 @@ lukita
 lukittautua
 lukittua
 lukkaroida
+lukkiutua
 luksuskuluttaa
 lumilautailla
 lumota
@@ -2258,6 +2271,7 @@ lyödä
 lyöttäytyä
 lypsää
 lysähtää
+lystätä
 lytätä
 lyyhistyä
 maadoittaa
@@ -2338,6 +2352,7 @@ mässäillä
 massairtisanoa
 massavangita
 masturboida
+mätiä
 mätkähtää
 matkailla
 mätkäistä
@@ -2369,6 +2384,7 @@ merkata
 merkitä
 mestaroida
 mestata
+metelöidä
 metkuilla
 metrorakentaa
 metsäkokoontua
@@ -2388,6 +2404,7 @@ mieltyä
 mietiskellä
 mietityttää
 miettiä
+miinoittaa
 militarisoida
 minimoida
 mitata
@@ -2495,6 +2512,7 @@ mustamaalata
 mutkistaa
 mutkistua
 mutkitella
+mutustella
 muunnella
 muuntaa
 muuntautua
@@ -2687,6 +2705,7 @@ nuuskata
 nuuskia
 nyhjäistä
 nyhjätä
+nyhjöttää
 nyhtää
 nykäistä
 nykiä
@@ -2712,6 +2731,7 @@ ohjastaa
 ohjata
 ohjautua
 ohjeistaa
+ohjelmaosata
 ohjelmoida
 ohjelmoitua
 oieta
@@ -2848,9 +2868,12 @@ päivittyä
 päivystää
 pakahtua
 pakastaa
+pakastua
 pakata
+pakertaa
 paketoida
 paketoitua
+pakista
 pakkaantua
 pakkailla
 pakkautua
@@ -2891,6 +2914,7 @@ pamppailla
 pamputtaa
 panetella
 paneutua
+paniikkiostaa
 panna
 pannoittaa
 panostaa
@@ -3025,7 +3049,9 @@ pierrä
 piestä
 pietä
 piharakentaa
+pihdata
 pihistä
+pihistellä
 piikata
 piikitellä
 piikittää
@@ -3080,8 +3106,10 @@ piristä
 piristää
 piristyä
 pirstaloitua
+pirstoa
 pirstoutua
 piruilla
+pisaroida
 pissata
 pissiä
 pistää
@@ -3227,6 +3255,7 @@ puksuttaa
 pukusäätää
 pulahtaa
 pulittaa
+pullikoida
 pullistella
 pullottaa
 pulpahdella
@@ -3234,6 +3263,7 @@ pulpahtaa
 pulputa
 pulputella
 pulputtaa
+pummata
 pumpata
 punastuttaa
 punertaa
@@ -3491,6 +3521,7 @@ repäistä
 repeillä
 repeytyä
 repiä
+repostella
 repsahtaa
 repsottaa
 reputtaa
@@ -3598,6 +3629,7 @@ ruhjoa
 ruhjoutua
 ruikuttaa
 ruinata
+ruiskauttaa
 ruiskuta
 ruiskuttaa
 rukata
@@ -4039,6 +4071,7 @@ suositella
 suosittaa
 suostua
 suostutella
+supattaa
 superkohdata
 superlevitä
 superonnistua
@@ -4180,6 +4213,7 @@ taltuttaa
 taluttaa
 talvehtia
 talvipukeutua
+tampata
 tanhuta
 tankata
 tanskalaisosata
@@ -4276,6 +4310,7 @@ teititellä
 tekaista
 tekeytyä
 teknologiaosata
+tekoälyosata
 tekohengittää
 tekstata
 tekstittää
@@ -4533,6 +4568,7 @@ tuta
 tutista
 tutkailla
 tutkia
+tutkiskella
 tutkituttaa
 tutustua
 tutustuttaa
@@ -4758,6 +4794,7 @@ valella
 validoida
 valikoida
 valikoitua
+välinehuijata
 valistaa
 valita
 valitella
@@ -4979,6 +5016,7 @@ viimeistellä
 viininjuoda
 viipaloida
 viipaloitua
+viipottaa
 viipyä
 viipyillä
 viisikkopelata
@@ -5102,6 +5140,7 @@ yhteismajoittua
 yhteisöasua
 yhteisrakentaa
 yhtenäistää
+yhtenäistyä
 yhteyttää
 yhtiöittää
 yhtyä
@@ -5125,6 +5164,7 @@ yletä
 ylettää
 ylettyä
 yliarvioida
+ylikellottaa
 ylikorostaa
 ylikorostua
 ylikuluttaa
@@ -5145,6 +5185,7 @@ yliyrittää
 ylläpitää
 yllättää
 yllättyä
+yllätysesiintyä
 yllätyspudota
 yllyttää
 ylpeillä
