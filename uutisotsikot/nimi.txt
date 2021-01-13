@@ -13,6 +13,7 @@ Animalia
 Apollo
 Apollon
 Apple
+Arava
 arkkitehtuuri-Finlandia
 arvo-Porsche
 Ateneum
@@ -25,6 +26,7 @@ bensa-Mersu
 bin
 Botnia
 Burana
+c-Mersu
 Coca-Cola
 Colt
 Core
@@ -57,6 +59,8 @@ Hamlet
 Helios
 Hesari
 Hesburger
+Homeros
+huippu-Samsung
 hybridi-Audi
 Hyundai
 Ilta-Aurinko
@@ -73,6 +77,7 @@ Kaleva
 Kalevala
 Karisto
 Kemira
+Kerberos
 keski-Maa
 Kesko
 Kia
@@ -121,6 +126,7 @@ Otava
 Panadol
 Partek
 Peugeot
+pikku-Finlandia
 pistoke-Volvo
 Pluto
 Porsche
@@ -174,6 +180,7 @@ TV-Aurinko
 Twitter
 Unesco
 UNICEF
+Uranus
 Ursa
 Väinämö
 Väinämöinen

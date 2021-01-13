@@ -23,10 +23,12 @@ alatie
 alemmas
 alhaalla
 alias
+allapäin
 ällikällä
 aloittain
 alueittain
 alushoususilla
+alvariinsa
 amerikkalaisittain
 ammateittain
 ani
@@ -37,6 +39,7 @@ arkipäivisin
 asteittain
 auki
 avoinna
+edemmäs
 edes
 edespäin
 edessä
@@ -71,6 +74,8 @@ etäämpänä
 etänä
 eteenpäin
 etelämpi
+eteläpohjalais-jenkkiläisittäin
+eteläpuolitse
 eteläsuomalaisittain
 etenkin
 eurooppalaisittain
@@ -95,6 +100,7 @@ hengitystie
 henkihieverissä
 hereillä
 heti
+hetimmiten
 hetkittäin
 hevillä
 hevin
@@ -119,6 +125,7 @@ hukuksissa
 huomenna
 huoneistoittain
 huonoiten
+huorin
 huosta
 huutia
 hyväksi
@@ -126,9 +133,11 @@ hyvänen
 hyvänsä
 hyvillään
 hyvin
+iäti
 ihan
 ihka
 ihmeemmin
+ikäryhmittäin
 ikinä
 ilkosilla
 ilmatie
@@ -137,9 +146,11 @@ infra
 irrallaan
 irti
 irvessä
+itäsuomalaisittain
 itsekseen
 itsessään
 itsestään
+jahka
 jaksain
 jälkeenpäin
 jalkeilla
@@ -153,8 +164,10 @@ joskus
 jotakuinkin
 jotenkin
 jotenkuten
+joukkueittain
 joukoittain
 jouten
+joutessa
 julki
 juovuksissa
 juovuspäissä
@@ -211,12 +224,15 @@ koommin
 köpelösti
 koskaan
 kosolti
+kotiinpäin
 kotoisin
 kotosalla
+kouluittain
 koulutusasteittain
 kuitenkaan
 kuitenkin
 kukaties
+kukkua
 kulloin
 kumminkin
 kumollaan
@@ -253,6 +269,7 @@ läsnä
 lauantaisin
 laukuittain
 leikki
+lentotie
 letkoittain
 likellä
 liki
@@ -280,6 +297,7 @@ mieluiten
 mieluummin
 mieluusti
 mikäli
+miljoonittain
 milloin
 miltei
 missäpäin
@@ -317,6 +335,7 @@ nipin
 niukalti
 no
 noin
+nokikkain
 nopeiten
 nukuksissa
 nurin
@@ -364,6 +383,7 @@ pelkästään
 peräkkäin
 peräti
 perättäin
+perätysten
 perillä
 perisuomalaisittain
 perjantaisin
@@ -393,12 +413,16 @@ pulloittain
 puoliltaöin
 puoliltapäivin
 puolittain
+puolivuosittain
 puolueittain
 puulajeittain
+pyörryksissä
 raaka-aineryhmittäin
 retuperällä
 rikki
 rinnakkain
+ristikkäin
+roomalaisittain
 roppakaupalla
 rutto
 ryhmittäin
@@ -409,6 +433,7 @@ saatille
 sadoittain
 sähköposti
 sairaanhoitopiireittäin
+sakeanaan
 säkeittäin
 salaa
 samaten
@@ -416,6 +441,7 @@ sammuksissa
 samoin
 sangen
 satamäärin
+sattumoisin
 seassa
 seisaalla
 selin
@@ -445,6 +471,7 @@ suinkin
 sujut
 sukkasillaan
 sukupuolittain
+summanmutikassa
 sunnuntaisin
 suomalaisittain
 suotta
@@ -452,6 +479,7 @@ supussa
 surku
 suutuksissa
 syksympänä
+sylikkäin
 syrjempänä
 taaemmas
 taaksepäin
@@ -466,6 +494,7 @@ tainnoksissa
 taiten
 taivasalla
 takaapäin
+takaisinpäin
 takana
 takanapäin
 takaperin
@@ -500,6 +529,8 @@ tiistai-iltapäivisin
 tismalleen
 tiukilla
 tohjona
+tohkeissa
+toimipisteittäin
 toisaalla
 toisinpäin
 toissa
@@ -510,15 +541,19 @@ tonneittain
 torstaisin
 tuhansittain
 tuhatkunta
+tuhatmäärin
 tuiki
 tukkanuottasilla
+tukoittain
 tukuittain
 tuolloin
+tuonnemma
 tuoreeltaan
 turvoksissa
 tuskin
 tuusan
 tykö
+tyynni
 tyystin
 ulkoapäin
 ulkosalla
@@ -551,6 +586,7 @@ vasta
 vastaan
 vastakkain
 vastapäätä
+vastatusten
 vastedes
 vasten
 vastikään
@@ -564,6 +600,7 @@ verran
 verraten
 verrattain
 vertaansa
+vesitie
 via
 vielä
 vieraisilla
@@ -585,6 +622,7 @@ yhtään
 yhtäkkiä
 yhteensä
 yhtenä
+yhtikäs
 yhtiöittäin
 yksiköittäin
 yksin
@@ -592,6 +630,7 @@ yksinään
 yksinomaan
 yksitellen
 yksittäin
+ykskaks
 ykskantaan
 yleensä
 ylen

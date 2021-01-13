@@ -40,6 +40,7 @@ kJ
 kk
 klo
 km
+koulu-TV
 kpl
 krs
 kuu-WC
@@ -48,6 +49,7 @@ LED
 LP
 LSD
 mg
+MHz
 mini-LP
 mini-PC
 MM
@@ -57,6 +59,7 @@ muinais-DNA
 musiikki-TV
 netti-TV
 NHL
+nyky-NHL
 OECD
 OK
 ostos-TV
