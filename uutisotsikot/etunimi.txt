@@ -8,17 +8,20 @@ Aarni
 Aarno
 Aaro
 Aaron
+Aatami
 Aatos
 Aatto
 Aatu
 Abel
 Abraham
 Ada
+Adalmiina
 Adam
 Ade
 Adele
 Adolf
 Adonis
+Adrian
 Agnes
 Ahmed
 Ahti
@@ -30,6 +33,7 @@ Aija
 aikakone-Jenna
 Aila
 Aili
+Aimo
 Aina
 Aini
 Aino
@@ -107,6 +111,7 @@ Anna-Lisa
 Anna-Maija
 Annamari
 Anna-Riikka
+Anna-Sofia
 Anna-Stina
 Anne
 Anne-Elina
@@ -139,6 +144,7 @@ apumies-Markku
 Ari
 Ariel
 Ari-Kyösti
+Ari-Matti
 Ari-Pekka
 Aristoteles
 Arja
@@ -164,6 +170,7 @@ ATK-Alan
 Atso
 Atte
 August
+Augusta
 Augusti
 Aukusti
 Auli
@@ -172,6 +179,7 @@ Aulis
 Auno
 Auri
 Aurora
+auto-Seppo
 Auvo
 avaruustekniikka-Alan
 aviomies-Niklas
@@ -192,10 +200,12 @@ Bertel
 Bertil
 Bertta
 betoni-Jussi
+betoni-Pekka
 Bettina
 Bill
 bioteknologia-Alan
 Birger
+Birgit
 Birgitta
 Boris
 Bram
@@ -211,9 +221,11 @@ Carita
 Carl
 Carl-Gustaf
 Carl-Henrik
+Carl-Johan
 Carl-Kristian
 Carola
 Caroline
+Carolus
 Cecilia
 Charles
 Charlotta
@@ -275,6 +287,7 @@ Einari
 Eine
 Eini
 Eino
+Eira-Mailis
 Eivor
 Ekaterina
 Eki
@@ -285,6 +298,7 @@ Elias
 Eliel
 Eliisa
 Elina
+Elis
 Elisa
 Elisabet
 Elisabeth
@@ -362,7 +376,9 @@ Geena
 Geoffrey
 Georg
 George
+Geri
 Giuseppe
+Godwin
 golf-Maila
 Göran
 Gösta
@@ -371,6 +387,7 @@ Gunilla
 Gunnar
 Gustaf
 Gustav
+haitta-Aini
 Håkan
 haku-Veikko
 Hal
@@ -392,6 +409,8 @@ Hannu-Pekka
 Hans
 Hans-Georg
 Hanski
+Hans-Mikael
+Hans-Peter
 Harald
 Harriet
 Harry
@@ -416,6 +435,7 @@ Helmer
 helmi-Leena
 Helvi
 Hemmi
+Hemminki
 henna-Mia
 Henni
 Henri
@@ -434,14 +454,17 @@ hertta-Sisko
 Hessu
 Heta
 Heta-Elena
+Hilda
 hilkka-Sisko
 Hilma
 Hilppa
 himomarjastaja-Aimo
 Hjalmar
+hoito-Alan
 hoiva-Alan
 Hollywood-Unelma
 Hugo
+Hulda
 huolinta-Alan
 huume-Eeva
 Ibrahim
@@ -451,6 +474,7 @@ Idi
 Iida
 Iida-Elisa
 Iina
+Iina-Reetta
 Iines
 Iiris
 Iiro
@@ -464,6 +488,7 @@ Ilkka
 Ilma
 Ilmari
 Ilmi
+Ilmo
 Ilona
 Ilpo
 Ilta
@@ -483,6 +508,7 @@ Isaac
 Isabella
 Isadora
 isä-Juha
+isä-Sami
 Ismo
 iso-Kristiina
 Isto
@@ -516,6 +542,7 @@ Janne
 Janne-Juha
 Janne-Olli
 Jannika
+Jan-Olof
 Jäntti-Alan
 Jared
 Jari
@@ -524,6 +551,7 @@ Jari-Pekka
 Jarkko
 Jarl
 Jarmo
+Jarna
 Jarno
 Jaska
 Jasmiina
@@ -536,11 +564,15 @@ Jasperi
 Jean
 Jean-Daniel
 Jean-Michel
+Jean-Paul
 Jean-Philippe
+Jean-Pierre
+Jemina
 Jenna
 Jenni
 Jennifer
 Jenny
+Jenny-Julia
 Jere
 Jeremias
 Jerry
@@ -589,6 +621,7 @@ Jouko
 joulu-Unelma
 Jouni
 Juha
+Juha-Heikki
 Juha-Jaakko
 Juha-Matti
 Juha-Mikko
@@ -629,10 +662,12 @@ Kaisa
 Kaisa-Maija
 Kaisu
 Kaj
+Kaj-Gustaf
 kala-Alan
 Kalervo
 Kalevi
 Kalle
+Kalle-Kustaa
 Kalle-Pekka
 kampaaja-Birgitta
 kanttori-Senni
@@ -641,6 +676,7 @@ Kari-Matti
 Kari-Pekka
 Karita
 Karl
+Karl-Erik
 Karoliina
 Karolina
 Kasper
@@ -663,6 +699,7 @@ keksijä-Tom
 Kenneth
 Kerstin
 Kev
+Kevin
 Kia-Emilia
 Kiia
 Kiira
@@ -684,10 +721,12 @@ Klaudia
 Klaus
 Kleopatra
 Knut
+Knuutti
 kohu-Sini
 Konrad
 Konsta
 Konstantinos
+koodi-Kalle
 koronavasta-Aini
 Kosti
 krapula-Aamu
@@ -697,6 +736,7 @@ Kristiina
 Kristina
 Kristoffer
 kryptovaluutta-Alan
+Kublai
 Kullervo
 kunta-Alan
 Kurt
@@ -714,6 +754,7 @@ Laila
 Lalli
 Lars
 Lars-Göran
+Lasarus
 Lasse
 Lassi
 Lassi-Pekka
@@ -723,8 +764,10 @@ Lauri
 lavantauti-Mary
 Lawrence
 Lea
+Leander
 Leea
 Leena
+Leena-Kaisa
 Leeni
 Leevi
 Leif
@@ -735,6 +778,7 @@ Lena
 Lenita
 Lennart
 Lenni
+Lenni-Kalle
 lentäjä-Akseli
 Leo
 Leonardo
@@ -742,6 +786,7 @@ Leo-Pekka
 Leopold
 liero-Iiro
 liha-Alan
+liikunta-Alan
 liina-Kaisa
 Liisa
 Lilian
@@ -755,6 +800,7 @@ Lisa
 Lissu
 logistiikka-Alan
 Lolita
+lotta-Maarit
 Louis
 Luca
 Lucas
@@ -763,6 +809,7 @@ Ludvig
 Ludwig
 Luka
 Lukas
+lumi-Ukko
 Luukas
 LVI-Alan
 Lydia
@@ -788,6 +835,7 @@ Maarit
 Madeleine
 Magnus
 Maija
+Maija-Leena
 Maija-Liisa
 Maiju
 Maikki
@@ -795,17 +843,20 @@ Maila
 Maila-Jussi
 Maili
 Mailis
+Maini
 Maire
 Maisa
 Mäki-Teppo
 Maksim
 malli-Elena
+malli-Riina
 Manta
 Manu
 Marcus
 Margareeta
 Margareetta
 Margaret
+Margareta
 Maria
 Marianna
 Marianne
@@ -861,6 +912,7 @@ Maunu
 Mauri
 Max
 media-Alan
+meemi-Bernie
 Meeri
 Meg
 Mel
@@ -868,10 +920,12 @@ Melina
 Melissa
 Meri
 Meri-Anna
+Meri-Ilma
 Merituuli
 Meri-Tuuli
 Merja
 Mervi
+metsäpinta-Alan
 metsä-Veikko
 Mette
 Mia
@@ -891,6 +945,7 @@ Mikael
 Mikaela
 Mike
 Mikko
+Mikko-Petteri
 Miko
 Mila
 Milja
@@ -928,6 +983,7 @@ Mona-Liisa
 Monica
 Monika
 Moona
+Mooses
 mörkö-Marko
 mörökölli-Paavo
 Morris
@@ -1027,6 +1083,7 @@ Penelope
 Penna
 Pentti
 Peppi
+Peppiina
 perheenäiti-Sini
 Pernilla
 Perry
@@ -1044,6 +1101,7 @@ Petteri
 Philip
 Philippe
 Pia
+Pia-Pauliina
 Pietari
 Pietro
 Pihla
@@ -1127,6 +1185,7 @@ Riitta
 Riitta-Liisa
 Riku
 Riku-Matti
+Riku-Pekka
 Riku-Sakari
 Rimma
 Rinna
@@ -1147,6 +1206,7 @@ Roni
 Ronja
 Roope
 Roope-Santeri
+Roope-Veli
 Roosa
 Rosa
 Rose
@@ -1156,6 +1216,7 @@ ruoka-Aini
 ruoka-Alan
 Ruth
 Ruusu
+sääkoira-Sini
 Saana-Sisko
 Saara
 Saara-Lotta
@@ -1165,6 +1226,7 @@ Sabine
 Saga
 Saija
 Saila
+Saima
 Saimi
 Sakari
 Salla-Marja
@@ -1219,14 +1281,17 @@ Signe
 Sigurd
 Siiri
 Siirin-Päivi
+Siivola
 siivooja-Tuula
 siivousyrittäjä-Jaana
 sika-Harri
+Sikstus
 Silja
 Silva
 Silvia
 Simeon
 Simo-Pekka
+Simo-Viljami
 Sinikka
 sinkku-Ella
 sinkku-Jesse
@@ -1244,6 +1309,7 @@ SM-Taisto
 Sofia
 Sohvi
 Soile
+Soili
 Solja
 Solveig
 Sonja
@@ -1294,6 +1360,7 @@ Tanja
 tapahtuma-Alan
 Tapani
 Tapio
+tarha-Aamu
 Tarja
 Tarmo
 Taru
@@ -1303,6 +1370,7 @@ Tauno
 Tea
 Teea
 Teemu
+teflon-Mark
 Teija
 Teija-Liisa
 teknologia-Alan
@@ -1320,6 +1388,7 @@ tietotekniikka-Alan
 tietoturva-Alan
 Tiia
 Tiina
+Tiina-Kaisa
 Tilda
 Timo
 Timo-Pekka
@@ -1354,10 +1423,12 @@ Tuovi
 turbo-Timo
 turhapuro-Helmi
 Turkka
+turo-Kimmo
 turva-Alan
 Tuukka
 Tuula
 Tuuli
+Tuulikki
 Tuure
 TV-Alan
 TV-Visa
@@ -1370,6 +1441,8 @@ Ukko
 Ukko-Pekka
 Ulla
 Ulla-Leena
+Ulla-Maija
+Ulla-Marja
 Ulpu
 Ulrika
 Umberto
@@ -1383,12 +1456,15 @@ Urmas
 Urpo
 Ursula
 Uuno
+uuttu-Kalle
+Uvas
 vaha-Harry
 vaimo-Vivian
 Väinö
 Valdo
 Valentin
 Valfrid
+Valma
 Valter
 Valto
 Valtteri
@@ -1449,6 +1525,7 @@ Vivian
 Vladimir
 Volter
 vuokra-Ale
+vuokranantaja-Tuula
 Wäinö
 Walter
 Waltteri

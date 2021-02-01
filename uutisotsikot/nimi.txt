@@ -1,4 +1,5 @@
 af
+Afrikan-Maa
 Airbus
 Akademi
 Akava
@@ -36,6 +37,7 @@ Dei
 Dionysos
 El
 Englannin-Maa
+erikois-Oscar
 Esso
 Estonia
 EU-Maa
@@ -65,6 +67,7 @@ hybridi-Audi
 Hyundai
 Ilta-Aurinko
 Instagram
+Intercity
 Internet
 Interpol
 Intersport
@@ -86,6 +89,7 @@ kohu-Jaguar
 Koraani
 Kotus
 Kristus
+kunnia-Oscar
 Lada
 lähi-Alko
 Lego
@@ -98,14 +102,17 @@ Lumikki
 Maamme-laulu
 maasturi-Lada
 maasturi-Mersu
+Macbeth
 Marimekko
 Masala
+Mensa
 Merkurius
 Mersu
 metsä-Botnia
 Microsoft
 Mitsubishi
 Mossad
+Mosse
 Musti
 napero-Finlandia
 Nato
@@ -125,6 +132,7 @@ Ossian
 Otava
 Panadol
 Partek
+Pendolino
 Peugeot
 pikku-Finlandia
 pistoke-Volvo
@@ -154,6 +162,7 @@ Schumi
 Selecta
 Shell
 Siska
+Siwa
 Sojuz
 Sokos
 Sonera
@@ -185,6 +194,7 @@ Ursa
 Väinämö
 Väinämöinen
 Valmet
+Vampire
 van
 Vellamo
 Venus

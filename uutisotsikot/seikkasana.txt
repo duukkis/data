@@ -31,6 +31,7 @@ alushoususilla
 alvariinsa
 amerikkalaisittain
 ammateittain
+ammattiryhmittäin
 ani
 anteeksi
 arkipäivisin
@@ -69,6 +70,7 @@ eritoten
 erittäin
 erityisvastuualueittain
 esillä
+espanjalaisittain
 etäällä
 etäämpänä
 etänä
@@ -113,6 +115,7 @@ hiljalleen
 hiljan
 hiljattain
 hilkulla
+himpun
 hissukseen
 hissun
 hitto
@@ -137,6 +140,7 @@ iäti
 ihan
 ihka
 ihmeemmin
+ihmeempää
 ikäryhmittäin
 ikinä
 ilkosilla
@@ -146,6 +150,7 @@ infra
 irrallaan
 irti
 irvessä
+italialaisittain
 itäsuomalaisittain
 itsekseen
 itsessään
@@ -157,6 +162,7 @@ jalkeilla
 jälleen
 jamassa
 järin
+jäsenmaittain
 jo
 jokseenkin
 jolloin
@@ -177,10 +183,12 @@ kadoksissa
 kahtaalla
 kahtia
 kai
+kaiketi
 kaikkialla
 kallellaan
 kalpaten
 kaltoin
+kansanedustajittain
 karku
 käsikkäin
 kasoittain
@@ -196,6 +204,7 @@ kauas
 kaupunginosittain
 kausittain
 kauttaalta
+kelteisillä
 kenties
 kerroksittain
 kertaalleen
@@ -203,6 +212,7 @@ keskellä
 kesken
 keskenään
 keskimäärin
+keskipohjalaisittain
 keskiviikkoisin
 keulilla
 keväämmällä
@@ -211,6 +221,7 @@ kiertotie
 kiikissä
 kiinalaisittain
 kiinni
+kiinteistöittäin
 kiloittain
 kilpasilla
 kirje
@@ -243,6 +254,8 @@ kutakuinkin
 kuten
 kuukausittain
 kuulemma
+kuureittain
+kuutioittain
 kyllä
 kylliksi
 kyllin
@@ -274,16 +287,20 @@ letkoittain
 likellä
 liki
 likimain
+limittäin
 liossa
 litroittain
 lohkoittain
 loitolla
+lomittain
 lopen
 luo
 luokse
 lytyssä
+maa
 maakunnittain
 maanosittain
+maantie
 maatie
 maittain
 massoittain
@@ -327,6 +344,7 @@ näkösällä
 naukin
 näytillä
 neljännesvuosittain
+nenäkkäin
 nenätysten
 niin
 nimenomaan
@@ -348,6 +366,7 @@ nyt
 nyttemmin
 ohimennen
 ohitse
+oikeammin
 oikein
 oikeustie
 oitis
@@ -375,19 +394,23 @@ pakosalla
 paliskunnittain
 paljolti
 pälkähästä
+parahiksi
 paraikaa
 pareittain
 parhaiten
 parissa
+pätkittäin
 pelkästään
 peräkkäin
 peräti
 perättäin
 perätysten
+perempänä
 perillä
 perisuomalaisittain
 perjantaisin
 piakkoin
+piilosilla
 piirikunnittain
 pika
 pikemmin
@@ -398,6 +421,7 @@ pikkuhoususilla
 pitkälti
 pohjimmiltaan
 pohjoismaalaisittain
+poikin
 poikittain
 poikki
 poikkiteloin
@@ -406,6 +430,7 @@ poispäin
 poissa
 portaittain
 posti
+postinumeroalueittain
 pro
 puhelin
 puhki
@@ -418,6 +443,8 @@ puolueittain
 puulajeittain
 pyörryksissä
 raaka-aineryhmittäin
+rautatie
+rempallaan
 retuperällä
 rikki
 rinnakkain
@@ -442,6 +469,7 @@ samoin
 sangen
 satamäärin
 sattumoisin
+savolaisittain
 seassa
 seisaalla
 selin
@@ -455,6 +483,7 @@ sikseen
 siksi
 silleen
 silloin
+silmätysten
 silti
 sinällään
 sinänsä
@@ -463,6 +492,7 @@ siten
 sittemmin
 sitten
 sivu
+sivullepäin
 sivumpana
 sivuttain
 sokin
@@ -472,12 +502,14 @@ sujut
 sukkasillaan
 sukupuolittain
 summanmutikassa
+summittain
 sunnuntaisin
 suomalaisittain
 suotta
 supussa
 surku
 suutuksissa
+suutuspäissä
 syksympänä
 sylikkäin
 syrjempänä
@@ -517,6 +549,7 @@ tästedes
 täten
 täysi
 täytäntöön
+teemoittain
 tekeillä
 tekstiviesti
 tiedekunnittain
@@ -526,6 +559,7 @@ tiettäväksi
 tiettävästi
 tiimeittäin
 tiistai-iltapäivisin
+tipoittain
 tismalleen
 tiukilla
 tohjona
@@ -538,6 +572,7 @@ toistaiseksi
 toiste
 toki
 tonneittain
+torneittain
 torstaisin
 tuhansittain
 tuhatkunta
@@ -550,8 +585,10 @@ tuolloin
 tuonnemma
 tuoreeltaan
 turvoksissa
+tusinoittain
 tuskin
 tuusan
+tykkänään
 tykö
 tyynni
 tyystin
@@ -633,6 +670,7 @@ yksittäin
 ykskaks
 ykskantaan
 yleensä
+ylemmäs
 ylen
 ylhäällä
 ylihuomenna

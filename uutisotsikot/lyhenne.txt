@@ -1,12 +1,15 @@
 €
+A4
 AAA
 aamu-TV
 ab
 ABC
 ADHD
 AIDS
+alfa-TV
 ALV
 ATK
+avaus-EK
 bar
 BBC
 BKT
@@ -18,14 +21,18 @@ CNN
 CV
 DNA
 DVD
+EET
 EK
 EM
+EMU
 EU
 FBI
 fi
 FM
 FT
 GPS
+GSM
+hepatiitti-c
 HIV
 HTML
 Hz
@@ -33,6 +40,7 @@ IMF
 invalidi-WC
 IPCC
 IT
+jäärata-SM
 juhla-DVD
 kaapeli-TV
 kg
@@ -50,6 +58,7 @@ LP
 LSD
 mg
 MHz
+mini-LED
 mini-LP
 mini-PC
 MM
@@ -91,6 +100,7 @@ TV
 UKK
 urheilu-TV
 USA
+USB
 vara-pj
 VR
 VRK
@@ -100,4 +110,5 @@ WHO
 WSOY
 WTO
 YK
+yleisö-WC
 YM
