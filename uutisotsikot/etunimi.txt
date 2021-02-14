@@ -1,5 +1,6 @@
 Aada
 Aada-Liina
+Aadolf
 Aamu
 Aapeli
 Aapo
@@ -8,6 +9,7 @@ Aarni
 Aarno
 Aaro
 Aaron
+Aarto
 Aatami
 Aatos
 Aatto
@@ -112,6 +114,7 @@ Anna-Maija
 Annamari
 Anna-Riikka
 Anna-Sofia
+Annastiina
 Anna-Stina
 Anne
 Anne-Elina
@@ -133,6 +136,7 @@ Anton
 Antonio
 Antti
 Antti-Jussi
+Antti-Kustaa
 Antti-Pekka
 Antti-Petteri
 Antto
@@ -240,6 +244,7 @@ Claes
 Clarice
 Clayton
 Colin
+cup-Taisto
 cup-Unelma
 Daavid
 Dagmar
@@ -291,6 +296,7 @@ Eira-Mailis
 Eivor
 Ekaterina
 Eki
+eko-Lyyli
 e-Laina
 elementti-Sampo
 Elena
@@ -359,6 +365,8 @@ Fanni
 Fanny
 Felix
 Ferdinand
+Fiona
+Foma
 Francis
 Frank
 Frank-Walter
@@ -413,6 +421,7 @@ Hans-Mikael
 Hans-Peter
 Harald
 Harriet
+harri-Pekka
 Harry
 Heidi
 Heikki
@@ -456,6 +465,7 @@ Heta
 Heta-Elena
 Hilda
 hilkka-Sisko
+Hillevi
 Hilma
 Hilppa
 himomarjastaja-Aimo
@@ -549,6 +559,7 @@ Jari
 Jari-Matti
 Jari-Pekka
 Jarkko
+Jarkko-Juha
 Jarl
 Jarmo
 Jarna
@@ -592,6 +603,7 @@ Johan
 Johanna
 Johannes
 John
+John-Sebastian
 joki-Jussi
 Jon
 Jonas
@@ -670,6 +682,7 @@ Kalle
 Kalle-Kustaa
 Kalle-Pekka
 kampaaja-Birgitta
+kannibaali-Hannibal
 kanttori-Senni
 karhu-Sulo
 Kari-Matti
@@ -697,7 +710,9 @@ Keijo
 Keke
 keksijä-Tom
 Kenneth
+keramiikka-Alan
 Kerstin
+kerttu-Sisko
 Kev
 Kevin
 Kia-Emilia
@@ -728,6 +743,7 @@ Konsta
 Konstantinos
 koodi-Kalle
 koronavasta-Aini
+kosmos-Kim
 Kosti
 krapula-Aamu
 Krista
@@ -738,7 +754,9 @@ Kristoffer
 kryptovaluutta-Alan
 Kublai
 Kullervo
+kulta-Kalle
 kunta-Alan
+kunta-Kati
 Kurt
 kuski-Ari
 Kustaa
@@ -747,6 +765,7 @@ kuu-Ukko
 kyberturva-Alan
 Kylli
 Kyllikki
+Kyllönen-Katri
 Kyösti
 lääkäri-Anni
 lääkäri-Tatu
@@ -759,6 +778,7 @@ Lasse
 Lassi
 Lassi-Pekka
 Lati
+lauantai-Aamu
 Laura
 Lauri
 lavantauti-Mary
@@ -779,15 +799,18 @@ Lenita
 Lennart
 Lenni
 Lenni-Kalle
+lentäjä-Aki
 lentäjä-Akseli
 Leo
 Leonardo
 Leo-Pekka
+Leo-Petteri
 Leopold
 liero-Iiro
 liha-Alan
 liikunta-Alan
 liina-Kaisa
+liina-Maaria
 Liisa
 Lilian
 Lilli
@@ -798,6 +821,7 @@ Linda-Thomas
 Linus
 Lisa
 Lissu
+Liverpool-Laina
 logistiikka-Alan
 Lolita
 lotta-Maarit
@@ -810,6 +834,7 @@ Ludwig
 Luka
 Lukas
 lumi-Ukko
+luomu-Lotta
 Luukas
 LVI-Alan
 Lydia
@@ -886,6 +911,7 @@ Marjut
 Mark
 Marketta
 Markit
+markkina-Aamu
 Markku
 Marko
 Mark-Paul
@@ -933,6 +959,7 @@ Michael
 Michel
 Michelangelo
 Michelle
+miespääosa-Jussi
 Miguel
 Miia
 Miika
@@ -965,6 +992,7 @@ Mira
 Miranda
 Mirella
 Mirja
+Mirjam
 Mirjami
 Mirka
 Mirkka
@@ -1029,17 +1057,20 @@ Noora
 Nora
 Nuutti
 Ohto
+Oili-Pekka
 Olavi
 Olga
 Oliver
 Olivia
 Olli
 Olli-Jussi
+Olli-Markus
 Olli-Matti
 Olli-Pekka
 Olof
 Olov
 Oona
+opettaja-Jaana
 opiskelu-Unelma
 Orvo
 Osama
@@ -1123,6 +1154,7 @@ Pirkka
 Pirkka-Pekka
 Pirkko
 Pirkko-Liisa
+Platon
 playboy-Rinna
 playboy-Taru
 poika-Luca
@@ -1219,6 +1251,7 @@ Ruusu
 sääkoira-Sini
 Saana-Sisko
 Saara
+Saara-Eliisa
 Saara-Lotta
 Saara-Sofia
 Sabina
@@ -1229,6 +1262,7 @@ Saila
 Saima
 Saimi
 Sakari
+Saku-Pekka
 Salla-Marja
 Salme
 Salme-Martta
@@ -1261,6 +1295,7 @@ Sari-Minna
 Sarita
 Sasu
 satu-Kirsi
+satu-Liisa
 Saul
 Sauli
 Sebastian
@@ -1275,9 +1310,11 @@ Senni
 seppä-Antti
 Seppo
 Sergei
+setä-Reino
 Severi
 Sherlock
 Signe
+Sigrid
 Sigurd
 Siiri
 Siirin-Päivi
@@ -1305,6 +1342,7 @@ Sirpa
 Sivi
 siviili-Pasi
 sivuosa-Jussi
+s-Max
 SM-Taisto
 Sofia
 Sohvi
@@ -1331,6 +1369,7 @@ sunnuntai-Aamu
 Suomi-Helmi
 Suomi-sarja-Laina
 supermalli-Karolina
+super-Mario
 super-Marjo
 Susan
 Susanna
@@ -1353,6 +1392,7 @@ Taimi
 Taina
 Taisto
 taito-Valpuri
+talvi-Ilma
 Talvikki
 Tamara
 Taneli
@@ -1415,6 +1455,7 @@ Touko
 Tove
 Tracy
 Trump-John
+tuhma-Olavi
 Tuija
 Tuire
 Tuomas
@@ -1443,6 +1484,7 @@ Ulla
 Ulla-Leena
 Ulla-Maija
 Ulla-Marja
+Ulla-Riitta
 Ulpu
 Ulrika
 Umberto
@@ -1459,6 +1501,7 @@ Uuno
 uuttu-Kalle
 Uvas
 vaha-Harry
+vahva-Kalle
 vaimo-Vivian
 Väinö
 Valdo
@@ -1510,8 +1553,10 @@ vilja-Alan
 Viljami
 Viljo
 Ville
+Ville-Juha
 Ville-Matti
 Ville-Pekka
+Ville-Riiko
 Ville-Valtteri
 Ville-Veikko
 Ville-Veli
@@ -1524,6 +1569,7 @@ Vivi
 Vivian
 Vladimir
 Volter
+Vorma
 vuokra-Ale
 vuokranantaja-Tuula
 Wäinö
@@ -1535,6 +1581,7 @@ Wilhelmiina
 Will
 William
 Wilma
+Wilma-Emilia
 Wolfgang
 x-Ray
 x-Säde

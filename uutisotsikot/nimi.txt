@@ -27,6 +27,7 @@ bensa-Mersu
 bin
 Botnia
 Burana
+Centrum
 c-Mersu
 Coca-Cola
 Colt
@@ -56,6 +57,7 @@ Gestapo
 g-Mersu
 Google
 Graal
+Gulag
 Halloween
 Hamlet
 Helios
@@ -104,6 +106,7 @@ maasturi-Lada
 maasturi-Mersu
 Macbeth
 Marimekko
+Mars-Maa
 Masala
 Mensa
 Merkurius
@@ -114,9 +117,11 @@ Mitsubishi
 Mossad
 Mosse
 Musti
+Myyrmanni
 napero-Finlandia
 Nato
 Natura
+Neptunus
 Netflix
 Nintendo
 Odin
@@ -146,11 +151,13 @@ Qaida
 Raamattu
 Ramses
 Renault
+Retretti
 Reuters
 Riigikogu
 Roche
 Rotary
 Saab
+sähkö-Porsche
 Saint
 Samsung
 San
@@ -161,6 +168,7 @@ Schengen-Maa
 Schumi
 Selecta
 Shell
+Sirius
 Siska
 Siwa
 Sojuz

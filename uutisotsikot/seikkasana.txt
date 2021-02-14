@@ -91,6 +91,7 @@ haltioissaan
 hamassa
 hämillä
 harvaan
+harvakseen
 harvakseltaan
 harvassa
 harvoin
@@ -295,6 +296,7 @@ loitolla
 lomittain
 lopen
 luo
+luokittain
 luokse
 lytyssä
 maa
@@ -315,6 +317,7 @@ mieluummin
 mieluusti
 mikäli
 miljoonittain
+millänsäkään
 milloin
 miltei
 missäpäin
@@ -391,6 +394,7 @@ päittäin
 päiväsaikaan
 päivittäin
 pakosalla
+paksulti
 paliskunnittain
 paljolti
 pälkähästä
@@ -418,6 +422,7 @@ pikimmin
 pikimmiten
 pikkuhiljaa
 pikkuhoususilla
+pisaratie
 pitkälti
 pohjimmiltaan
 pohjoismaalaisittain
@@ -451,6 +456,7 @@ rinnakkain
 ristikkäin
 roomalaisittain
 roppakaupalla
+rullakoittain
 rutto
 ryhmittäin
 saakka
@@ -475,6 +481,7 @@ seisaalla
 selin
 selvillä
 sentään
+seurakunnittain
 siellä
 siis
 sikäli
@@ -496,6 +503,7 @@ sivullepäin
 sivumpana
 sivuttain
 sokin
+soopa
 sopimustie
 suinkin
 sujut
@@ -604,6 +612,7 @@ uudelleen
 uudestaan
 uuvuksissa
 vääjäämättä
+väärinpäin
 vähitellen
 vähiten
 vaiheittain
@@ -632,6 +641,7 @@ väsyksissä
 venäläisittäin
 verekseltään
 vereslihalla
+veritie
 verkalleen
 verran
 verraten

@@ -4,6 +4,7 @@ AAA
 aamu-TV
 ab
 ABC
+ADD
 ADHD
 AIDS
 alfa-TV
@@ -56,6 +57,7 @@ kWh
 LED
 LP
 LSD
+mainos-TV
 mg
 MHz
 mini-LED
@@ -91,10 +93,12 @@ SOS
 sote
 SPR
 STT
+super-g
 teho-PC
 teksti-TV
 tl
 tmi
+toosa-TV
 tosi-TV
 TV
 UKK
