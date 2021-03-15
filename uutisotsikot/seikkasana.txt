@@ -32,8 +32,10 @@ alvariinsa
 amerikkalaisittain
 ammateittain
 ammattiryhmittäin
+ammoin
 ani
 anteeksi
+apposen
 arkipäivisin
 äsken
 äskettäin
@@ -44,6 +46,7 @@ edemmäs
 edes
 edespäin
 edessä
+editse
 ehkä
 eilen
 eittämättä
@@ -65,6 +68,7 @@ ensin
 entä
 entisellään
 entuudelta
+erikoisaloittain
 erillään
 eritoten
 erittäin
@@ -132,6 +136,7 @@ huonoiten
 huorin
 huosta
 huutia
+hyllymetreittäin
 hyväksi
 hyvänen
 hyvänsä
@@ -176,6 +181,7 @@ joukoittain
 jouten
 joutessa
 julki
+junalasteittain
 juovuksissa
 juovuspäissä
 justiin
@@ -194,6 +200,7 @@ karku
 käsikkäin
 kasoittain
 kasvokkain
+kasvotuksin
 kasvotusten
 kasvupaikoittain
 kategorioittain
@@ -227,6 +234,7 @@ kiloittain
 kilpasilla
 kirje
 kissun
+kohdakkain
 kohme
 kohta
 kolme
@@ -254,6 +262,7 @@ kuoliaaksi
 kutakuinkin
 kuten
 kuukausittain
+kuulemiin
 kuulemma
 kuureittain
 kuutioittain
@@ -283,8 +292,11 @@ läsnä
 lauantaisin
 laukuittain
 leikki
+lentokonelasteittain
 lentotie
 letkoittain
+liiketoiminnoittain
+liiketoiminta-alueittain
 likellä
 liki
 likimain
@@ -293,6 +305,7 @@ liossa
 litroittain
 lohkoittain
 loitolla
+lomitse
 lomittain
 lopen
 luo
@@ -305,6 +318,7 @@ maanosittain
 maantie
 maatie
 maittain
+marxilaisittain
 massoittain
 meikäläisittäin
 melkein
@@ -312,6 +326,7 @@ meneillä
 meri
 meritie
 metreittäin
+mieluimmin
 mieluiten
 mieluummin
 mieluusti
@@ -329,6 +344,7 @@ muassa
 muinoin
 muka
 mukaan
+mukamas
 muualla
 muulloin
 muuten
@@ -353,6 +369,7 @@ niin
 nimenomaan
 nimittäin
 nipin
+nipuittain
 niukalti
 no
 noin
@@ -375,8 +392,10 @@ oikeustie
 oitis
 ojossa
 olleti
+osastoittain
 osavaltioittain
 osittain
+pääksytysten
 päällekkäin
 päällepäin
 pääpiirteittäin
@@ -392,17 +411,20 @@ päinvastoin
 paitsi
 päittäin
 päiväsaikaan
+päiväseltään
 päivittäin
 pakosalla
 paksulti
 paliskunnittain
 paljolti
 pälkähästä
+paloittain
 parahiksi
 paraikaa
 pareittain
 parhaiten
 parissa
+paska
 pätkittäin
 pelkästään
 peräkkäin
@@ -433,6 +455,9 @@ poikkiteloin
 pois
 poispäin
 poissa
+poliisilaitoksittain
+poliisipiireittäin
+pörhössä
 portaittain
 posti
 postinumeroalueittain
@@ -449,6 +474,7 @@ puulajeittain
 pyörryksissä
 raaka-aineryhmittäin
 rautatie
+reilassa
 rempallaan
 retuperällä
 rikki
@@ -468,6 +494,7 @@ sähköposti
 sairaanhoitopiireittäin
 sakeanaan
 säkeittäin
+saksalaisittain
 salaa
 samaten
 sammuksissa
@@ -478,8 +505,10 @@ sattumoisin
 savolaisittain
 seassa
 seisaalla
+seksuaalitie
 selin
 selvillä
+semminkin
 sentään
 seurakunnittain
 siellä
@@ -494,6 +523,7 @@ silmätysten
 silti
 sinällään
 sinänsä
+sinnepäin
 sisäänpäin
 siten
 sittemmin
@@ -518,6 +548,8 @@ supussa
 surku
 suutuksissa
 suutuspäissä
+sykähdyksittäin
+sykäyksittäin
 syksympänä
 sylikkäin
 syrjempänä
@@ -545,6 +577,7 @@ talviteloilla
 tamperelaisittain
 tänään
 tanassa
+tännepäin
 tanskalaisittain
 täpötäysi
 tarhoittain
@@ -560,6 +593,7 @@ täytäntöön
 teemoittain
 tekeillä
 tekstiviesti
+tie
 tiedekunnittain
 ties
 tieten
@@ -579,6 +613,7 @@ toissa
 toistaiseksi
 toiste
 toki
+tokko
 tonneittain
 torneittain
 torstaisin
@@ -592,12 +627,15 @@ tukuittain
 tuolloin
 tuonnemma
 tuoreeltaan
+turkkilaisittain
 turvoksissa
 tusinoittain
 tuskin
 tuusan
+tuvittain
 tykkänään
 tykö
+tynnyreittäin
 tyynni
 tyystin
 ulkoapäin
@@ -643,12 +681,14 @@ verekseltään
 vereslihalla
 veritie
 verkalleen
+verkkaan
 verran
 verraten
 verrattain
 vertaansa
 vesitie
 via
+videotie
 vielä
 vieraisilla
 vierekkäin
@@ -659,6 +699,7 @@ viimeksi
 viljalti
 vilkkaan
 vuoksi
+vuoroittain
 vuosiluokittain
 vuosittain
 yhä
@@ -666,9 +707,11 @@ yhdessä
 yhtä
 yhtäällä
 yhtään
+yhtaikaa
 yhtäkkiä
 yhteensä
 yhtenä
+yhtenään
 yhtikäs
 yhtiöittäin
 yksiköittäin

@@ -20,11 +20,13 @@
 -331
 -353
 -358
+-360
 -375
 -39
 -40
 -4000
 -41
+-43
 -45
 -5
 -50
@@ -45,6 +47,7 @@ aamuneljä
 aamuseitsemän
 aamuviisi
 aamuyhdeksän
+aamuyksi
 biljoona
 ensimmäinen
 II
@@ -76,6 +79,7 @@ kaksikymmentäkuusi
 kaksikymmentäneljä
 kaksikymmentätuhatta
 kaksikymmentäviisi
+kaksikymmentäyksi
 kaksimiljoonaa
 kaksisataa
 kaksisataatuhatta
@@ -125,6 +129,8 @@ neljä
 neljäkymmentä
 neljäs
 neljäsataa
+neljäsataaneljäkymmentä
+neljäsataaviisikymmentä
 neljässadas
 neljästoista
 neljätoista
@@ -156,6 +162,7 @@ tuhatkahdeksansataa
 vi
 VI
 vii
+VII
 viides
 viidessadas
 viidestoista
@@ -182,6 +189,7 @@ XV
 xvi
 XVI
 xx
+xxiii
 XXX
 xxxi
 yhdeksän

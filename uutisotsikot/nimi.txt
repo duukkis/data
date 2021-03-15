@@ -76,6 +76,7 @@ Intersport
 Jaguar
 Jeesus
 Jehova
+Jesaja
 Joma
 Jupiter
 Kaleva
@@ -113,6 +114,7 @@ Merkurius
 Mersu
 metsä-Botnia
 Microsoft
+Minotauros
 Mitsubishi
 Mossad
 Mosse
@@ -138,17 +140,20 @@ Otava
 Panadol
 Partek
 Pendolino
+Pepsi
 Peugeot
 pikku-Finlandia
 pistoke-Volvo
 Pluto
 Porsche
 Poseidon
+Pravda
 Prometheus
 Psycho
 Puh
 Qaida
 Raamattu
+ralli-Audi
 Ramses
 Renault
 Retretti
@@ -161,6 +166,7 @@ sähkö-Porsche
 Saint
 Samsung
 San
+sarjakuva-Finlandia
 sarjatuotanto-Peugeot
 Saturnus
 Sauber
@@ -199,9 +205,11 @@ Unesco
 UNICEF
 Uranus
 Ursa
+Uspenski
 Väinämö
 Väinämöinen
 Valmet
+Valpo
 Vampire
 van
 Vellamo

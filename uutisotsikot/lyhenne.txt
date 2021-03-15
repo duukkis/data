@@ -27,12 +27,14 @@ EK
 EM
 EMU
 EU
+EUR
 FBI
 fi
 FM
 FT
 GPS
 GSM
+halli-SM
 hepatiitti-c
 HIV
 HTML
@@ -68,6 +70,7 @@ MTK
 MTV
 muinais-DNA
 musiikki-TV
+MWh
 netti-TV
 NHL
 nyky-NHL

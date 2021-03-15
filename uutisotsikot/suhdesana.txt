@@ -9,6 +9,7 @@ kera
 keskuudessa
 kohden
 kohti
+luota
 ohi
 varten
 yli
