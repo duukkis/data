@@ -11,6 +11,7 @@ Allah
 Al-Qaida
 Andromeda
 Animalia
+anti-Kristus
 Apollo
 Apollon
 Apple
@@ -34,6 +35,7 @@ Colt
 Core
 Crash
 Dalai-lama
+Dallas-Mersu
 Dei
 Dionysos
 El
@@ -58,8 +60,10 @@ g-Mersu
 Google
 Graal
 Gulag
+Haades
 Halloween
 Hamlet
+Hari
 Helios
 Hesari
 Hesburger
@@ -91,6 +95,7 @@ Kiasma
 kohu-Jaguar
 Koraani
 Kotus
+Krapi
 Kristus
 kunnia-Oscar
 Lada
@@ -100,6 +105,7 @@ Lidl
 Linnea
 Linux
 Lost
+lukiolais-Linnea
 luksus-Mersu
 Lumikki
 Maamme-laulu
@@ -114,12 +120,15 @@ Merkurius
 Mersu
 metsä-Botnia
 Microsoft
+miespääosa-Oscar
+ministeri-Audi
 Minotauros
 Mitsubishi
 Mossad
 Mosse
 Musti
 Myyrmanni
+naispääosa-Oscar
 napero-Finlandia
 Nato
 Natura
@@ -137,6 +146,7 @@ Orion
 Oscar
 Ossian
 Otava
+pääosa-Oscar
 Panadol
 Partek
 Pendolino
@@ -151,6 +161,7 @@ Pravda
 Prometheus
 Psycho
 Puh
+puna-Musti
 Qaida
 Raamattu
 ralli-Audi
@@ -162,6 +173,7 @@ Riigikogu
 Roche
 Rotary
 Saab
+sähkö-Audi
 sähkö-Porsche
 Saint
 Samsung
@@ -176,11 +188,13 @@ Selecta
 Shell
 Sirius
 Siska
+sisu-Valmet
 Siwa
 Sojuz
 Sokos
 Sonera
 Sony
+Sprite
 Sputnik
 Stockmann
 STT-Yle
@@ -194,6 +208,7 @@ Tavastia
 Teboil
 tehdas-Hyundai
 Tehy
+Temo
 tieto-Finlandia
 Tokmanni
 Toyota
@@ -203,6 +218,7 @@ TV-Aurinko
 Twitter
 Unesco
 UNICEF
+Unicode
 Uranus
 Ursa
 Uspenski
@@ -226,5 +242,6 @@ Yakuza
 Yaris
 YK-Maa
 Yle
+yllätys-Oscar
 YouTube
 Zeus

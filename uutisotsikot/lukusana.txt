@@ -8,8 +8,10 @@
 -162
 -167
 -1712021
+-19
 -20
 -205
+-232
 -25
 -27
 -28
@@ -32,10 +34,12 @@
 -50
 -52
 -57
+-6
 -60
 -69
 -70
 -72
+-81
 -84
 -90
 -95
@@ -66,10 +70,12 @@ IX
 kahdeksan
 kahdeksankymmentä
 kahdeksansataa
+kahdeksansataaviisikymmentä
 kahdeksantoista
 kahdeksantuhatta
 kahdeksas
 kahdeksastoista
+kahdeksisen
 kahdeskymmenes
 kahdessadas
 kahdestoista
@@ -84,6 +90,7 @@ kaksimiljoonaa
 kaksisataa
 kaksisataatuhatta
 kaksitoista
+kaksitoistatuhat
 kaksituhatta
 kolmas
 kolmaskymmenes
@@ -100,6 +107,7 @@ kolmetuhatta
 kolmisen
 kolmisenkymmentä
 kolmisensataa
+kolmisentuhatta
 kuudes
 kuudestoista
 kuusi
@@ -127,10 +135,12 @@ nelisentuhatta
 -neljä
 neljä
 neljäkymmentä
+neljäkymmentätuhatta
 neljäs
 neljäsataa
 neljäsataaneljäkymmentä
 neljäsataaviisikymmentä
+neljäskymmenes
 neljässadas
 neljästoista
 neljätoista
@@ -139,6 +149,7 @@ parisenkymmentä
 parisensataa
 puolitoista
 sadas
+sadastuhannes
 sata
 satakaksikymmentä
 satamiljoonaa
@@ -170,6 +181,7 @@ viii
 VIII
 viisi
 viisikymmentä
+viisikymmentäviisi
 viisisataa
 viisitoista
 viisituhatta
@@ -181,6 +193,7 @@ viitisentuhatta
 xi
 XI
 xii
+xiii
 XIII
 xiv
 xl
@@ -189,6 +202,7 @@ XV
 xvi
 XVI
 xx
+XX
 xxiii
 XXX
 xxxi

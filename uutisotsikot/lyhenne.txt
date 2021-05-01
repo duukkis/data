@@ -15,6 +15,7 @@ bar
 BBC
 BKT
 bosnia-h
+°C
 CD
 CIA
 cm
@@ -22,6 +23,7 @@ CNN
 CV
 DNA
 DVD
+EAN
 EET
 EK
 EM
@@ -66,6 +68,7 @@ mini-LED
 mini-LP
 mini-PC
 MM
+mokka-e
 MTK
 MTV
 muinais-DNA
@@ -73,6 +76,7 @@ musiikki-TV
 MWh
 netti-TV
 NHL
+nyky-EU
 nyky-NHL
 OECD
 OK
@@ -89,6 +93,7 @@ rkl
 RKP
 ry
 ryhmä-x
+SA
 SAK
 SDP
 SM
@@ -97,12 +102,15 @@ sote
 SPR
 STT
 super-g
+tauti-x
 teho-PC
 teksti-TV
+testi-EK
 tl
 tmi
 toosa-TV
 tosi-TV
+tri
 TV
 UKK
 urheilu-TV
@@ -116,6 +124,8 @@ WC
 WHO
 WSOY
 WTO
+WWW
 YK
 yleisö-WC
 YM
+YYA
