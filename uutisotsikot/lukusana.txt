@@ -3,11 +3,13 @@
 -050
 -1
 -10
+-1120
 -13
 -15
 -162
 -167
 -1712021
+-1764
 -19
 -20
 -205
@@ -33,9 +35,11 @@
 -5
 -50
 -52
+-550
 -57
 -6
 -60
+-682
 -69
 -70
 -72
@@ -62,7 +66,10 @@ iltakuusi
 iltaseitsemän
 iltaviisi
 iltayhdeksän
+iltayhdeltätoista
 iltayhdentoista
+iltayhtätoista
+iltayhteentoista
 iv
 IV
 ix
@@ -81,6 +88,7 @@ kahdessadas
 kahdestoista
 kaksi
 kaksikymmentä
+kaksikymmentäkaksi
 kaksikymmentäkuusi
 kaksikymmentäneljä
 kaksikymmentätuhatta
@@ -159,6 +167,7 @@ seitsemän
 seitsemänkymmentä
 seitsemänsataa
 seitsemäntoista
+seitsemäntuhatta
 seitsemäs
 seitsemisen
 seitsemisenkymmentä
@@ -170,6 +179,7 @@ triljoona
 tuhannes
 tuhat
 tuhatkahdeksansataa
+tuhatkaksisataa
 vi
 VI
 vii
@@ -196,6 +206,7 @@ xii
 xiii
 XIII
 xiv
+XIV
 xl
 xv
 XV
@@ -204,11 +215,14 @@ XVI
 xx
 XX
 xxiii
+xxvii
+xxx
 XXX
 xxxi
 yhdeksän
 yhdeksänkymmentä
 yhdeksänkymmentäyhdeksän
+yhdeksäntoista
 yhdeksäntuhatta
 yhdeksäs
 yhdeksästoista

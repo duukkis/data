@@ -36,12 +36,14 @@ Aili
 Aimo
 Aina
 Aini
+Ainikki
 Aino
 Aino-Kaisa
 Aino-Maija
 Aira
 Airi
 äiti-Kaari
+äiti-Riikka
 äiti-Vaula
 Åke
 Aki
@@ -68,6 +70,7 @@ Alexandra
 Alf
 Alfred
 Alice
+Aliina
 Aliisa
 Alina
 Alisa
@@ -86,6 +89,7 @@ Amalia
 Amanda
 Amelia
 Anastasia
+Anastasio
 Anders
 André
 Andrea
@@ -100,6 +104,7 @@ Anitta
 Anja
 Anja-Riitta
 Anna
+Anna-Kaari
 Anna-Kaisa
 Anna-Kari
 Anna-Kristiina
@@ -109,6 +114,7 @@ Anna-Liisa
 Anna-Lisa
 Anna-Maija
 Annamari
+Anna-Maria
 Anna-Reeta
 Anna-Riikka
 Anna-Sofia
@@ -145,8 +151,10 @@ Anu
 Anu-Elina
 Anu-Maarit
 Anu-Maija
+Anu-Marjukka
 Ari
 Ariel
+Ari-Jussi
 Ari-Kyösti
 Ari-Matti
 Ari-Pekka
@@ -169,6 +177,7 @@ Asmo
 Asser
 Asta
 Astrid
+Ate
 ATK-Alan
 Atro
 Atso
@@ -207,6 +216,7 @@ Birgitta
 Boris
 Bram
 Brita
+Britannian-Päivä
 Bruce
 Bruno
 Buddha
@@ -221,6 +231,7 @@ Carl-Gustaf
 Carl-Henrik
 Carl-Johan
 Carl-Kristian
+Carl-Magnus
 Carola
 Caroline
 Carolus
@@ -273,10 +284,12 @@ Eero
 Eero-Matti
 Eero-Pekka
 Eero-Veli
+Eeti
 Eetu
 Eeva
 Eeva-Helena
 Eeva-Johanna
+Eeva-Kaari
 Eeva-Kaisa
 Eeva-Leena
 Eeva-Liisa
@@ -313,6 +326,8 @@ Elke
 Ella
 Ellen
 Elli
+Elli-Sisko
+Elma
 Elmer
 Elmeri
 Elmi
@@ -328,8 +343,12 @@ Emil
 Emilia
 Emily
 Emma
+Emmi
 Emmi-Lydia
+EM-Pietari
+EM-Taisto
 EM-Unelma
+EM-Visa
 Enni
 Ensio
 Eppu
@@ -340,6 +359,7 @@ Erikka
 Erin
 Erja
 Erkki
+Erkki-Pekka
 Ernest
 Ernesti
 Erno
@@ -416,15 +436,18 @@ Hanno
 Hannu
 Hannu-Pekka
 Hans
+Hans-Christian
 Hans-Georg
 Hanski
 Hans-Mikael
+Hans-Otto
 Hans-Peter
 Hans-Petter
 Harald
 Harriet
 Harry
 Heidi
+Heidi-Maria
 Heikki
 Heini
 Heini-Tuuli
@@ -450,6 +473,7 @@ Henni
 Henri
 Henrietta
 Henriikka
+Henri-Ilari
 Henrik
 Henrika
 Henrikki
@@ -479,6 +503,7 @@ Iida
 Iida-Elisa
 Iina
 Iina-Katariina
+Iina-Lotta
 Iina-Reetta
 Iines
 Iiris
@@ -499,6 +524,8 @@ Ilona
 Ilpo
 Ilppo
 Ilta
+Ilta-Ale
+Ilta-Auri
 Immanuel
 Immo
 Inga
@@ -515,6 +542,7 @@ Iro
 Isaac
 Isabella
 Isadora
+Isak
 Ismo
 Isto
 IT-Alan
@@ -528,12 +556,17 @@ Jaana-Mirjam
 Jack
 Jacques
 Jake
+Jakov
 Jallu
 Jalmari
 James
 Jami
 Jan
+Jan-Anders
+Jan-Aslak
+Jan-Christian
 Jane
+Jan-Erik
 Janette
 Jan-Henrik
 Jan-Henry
@@ -541,6 +574,7 @@ Jani
 Janica
 Janika
 Janina
+Jani-Petteri
 Janita
 Jan-Kristian
 Jan-Mikael
@@ -549,6 +583,7 @@ Janna-Juuli
 Janne
 Janne-Juha
 Janne-Olli
+Janne-Pekka
 Jannika
 Jan-Olof
 Janos
@@ -574,7 +609,9 @@ Jasperi
 Jatta
 Jean
 Jean-Daniel
+Jean-Gabriel
 Jean-Louis
+Jean-Martti
 Jean-Michel
 Jean-Paul
 Jean-Philippe
@@ -588,6 +625,7 @@ Jenny-Julia
 Jere
 Jeremias
 Jerry
+Jerusalem-Päivä
 Jesper
 Jesse
 Jessica
@@ -596,6 +634,7 @@ Jimi
 Joachim
 Joakim
 Joanna
+Joanne
 Job
 Jodie
 Joel
@@ -628,25 +667,31 @@ Jori
 Jorma
 Jörn
 Josef
+Josef-Emanuel
 Josefiina
+Josefina
 Joseph
 Josif
 Joukahainen
 Jouko
 Jouni
+Judith
 Juha
 Juha-Heikki
 Juha-Jaakko
 Juha-Matti
+Juha-Miguel
 Juha-Mikko
 Juhani
 Juhan-Petteri
+Juhapekka
 Juha-Pekka
 Juha-Petri
 Juha-Petteri
 Juha-Santeri
 Juho
 Juho-Pekka
+Juho-Veli
 Juice
 Julia
 Julia-Sisko
@@ -655,6 +700,7 @@ Juri
 Jussi
 Jussi-Matti
 Jussi-Pekka
+Jussi-Petteri
 Justiina
 Justus
 Jutta
@@ -665,14 +711,17 @@ Juuso
 Jyri
 Jyrki
 Kaapo
+Kaarin-Anna
 Kaarle
 Kaarlo
 Kai
 Kaija-Leena
+Kaija-Riitta
 Kaino
 Kai-Pekka
 Kaisa
 Kaisa-Maija
+Kaisa-Reeta
 Kaisu
 Kaj
 Kaj-Gustaf
@@ -681,6 +730,7 @@ Kalevi
 Kalle
 Kalle-Kustaa
 Kalle-Pekka
+Kanada-Taisto
 Kari-Matti
 Kari-Pekka
 Karita
@@ -726,6 +776,7 @@ Konrad
 Konsta
 Konstantinos
 Kosti
+Kotka-Päivä
 Kouvola-Päivä
 Krista
 Krister
@@ -778,6 +829,7 @@ Leo-Petteri
 Leopold
 Liisa
 Liisa-Maija
+Liisa-Marie
 Lilian
 Lilith
 Lilli
@@ -789,6 +841,7 @@ Linus
 Lisa
 Lissu
 Liverpool-Laina
+Liverpool-Unelma
 Lolita
 Louis
 Luca
@@ -816,6 +869,7 @@ Maila
 Maila-Jussi
 Maili
 Mailis
+Mailis-Sisko
 Maini
 Maire
 Maisa
@@ -843,6 +897,7 @@ Marie
 Mariella
 Mariitta
 Marika
+Mari-Katri
 Mari-Leena
 Mari-Linda
 Marin-Saarikko-Akseli
@@ -858,6 +913,7 @@ Marja-Aron
 Marja-Kristiina
 Marja-Leena
 Marja-Liisa
+Marja-Riitta
 Marjatta
 Marjo
 Marjo-Riitta
@@ -900,6 +956,7 @@ Merete
 Meri
 Meri-Anna
 Meri-Ilma
+Meri-Maija
 Merituuli
 Meri-Tuuli
 Merja
@@ -926,6 +983,7 @@ Mike
 Mikko
 Mikko-Petteri
 Miko
+Miksu
 Mila
 Milja
 Milka
@@ -937,6 +995,7 @@ Minerva
 Minja
 Minna
 Minna-Liisa
+Minna-Maarit
 Minni
 Minttu
 Mira
@@ -949,9 +1008,11 @@ Mirka
 Mirka-Tuuli
 Mirkka
 Miro
+Miro-Pekka
 Mirva
 Miska
 Missi-Essi
+Missi-Eveliina
 Missi-Katariina
 Missi-Laura
 MM-Taisto
@@ -987,6 +1048,7 @@ Netta
 Newton-John
 NHL-Kasperi
 NHL-Laina
+NHL-Taru
 NHL-Unelma
 Nicholas
 Nico
@@ -1008,6 +1070,7 @@ Nooa
 Noora
 Nora
 Nuutti
+Odysseus
 Ohto
 Oili
 Oili-Pekka
@@ -1065,6 +1128,7 @@ Pellervo
 Penelope
 Penna
 Pentti
+Pentti-Oskari
 Peppi
 Peppiina
 Pernilla
@@ -1073,6 +1137,7 @@ Pertteli
 Pertti
 Perttu
 Peter
+Peter-Michael
 Petr
 Petra
 Petri
@@ -1083,14 +1148,17 @@ Philip
 Philippe
 Pia
 Pia-Pauliina
+Pierre-Emil
 Pierre-Jean
 Pierre-Joseph
 Pietari
+Pietari-Paavali
 Pietro
 Pihla
 Piia
 Piia-Noora
 Piia-Riina
+Piia-Tuuli
 Pinja
 Piritta
 Pirjo
@@ -1101,7 +1169,9 @@ Pirkka-Pekka
 Pirkko
 Pirkko-Liisa
 Platon
+Pohjan-Veikko
 Pontus
+Pori-Tampere-Mikkeli-Akseli
 Porvoo-Kotka-Akseli
 Prospero
 Pyry
@@ -1120,6 +1190,7 @@ Raisio-Päivä
 Ralf
 Rami
 Rasmus
+Rasmus-Lauri
 Rauha
 Rauli
 Rauna
@@ -1196,6 +1267,7 @@ Saimi
 Saint-Louis
 Sakari
 Saku-Pekka
+Salla-Maaria
 Salla-Maarit
 Salla-Marja
 Salme
@@ -1212,6 +1284,7 @@ Samu
 Samuel
 Samu-Jussi
 Samuli
+Samu-Petteri
 Sandra
 Sanna
 Sanna-Kaisa
@@ -1284,6 +1357,7 @@ Stephen
 Steve
 Stig
 Stiina
+Stiina-Emilia
 Stina
 Sue
 Sulevi
@@ -1340,6 +1414,7 @@ Tiina
 Tiina-Kaisa
 Tilda
 Timo
+Timo-Jukka
 Timo-Pekka
 Tino
 Titta
@@ -1398,11 +1473,13 @@ Urho
 Urmas
 Urpo
 Ursula
+USA-Unelma
 Uuno
 Uvas
 Väinö
 Väiski
 Valde
+Valdemar
 Valdo
 Valentin
 Valfrid
@@ -1440,6 +1517,7 @@ Vilhelm
 Vilhelmiina
 Vilho
 Vili
+Vili-Pekka
 Viljami
 Viljo
 Ville
@@ -1473,6 +1551,7 @@ Wilma
 Wilma-Emilia
 Wolfgang
 YK-Jouko
+Ylermi
 Yrjänä
 Yrjö
 Yrjö-Tapio

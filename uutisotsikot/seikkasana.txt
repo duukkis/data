@@ -3,6 +3,7 @@ aamutuimaan
 aamuvarhain
 ääneti
 äärimmillään
+aasialaisittain
 afrikkalaisittain
 aiemmin
 aikaisemmin
@@ -46,6 +47,7 @@ asteittain
 asuinkunnittain
 auki
 avoinna
+bussilasteittain
 diplomaattitie
 edemmäs
 edes
@@ -57,6 +59,7 @@ eilen
 eittämättä
 eksyksissä
 enää
+enemmälti
 enemmän
 englantilaisittain
 enimmäkseen
@@ -90,6 +93,8 @@ eteläpuolitse
 eteläsuomalaisittain
 etenkin
 eurooppalaisittain
+genreittäin
+gigoittain
 hajalla
 hakoteillä
 hakukohteittain
@@ -99,6 +104,7 @@ hallussa
 haltioissaan
 hamassa
 hämillä
+harppauksittain
 harvaan
 harvakseen
 harvakseltaan
@@ -128,11 +134,13 @@ hiljan
 hiljattain
 hilkulla
 himpun
+hippasilla
 hissukseen
 hissun
 hitto
 hollilla
 höplästä
+hörö
 hoteissa
 hujakoilla
 hukassa
@@ -149,22 +157,28 @@ hyvänen
 hyvänsä
 hyvillään
 hyvin
+hyvinvointialueittain
 iäti
 ihan
 ihka
 ihmeemmin
 ihmeempää
+ihmisryhmittäin
+ikäluokittain
 ikäryhmittäin
 ikinä
+ilkosen
 ilkosilla
 ilmatie
 iltapäivisin
 infra
+intialaisittain
 irrallaan
 irti
 irvessä
 istualla
 italialaisittain
+itäpuolitse
 itäsuomalaisittain
 itsekseen
 itsessään
@@ -216,6 +230,7 @@ kasvupaikoittain
 kategorioittain
 kateissa
 katki
+katsomolohkoittain
 katumapäällä
 kauan
 kauas
@@ -246,6 +261,7 @@ kiinalaisittain
 kiinni
 kiinteistöittäin
 kiloittain
+kilometreittäin
 kilpasilla
 kirje
 kissun
@@ -266,6 +282,7 @@ kouluasteittain
 kouluittain
 koulutusasteittain
 kreikkalaisittain
+kuiduittain
 kuitenkaan
 kuitenkin
 kukaties
@@ -282,6 +299,7 @@ kuukausittain
 kuulemiin
 kuulemma
 kuureittain
+kuuroittain
 kuutioittain
 kvartaaleittain
 kylittäin
@@ -301,6 +319,7 @@ lähestulkoon
 lähettyvillä
 lähi
 lähimmäs
+lahtelaisittain
 lähtöisin
 laimin
 lainkaan
@@ -309,6 +328,7 @@ lakitie
 lännemmäs
 läpi
 läpikotaisin
+lappilaisittain
 läsnä
 lauantaisin
 laukuittain
@@ -316,6 +336,7 @@ leikki
 lentokonelasteittain
 lentotie
 letkoittain
+liiemmälti
 liiketoiminnoittain
 liiketoiminta-alueittain
 likellä
@@ -354,6 +375,7 @@ mieluiten
 mieluummin
 mieluusti
 mikäli
+mikrosijainneittain
 miljoonittain
 millänsäkään
 milloin
@@ -410,18 +432,21 @@ nyt
 nyttemmin
 ohimennen
 ohitse
+ohjelmittain
 oikeammin
 oikein
 oikeustie
 oitis
 ojossa
 olleti
+oppilaitoksittain
 osastoittain
 osavaltioittain
 osittain
 pääksytysten
 päällekkäin
 päällepäin
+pääluokittain
 pääpiirteittäin
 pahiten
 pahitteeksi
@@ -472,6 +497,7 @@ pikkuhiljaa
 pikkuhoususilla
 pisaratie
 pitkälti
+pitkittäin
 pohjimmiltaan
 pohjoismaalaisittain
 pohjoispuolitse
@@ -502,6 +528,7 @@ puulajeittain
 pyörryksissä
 raaka-aineryhmittäin
 radiotie
+ratsain
 rautatie
 reilassa
 rempallaan
@@ -514,6 +541,7 @@ roomalaisittain
 roppakaupalla
 rullakoittain
 runsaiten
+rutiini
 rutto
 ryhmittäin
 saakka
@@ -571,6 +599,7 @@ suinkin
 sujut
 sukkasillaan
 sukupuolittain
+summamutikassa
 summanmutikassa
 summittain
 sunnuntaisin
@@ -584,6 +613,7 @@ sykähdyksittäin
 sykäyksittäin
 syksympänä
 sylikkäin
+syntymäkunnittain
 syrjempänä
 taaemmas
 taaksepäin
@@ -663,6 +693,7 @@ tukuittain
 tuolloin
 tuonnemma
 tuoreeltaan
+tuoteryhmittäin
 turkkilaisittain
 turvoksissa
 tusinoittain
@@ -676,6 +707,7 @@ työpaikoittain
 työpareittain
 tyynni
 tyystin
+uimatie
 ulkoapäin
 ulkosalla
 ulommas
@@ -691,6 +723,7 @@ vääjäämättä
 vaalipiireittäin
 väärinpäin
 väestöryhmittäin
+vähäsen
 vähitellen
 vähiten
 vaiheittain
@@ -700,12 +733,14 @@ vaiti
 vaivihkaa
 vakavissaan
 väkisin
+vakuutusyhtiöittäin
 valkovenäläisittäin
 valtoimena
 vängällä
 vanhemmiten
 varhain
 varhemmin
+varpaisilla
 varuilla
 varuskunnittain
 vasta
@@ -728,6 +763,7 @@ verran
 verraten
 verrattain
 vertaansa
+vesi
 vesitie
 via
 videotie
@@ -741,9 +777,11 @@ viimeksi
 viljalti
 vilkkaan
 virolaisittain
+vitkaan
 vuoksi
 vuoroittain
 vuosiluokittain
+vuosineljänneksittäin
 vuosittain
 yhä
 yhdessä

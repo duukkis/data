@@ -36,6 +36,7 @@ FM
 FT
 GPS
 GSM
+ha
 halli-SM
 hepatiitti-c
 HIV
@@ -48,6 +49,7 @@ IT
 jäärata-SM
 juhla-DVD
 kaapeli-TV
+kaupunki-TV
 kg
 kJ
 kk
@@ -62,6 +64,7 @@ LED
 LP
 LSD
 mainos-TV
+maksu-TV
 mg
 MHz
 mini-LED
@@ -80,6 +83,7 @@ nyky-EU
 nyky-NHL
 OECD
 OK
+oppilas-WC
 ostos-TV
 oy
 oyj
@@ -96,6 +100,8 @@ ryhmä-x
 SA
 SAK
 SDP
+SKDL
+SKP
 SM
 SOS
 sote

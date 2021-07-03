@@ -1,3 +1,5 @@
+ääni-Oscar
+Abloy
 af
 Afrikan-Maa
 Airbus
@@ -9,6 +11,7 @@ Alanko-Maa
 Alko
 Allah
 Al-Qaida
+a-Mersu
 Andromeda
 Animalia
 anti-Kristus
@@ -18,7 +21,9 @@ Apple
 Arava
 arkkitehtuuri-Finlandia
 arvo-Porsche
+Aspirin
 Ateneum
+Aten-Jumala
 Athene
 Audi
 Aurinko
@@ -26,6 +31,7 @@ Basic
 Beatles
 bensa-Mersu
 bin
+Borealis
 Botnia
 Burana
 Centrum
@@ -38,12 +44,15 @@ Dalai-lama
 Dallas-Mersu
 Dei
 Dionysos
+Edita
 El
+EM-Maa
 Englannin-Maa
 erikois-Oscar
 Esso
 Estonia
 EU-Maa
+Euribor
 Facebook
 Fazer
 Finlandia
@@ -77,6 +86,7 @@ Intercity
 Internet
 Interpol
 Intersport
+Interzone
 Jaguar
 Jeesus
 Jehova
@@ -85,6 +95,7 @@ Joma
 Jupiter
 Kaleva
 Kalevala
+Kansallis-Osake-Pankki
 Karisto
 Kemira
 Kerberos
@@ -112,6 +123,7 @@ Maamme-laulu
 maasturi-Lada
 maasturi-Mersu
 Macbeth
+mahti-Kia
 Marimekko
 Mars-Maa
 Masala
@@ -162,6 +174,7 @@ Prometheus
 Psycho
 Puh
 puna-Musti
+pyhimys-Volvo
 Qaida
 Raamattu
 ralli-Audi
@@ -172,6 +185,7 @@ Reuters
 Riigikogu
 Roche
 Rotary
+rotta-Audi
 Saab
 sähkö-Audi
 sähkö-Porsche
@@ -197,6 +211,7 @@ Sony
 Sprite
 Sputnik
 Stockmann
+STT-Reuters
 STT-Yle
 Stuka
 Suomi-Instagram
