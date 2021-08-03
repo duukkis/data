@@ -143,12 +143,14 @@ Antti
 Antti-Jussi
 Antti-Kustaa
 Antti-Pekka
+Antti-Pentti
 Antti-Petteri
 Antti-Tuomas
 Antto
 Antton
 Anu
 Anu-Elina
+Anu-Katriina
 Anu-Maarit
 Anu-Maija
 Anu-Marjukka
@@ -162,6 +164,7 @@ Aristoteles
 Arja
 Arja-Liisa
 Armi
+Arndt
 Arno
 Art
 Arthur
@@ -269,6 +272,7 @@ Dwight
 Eddie
 Edgar
 Edith
+Edmond
 Eduard
 Edvard
 Edward
@@ -298,6 +302,7 @@ Eeva-Riitta
 Eevert
 Eevi
 Eija
+Eija-Leena
 Eija-Liisa
 Eija-Riitta
 Eila
@@ -326,6 +331,7 @@ Elke
 Ella
 Ellen
 Elli
+Elli-Saara
 Elli-Sisko
 Elma
 Elmer
@@ -371,11 +377,13 @@ Esko
 Esko-Juha
 Essi
 Ester
+Esteri
 EU-Elin
 Eugen
 EU-Laina
 Eurooppa-Päivä
 EU-Toimi
+EU-Unelma
 Eva
 Eva-Christina
 Eva-Lotte
@@ -424,6 +432,7 @@ Hanna
 Hanna-Kaisa
 Hanna-Katariina
 Hanna-Leena
+Hanna-Liisa
 Hanna-Maaria
 Hanna-Maija
 Hanna-Marjut
@@ -574,6 +583,7 @@ Jani
 Janica
 Janika
 Janina
+Jani-Pekka
 Jani-Petteri
 Janita
 Jan-Kristian
@@ -682,6 +692,7 @@ Juha-Jaakko
 Juha-Matti
 Juha-Miguel
 Juha-Mikko
+Juhana
 Juhani
 Juhan-Petteri
 Juhapekka
@@ -715,6 +726,8 @@ Kaarin-Anna
 Kaarle
 Kaarlo
 Kai
+Kai-Eerik
+Kai-Erik
 Kaija-Leena
 Kaija-Riitta
 Kaino
@@ -744,6 +757,7 @@ Katariina
 Katarina
 Kati
 Katja
+Katja-Maaria
 Katri
 Katriina
 Kauko
@@ -789,6 +803,7 @@ Kullervo
 Kurt
 Kustaa
 Kusti
+Kuusamo-Kati
 Kylli
 Kyllikki
 Kyllönen-Katri
@@ -797,12 +812,14 @@ Laila
 Lalli
 Lars
 Lars-Göran
+Lars-Johan
 Lasarus
 Lasse
 Lassi
 Lassi-Pekka
 Lati
 Laura
+Laura-Tuuli
 Lauri
 Lawrence
 Lea
@@ -813,6 +830,7 @@ Leena-Kaisa
 Leena-Maija
 Leeni
 Leevi
+Leevi-Veli
 Leif
 Leila
 Lemminkäinen
@@ -830,6 +848,7 @@ Leopold
 Liisa
 Liisa-Maija
 Liisa-Marie
+Liisi
 Lilian
 Lilith
 Lilli
@@ -1013,6 +1032,7 @@ Mirva
 Miska
 Missi-Essi
 Missi-Eveliina
+Missi-Heidi
 Missi-Katariina
 Missi-Laura
 MM-Taisto
@@ -1052,6 +1072,7 @@ NHL-Taru
 NHL-Unelma
 Nicholas
 Nico
+Niemistö-Laina
 Niilo
 Niina
 Niklas
@@ -1070,6 +1091,7 @@ Nooa
 Noora
 Nora
 Nuutti
+Nyyrikki
 Odysseus
 Ohto
 Oili
@@ -1102,6 +1124,7 @@ Pablo
 Päivä
 Päivi
 Päivikki
+Päivi-Leena
 Päiviö
 Päivö
 Pal
@@ -1109,6 +1132,7 @@ Pamela
 Panu
 Pär
 Pasi
+Pasi-Heikki
 Patricia
 Patrick
 Patrik
@@ -1118,6 +1142,7 @@ Paula-Sirkka
 Paul-Henri
 Pauli
 Pauliina
+Paulina
 Peetu
 Pehr
 Pekka
@@ -1220,6 +1245,7 @@ Riina
 Riina-Maija
 Riitta
 Riitta-Liisa
+Riitta-Miina
 Riku
 Riku-Matti
 Riku-Pekka
@@ -1264,6 +1290,7 @@ Saija
 Saila
 Saima
 Saimi
+Saini
 Saint-Louis
 Sakari
 Saku-Pekka
@@ -1291,6 +1318,7 @@ Sanna-Kaisa
 Sanna-Liisa
 Sanna-Liisi
 Sanna-Maija
+Sanna-Maria
 Sanni
 Santeri
 Santeri-Satu
@@ -1412,6 +1440,7 @@ Tiia
 Tiia-Maria
 Tiina
 Tiina-Kaisa
+Tiitus
 Tilda
 Timo
 Timo-Jukka
@@ -1487,11 +1516,13 @@ Valma
 Valpuri
 Valter
 Valto
+Valtsu
 Valtteri
 Vanessa
 Vasili
 Vaula
 Veera
+Veera-Sisko
 Veeti
 Veijo
 Veikka
@@ -1508,6 +1539,7 @@ Veronika
 Vertti
 Victor
 Victoria
+Victoria-Sisko
 Vieno
 Vihtori
 Viivi
@@ -1545,6 +1577,7 @@ Waltteri
 Wes
 Wilhelm
 Wilhelmiina
+Wilhelmina
 Will
 William
 Wilma

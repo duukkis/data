@@ -40,6 +40,7 @@ ammoin
 ani
 anteeksi
 apposen
+äreissään
 arkipäivisin
 äsken
 äskettäin
@@ -147,6 +148,7 @@ hukassa
 hukuksissa
 huomenna
 huoneistoittain
+huoneistotyypeittäin
 huonoiten
 huorin
 huosta
@@ -166,6 +168,7 @@ ihmeempää
 ihmisryhmittäin
 ikäluokittain
 ikäryhmittäin
+iki
 ikinä
 ilkosen
 ilkosilla
@@ -239,6 +242,7 @@ kaupungeittain
 kaupunginosittain
 kausittain
 kauttaalta
+käymistie
 kelteisillä
 kenties
 kerroksittain
@@ -247,6 +251,7 @@ kesäteloilla
 keskellä
 kesken
 keskenään
+keskessä
 keskimäärin
 keskipaikkeilla
 keskipohjalaisittain
@@ -273,6 +278,7 @@ konsa
 kontalla
 koommin
 köpelösti
+korealaisittain
 koskaan
 kosolti
 kotiinpäin
@@ -326,6 +332,7 @@ lainkaan
 lainsäädäntötie
 lakitie
 lännemmäs
+länsimaisittain
 läpi
 läpikotaisin
 lappilaisittain
@@ -376,10 +383,12 @@ mieluummin
 mieluusti
 mikäli
 mikrosijainneittain
+miljardeittain
 miljoonittain
 millänsäkään
 milloin
 miltei
+minuuteittain
 missäpäin
 miten
 moksis
@@ -398,6 +407,7 @@ myös
 myötä
 myöten
 myymälöittäin
+näännyksissä
 näemmä
 näet
 nähden
@@ -482,6 +492,7 @@ perättäin
 perätysten
 perempänä
 perheittäin
+perhekunnittain
 perillä
 perisuomalaisittain
 perjantaisin
@@ -539,6 +550,7 @@ rinnakkain
 ristikkäin
 roomalaisittain
 roppakaupalla
+röykkiöittäin
 rullakoittain
 runsaiten
 rutiini
@@ -571,6 +583,8 @@ semminkin
 sentään
 sesongeittain
 seurakunnittain
+seuroittain
+seutuvilla
 siellä
 siis
 sikäli
@@ -605,6 +619,7 @@ summittain
 sunnuntaisin
 suomalaisittain
 suotta
+suotyypeittäin
 supussa
 surku
 suutuksissa
@@ -683,6 +698,7 @@ tokko
 tonneittain
 torneittain
 torstaisin
+tšekkiläisittäin
 tuhansittain
 tuhatkunta
 tuhatmäärin
@@ -690,6 +706,7 @@ tuiki
 tukkanuottasilla
 tukoittain
 tukuittain
+tunneittain
 tuolloin
 tuonnemma
 tuoreeltaan
@@ -707,6 +724,7 @@ työpaikoittain
 työpareittain
 tyynni
 tyystin
+uimapukusillaan
 uimatie
 ulkoapäin
 ulkosalla
@@ -734,6 +752,7 @@ vaivihkaa
 vakavissaan
 väkisin
 vakuutusyhtiöittäin
+valitustie
 valkovenäläisittäin
 valtoimena
 vängällä
@@ -764,18 +783,21 @@ verraten
 verrattain
 vertaansa
 vesi
+vesienhoitokausittain
 vesitie
 via
 videotie
 vielä
 vieraisilla
 vierekkäin
+vieretysten
 vihdoin
 viikoittain
 viimein
 viimeksi
 viljalti
 vilkkaan
+vinottain
 virolaisittain
 vitkaan
 vuoksi

@@ -42,6 +42,7 @@ Aimo-Koivisto
 Airaksinen
 Airas
 Airola
+äiti-Aikio
 Aitolehti
 Aittola
 Åkerlund
@@ -94,6 +95,7 @@ Arola
 Aronen
 Aro-Valjus
 Arponen
+Arvila
 Arvola
 Arvonen
 Asikainen
@@ -170,6 +172,7 @@ Brask
 Braun
 Brax
 Bridges
+Brontë
 Brotherus
 Bruni
 Brunila
@@ -180,6 +183,7 @@ Caine
 Callahan
 Cameron
 Campanella
+Camus
 Canth
 Carlson
 Carlsson
@@ -195,6 +199,7 @@ Chydenius
 Cornwell
 Corti
 Coulthard
+Crichton
 Crowley
 Curie
 Cygnaeus
@@ -213,6 +218,7 @@ Donner
 Dostojevski
 Doyle
 Dracula
+Drews
 Drockila
 Dufva
 Dumas
@@ -267,6 +273,7 @@ Eskola
 Eskolin
 EU-Eronen
 Euler
+EU-Myllys
 EU-Piik
 Evans
 Fabritius
@@ -275,6 +282,7 @@ Fagerlund
 Fagerström
 Fahrenheit
 Falk
+Fält
 Ferrari
 Fiilin
 Filppula
@@ -289,6 +297,7 @@ Flemming
 Flink
 Floridan-Kartano
 Föhr
+Fors
 Forsberg
 Forsblom
 Forsell
@@ -386,6 +395,7 @@ Hallberg
 Hallikainen
 Hallman
 Hällström
+Halmela
 Halmetoja
 Halminen
 Halonen
@@ -501,6 +511,7 @@ Hitchcock
 Hitler
 HIV-Riski
 HIV-Tulonen
+Hjerppe
 Höglund
 Hoikkala
 Hokkanen
@@ -518,6 +529,7 @@ Holmqvist
 Holmström
 Holopainen
 Holsti
+Holstila
 Holttinen
 Homen
 Honda
@@ -544,6 +556,7 @@ Hulkko
 Hulkkonen
 Hult
 Humaljoki
+Humaloja
 Humbert
 Hume
 Huolman
@@ -597,6 +610,7 @@ Innala
 Innanen
 Irwin
 Isaksson
+Isberg
 Issakainen
 Itälä
 IT-Alanen
@@ -649,6 +663,7 @@ Jormalainen
 Jormanainen
 Joronen
 Jortikka
+Jotuni
 Jouhki
 Joyce
 Juhola
@@ -681,11 +696,13 @@ Kääriäinen
 Kaartinen
 Kaasalainen
 Kaasinen
+Kadar
 Kafka
 Kahila
 Kahilainen
 Kähkönen
 Kähönen
+Kaijo
 Kaikko
 Kaikkonen
 Kaila
@@ -845,6 +862,7 @@ Kolehmainen
 Koli
 Koljonen
 Kolumbus
+Komu
 Komulainen
 Kononen
 Könönen
@@ -921,6 +939,7 @@ Kuortti
 Kuosmanen
 Kuparinen
 Kupiainen
+Kurikkala
 Kurkela
 Kurki
 Kurki-Issakainen
@@ -993,6 +1012,7 @@ Lankinen
 Lappalainen
 Lappi-Seppälä
 Lappi-Vesterinen
+Larin-Kyösti
 Larivaara
 Larsson
 Lasanen
@@ -1248,6 +1268,8 @@ Mononen
 Mononen-Mikkilä
 Monroe
 Montessori
+Montonen
+Montoya
 Moore
 More
 Möttönen
@@ -1284,6 +1306,7 @@ Natunen
 Naukkarinen
 Naumanen
 Näveri
+Näykki
 Nederström
 Nenonen
 Neuman
@@ -1335,6 +1358,7 @@ Norrgård
 Novak
 Nummelin
 Numminen
+Nuopponen
 Nupponen
 Nurmela
 Nurmio
@@ -1428,6 +1452,7 @@ Palmu
 Palola
 Palonen
 Palviainen
+Pankka
 Papunen
 Parikka
 Parkinson
@@ -1543,6 +1568,7 @@ Pratchett
 PS-Junnila
 Ptolemaios
 Puhakka
+Puhakka-Tarvainen
 Puhtila
 Puikkonen
 Pukkala
@@ -1575,6 +1601,7 @@ Puustjärvi
 Pykäri
 Pylkkänen
 Pylvänäinen
+Pynninen
 Pynnönen
 Pyrrhos
 Pyrrö
@@ -1586,6 +1613,7 @@ Quisling
 Raassina
 Raatikainen
 Rahikainen
+Rahkola
 Rahkonen
 Rahm
 Rahunen
@@ -1630,6 +1658,7 @@ Rasimus
 Rasputin
 Ratia
 Ratilainen
+Ratinen
 Räty
 Raudaskoski
 Rauhala
@@ -1839,6 +1868,7 @@ Siiskonen
 Siitonen
 Siivonen
 Sikanen
+Silander
 Siliämaa
 Siljamäki
 Sillman
@@ -1876,6 +1906,7 @@ Sivonen
 Sivula
 Sjöberg
 Sjöblom
+Sjögren
 Sjöholm
 Sjöström
 Skinnari
@@ -1883,6 +1914,7 @@ Skog
 Skutnabb
 Skyttä
 Slotte
+Slotte-Wallenius
 Smeds
 SM-Hall
 Smith
@@ -1952,6 +1984,7 @@ Sundman
 Sundqvist
 Sundström
 Sunila
+Suni-Lajunen
 Suntila
 Suojanen
 Suokas
@@ -2133,11 +2166,13 @@ Uusitupa
 Uusivirta
 Väänänen
 Väätäinen
+Väätänen
 Vähäsöyrinki
 Vahtera
 Vahtola
 Vainikainen
 Vainikka
+Väinölä-Mäki
 Väisänen
 Väisänen-Räty
 Vaittinen

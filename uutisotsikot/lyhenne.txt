@@ -89,6 +89,7 @@ oy
 oyj
 PC
 peli-PC
+pH
 pj
 poliisi-TV
 PR

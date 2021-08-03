@@ -14,6 +14,7 @@ Al-Qaida
 a-Mersu
 Andromeda
 Animalia
+Anni-Linnea
 anti-Kristus
 Apollo
 Apollon
@@ -79,6 +80,7 @@ Hesburger
 Homeros
 huippu-Samsung
 hybridi-Audi
+hybridi-Volvo
 Hyundai
 Ilta-Aurinko
 Instagram
@@ -243,6 +245,7 @@ Valmet
 Valpo
 Vampire
 van
+vasta-Aurinko
 Vellamo
 Venus
 Volkswagen
