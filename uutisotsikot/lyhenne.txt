@@ -72,6 +72,7 @@ mini-LP
 mini-PC
 MM
 mokka-e
+MP3
 MTK
 MTV
 muinais-DNA
@@ -87,6 +88,7 @@ oppilas-WC
 ostos-TV
 oy
 oyj
+päätös-EK
 PC
 peli-PC
 pH
@@ -94,6 +96,7 @@ pj
 poliisi-TV
 PR
 PS
+ralli-SM
 rkl
 RKP
 ry
@@ -108,6 +111,7 @@ SOS
 sote
 SPR
 STT
+suomi-USA
 super-g
 tauti-x
 teho-PC

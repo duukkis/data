@@ -2,6 +2,7 @@
 Abloy
 af
 Afrikan-Maa
+Airam
 Airbus
 Akademi
 Akava
@@ -28,6 +29,7 @@ Aten-Jumala
 Athene
 Audi
 Aurinko
+avo-Audi
 Basic
 Beatles
 bensa-Mersu
@@ -89,6 +91,7 @@ Internet
 Interpol
 Intersport
 Interzone
+iskelmä-Finlandia
 Jaguar
 Jeesus
 Jehova
@@ -126,6 +129,7 @@ maasturi-Lada
 maasturi-Mersu
 Macbeth
 mahti-Kia
+Mansikki
 Marimekko
 Mars-Maa
 Masala
@@ -191,6 +195,7 @@ rotta-Audi
 Saab
 sähkö-Audi
 sähkö-Porsche
+sähkö-Volvo
 Saint
 Samsung
 San
@@ -210,6 +215,7 @@ Sojuz
 Sokos
 Sonera
 Sony
+Spartacus
 Sprite
 Sputnik
 Stockmann
@@ -245,6 +251,7 @@ Valmet
 Valpo
 Vampire
 van
+varjo-Facebook
 vasta-Aurinko
 Vellamo
 Venus
@@ -260,6 +267,7 @@ Yakuza
 Yaris
 YK-Maa
 Yle
+yleispuolue-Puh
 yllätys-Oscar
 YouTube
 Zeus

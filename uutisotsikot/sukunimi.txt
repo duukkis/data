@@ -1,5 +1,6 @@
 Aalberg
 Aalto
+Aalto-Alanen
 Aaltonen
 Aalto-Setälä
 äänestäjä-Mäkinen
@@ -9,6 +10,7 @@ Abdulla
 Åberg
 Adams
 Adler
+Afganistanin-Haaranen
 Ågren
 Agricola
 Ahi
@@ -37,6 +39,7 @@ Ahvonen
 Äijälä
 Äikäs
 Aikio
+Aikio-Tallgren
 Ailio
 Aimo-Koivisto
 Airaksinen
@@ -68,6 +71,7 @@ Andersen
 Anderson
 Andersson
 Andrews
+Angelos
 Annala
 Annemari
 Antikainen
@@ -75,6 +79,8 @@ Antila
 Antila-Andersson
 Antonen
 Anttila
+Anttila-Huhtinen
+Anttila-Huovinen
 Anttinen
 Anttonen
 Apo
@@ -94,6 +100,7 @@ Aro-Heinilä
 Arola
 Aronen
 Aro-Valjus
+Arpiainen
 Arponen
 Arvila
 Arvola
@@ -110,6 +117,7 @@ Atkinson
 Attila
 Atwood
 Auer
+Aunio
 Aura-Autto
 Auranen
 Autio
@@ -128,6 +136,7 @@ Bärlund
 Bates
 Baudelaire
 Bauer
+Beauvoir
 Beckett
 Beckman
 Beethoven
@@ -157,6 +166,7 @@ Blomberg
 Blomqvist
 Blomqvist-Kakko
 Bogdanoff
+Bohr
 Boman
 Bond
 Borg
@@ -191,6 +201,7 @@ Carpelan
 Casanova
 Castrén
 Castro
+Cato
 Cavendish
 Cederberg
 Chandler
@@ -252,6 +263,7 @@ EM-Hall
 EM-Kaste
 EM-Nurmi
 Enckell
+Engblom
 Engel
 Englund
 Engman
@@ -270,6 +282,7 @@ Eronen
 Ervasti
 Eskelinen
 Eskola
+Eskola-Heikkinen
 Eskolin
 EU-Eronen
 Euler
@@ -297,6 +310,7 @@ Flemming
 Flink
 Floridan-Kartano
 Föhr
+Föhr-Lundberg
 Fors
 Forsberg
 Forsblom
@@ -336,11 +350,14 @@ Gröhn
 Grön
 Grönberg
 Grönholm
+Grönholm-Nyman
+Grönholm-Paananen
 Grönlund
 Grönqvist
 Grönroos
 Grundström
 Guggenheim
+Guillou
 Gummerus
 Gustafsson
 Gustavsson
@@ -381,6 +398,7 @@ Häkkänen
 Hakkarainen
 Häkkilä
 Häkkinen
+Häkkinen-Paananen
 Hakoköngäs
 Hakola
 Hakola-Uusitalo
@@ -409,6 +427,7 @@ Hanhinen
 Hankonen
 Hännikäinen
 Hänninen
+Hänninen-Helin
 Hannonen
 Hannukainen
 Hannuksela
@@ -468,6 +487,7 @@ Heitto
 Hekkala
 Helander
 Helenius
+Heli-Mäki
 Helin
 Heliö
 Heliövaara
@@ -481,6 +501,7 @@ Helminen
 Helovirta
 Helve
 Hemmilä
+Hendunen
 Henriksson
 Henttinen
 Henttonen
@@ -491,6 +512,7 @@ Herranen
 Hertz
 Hertzen
 Heusala
+Hiekkanen
 Hietala
 Hietanen
 Hihnala
@@ -526,6 +548,7 @@ Holmberg-Kalenius
 Holmes
 Holmlund
 Holmqvist
+Holmroos
 Holmström
 Holopainen
 Holsti
@@ -657,6 +680,7 @@ Jokelainen
 Jokinen
 Jolkkonen
 Jones
+Jonninen
 Jönsson
 Jormakka
 Jormalainen
@@ -680,6 +704,7 @@ Juselius
 Juslenius
 Jussila
 Jussilainen
+Jussila-Tyynelä
 Juteini
 Jutila
 Juusela
@@ -702,6 +727,7 @@ Kahila
 Kahilainen
 Kähkönen
 Kähönen
+Käihkö
 Kaijo
 Kaikko
 Kaikkonen
@@ -785,6 +811,7 @@ Katajala
 Kattelus
 Kattelus-Kilpeläinen
 Kauhanen
+Kaukinen
 Kaunisto
 Kauppi
 Kauppinen
@@ -808,6 +835,7 @@ Kerkkänen
 Kerola
 Keronen
 Kerttula
+Kerttunen
 Kervinen
 Keskinen
 Kestilä-Kekkonen
@@ -822,6 +850,7 @@ Kiiskinen
 Kiljunen
 Kilpeläinen
 Kilpi
+Kilpi-Jakonen
 Kilpinen
 Kilponen
 Kiminkinen
@@ -881,6 +910,7 @@ Kordelin
 Korhonen
 Korkala
 Korkalainen
+Korkiakoski
 Korpela
 Korpelainen
 Korpinen
@@ -913,6 +943,7 @@ Kovanen
 Kovero
 Kraemer
 Kraft
+Kristiansson
 Kröger
 Krogerus
 Krohn
@@ -958,6 +989,7 @@ Kuukkanen
 Kuusela-Hurskainen
 Kuusinen
 Kuusisto
+Kuuskoski
 Kuutti
 Kuvaaja
 Kuvaja
@@ -971,6 +1003,7 @@ Kytölä
 Kytömaa
 Laakkonen
 Laakso
+Laakso-Liukkonen
 Laaksonen
 Laalo
 Laamanen
@@ -1009,6 +1042,7 @@ Lander
 Landström
 Lång
 Lankinen
+Laplace
 Lappalainen
 Lappi-Seppälä
 Lappi-Vesterinen
@@ -1025,6 +1059,7 @@ Lauren
 Laurikainen
 Laurila
 Laurinen
+Lauronen
 Lauslahti
 Lavikainen
 Lavonen
@@ -1081,12 +1116,14 @@ Lindholm
 Lindman
 Lindqvist
 Lindroos
+Lindroos-Kantonen
 Lindroth
 Lindström
 Lindvall
 Linkola
 Linna
 Linnala
+Linnamo
 Linnanahde
 Linné
 Lintilä
@@ -1099,6 +1136,7 @@ Litvinov
 Liukko
 Liukkonen
 Liukkonen-Hämäläinen
+Liuksiala
 Löfberg
 Löfgren
 Lohela
@@ -1176,6 +1214,7 @@ Malkki
 Mallorca-Saari
 Malm
 Malmberg
+Malmsten
 Malmström
 Mankinen
 Manner
@@ -1188,12 +1227,15 @@ Mannonen
 Mantere
 Mantsinen
 Mänttäri
+Mänttä-Vilppula-Ruovesi-Virta
 Mäntylä
 Mäntynen
+Mäntysaari
 Mao
 Marjanen
 Markkanen
 Markkula
+Marklund
 Marshall
 Martelius
 Martikainen
@@ -1221,6 +1263,7 @@ Maxwell
 Mazzarella
 McIntyre
 McLaren
+Mecklin
 Mehtälä
 Mehtonen
 Mela
@@ -1300,6 +1343,7 @@ Myllynen
 Myllys
 Myllyviita
 Myöhänen
+Myyrmäki-Hall
 Myyryläinen
 Närvänen
 Natunen
@@ -1307,8 +1351,10 @@ Naukkarinen
 Naumanen
 Näveri
 Näykki
+Neck
 Nederström
 Nenonen
+Nesser
 Neuman
 Neuvonen
 Nevala
@@ -1319,6 +1365,8 @@ Newton-Kolehmainen
 Nguyen
 NHL-Hall
 NHL-Kapanen
+NHL-Virtanen
+Nicholas-Williams
 Nielikäinen
 Niemelä
 Niemeläinen
@@ -1362,6 +1410,7 @@ Nuopponen
 Nupponen
 Nurmela
 Nurmio
+Nuutila
 Nuutinen
 Nyberg
 Nybondas
@@ -1389,6 +1438,7 @@ Oittinen
 Oivanen
 Ojala
 Ojala-Niemelä
+Ojala-Nurmi
 Ojala-Tuomela
 Ojanen
 Ojasti
@@ -1470,7 +1520,9 @@ Pasanen
 Pasternak-Jackson
 Paukkunen
 Paulig
+Paulow
 Paunonen
+Pehkola
 Pehkonen
 Peiponen
 Pekkala
@@ -1510,6 +1562,7 @@ Pettersson
 Pettinen
 Peurala
 Picasso
+Piekkola
 Pienimäki
 Pietarinen
 Pietikäinen
@@ -1537,7 +1590,9 @@ Pirilä
 Pirinen
 Pirkkalainen
 Pirskanen
+Pirttilä
 Pisa-Tulonen
+Pitkälä
 Pitkänen
 Pitsinki
 Poe
@@ -1603,6 +1658,7 @@ Pylkkänen
 Pylvänäinen
 Pynninen
 Pynnönen
+Pynttäri
 Pyrrhos
 Pyrrö
 Pyykkö
@@ -1679,6 +1735,7 @@ Relander
 Remes
 Renlund
 Rento
+Rentola
 Renvall
 Reponen
 Rettig
@@ -1725,6 +1782,7 @@ Rönkkö
 Rönnberg
 Rönnqvist
 Röntynen
+Roope-Koiranen
 Roos
 Roosevelt
 Roponen
@@ -1789,6 +1847,7 @@ Sahlberg
 Sahlman
 Sahlstedt
 Sahlsten
+Saikkola
 Saikkonen
 Sainio
 Sairanen
@@ -1802,6 +1861,7 @@ Salminen-Kultanen
 Salonen
 Salonius-Pasternak
 Salonsaari-Posti
+Salo-Vartiainen
 Salvesen
 Sandberg
 Sandell
@@ -1892,10 +1952,13 @@ Sinkkonen
 Sipilä
 Sipiläinen
 Sipinen
+Siponen
 Sipponen
+Sippu
 Sirelius
 Siren
 Sirén
+Sirenius
 Sirkiä
 Sirola
 Sironen
@@ -1929,11 +1992,13 @@ Söderlund
 Söderman
 Söderström
 Sohlberg
+Soikkanen
 Soikkeli
 Soininen
 Sommer
 Somoza
 Somppi
+Sonninen
 Sopanen
 Soravuo
 Sorjonen
@@ -1994,6 +2059,7 @@ Surakka
 Sutela
 Sutinen
 Suuronen
+Suvivuo
 Svensson
 Svinhufvud
 Swift
@@ -2076,6 +2142,7 @@ Tissari
 Tito
 Tiusanen
 Toikka
+Toikkanen
 Toivainen
 Toivanen
 Toivari
@@ -2142,9 +2209,11 @@ Tykkyläinen
 Tyni
 Tynjälä
 Tynkkynen
+Tynni
 Tyrkkö
 Tyrväinen
 Tyynelä
+Tyynelä-Korhonen
 Uimonen
 Ukko-Koiranen
 Ukko-Koli
@@ -2167,6 +2236,7 @@ Uusivirta
 Väänänen
 Väätäinen
 Väätänen
+Vahala
 Vähäsöyrinki
 Vahtera
 Vahtola
@@ -2177,6 +2247,7 @@ Väisänen
 Väisänen-Räty
 Vaittinen
 Väkeväinen
+Valavuo
 Valjakka
 Valjus
 Valkeinen
@@ -2227,6 +2298,7 @@ Verronen
 Vertanen
 Vesalainen
 Vesanen
+Vesisenaho
 Vesterinen
 Veteläinen
 Vienola
@@ -2255,6 +2327,7 @@ Vilkamaa
 Vilkuna
 Villeneuve
 Villiers
+Vilponen
 Vilppu
 Viren
 Virkki
@@ -2302,6 +2375,7 @@ Wesley
 Westerberg
 Westerholm
 Westerlund
+Westermarck
 Wickholm
 Wickström
 Wiik

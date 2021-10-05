@@ -4,12 +4,14 @@ aamuvarhain
 ääneti
 äärimmillään
 aasialaisittain
+afganistanilaisittain
 afrikkalaisittain
 aiemmin
 aikaisemmin
 aikaisin
 aimo
 aina
+ainiaaksi
 ainoastaan
 ainut
 aivan
@@ -37,6 +39,7 @@ ammateittain
 ammattikunnittain
 ammattiryhmittäin
 ammoin
+ämpäreittäin
 ani
 anteeksi
 apposen
@@ -47,7 +50,10 @@ arkipäivisin
 asteittain
 asuinkunnittain
 auki
+autokuormittain
+autolasteittain
 avoinna
+busseittain
 bussilasteittain
 diplomaattitie
 edemmäs
@@ -94,6 +100,7 @@ eteläpuolitse
 eteläsuomalaisittain
 etenkin
 eurooppalaisittain
+filippiiniläisittäin
 genreittäin
 gigoittain
 hajalla
@@ -112,6 +119,8 @@ harvakseltaan
 harvassa
 harvoin
 häthätää
+hehtaareittain
+helkkari
 helpoiten
 helvetti
 hengissä
@@ -226,6 +235,7 @@ kansanedustajittain
 karku
 käsikkäin
 kasoittain
+kastelukannuittain
 kasvokkain
 kasvotuksin
 kasvotusten
@@ -330,6 +340,7 @@ lähtöisin
 laimin
 lainkaan
 lainsäädäntötie
+lajeittain
 lakitie
 lännemmäs
 länsimaisittain
@@ -339,6 +350,7 @@ lappilaisittain
 läsnä
 lauantaisin
 laukuittain
+laumoittain
 leikki
 lentokonelasteittain
 lentotie
@@ -346,6 +358,7 @@ letkoittain
 liiemmälti
 liiketoiminnoittain
 liiketoiminta-alueittain
+liitoittain
 likellä
 liki
 likimain
@@ -391,6 +404,7 @@ miltei
 minuuteittain
 missäpäin
 miten
+moderato
 moksis
 moni
 mönkään
@@ -420,6 +434,7 @@ näytillä
 neljännesvuosittain
 nenäkkäin
 nenätysten
+neuvottelutie
 niin
 nimenomaan
 nimittäin
@@ -447,12 +462,14 @@ oikeammin
 oikein
 oikeustie
 oitis
+öittäin
 ojossa
 olleti
 oppilaitoksittain
 osastoittain
 osavaltioittain
 osittain
+otoksittain
 pääksytysten
 päällekkäin
 päällepäin
@@ -465,12 +482,14 @@ paikkeilla
 paikoin
 paikoittain
 päin
+päinsä
 painuksissa
 päinvastoin
 paitsi
 päittäin
 päiväsaikaan
 päiväseltään
+päivemmällä
 päivittäin
 pakosalla
 paksulti
@@ -499,6 +518,7 @@ perjantaisin
 perussuomalaisittain
 piakkoin
 piilosilla
+piip
 piirikunnittain
 pika
 pikemmin
@@ -547,6 +567,7 @@ retuperällä
 rikki
 rillumarei
 rinnakkain
+riskiryhmittäin
 ristikkäin
 roomalaisittain
 roppakaupalla
@@ -577,6 +598,7 @@ savolaisittain
 seassa
 seisaalla
 seksuaalitie
+sektoreittain
 selin
 selvillä
 semminkin
@@ -609,6 +631,7 @@ sivuttain
 sokin
 soopa
 sopimustie
+sote-alueittain
 suinkin
 sujut
 sukkasillaan
@@ -640,6 +663,7 @@ taasen
 tahallaan
 tahansa
 tainnoksissa
+taiteenlajeittain
 taiten
 taivasalla
 takaapäin
@@ -711,10 +735,12 @@ tuolloin
 tuonnemma
 tuoreeltaan
 tuoteryhmittäin
+tupoittain
 turkkilaisittain
 turvoksissa
 tusinoittain
 tuskin
+tutkinnoittain
 tuusan
 tuvittain
 tykkänään
@@ -744,7 +770,9 @@ väestöryhmittäin
 vähäsen
 vähitellen
 vähiten
+vähittäin
 vaiheittain
+väijyksissä
 vailla
 vain
 vaiti
@@ -784,6 +812,8 @@ verrattain
 vertaansa
 vesi
 vesienhoitokausittain
+vesistöalueittain
+vesistöittäin
 vesitie
 via
 videotie
@@ -791,6 +821,7 @@ vielä
 vieraisilla
 vierekkäin
 vieretysten
+vieri
 vihdoin
 viikoittain
 viimein
