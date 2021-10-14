@@ -219,6 +219,7 @@ haikea
 haitilaisviranomainen
 hallintokeskeinen
 hallintoviranomainen
+hallituspoliittinen
 hämärä
 hämeenlinnalaisnuori
 haminalaisnuori
@@ -241,6 +242,7 @@ heleänvihreä
 helle
 hellehirmu
 helluntailainen
+Helsinki-keskeinen
 helsinkiläisnuori
 hengenheimolainen
 henkilökeskeinen
@@ -318,6 +320,7 @@ ilmailuviranomainen
 ilmainen
 ilmastopoliittinen
 ilmastorikollinen
+ilmoitusvelvollinen
 iltapäiväkerholainen
 imatralaisnuori
 imbesilli
@@ -339,6 +342,7 @@ irtolainen
 islamilainen
 iso
 isomatala
+isorikas
 isotoope
 israelilaissiviili
 itäfriisiläinen
@@ -463,6 +467,7 @@ keskivertosuomalainen
 keskustalainen
 keskustaoikeistolainen
 keskustavasemmistolainen
+kidutuksenomainen
 kiekkoeläkeläinen
 kielipoliittinen
 kihara
@@ -539,6 +544,7 @@ kulttuuripoliittinen
 kuluttajansuojaviranomainen
 kuluttajaviranomainen
 kumma
+kungfutselainen
 kunnallispoliittinen
 kuntapoliittinen
 kuolansuomalainen
@@ -548,6 +554,8 @@ kuorolainen
 kuppimallinen
 kurditurvallisuusviranomainen
 kurdiviranomainen
+kutsuntavelvollinen
+kutsuntaviranomainen
 kuubanjuutalainen
 kuuma
 kuuro
@@ -638,6 +646,7 @@ luiska
 luisu
 lukivaikeusaikuinen
 lumenomainen
+luokkavihollinen
 luonnonläheinen
 luonnonmukainen
 luonteenomainen
@@ -732,6 +741,7 @@ nami
 natsirikollinen
 naurulainen
 neandertalilainen
+neitsytsaarelainen
 neliönmallinen
 nero
 nettirikollinen
@@ -856,6 +866,7 @@ perheenomainen
 perhekeskeinen
 perhepoliittinen
 perhevapaamallinen
+peribrittiläinen
 perinnebiotoope
 perisuomalainen
 perivihollinen
@@ -873,6 +884,7 @@ piiloveronomainen
 piirustuksenomainen
 pika-aituri
 pikimusta
+pikkuäijä
 pikkuhelle
 pikkuinen
 pikkumusta
@@ -993,6 +1005,7 @@ raukka
 rautatieviranomainen
 refleksinomainen
 reininmaalainen
+remakka
 reseptilääkkeenkaltainen
 revolverimallinen
 rietas
@@ -1136,6 +1149,7 @@ suloisenhaikea
 sunnalainen
 suolaisenmakea
 suomalainen
+suomalaisaikuinen
 suomalaisaituri
 suomalaisbrittiläinen
 suomalais-karjalainen
@@ -1167,6 +1181,7 @@ superkomea
 superkuuma
 superkylmä
 superlämmin
+supermukava
 superpehmeä
 superpitkä
 superrakas
@@ -1204,7 +1219,9 @@ syyttäjäviranomainen
 taianomainen
 taiderikollinen
 taistolainen
+taistolaisaktiivi
 takaiskulta
+takakeno
 takamusta
 takapiru
 takasuora
@@ -1212,6 +1229,7 @@ takavasen
 tällainen
 tallinnalaistuttu
 taloudellispoliittinen
+talouskeskeinen
 talousoikeistolainen
 talouspoliittinen
 talousrikollinen
@@ -1264,6 +1282,7 @@ terveysviranomainen
 testausmallinen
 texasilaisdemokraatti
 texasilaisviranomainen
+tiedepoliittinen
 tiedusteluviranomainen
 tietosuojaviranomainen
 tietoturvaviranomainen
@@ -1414,6 +1433,7 @@ vaitiolovelvollinen
 vajaa
 väkevä
 vakio
+vakiovarma
 vakiovieras
 väkivaltarikollinen
 vakkasuomalainen

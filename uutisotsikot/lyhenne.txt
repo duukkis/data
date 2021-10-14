@@ -63,6 +63,7 @@ kWh
 LED
 LP
 LSD
+LVI
 mainos-TV
 maksu-TV
 mg
@@ -104,6 +105,7 @@ ryhmä-x
 SA
 SAK
 SDP
+seinä-WC
 SKDL
 SKP
 SM

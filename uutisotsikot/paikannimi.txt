@@ -12,6 +12,7 @@ Afrikka
 Ähtävä
 Ahvenanmaa
 Ahvenisto
+Aino-Inkeri
 Ainola
 Aino-Mari
 Airisto
@@ -181,6 +182,7 @@ Cookinsaari
 Cornwall
 Cremona
 Dagestan
+Dakar
 Dakota
 Dallas
 Damaskos
@@ -305,6 +307,7 @@ Etelä-Vuosaari
 Etelä-Wales
 Etiopia
 Etna
+EU-Irlanti
 Eura
 Euraasia
 Eurajoki
@@ -348,6 +351,8 @@ Greenwich
 Grenada
 Grenadiini
 Grönlanti
+Guadeloupe
+Guam
 Guantanamo
 Guantánamo
 Guatemala
@@ -412,6 +417,7 @@ Helsinki-Tukholma
 Helsinki-Turku
 Helsinki-Uusimaa
 Helsinki-Vantaa
+Helsinki-Venetsia
 Hennala
 Heretty
 Herrala
@@ -434,6 +440,7 @@ Hongkong
 Honolulu
 Houston
 Houtskari
+Höytiäinen
 Hudson
 Huittinen
 Hulmi
@@ -688,6 +695,7 @@ Kaspianmeri
 Katalonia
 Kathmandu
 Kauhajoki
+Kauhajoki-Isojoki
 Kauhava
 Kauhava-Jyväskylä-Oulu
 Kaukasia
@@ -734,6 +742,7 @@ Keski-Karjala
 Keski-Kiina
 Keski-Kreikka
 Keski-Lappi
+Keski-Mali
 Keski-Nigeria
 Keski-Nurmo
 Keski-Päijänne
@@ -755,6 +764,7 @@ Keski-Venäjä
 Keski-Viro
 Kessi
 Kestilä
+Ketola-Kinnula
 Kettula
 Keuruu
 Kevo
@@ -1359,6 +1369,7 @@ Pennsylvania
 Penttilä
 Peräseinäjoki
 Perho
+Perkjärvi
 Pernaja
 Perniö
 Persia
@@ -1395,6 +1406,7 @@ Pohjanmaan-Kainuu
 Pohjois-Aasia
 Pohjois-Afganistan
 Pohjois-Afrikka
+Pohjois-Ahvenanmaa
 Pohjois-Alaska
 Pohjois-Amerikka
 Pohjois-Atlantti
@@ -1428,6 +1440,7 @@ Pohjois-Kypros
 Pohjois-Lappi
 Pohjois-Liberia
 Pohjois-Lontoo
+Pohjois-Mali
 Pohjois-Mongolia
 Pohjois-Mosambik
 Pohjois-Myanmar
@@ -1918,6 +1931,7 @@ Vaala
 Vaarala
 Vaasa
 Vaasa-Jyväskylä
+Vaasa-Kuopio
 Vaasa-Uumaja
 Vähäkyrö
 Vähä-Rauma

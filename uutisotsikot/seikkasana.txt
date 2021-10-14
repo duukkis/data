@@ -50,6 +50,7 @@ arkipäivisin
 asteittain
 asuinkunnittain
 auki
+autokunnittain
 autokuormittain
 autolasteittain
 avoinna
@@ -201,6 +202,7 @@ jälkeenpäin
 jalkeilla
 jälleen
 jamassa
+jaostoittain
 järin
 jäsenmaittain
 jo
@@ -780,6 +782,7 @@ vaivihkaa
 vakavissaan
 väkisin
 vakuutusyhtiöittäin
+valikoimittain
 valitustie
 valkovenäläisittäin
 valtoimena
@@ -849,6 +852,7 @@ yhtenään
 yhtikäs
 yhtiöittäin
 yksiköittäin
+yksilöittäin
 yksin
 yksinään
 yksinomaan

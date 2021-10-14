@@ -106,6 +106,7 @@ kaksitoistatuhat
 kaksituhatta
 kolmas
 kolmaskymmenes
+kolmaskymmenessadastuhannes
 kolmassadas
 kolmastoinen
 kolmastoista

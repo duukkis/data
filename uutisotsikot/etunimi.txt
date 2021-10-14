@@ -139,6 +139,7 @@ Annika
 Annikki
 Annina
 Anni-Sofia
+Anni-Stiina
 Annukka
 Anselmi
 Anssi
@@ -513,6 +514,7 @@ Herbert
 Herkko
 Herman
 Hermanni
+Herodes
 Hessu
 Heta
 Heta-Elena
@@ -563,6 +565,7 @@ Ilta-Auri
 Imatra-Päivä
 Immanuel
 Immo
+Impi
 Inga
 Inger
 Ingrid
@@ -692,6 +695,7 @@ Jonathan
 Joni
 Joni-Matti
 Joni-Pekka
+Joni-Petri
 Jon-Jon
 Jonna
 Jonne
@@ -762,6 +766,7 @@ Kai-Eerik
 Kai-Erik
 Kaija-Leena
 Kaija-Riitta
+Kai-Jorma
 Kaino
 Kai-Pekka
 Kaisa
@@ -939,6 +944,7 @@ Margareetta
 Margaret
 Margareta
 Margaretha
+Margaretta
 Margit
 Maria
 Marian-Jean
@@ -1314,6 +1320,7 @@ Roni
 Ronja
 Roope
 Roope-Santeri
+Roope-Uki
 Roope-Veli
 Roosa
 Rosa
@@ -1467,6 +1474,7 @@ Tampere-Päivä
 Taneli
 Tanja
 Tanja-Lotta
+Tanja-Sisko
 Tapani
 Tapio
 Tarja
@@ -1591,6 +1599,7 @@ Veini
 Veli
 Venla
 Vera
+Verna
 Verner
 Verneri
 Veronica

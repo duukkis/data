@@ -27,6 +27,7 @@ Aho-Halonen
 Ahokas
 Ahola
 Aholainen
+Ahola-Korhonen
 Ahola-Launonen
 Ahonen
 Ahtee
@@ -182,6 +183,7 @@ Brask
 Braun
 Brax
 Bridges
+Broms
 Brontë
 Brotherus
 Bruni
@@ -382,6 +384,7 @@ Haavisto
 Hackman
 Hackzell
 Hagelberg
+Häggblom
 Hägglund
 Häggman
 Haglund
@@ -486,6 +489,7 @@ Heiskari
 Heitto
 Hekkala
 Helander
+Helasvuo
 Helenius
 Heli-Mäki
 Helin
@@ -696,6 +700,7 @@ Julkunen
 Jumppanen
 Junes
 Junes-Leinonen
+Junkkarinen
 Junnila
 Juntunen
 Juopperi
@@ -777,7 +782,9 @@ Kares
 Karhinen
 Karhunen
 Kari
+Kari-harjanne-Haavisto
 Karila
+Kari-Mikkonen-Haavisto
 Kariola
 Karjalainen
 Karjula
@@ -855,6 +862,7 @@ Kilpinen
 Kilponen
 Kiminkinen
 Kimmel
+Kinanen
 King
 Kinnunen
 Kirjavainen
@@ -868,6 +876,7 @@ Kiviniemi
 Kivistö
 Kleemola
 Klemetti
+Klemettilä
 Klemola
 Kleopatra-Ranta
 Klimenko
@@ -1029,6 +1038,7 @@ Laitala
 Laitinen
 Laitinen-Parkkonen
 Lajunen
+Laksio
 Lamberg
 Lammela
 Lamminen
@@ -1263,6 +1273,7 @@ Maxwell
 Mazzarella
 McIntyre
 McLaren
+McLaren-Autto
 Mecklin
 Mehtälä
 Mehtonen
@@ -1275,6 +1286,7 @@ Mentula
 Merikanto
 Meriläinen
 Meri-Toppila
+Meronen
 Mertanen
 Metelinen
 Metso
@@ -1285,6 +1297,7 @@ Mickelsson
 Mielonen
 Miettinen
 Miettunen
+Miinin
 Mikander
 Mikkilä
 Mikkonen
@@ -1841,6 +1854,7 @@ Saaranen
 Saarela
 Saarento
 Saarikko
+Saarnio
 Saaros
 Sagan
 Sahlberg
@@ -1856,6 +1870,7 @@ Salin
 Sallinen
 Salmela-Aro
 Salmelainen
+Salmén
 Salminen
 Salminen-Kultanen
 Salonen
@@ -1908,6 +1923,7 @@ Serenius
 Sergejeff
 Serlachius
 Setälä
+Sexton
 Shakespeare
 Sharon
 Shemeikka
@@ -1965,6 +1981,7 @@ Sironen
 Sirviö
 Sisättö
 Sistonen
+Siukonen
 Sivonen
 Sivula
 Sjöberg
@@ -2203,6 +2220,7 @@ Turunen
 Tuukkanen
 Tuulonen
 Tuunainen
+Tuunanen
 Tuurna
 TV-Kuvaaja
 Tykkyläinen
@@ -2349,6 +2367,7 @@ Volga-Autto
 Vornanen
 Voutilainen
 Vuojolainen
+Vuokola
 Vuolijoki
 Vuorela
 Vuorio

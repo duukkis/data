@@ -17,6 +17,7 @@ Andromeda
 Animalia
 Anni-Linnea
 anti-Kristus
+Apilas
 Apollo
 Apollon
 Apple
@@ -150,6 +151,7 @@ naispääosa-Oscar
 napero-Finlandia
 Nato
 Natura
+Nemesis
 Neptunus
 Netflix
 Nintendo
@@ -194,6 +196,7 @@ Rotary
 rotta-Audi
 Saab
 sähkö-Audi
+sähkö-Mersu
 sähkö-Porsche
 sähkö-Volvo
 Saint
