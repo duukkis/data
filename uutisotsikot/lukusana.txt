@@ -14,6 +14,7 @@
 -1764
 -19
 -20
+-2023
 -205
 -232
 -25
@@ -124,6 +125,7 @@ kolmisenkymmentä
 kolmisensataa
 kolmisentuhatta
 kuudes
+kuudeskymmenes
 kuudestoista
 kuusi
 kuusikymmentä

@@ -45,6 +45,7 @@ Ailio
 Aimo-Koivisto
 Airaksinen
 Airas
+Airila
 Airola
 äiti-Aikio
 Aitolehti
@@ -149,6 +150,7 @@ Bergius
 Berglund
 Bergman
 Bergström
+Bering
 Berner
 Biaudet
 Bismarck
@@ -168,6 +170,7 @@ Blomqvist
 Blomqvist-Kakko
 Bogdanoff
 Bohr
+Bokassa
 Boman
 Bond
 Borg
@@ -204,6 +207,7 @@ Casanova
 Castrén
 Castro
 Cato
+Cavallo
 Cavendish
 Cederberg
 Chandler
@@ -270,6 +274,7 @@ Engel
 Englund
 Engman
 Engström
+Enlund
 Enqvist
 Enström
 Eränen
@@ -329,6 +334,7 @@ Frenckell
 Freud
 Friberg
 Friman
+Furman
 Galilei
 Gallen-Kallela
 Gerber
@@ -407,6 +413,7 @@ Hakola
 Hakola-Uusitalo
 Hakomäki
 Hakonen
+Hakoniemi
 Hakosalo
 Hakulinen
 Halin
@@ -420,6 +427,7 @@ Halmela
 Halmetoja
 Halminen
 Halonen
+Halonen-Saari
 Halttunen
 Hämäläinen
 Hämeen-Anttila
@@ -549,6 +557,7 @@ Holma
 Holmberg
 Holmberg-Jansson
 Holmberg-Kalenius
+Holmén
 Holmes
 Holmlund
 Holmqvist
@@ -596,6 +605,7 @@ Hurskainen
 Huttunen
 Huuhka
 Huuhtanen
+Huunonen
 Huusko
 Huuskonen
 Hynninen
@@ -621,6 +631,7 @@ Ihatsu
 Iivanainen
 Iivonen
 Ijäs
+Ikäläinen
 Ikävalko
 Ikävalko-Lindqvist
 Ikola
@@ -749,6 +760,7 @@ Kajanoja
 Kajaste
 Käkelä
 Kakko
+Kalenius
 Kallasvuo
 Kalleinen
 Kallinen
@@ -1462,6 +1474,7 @@ Oksman
 Olenius
 Olkkonen
 Ollikainen
+Ollikkala
 Ollila
 Onerva
 Onttonen
@@ -1646,6 +1659,7 @@ Pulkkinen
 Pulli
 Pulliainen
 Pullinen
+Puntila
 Puolakka
 Puputti
 Puranen
@@ -1723,6 +1737,7 @@ Räsänen
 Rasi
 Rasi-Koskinen
 Rasila
+Rasilainen
 Rasimus
 Rasputin
 Ratia
@@ -1786,6 +1801,7 @@ Roininen
 Roivainen
 Roivas
 Rokka
+Romanoff
 Romanov
 Romppainen
 Romppanen
@@ -1840,6 +1856,7 @@ Ruut
 Ruuth
 Ruutiainen
 Ryan
+Rydberg
 Ryder
 Ryhänen
 Ryömä
@@ -1998,6 +2015,7 @@ Slotte-Wallenius
 Smeds
 SM-Hall
 Smith
+Smith-Cameron
 Smolander
 Smolander-Slotte
 Snellman
@@ -2087,6 +2105,7 @@ Taavitsainen
 Tabermann
 Tähkänen
 Tahvanainen
+Taimi-Kangas
 Tainio
 Takala
 Takalo-Eskola
@@ -2135,7 +2154,9 @@ Tennilä
 Teräväinen
 Terho
 Tervala
+Tervola-Niemelä
 Tervonen
+Tervo-Niemelä
 Thompson
 Thorne
 Tiainen
@@ -2175,6 +2196,7 @@ Tolppanen
 Tolstoi
 Tolvanen
 Tommila
+Tomperi
 Tonteri
 Topelius
 Toppila
@@ -2236,6 +2258,7 @@ Uimonen
 Ukko-Koiranen
 Ukko-Koli
 Ukkola-Paronen
+Ulmanen
 Uosukainen
 Uotila
 Uotinen

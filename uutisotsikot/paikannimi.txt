@@ -12,6 +12,7 @@ Afrikka
 Ähtävä
 Ahvenanmaa
 Ahvenisto
+Aigeianmeri
 Aino-Inkeri
 Ainola
 Aino-Mari
@@ -289,6 +290,7 @@ Etelä-Saimaa
 Etelä-Saksa
 Etelä-Satakunta
 Etelä-Savo
+Etelä-Siperia
 Etelä-Sudan
 Etelä-Suomi
 Etelä-Taivalkoski
@@ -297,6 +299,7 @@ Etelä-Tapiola
 Etelä-Texas
 Etelä-Tiibet
 Etelä-Tiroli
+Etelä-Tukholma
 Etelä-Turku
 Etelä-Ukraina
 Etelä-Vantaa
@@ -445,6 +448,7 @@ Hudson
 Huittinen
 Hulmi
 Humppila
+Humppilan-Urjala
 Hyrylä
 Hyrynsalmi
 Hyväntoivonniemi
@@ -459,6 +463,7 @@ Iida-Mari
 Iijärvi
 Iijoki
 Iisalmi
+Iisalmi-Kajaani
 Iittala
 Iitti
 Ikaalinen
@@ -474,6 +479,7 @@ Imatra-Parikkala
 Immola
 Impivaara
 Inari
+Inari-Angeli-Karigasniemi
 Inarijärvi
 Inarijoki
 Inari-Saariselkä
@@ -541,6 +547,7 @@ Itä-Siperia
 Itä-Suomi
 Itä-Syyria
 Itä-Tallinna
+Itä-Tampere
 Itä-Timor
 Itä-Turkmenistan
 Itä-Turku
@@ -611,6 +618,7 @@ Kaakkois-Belgia
 Kaakkois-Brasilia
 Kaakkois-Eurooppa
 Kaakkois-Helsinki
+Kaakkois-Meksiko
 Kaakkois-Nigeria
 Kaakkois-Siperia
 Kaalamo
@@ -628,6 +636,7 @@ Kaisaniemi
 Kaitajärvi
 Kaivoksela
 Kajaani
+Kajaani-Iisalmi
 Kakola
 Kalahari
 Kalajoki
@@ -760,7 +769,9 @@ Keski-Suomi
 Keski-Töölö
 Keski-Uruguay
 Keski-Uusimaa
+Keski-Vantaa
 Keski-Venäjä
+Keski-Vietnam
 Keski-Viro
 Kessi
 Kestilä
@@ -818,6 +829,7 @@ Koillis-Syyria
 Koillis-Vantaa
 Koillis-Viro
 Koillis-Yhdysvalta
+Koitelainen
 Koiteli
 Koitere
 Koitto
@@ -997,6 +1009,7 @@ Leinola
 Leipzig
 Lemi
 Lempäälä
+Lempäälän-Vesilahti
 Leningrad
 Lentiira
 Lepola
@@ -1035,6 +1048,7 @@ Lohtaja
 Loimaa
 Loimola
 Lokka
+Lokka-Porttipahta
 Lombardia
 Lontoo
 Loppi
@@ -1153,6 +1167,7 @@ Mexico
 Miami
 Michigan
 Miehikkälä
+Miekojärvi
 Mietoinen
 Mikkeli
 Mikkola
@@ -1164,6 +1179,8 @@ Minneapolis
 Minnesota
 Minnesota-Arizona
 Minsk
+Mira-Mari
+Mirka-Mari
 Mississippi
 Missouri
 MM-Japani
@@ -1304,6 +1321,7 @@ Oulu-Kajaani-Kuopio
 Oulu-Kemi
 Oulu-Kemi-Rovaniemi
 Oulu-Kiiminki
+Oulu-Lieksa
 Oulunkylä-Patola
 Oulunsalo-Kempele-Liminka-Lumijoki
 Ounasjoki
@@ -1437,6 +1455,7 @@ Pohjois-Kaukasia
 Pohjois-Krim
 Pohjois-Kuusamo
 Pohjois-Kypros
+Pohjois-Laos
 Pohjois-Lappi
 Pohjois-Liberia
 Pohjois-Lontoo
@@ -1444,6 +1463,7 @@ Pohjois-Mali
 Pohjois-Mongolia
 Pohjois-Mosambik
 Pohjois-Myanmar
+Pohjois-Naantali
 Pohjois-Namibia
 Pohjois-Nigeria
 Pohjois-Päijänne
@@ -1523,6 +1543,7 @@ Qatar
 Quebec
 Raahe
 Raahe-Siikajoki
+Raahe-Ylivieska
 Rääkkylä
 Raasepori
 Rahajärvi
@@ -1698,6 +1719,7 @@ Skotlanti-Hollanti-Saksa-Puola
 Skotlanti-Hollanti-Saksa-Puola-Venäjä
 Slovakia
 Slovenia
+Smolensk
 Sodankylä
 Södertälje
 Sodoma
@@ -1933,6 +1955,7 @@ Vaasa
 Vaasa-Jyväskylä
 Vaasa-Kuopio
 Vaasa-Uumaja
+Vähä-Aasia
 Vähäkyrö
 Vähä-Rauma
 Vahto

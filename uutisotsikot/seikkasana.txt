@@ -123,6 +123,7 @@ häthätää
 hehtaareittain
 helkkari
 helpoiten
+helsinkiläisittäin
 helvetti
 hengissä
 hengitystie
@@ -216,6 +217,7 @@ joukkueittain
 joukoittain
 jouten
 joutessa
+jukra
 julki
 junalasteittain
 juovuksissa
@@ -311,6 +313,7 @@ kumollaan
 kumossa
 kunnittain
 kuoliaaksi
+kuormalavoittain
 kutakuinkin
 kuten
 kuukausittain
@@ -318,6 +321,7 @@ kuulemiin
 kuulemma
 kuureittain
 kuuroittain
+kuusamolaisittain
 kuutioittain
 kvartaaleittain
 kylittäin
@@ -339,6 +343,7 @@ lähi
 lähimmäs
 lahtelaisittain
 lähtöisin
+laikuittain
 laimin
 lainkaan
 lainsäädäntötie
@@ -409,6 +414,7 @@ miten
 moderato
 moksis
 moni
+moniaalla
 mönkään
 muassa
 muinoin
@@ -558,6 +564,7 @@ puolittain
 puolivuosittain
 puolueittain
 puulajeittain
+puuskittain
 pyörryksissä
 raaka-aineryhmittäin
 radiotie
@@ -836,6 +843,7 @@ virolaisittain
 vitkaan
 vuoksi
 vuoroittain
+vuorovuosittain
 vuosiluokittain
 vuosineljänneksittäin
 vuosittain

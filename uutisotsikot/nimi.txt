@@ -85,6 +85,7 @@ huippu-Samsung
 hybridi-Audi
 hybridi-Volvo
 Hyundai
+Ilias
 Ilta-Aurinko
 Instagram
 Intercity
@@ -103,6 +104,7 @@ Kaleva
 Kalevala
 Kansallis-Osake-Pankki
 Karisto
+käyttötesti-Hyundai
 Kemira
 Kerberos
 keski-Maa
@@ -143,6 +145,7 @@ miespääosa-Oscar
 ministeri-Audi
 Minotauros
 Mitsubishi
+mobiili-Google
 Mossad
 Mosse
 Musti
@@ -191,6 +194,7 @@ Renault
 Retretti
 Reuters
 Riigikogu
+robotti-Musti
 Roche
 Rotary
 rotta-Audi
@@ -210,6 +214,7 @@ Schengen-Maa
 Schumi
 Selecta
 Shell
+sinkku-Kia
 Sirius
 Siska
 sisu-Valmet
@@ -265,6 +270,7 @@ Wärtsilä
 WhatsApp
 Wikipedia
 Windows
+WTO-Maa
 Xinhua
 Yakuza
 Yaris

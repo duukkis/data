@@ -137,6 +137,7 @@ Anni
 Anniina
 Annika
 Annikki
+Anni-Kristiina
 Annina
 Anni-Sofia
 Anni-Stiina
@@ -199,6 +200,7 @@ Atte
 August
 Augusta
 Augusti
+Augustus
 Aukusti
 Auli
 Aulikki
@@ -238,6 +240,7 @@ Burt
 Camilla
 Camille
 Carina
+Carina-Elisabeth
 Carita
 Carl
 Carl-Fredrik
@@ -308,6 +311,7 @@ Eeva-Helena
 Eeva-Johanna
 Eeva-Kaari
 Eeva-Kaisa
+Eeva-Kristiina
 Eeva-Leena
 Eeva-Liisa
 Eeva-Maarit
@@ -345,6 +349,7 @@ Elke
 Ella
 Ellen
 Elli
+Elli-Alina
 Elli-Saara
 Elli-Sisko
 Elma
@@ -526,6 +531,7 @@ Hilma
 Hilppa
 Hjalmar
 Hjalmar-Veli
+Holger
 Hollywood-Unelma
 Hugo
 Hulda
@@ -697,6 +703,7 @@ Joni-Matti
 Joni-Pekka
 Joni-Petri
 Jon-Jon
+Jon-Joni
 Jonna
 Jonne
 Jonni
@@ -735,6 +742,7 @@ Juha-Petri
 Juha-Petteri
 Juha-Santeri
 Juho
+Juho-Antti
 Juho-Matti
 Juho-Pekka
 Juho-Veli
@@ -849,6 +857,7 @@ Kyösti
 Laila
 Lalli
 Lars
+Lars-Christian
 Lars-Göran
 Lars-Gunnar
 Lars-Johan
@@ -912,6 +921,7 @@ Lukas
 Luukas
 LVI-Alan
 Lydia
+Lyyli
 Maaret
 Maaria
 Maarit
@@ -976,6 +986,7 @@ Marja-Kristiina
 Marja-Leena
 Marja-Liisa
 Marja-Riitta
+Marja-Terttu
 Marjatta
 Marjo
 Marjo-Riitta
@@ -1018,6 +1029,7 @@ Melissa
 Merete
 Meri
 Meri-Anna
+Meri-Helmi
 Meri-Ilma
 Meri-Maija
 Merituuli
@@ -1054,6 +1066,7 @@ Milka
 Milla
 Mimmi
 Mimosa
+Mimosa-Kukka
 Minea
 Minerva
 Minja
@@ -1203,6 +1216,7 @@ Penelope
 Penna
 Pentti
 Pentti-Oskari
+Pentti-Veli
 Peppi
 Peppiina
 Pernilla
@@ -1495,6 +1509,7 @@ Terhi
 Terhi-Anna
 Terhikki
 Tero
+Tero-Petri
 Terry
 Terttu
 Teuvo
@@ -1621,6 +1636,7 @@ Vili-Pekka
 Viljami
 Viljo
 Ville
+Ville-Eemeli
 Ville-Juha
 Ville-Matti
 Ville-Pekka

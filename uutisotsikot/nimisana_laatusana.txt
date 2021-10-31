@@ -8,6 +8,7 @@ aallonpituinen
 aataminaikuinen
 aatelinen
 aava
+ABC-mobiili
 aborttilupaviranomainen
 ADHD-aikuinen
 ADHD-nuori
@@ -95,6 +96,7 @@ bonusmallinen
 brasiliansuomalainen
 britanniansuomalainen
 brittiaikuinen
+brittikilpailuviranomainen
 brittiläinen
 brittiläis-ruotsalainen
 brittiviranomainen
@@ -128,6 +130,7 @@ eksistentiaali
 ekstra
 ekstrapaljo
 eläimenkaltainen
+eläinlääkintäviranomainen
 eläinsuojeluviranomainen
 eläkeläinen
 eläkepoliittinen
@@ -195,6 +198,7 @@ eteläsaamelainen
 eteläsuomalainen
 etelävenäläinen
 EU-kilpailuviranomainen
+EU-poliittinen
 eurooppalaisaikuinen
 eurooppalaistulokas
 eurooppalais-venäläinen
@@ -334,6 +338,7 @@ intellektuelli
 introvertti
 irakilaissiviili
 irakilaisviranomainen
+iranilaisviranomainen
 irlantilaisrakas
 irlantilais-suomalainen
 irtain
@@ -345,6 +350,7 @@ isomatala
 isorikas
 isotoope
 israelilaissiviili
+israelilaisvieras
 itäfriisiläinen
 itäkarjalainen
 italialais-brittiläinen
@@ -429,6 +435,7 @@ kauppaviranomainen
 kaupunkilainen
 kaupunkilaisnuori
 kaupunkipoliittinen
+kaupunkisaamelainen
 käyrä
 käytännönläheinen
 käyttäjäkeskeinen
@@ -446,8 +453,10 @@ keminmaalainen
 kenialaisrakas
 kenkku
 keno
+kenttäviranomainen
 kepulainen
 kepuli
+keravalaisnuori
 kerettiläinen
 kerholainen
 kesälomalainen
@@ -502,6 +511,7 @@ kolho
 koltansaamelainen
 kolttasaamelainen
 komea
+komeannäköinen
 konservatiivis-äärioikeistolainen
 konstantti
 korinttilainen
@@ -667,6 +677,7 @@ maankäyttöpoliittinen
 maanläheinen
 maapallokeskeinen
 maapoliittinen
+maaseutuelinkeinoviranomainen
 mafiankaltainen
 mafiarikollinen
 mainio
@@ -675,6 +686,7 @@ mäkitupalainen
 maksuvelvollinen
 mallinen
 Manner-suomalainen
+mänttäläisnuori
 maolainen
 märkä
 markkinaviranomainen
@@ -682,10 +694,12 @@ marksilainen
 marokonjuutalainen
 marras
 marsilainen
+marto
 marxilainen
 marxilais-leniniläinen
 mätä
 matala
+matkailuviranomainen
 matkamallinen
 matkustajaliitännäinen
 matkustusmallinen
@@ -779,6 +793,7 @@ nuorisorikollinen
 nuorsuomalainen
 nuoska
 nurmijärveläinen
+nykyaikuinen
 nykydemokraatti
 nykyinen
 nykyisenkaltainen
@@ -794,6 +809,7 @@ odotuksenmukainen
 oheinen
 ohjauksenomainen
 oikea
+oikeidenmukainen
 oikeistolainen
 oikeudenmukainen
 oikeuspoliittinen
@@ -827,6 +843,7 @@ oxfordilaismallinen
 öykkäri
 pääkaupunkilainen
 päänomainen
+päästökauppamallinen
 päävihollinen
 paha
 pahannäköinen
@@ -966,6 +983,7 @@ putkinäköinen
 puunläheinen
 pyhä
 pyhäjärveläinen
+pyhienvietto
 pykäläkeskeinen
 qatarilaisviranomainen
 raaka
@@ -989,12 +1007,14 @@ rakas
 rakennusvalvontaviranomainen
 rämä
 rampa
+rankaisukeskeinen
 ranskalais-brittiläinen
 ranskalaishirmu
 ranskalaisrakas
 ranskalais-suomalainen
 ranskalaisvieras
 ranskalaisviranomainen
+rantakarjalainen
 rantalomalainen
 raportinomainen
 raskassarjalainen
@@ -1016,6 +1036,7 @@ risa
 riskialtis
 riskipistemallinen
 rituaalinomainen
+RKP-nuori
 rohkea
 roisto
 rokkarihölmöläinen
@@ -1062,6 +1083,7 @@ saksalais-venäläinen
 saksalaisviranomainen
 saksanvenäläinen
 samankaltainen
+samanmallinen
 samannäköinen
 samanpituinen
 samoalainen
@@ -1109,6 +1131,7 @@ siviilimallinen
 siviilipalvelusvelvollinen
 siviiliviranomainen
 skottilainen
+skyyttalainen
 slaavilainen
 slovakialaisviranomainen
 SM-kulta
@@ -1184,8 +1207,10 @@ superlämmin
 supermukava
 superpehmeä
 superpitkä
+superraaka
 superrakas
 superrikas
+superrikollinen
 superrohkea
 superroisto
 supersuuri
@@ -1230,6 +1255,7 @@ tällainen
 tallinnalaistuttu
 taloudellispoliittinen
 talouskeskeinen
+talousmallinen
 talousoikeistolainen
 talouspoliittinen
 talousrikollinen
@@ -1266,6 +1292,7 @@ teerijärveläinen
 tehtäväkeskeinen
 teknologiakeskeinen
 tekotakamusta
+tekovelvollinen
 televiranomainen
 teneriffalaisvieras
 teollisuuspoliittinen
@@ -1294,6 +1321,7 @@ tiistaikerholainen
 tilanteenmukainen
 tilastoviranomainen
 tilivelvollinen
+timantinkaltainen
 tiukka
 t-mallinen
 todenmukainen
@@ -1360,6 +1388,7 @@ työkeskeinen
 työkyvyttömyyseläkeläinen
 työllisyysviranomainen
 työmarkkinapoliittinen
+työnomainen
 työsuojeluviranomainen
 työvelvollinen
 työvoimapoliittinen
@@ -1368,6 +1397,7 @@ typötyhjä
 typykkä
 tyttökuorolainen
 tyven
+ugrilainen
 uhkauksenomainen
 uimapukumallinen
 ulkoilulainmukainen
@@ -1386,6 +1416,7 @@ ultratiukka
 ultraviileä
 ummikko
 umpihullu
+umpiköyhä
 umpivenäläinen
 unenkaltainen
 unenomainen
@@ -1402,6 +1433,7 @@ uudenmallinen
 uudenuutukainen
 uushelluntailainen
 uusimaalainen
+uusiovanha
 uusiseelantilainen
 uusliberaali
 uusmaalainen
@@ -1572,4 +1604,5 @@ ylitörkeä
 ympäristölupaviranomainen
 ympäristönsuojeluviranomainen
 ympäristönvalvontaviranomainen
+ympäristösuojeluviranomainen
 ympäristöviranomainen
