@@ -33,6 +33,7 @@ Ahvo
 AIDS-Päivä
 Aija
 Aila
+Aila-Leena
 Aili
 Aimo
 Aina
@@ -90,6 +91,7 @@ Amadeus
 Amalia
 Amanda
 Amelia
+Anastas
 Anastasia
 Anastasio
 Anders
@@ -122,6 +124,7 @@ Annamari
 Anna-Maria
 Anna-Reeta
 Anna-Riikka
+Anna-Sisko
 Anna-Sofia
 Annastiina
 Anna-Stina
@@ -130,6 +133,7 @@ Anne-Elina
 Anne-Elisabeth
 Anne-Kari
 Anneli
+Anne-Maija
 Anne-Maria
 Anne-Marie
 Annette
@@ -167,6 +171,7 @@ Anu-Marjukka
 Anu-Tuija
 Ari
 Ariel
+Ari-Jukka
 Ari-Jussi
 Ari-Kyösti
 Ari-Matti
@@ -182,6 +187,7 @@ Art
 Arthur
 Arto
 Arttu
+Arttu-Pekka
 Artturi
 Arturo
 Arvi
@@ -219,6 +225,7 @@ Benito
 Benjam
 Benjamin
 Benni
+Bergström-Allen
 Bernhard
 Bernie
 Bertel
@@ -280,6 +287,7 @@ Daryl
 David
 Diana
 Dimitri
+Disney-Päivä
 Donald
 Douglas
 Dwight
@@ -311,6 +319,7 @@ Eeva-Helena
 Eeva-Johanna
 Eeva-Kaari
 Eeva-Kaisa
+Eeva-Kirsti
 Eeva-Kristiina
 Eeva-Leena
 Eeva-Liisa
@@ -323,6 +332,7 @@ Eija-Leena
 Eija-Liisa
 Eija-Riitta
 Eila
+Eila-Maria
 Einar
 Einari
 Eine
@@ -381,6 +391,7 @@ Eppu
 Erasmus
 Erik
 Erika
+Erik-Johan
 Erikka
 Erin
 Erja
@@ -483,7 +494,9 @@ Hauho-Päivä
 Heidi
 Heidi-Maria
 Heikki
+Heikki-Veli
 Heini
+Heini-Sisko
 Heini-Tuuli
 Heino
 Helen
@@ -590,6 +603,7 @@ Isak
 Ismo
 Isto
 IT-Alan
+IT-Kimmo
 IT-Mikko
 Ivan
 Ivar
@@ -861,6 +875,7 @@ Lars-Christian
 Lars-Göran
 Lars-Gunnar
 Lars-Johan
+Lars-Peter
 Lasarus
 Lasse
 Lassi
@@ -914,6 +929,7 @@ Louis
 Luca
 Lucas
 Lucia
+Lucian-Päivä
 Ludvig
 Ludwig
 Luka
@@ -959,11 +975,13 @@ Margit
 Maria
 Marian-Jean
 Marianna
+Mari-Anna
 Marianne
 Mari-Anne
 Maria-Riitta
 Marie
 Mariella
+Marie-Philip
 Mariitta
 Marika
 Mari-Katri
@@ -1016,6 +1034,7 @@ Matthias
 Matti
 Mattias
 Matti-Jussi
+Matti-Mikael
 Matti-Sakari
 Mauno
 Maunu
@@ -1035,6 +1054,7 @@ Meri-Maija
 Merituuli
 Meri-Tuuli
 Merja
+Merja-Hannele
 Mervi
 Mette
 Mia
@@ -1086,6 +1106,7 @@ Mirka
 Mirka-Tuuli
 Mirkka
 Miro
+Miro-Matias
 Miro-Pekka
 Mirva
 Miska
@@ -1179,6 +1200,7 @@ Oskari
 Osmo
 Ossi
 Oswald
+Ötzi
 Outi
 Paavali
 Paavo
@@ -1307,6 +1329,7 @@ Richard
 Riikka
 Riiko
 Riina
+Riina-Eveliina
 Riina-Maija
 Riitta
 Riitta-Liisa
@@ -1369,6 +1392,7 @@ Salome
 Salomo
 Sam
 Sami
+Sami-Antti
 Sami-Matti
 Sami-Petteri
 Sammeli
@@ -1396,6 +1420,7 @@ Sarah
 Sara-Lotta
 Sari-Annika
 Sari-Helena
+Sari-Leena
 Sari-Marika
 Sari-Minna
 Sarita
@@ -1422,6 +1447,7 @@ Sigrid
 Sigurd
 Siiri
 Siirin-Päivi
+Siiri-Sisko
 Siivola
 Sikstus
 Silja
@@ -1450,6 +1476,7 @@ Sokrates
 Solja
 Solveig
 Sonja
+Stanislaw
 Stavros
 Stefan
 Stefanos
@@ -1524,8 +1551,10 @@ Tilda
 Timo
 Timo-Jukka
 Timo-Pekka
+Timo-Tapani
 Tino
 Titta
+Titus
 Toimi
 Toini
 Toini-Pyry
@@ -1534,6 +1563,7 @@ Tom
 Tomas
 Tomas-Veli
 Tomi
+Tomi-Erik
 Tomi-Pekka
 Tom-Kristian
 Tommi
@@ -1566,6 +1596,7 @@ Tytti
 Tyyne
 Uki
 Ukko
+Ukko-Paavo
 Ukko-Pekka
 Ulla
 Ulla-Leena

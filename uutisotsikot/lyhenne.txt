@@ -11,6 +11,7 @@ alfa-TV
 ALV
 ATK
 avaus-EK
+ay
 bar
 BBC
 BKT
@@ -131,6 +132,7 @@ urheilu-TV
 USA
 USB
 vara-pj
+verso-s
 VR
 VRK
 VTT

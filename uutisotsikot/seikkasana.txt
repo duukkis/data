@@ -49,6 +49,7 @@ arkipäivisin
 äskettäin
 asteittain
 asuinkunnittain
+asunnoittain
 auki
 autokunnittain
 autokuormittain
@@ -165,6 +166,7 @@ huorin
 huosta
 huutia
 hyllymetreittäin
+hyllyriveittäin
 hyväksi
 hyvänen
 hyvänsä
@@ -183,6 +185,8 @@ iki
 ikinä
 ilkosen
 ilkosilla
+illemmalla
+ilmastotyypeittäin
 ilmatie
 iltapäivisin
 infra
@@ -199,6 +203,7 @@ itsessään
 itsestään
 jahka
 jaksain
+jaksoittain
 jälkeenpäin
 jalkeilla
 jälleen
@@ -213,6 +218,7 @@ joskus
 jotakuinkin
 jotenkin
 jotenkuten
+jotensakin
 joukkueittain
 joukoittain
 jouten
@@ -236,8 +242,10 @@ kallellaan
 kalpaten
 kaltoin
 kansanedustajittain
+kantelutie
 karku
 käsikkäin
+käsikopelolla
 kasoittain
 kastelukannuittain
 kasvokkain
@@ -308,6 +316,7 @@ kuitenkin
 kukaties
 kukkua
 kulloin
+kulmittain
 kumminkin
 kumollaan
 kumossa
@@ -371,7 +380,9 @@ liki
 likimain
 likipitäen
 limittäin
+lintalla
 liossa
+lipettiin
 litroittain
 lohkoittain
 loitolla
@@ -442,6 +453,7 @@ näytillä
 neljännesvuosittain
 nenäkkäin
 nenätysten
+nettitie
 neuvottelutie
 niin
 nimenomaan
@@ -474,10 +486,12 @@ oitis
 ojossa
 olleti
 oppilaitoksittain
+osakeyhtiöittäin
 osastoittain
 osavaltioittain
 osittain
 otoksittain
+oululaisittain
 pääksytysten
 päällekkäin
 päällepäin
@@ -561,6 +575,7 @@ pulloittain
 puoliltaöin
 puoliltapäivin
 puolittain
+puolivakavissaan
 puolivuosittain
 puolueittain
 puulajeittain
@@ -571,13 +586,16 @@ radiotie
 ratsain
 rautatie
 reilassa
+rekkalasteittain
 rempallaan
 retuperällä
+reunempana
 rikki
 rillumarei
 rinnakkain
 riskiryhmittäin
 ristikkäin
+riveittäin
 roomalaisittain
 roppakaupalla
 röykkiöittäin
@@ -654,6 +672,7 @@ suotta
 suotyypeittäin
 supussa
 surku
+suuralueittain
 suutuksissa
 suutuspäissä
 sykähdyksittäin

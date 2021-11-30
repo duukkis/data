@@ -29,8 +29,10 @@ Ateneum
 Aten-Jumala
 Athene
 Audi
+Augustinus
 Aurinko
 avo-Audi
+Baltian-Maa
 Basic
 Beatles
 bensa-Mersu
@@ -52,6 +54,7 @@ Edita
 El
 EM-Maa
 Englannin-Maa
+erikois-Halloween
 erikois-Oscar
 Esso
 Estonia
@@ -120,6 +123,7 @@ kunnia-Oscar
 Lada
 lähi-Alko
 Lego
+LibreOffice
 Lidl
 Linnea
 Linux
@@ -247,6 +251,7 @@ traileri-Saab
 Tuonela
 TV-Aurinko
 Twitter
+työmarkkina-Aurinko
 Unesco
 UNICEF
 Unicode
@@ -268,6 +273,7 @@ Volvo
 von
 Wärtsilä
 WhatsApp
+WHO-Maa
 Wikipedia
 Windows
 WTO-Maa

@@ -125,6 +125,7 @@ Auranen
 Autio
 Autto
 Auvinen
+Axelsson
 Bach
 Backlund
 Backman
@@ -133,6 +134,8 @@ Bäckström
 Bacon
 Bagge
 Baker
+Ballard
+Bamberg
 Barbarossa
 Bärlund
 Bates
@@ -251,6 +254,7 @@ Eestilä
 Ehrnrooth
 Ehrnrooth-Jokinen
 Eiffel
+Einola
 Einola-Koponen
 Einstein
 Eisenhower
@@ -259,6 +263,7 @@ Ekholm
 Eklund
 Ekman
 Ekman-Larsson
+Ekroos
 Ekstrand
 Ekström
 Elenius
@@ -301,6 +306,7 @@ Fagerholm
 Fagerlund
 Fagerström
 Fahrenheit
+Falck
 Falk
 Fält
 Ferrari
@@ -354,6 +360,7 @@ Granroth
 Grant
 Green
 Grenfors
+Gripenberg
 Gröhn
 Grön
 Grönberg
@@ -436,6 +443,7 @@ Hamu
 Hamunen
 Hanhinen
 Hankonen
+Hannikainen
 Hännikäinen
 Hänninen
 Hänninen-Helin
@@ -481,6 +489,7 @@ Häyrynen
 Hedlund
 Hedman
 Hedström
+Hegel
 Heikka
 Heikkilä
 Heikkinen
@@ -671,6 +680,7 @@ Jämsen
 Jämsén
 Janatuinen
 Janhunen
+Jänkälä
 Jännes
 Jansson
 Jäntti
@@ -753,9 +763,12 @@ Kainlauri
 Kainulainen
 Kaipainen
 Kairamo
+Kairavuo
+Kaitanen
 Kaitila
 Kaivola
 Kajander
+Kajander-Ruuth
 Kajanoja
 Kajaste
 Käkelä
@@ -846,6 +859,7 @@ Kekki
 Kekkonen
 Kempas
 Kemppainen
+Kemppanen
 Kemppinen
 Kennedy
 Kepler
@@ -905,6 +919,7 @@ Koivistoinen
 Koivu
 Koivula
 Koivunen
+Kojonen
 Kokkari
 Kokkila
 Kokkonen
@@ -1096,6 +1111,7 @@ Lehtola
 Lehtolainen
 Lehtonen
 Lehtovaara
+Lehväslaiho
 Leikola
 Leino
 Leinonen
@@ -1111,6 +1127,7 @@ Lenin
 Lepistö
 Leppälä
 Leppänen
+Leppinen
 Leskinen
 Levänen
 Lievonen
@@ -1214,6 +1231,8 @@ Mahonen
 Mähönen
 Maijala
 Maikku
+Maiski
+Majoinen
 Major
 Major-Koiranen
 Mäkeläinen
@@ -1294,6 +1313,8 @@ Melasniemi
 Melkko
 Mellanen
 Meltti
+Menshikov
+Menšikov
 Mentula
 Merikanto
 Meriläinen
@@ -1370,6 +1391,7 @@ Myllyviita
 Myöhänen
 Myyrmäki-Hall
 Myyryläinen
+Nabokov
 Närvänen
 Natunen
 Naukkarinen
@@ -1433,12 +1455,14 @@ Nummelin
 Numminen
 Nuopponen
 Nupponen
+Nurkkala
 Nurmela
 Nurmio
 Nuutila
 Nuutinen
 Nyberg
 Nybondas
+Nybondas-Kangas
 Nygård
 Nyholm
 Nykänen
@@ -1739,6 +1763,7 @@ Rasi-Koskinen
 Rasila
 Rasilainen
 Rasimus
+Rasimus-Järvinen
 Rasputin
 Ratia
 Ratilainen
@@ -1899,6 +1924,7 @@ Sandberg
 Sandell
 Sandholm
 Sandström
+Sandström-Hovi
 Santala
 Santanen
 Sarajuuri
@@ -1982,6 +2008,7 @@ Sinebrychoff
 Sinervo
 Sinkko
 Sinkkonen
+Sintonen
 Sipilä
 Sipiläinen
 Sipinen
@@ -2115,6 +2142,7 @@ Takkinen
 Takkula
 Talaskivi
 Talaslahti
+Talasmäki
 Talasniemi
 Talasterä
 Talikka
@@ -2389,6 +2417,7 @@ Volanen
 Volga-Autto
 Vornanen
 Voutilainen
+Vuohelainen
 Vuojolainen
 Vuokola
 Vuolijoki
@@ -2428,6 +2457,7 @@ Wilén
 Willberg
 Williams
 Williams-Autto
+Wilman-Koistinen
 Wilson
 Witting
 Wrede
