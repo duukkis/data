@@ -27,7 +27,9 @@
 -309
 -33
 -331
+-35
 -350
+-352
 -353
 -358
 -360
@@ -182,6 +184,7 @@ seitsemänsataa
 seitsemäntoista
 seitsemäntuhatta
 seitsemäs
+seitsemästoista
 seitsemisen
 seitsemisenkymmentä
 toinen

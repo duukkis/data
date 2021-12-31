@@ -88,6 +88,7 @@ Asikkala
 Aska
 Askainen
 Askola
+Assyria
 Astuvansalmi
 Ateena
 Atlanta
@@ -279,11 +280,13 @@ Etelä-Libanon
 Etelä-Lontoo
 Etelä-Madagaskar
 Etelä-Manchester
+Etelä-Meksiko
 Etelä-Miami
 Etelä-Nevada
 Etelä-Norja
 Etelä-Ossetia
 Etelä-Pohja
+Etelä-Portugali
 Etelä-Posio
 Etelä-Pudasjärvi
 Etelä-Puola
@@ -374,6 +377,7 @@ Hailuoto
 Haiti
 Hakala-Mikkola
 Hakkila
+Hakovirta
 Halikko
 Halsua
 Halti
@@ -526,6 +530,7 @@ Itä-Eurooppa
 Itä-Hakkila
 Itä-Häme
 Itä-Helsinki
+Itä-Hervanta
 Itä-Hollola
 Itä-Indonesia
 Itä-Jemen
@@ -554,6 +559,7 @@ Itä-Savo
 Itä-Siperia
 Itä-Suomi
 Itä-Syyria
+Itä-Taivalkoski
 Itä-Tallinna
 Itä-Tampere
 Itä-Timor
@@ -715,6 +721,7 @@ Katalonia
 Kathmandu
 Kauhajoki
 Kauhajoki-Isojoki
+Kauhajoki-Karvia
 Kauhava
 Kauhava-Jyväskylä-Oulu
 Kaukasia
@@ -826,6 +833,7 @@ Koillis-Aasia
 Koillis-Afganistan
 Koillis-Afrikka
 Koillis-Australia
+Koillis-Brasilia
 Koillis-Englanti
 Koillis-Espanja
 Koillis-Helsinki
@@ -836,6 +844,7 @@ Koillis-Lappi
 Koillis-Moskova
 Koillis-Nigeria
 Koillis-Ranska
+Koillis-Ruotsi
 Koillis-Savo
 Koillis-Siperia
 Koillis-Syyria
@@ -1050,6 +1059,7 @@ Likolahti
 Likolampi
 Liljendal
 Liminka
+Liminka-Lumijoki
 Liminka-Oulu
 Linda-Mari
 Linköping
@@ -1098,10 +1108,12 @@ Luoteis-Lontoo
 Luoteis-Nigeria
 Luoteis-Pakistan
 Luoteis-Pirkanmaa
+Luoteis-Uganda
 Luulaja
 Luvia
 Luxemburg
 LVI-Kurikka
+Lyydia
 Lyypekki
 Maalahti
 Maaninka
@@ -1133,6 +1145,7 @@ Manchester
 Manhattan
 Manitoba
 Mankkaa
+Manner-Aasia
 Manner-Australia
 Manner-Ecuador
 Manner-Espanja
@@ -1707,6 +1720,7 @@ Sevastopol
 Sevettijärvi
 Sevettijärvi-Näätämö
 Sevilla
+Sevilla-Barcelona
 Seychelli
 Shanghai
 Shetlanti
@@ -1780,7 +1794,9 @@ Suomen-Ruotsi
 Suomi
 Suomi-Belgia
 Suomi-Latvia
+Suomi-Montenegro
 Suomi-Ranska
+Suomi-Romania
 Suomi-Ruotsi
 Suomi-Serbia
 Suomi-Somalia
@@ -1792,6 +1808,7 @@ Suomi-Wales
 Suomussalmi
 Suonenjoki
 Suorlahti
+Surinam
 Suur-Barcelona
 Suur-Göteborg
 Suur-Helsinki
@@ -1816,6 +1833,7 @@ Suvela
 Svartholma
 Sveitsi
 Sveitsi-Suomi
+Svinesund
 Swazimaa
 Sydän-Lappi
 Sydän-Satakunta
@@ -1846,6 +1864,7 @@ Tampere-Pirkkala
 Tanninen-Mattila
 Tansania
 Tanska
+Tanska-Suomi
 Tapiola
 Tapiola-Karelia
 Tartto
@@ -1918,6 +1937,7 @@ Tšeljabinsk
 Tšetšenia
 Tshekki
 Tshekki-Englanti
+Tshekki-Suomi
 Tshekkoslovakia
 Tsheljabinsk
 Tshetshenia
@@ -2027,6 +2047,7 @@ Vesanto
 Vesuvius
 Vetsikko
 Viapori
+Viekki
 Viena
 Viensuu
 Vierumäki
@@ -2090,6 +2111,7 @@ Ylöjärvi
 York
 Ypäjä
 Yunnan
+YYA-Suomi
 Yyteri
 Zagreb
 Zaire

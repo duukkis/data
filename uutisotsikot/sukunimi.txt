@@ -90,6 +90,7 @@ Apunen
 Arafat
 Arajärvi
 Arajuuri
+Arak
 Arffman
 Argento
 Arhinmäki
@@ -116,6 +117,7 @@ Astikainen
 Asukas
 Asunmaa
 Atkinson
+Atlantis-Mantere
 Attila
 Atwood
 Auer
@@ -138,6 +140,7 @@ Ballard
 Bamberg
 Barbarossa
 Bärlund
+Bärlund-Toivonen
 Bates
 Baudelaire
 Bauer
@@ -171,6 +174,7 @@ Blom
 Blomberg
 Blomqvist
 Blomqvist-Kakko
+Bobrikov
 Bogdanoff
 Bohr
 Bokassa
@@ -226,6 +230,7 @@ Cygnaeus
 Dahl
 Dahlberg
 Dahlström
+Dalí
 Danielsson
 Darwin
 Davis
@@ -296,6 +301,7 @@ Eskelinen
 Eskola
 Eskola-Heikkinen
 Eskolin
+Ettanen
 EU-Eronen
 Euler
 EU-Myllys
@@ -343,6 +349,7 @@ Friman
 Furman
 Galilei
 Gallen-Kallela
+Gauss
 Gerber
 Gerlander
 Gibson
@@ -483,6 +490,7 @@ Hautala
 Hautanen
 Havukainen
 Hawking
+Hawthorne
 Hayes
 Häyrinen
 Häyrynen
@@ -499,6 +507,7 @@ Heimonen
 Heinänen
 Heinaro
 Heinilä
+Heiniö
 Heinonen
 Heinrichs
 Heiskanen
@@ -573,6 +582,7 @@ Holmqvist
 Holmroos
 Holmström
 Holopainen
+Hölsä
 Holsti
 Holstila
 Holttinen
@@ -593,6 +603,7 @@ Hubble
 Hugo-Salin
 Huhtala
 Huhtanen
+Huhtilainen
 Huhtinen
 Hujanen
 Hukkanen
@@ -686,6 +697,7 @@ Jansson
 Jäntti
 Jantunen
 Jäppinen
+Jari-Litmanen
 Järnefelt
 Järnström
 Jarva
@@ -803,6 +815,7 @@ Kantonen
 Kapanen
 Käpylä-Koskela
 Kärävä
+Karell
 Kares
 Karhinen
 Karhunen
@@ -891,6 +904,7 @@ Kimmel
 Kinanen
 King
 Kinnunen
+Kirjalainen
 Kirjavainen
 Kirkinen
 Kitunen
@@ -927,6 +941,7 @@ Kolehmainen
 Koli
 Koljonen
 Kolumbus
+Komonen
 Komu
 Komulainen
 Kononen
@@ -1246,6 +1261,7 @@ Mäki-Kivistö
 Mäkilä
 Mäkinen
 Mäki-Rahkola
+Mäki-Saari
 Mäki-Tapola
 Makkonen
 Mäkynen
@@ -1333,6 +1349,7 @@ Miettunen
 Miinin
 Mikander
 Mikkilä
+Mikkolainen
 Mikkonen
 Mikojan
 Miller
@@ -1480,6 +1497,7 @@ Off-Shore
 Ohisalo
 Öhman
 Ohtonen
+Ohtonen-Jones
 Oikarainen
 Oikarinen
 Oinonen
@@ -1509,6 +1527,7 @@ Osara
 Österberg
 Österlund
 Östman
+Oulu-Hall
 Outinen
 Ovaska
 Ovaskainen
@@ -1547,6 +1566,7 @@ Paksunen
 Palander
 Paldanius
 Palme
+Palmen
 Palmgren
 Palmu
 Palola
@@ -1604,6 +1624,8 @@ Perkkiö
 Perttilä
 Perttula
 Perttunen
+Pesälä
+Pesola
 Pesonen
 Pessi
 Peters
@@ -1644,6 +1666,7 @@ Pirttilä
 Pisa-Tulonen
 Pitkälä
 Pitkänen
+Pitkänen-Pääkkönen
 Pitsinki
 Poe
 Pohjala
@@ -1736,6 +1759,7 @@ Raitio
 Raittila
 Raittinen
 Rajala
+Rämäkkö
 Rämö
 Ramsay
 Ramstedt
@@ -2077,6 +2101,7 @@ Starling
 Steiner
 Stenbäck
 Stenberg
+Stenberg-Kiviharju
 Stenholm
 Stenius
 Stenman
@@ -2312,6 +2337,7 @@ Vahtola
 Vainikainen
 Vainikka
 Väinölä-Mäki
+Vainonen
 Väisänen
 Väisänen-Räty
 Vaittinen
@@ -2450,6 +2476,7 @@ Westermarck
 Wickholm
 Wickström
 Wiik
+Wiio
 Wiklund
 Wikström
 Wilder

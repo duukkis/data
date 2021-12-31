@@ -142,6 +142,7 @@ Anniina
 Annika
 Annikki
 Anni-Kristiina
+Anni-Lotta
 Annina
 Anni-Sofia
 Anni-Stiina
@@ -301,6 +302,7 @@ Eduard
 Edvard
 Edward
 Edwin
+Eedit
 Eelis
 Eemeli
 Eemil
@@ -344,6 +346,7 @@ Eivor
 Ekaterina
 Eki
 Elena
+Eleonoora
 Elias
 Eliel
 Eliisa
@@ -357,6 +360,7 @@ Elizabeth
 Eljas
 Elke
 Ella
+Ella-Maija
 Ellen
 Elli
 Elli-Alina
@@ -367,6 +371,7 @@ Elmer
 Elmeri
 Elmi
 Elmo
+Elna
 Elsa
 Else
 Elsi
@@ -420,6 +425,7 @@ EU-Toimi
 EU-Unelma
 Eva
 Eva-Christina
+Eva-Lotta
 Eva-Lotte
 Eva-Riitta
 Eveliina
@@ -516,6 +522,7 @@ Helmer
 Helmiina
 Helsinki-Päivä
 Helvi
+Helvi-Sisko
 Hemmi
 Hemminki
 Hennariikka
@@ -537,6 +544,7 @@ Hessu
 Heta
 Heta-Elena
 Hilda
+Hildegard
 Hilja
 Hille
 Hillevi
@@ -672,6 +680,7 @@ Jean
 Jean-Daniel
 Jean-Gabriel
 Jean-Louis
+Jean-Marie
 Jean-Martti
 Jean-Michel
 Jean-Paul
@@ -681,6 +690,7 @@ Jemina
 Jenna
 Jenni
 Jennifer
+Jenni-Julia
 Jenny
 Jenny-Julia
 Jere
@@ -757,6 +767,7 @@ Juha-Petteri
 Juha-Santeri
 Juho
 Juho-Antti
+Juho-Kustaa
 Juho-Matti
 Juho-Pekka
 Juho-Veli
@@ -817,6 +828,7 @@ Katarina
 Kati
 Katja
 Katja-Maaria
+Katja-Pia
 Katri
 Katriina
 Katrina
@@ -1135,6 +1147,7 @@ Nanny
 Napoleon
 Natalia
 Natalie
+Nathaniel
 Nea
 Nea-Sofia
 Neea
@@ -1202,6 +1215,7 @@ Ossi
 Oswald
 Ötzi
 Outi
+Outi-Maria
 Paavali
 Paavo
 Pablo
@@ -1226,6 +1240,7 @@ Paula-Sirkka
 Paul-Henri
 Pauli
 Pauliina
+Pauliina-Martta
 Paulina
 Peetu
 Pehr
@@ -1263,6 +1278,7 @@ Pierre-Jean
 Pierre-Joseph
 Pietari
 Pietari-Paavali
+Pietari-Saima
 Pietro
 Pihla
 Piia
@@ -1502,6 +1518,7 @@ Svetlana
 Sylvester
 Sylvi
 Sylvia
+Sylvi-Kyllikki
 Taavetti
 Taavi
 Tage
@@ -1553,6 +1570,7 @@ Timo-Jukka
 Timo-Pekka
 Timo-Tapani
 Tino
+Titan-Maila
 Titta
 Titus
 Toimi
@@ -1698,6 +1716,7 @@ William
 Wilma
 Wilma-Emilia
 Wolfgang
+Xena
 YK-Jouko
 Ylermi
 Yrjänä

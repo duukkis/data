@@ -9,6 +9,7 @@ ADHD
 AIDS
 alfa-TV
 ALV
+antenni-TV
 ATK
 avaus-EK
 ay
@@ -46,6 +47,7 @@ Hz
 IMF
 invalidi-WC
 IPCC
+irto-a
 IT
 jäärata-SM
 juhla-DVD
@@ -117,6 +119,7 @@ SPR
 STT
 suomi-USA
 super-g
+super-PC
 tauti-x
 teho-PC
 teksti-TV

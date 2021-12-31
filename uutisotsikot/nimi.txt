@@ -86,6 +86,7 @@ Hesburger
 Homeros
 huippu-Samsung
 hybridi-Audi
+hybridi-Toyota
 hybridi-Volvo
 Hyundai
 Ilias
@@ -152,6 +153,7 @@ Mitsubishi
 mobiili-Google
 Mossad
 Mosse
+muskeli-Audi
 Musti
 Myyrmanni
 naispääosa-Oscar
@@ -161,6 +163,7 @@ Natura
 Nemesis
 Neptunus
 Netflix
+neuvosto-Lada
 Nintendo
 Odin
 OECD-Maa

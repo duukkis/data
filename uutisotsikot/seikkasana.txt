@@ -41,8 +41,10 @@ ammattiryhmittäin
 ammoin
 ämpäreittäin
 ani
+annoksittain
 anteeksi
 apposen
+apteekeittain
 äreissään
 arkipäivisin
 äsken
@@ -129,6 +131,7 @@ helvetti
 hengissä
 hengitystie
 henkihieverissä
+henkilöittäin
 heprealaisittain
 hereillä
 heti
@@ -156,6 +159,7 @@ höplästä
 hörö
 hoteissa
 hujakoilla
+hujan
 hukassa
 hukuksissa
 huomenna
@@ -172,6 +176,7 @@ hyvänen
 hyvänsä
 hyvillään
 hyvin
+hyvineen
 hyvinvointialueittain
 iäti
 ihan
@@ -244,6 +249,7 @@ kaltoin
 kansanedustajittain
 kantelutie
 karku
+kärrylasteittain
 käsikkäin
 käsikopelolla
 kasoittain
@@ -277,6 +283,7 @@ keskessä
 keskimäärin
 keskipaikkeilla
 keskipohjalaisittain
+keskisuomalaisittain
 keskiviikkoisin
 keskustalaisittain
 keulilla
@@ -296,8 +303,10 @@ kohdakkain
 kohme
 kohta
 kolme
+kolmisin
 konsa
 kontalla
+konteittain
 koommin
 köpelösti
 korealaisittain
@@ -322,6 +331,7 @@ kumollaan
 kumossa
 kunnittain
 kuoliaaksi
+kuorma-autolavoittain
 kuormalavoittain
 kutakuinkin
 kuten
@@ -466,6 +476,7 @@ noin
 nokakkain
 nokikkain
 nopeiten
+normaalilainsäädäntötie
 nukuksissa
 nurin
 nurinpäin
@@ -521,6 +532,7 @@ pälkähästä
 paloittain
 parahiksi
 paraikaa
+paraislaisittain
 pareittain
 parhaiten
 parissa
@@ -572,6 +584,7 @@ pro
 puhelin
 puhki
 pulloittain
+puolalaisittain
 puoliltaöin
 puoliltapäivin
 puolittain
@@ -604,6 +617,7 @@ runsaiten
 rutiini
 rutto
 ryhmittäin
+saakeli
 saakka
 saatana
 saati
@@ -653,6 +667,7 @@ sittemmin
 sitten
 sivu
 sivullepäin
+sivumennen
 sivumpana
 sivuttain
 sokin
@@ -901,3 +916,5 @@ ymmällä
 ympäri
 ympärillä
 ynnä
+ypöyksin
+yrityksittäin
