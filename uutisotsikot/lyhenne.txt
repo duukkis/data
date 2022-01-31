@@ -48,6 +48,7 @@ IMF
 invalidi-WC
 IPCC
 irto-a
+iso-d
 IT
 jäärata-SM
 juhla-DVD
@@ -136,6 +137,7 @@ USA
 USB
 vara-pj
 verso-s
+vision-s
 VR
 VRK
 VTT

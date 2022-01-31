@@ -125,6 +125,7 @@ harvoin
 häthätää
 hehtaareittain
 helkkari
+hellävaroen
 helpoiten
 helsinkiläisittäin
 helvetti
@@ -186,11 +187,13 @@ ihmeempää
 ihmisryhmittäin
 ikäluokittain
 ikäryhmittäin
+ikävuosittain
 iki
 ikinä
 ilkosen
 ilkosilla
 illemmalla
+ilma
 ilmastotyypeittäin
 ilmatie
 iltapäivisin
@@ -246,6 +249,7 @@ kalenterivuosittain
 kallellaan
 kalpaten
 kaltoin
+kannonkoskelaisittain
 kansanedustajittain
 kantelutie
 karku
@@ -297,6 +301,7 @@ kiinteistöittäin
 kiloittain
 kilometreittäin
 kilpasilla
+kinoksittain
 kirje
 kissun
 kohdakkain
@@ -778,6 +783,7 @@ tuolloin
 tuonnemma
 tuoreeltaan
 tuoteryhmittäin
+tupakunnittain
 tupoittain
 turkkilaisittain
 turvoksissa
@@ -807,6 +813,7 @@ uudelleen
 uudestaan
 uuvuksissa
 vääjäämättä
+vaalikausittain
 vaalipiireittäin
 väärinpäin
 väestöryhmittäin
@@ -866,6 +873,7 @@ vieraisilla
 vierekkäin
 vieretysten
 vieri
+vietnamilaisittain
 vihdoin
 viikoittain
 viimein

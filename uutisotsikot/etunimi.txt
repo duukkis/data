@@ -1,7 +1,9 @@
 Aada
 Aada-Liina
+Aada-Olivia
 Aadolf
 Aale
+Aamos
 Aamu
 Aapeli
 Aapo
@@ -91,6 +93,7 @@ Amadeus
 Amalia
 Amanda
 Amelia
+Amis-Miika
 Anastas
 Anastasia
 Anastasio
@@ -109,6 +112,7 @@ Anja
 Anja-Riitta
 Anna
 Anna-Elena
+Anna-Elina
 Anna-Elisabeth
 Anna-Kaari
 Anna-Kaisa
@@ -119,6 +123,7 @@ Anna-Leena
 Anna-Lena
 Anna-Liisa
 Anna-Lisa
+Anna-Maaria
 Anna-Maija
 Annamari
 Anna-Maria
@@ -127,6 +132,7 @@ Anna-Riikka
 Anna-Sisko
 Anna-Sofia
 Annastiina
+Anna-Stiina
 Anna-Stina
 Anne
 Anne-Elina
@@ -136,6 +142,7 @@ Anneli
 Anne-Maija
 Anne-Maria
 Anne-Marie
+Anne-Pauliina
 Annette
 Anni
 Anniina
@@ -143,6 +150,8 @@ Annika
 Annikki
 Anni-Kristiina
 Anni-Lotta
+Anni-Maaria
+Anni-Marja
 Annina
 Anni-Sofia
 Anni-Stiina
@@ -216,6 +225,7 @@ Aune
 Auno
 Auri
 Aurora
+Australia-Päivä
 Auvo
 Axel
 Barack
@@ -330,6 +340,7 @@ Eeva-Riitta
 Eevert
 Eevi
 Eija
+Eija-Irmeli
 Eija-Leena
 Eija-Liisa
 Eija-Riitta
@@ -679,6 +690,7 @@ Jatta
 Jean
 Jean-Daniel
 Jean-Gabriel
+Jean-Jacques
 Jean-Louis
 Jean-Marie
 Jean-Martti
@@ -700,6 +712,7 @@ Jerry
 Jerusalem-Päivä
 Jesper
 Jesse
+Jesse-Petteri
 Jessica
 Jessika
 Jimi
@@ -937,6 +950,7 @@ Lissu
 Liverpool-Laina
 Liverpool-Unelma
 Lolita
+Lotte
 Louis
 Luca
 Lucas
@@ -1019,6 +1033,7 @@ Marja-Riitta
 Marja-Terttu
 Marjatta
 Marjo
+Marjo-Riikka
 Marjo-Riitta
 Marjukka
 Marjut
@@ -1122,6 +1137,8 @@ Miro-Matias
 Miro-Pekka
 Mirva
 Miska
+Missi-Alina
+Missi-Emmi
 Missi-Essi
 Missi-Eveliina
 Missi-Heidi
@@ -1134,6 +1151,7 @@ Mohammed
 Momo
 Mona
 Mona-Liisa
+Mona-Lisa
 Monica
 Monika
 Moona
@@ -1161,11 +1179,13 @@ Netta
 Newton-John
 NHL-Kasperi
 NHL-Laina
+NHL-Taisto
 NHL-Taru
 NHL-Toivo
 NHL-Unelma
 Nicholas
 Nico
+Niemelä-Pentti
 Niemistö-Laina
 Niiles
 Niilo
@@ -1329,6 +1349,7 @@ Raymond
 Rea
 Rebecca
 Rebekka
+Reea
 Reeta
 Reetta
 Reetta-Leena
@@ -1418,6 +1439,7 @@ Samuel
 Samu-Jussi
 Samuli
 Samu-Petteri
+Sanda
 Sandra
 Sanna
 Sanna-Kaisa
@@ -1515,6 +1537,7 @@ Sven
 Sven-Erik
 Sven-Göran
 Svetlana
+Swift-Toimi
 Sylvester
 Sylvi
 Sylvia
@@ -1605,6 +1628,7 @@ Tuovi
 Turkka
 Tuukka
 Tuula
+Tuula-Sinikka
 Tuuli
 Tuulikki
 Tuure
@@ -1649,6 +1673,7 @@ Valter
 Valto
 Valtsu
 Valtteri
+Valtteri-Pyry
 Vanessa
 Vasili
 Vaula

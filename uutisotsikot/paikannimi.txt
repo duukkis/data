@@ -13,6 +13,7 @@ Afrikka
 Ahvenanmaa
 Ahvenisto
 Aigeianmeri
+Aija-Mari
 Aino-Inkeri
 Ainola
 Aino-Mari
@@ -221,6 +222,7 @@ EM-Altai
 EM-Koitto
 Emma-Mari
 Emmi-Inkeri
+EM-Taipale
 Englanti
 Englanti-Italia
 Englanti-Kroatia
@@ -249,10 +251,12 @@ Etelä-Boston
 Etelä-Brasilia
 Etelä-Bulgaria
 Etelä-Carolina
+Etelä-Connecticut
 Etelä-Dakota
 Etelä-Englanti
 Etelä-Espanja
 Etelä-Espoo
+Etelä-Etiopia
 Etelä-Eurooppa
 Etelä-Filippiini
 Etelä-Florida
@@ -271,10 +275,12 @@ Etelä-Juva
 Etelä-Kalifornia
 Etelä-Karjala
 Etelä-Kaukasia
+Etelä-Kazakstan
 Etelä-Kiina
 Etelä-Kongo
 Etelä-Konnevesi
 Etelä-Korea
+Etelä-Kuusamo
 Etelä-Lappi
 Etelä-Libanon
 Etelä-Lontoo
@@ -337,6 +343,7 @@ Firenze
 Fiskars
 Flanderi
 Florida
+Florida-Montreal
 Föglö
 Formosa
 Forssa
@@ -533,6 +540,7 @@ Itä-Helsinki
 Itä-Hervanta
 Itä-Hollola
 Itä-Indonesia
+Itä-Intia
 Itä-Jemen
 Itä-Jerusalem
 Itä-Kanada
@@ -629,6 +637,7 @@ Jyväskylä-Kemi
 Jyväskylä-Tampere
 Kaaba
 Kaakkois-Aasia
+Kaakkois-Afrikka
 Kaakkois-Belgia
 Kaakkois-Brasilia
 Kaakkois-Eurooppa
@@ -756,8 +765,10 @@ Keski-Aasia
 Keski-Afganistan
 Keski-Afrikka
 Keski-Amerikka
+Keski-Atlantti
 Keski-Dagestan
 Keski-Englanti
+Keski-Espoo
 Keski-Eurooppa
 Keski-Häme
 Keski-Helsinki
@@ -767,6 +778,7 @@ Keski-Jyllanti
 Keski-Karjala
 Keski-Kiina
 Keski-Kreikka
+Keski-Kuha
 Keski-Lappi
 Keski-Mali
 Keski-Nigeria
@@ -819,6 +831,7 @@ Kiova
 Kirgisia
 Kiribati
 Kirkkonummi
+Kirvu
 Kisko
 Kitee
 Kitinen
@@ -845,6 +858,7 @@ Koillis-Moskova
 Koillis-Nigeria
 Koillis-Ranska
 Koillis-Ruotsi
+Koillis-Satakunta
 Koillis-Savo
 Koillis-Siperia
 Koillis-Syyria
@@ -898,6 +912,7 @@ Kotka-Hamina
 Kotka-Kouvola
 Kotka-Kymi
 Kotkan-Hamina
+Kotka-Pyhtää
 Kouvola
 Kouvola-Joensuu
 Köyliö
@@ -940,6 +955,7 @@ Kustavi
 Kuttura
 Kuuba
 Kuusamo
+Kuusamo-Pirttikoski
 Kuusamo-Posio
 Kuusankoski
 Kuusela
@@ -983,6 +999,7 @@ Länsi-Helsinki
 Länsi-Intia
 Länsi-Jaava
 Länsi-Kanada
+Länsi-Kazakstan
 Länsi-Kiina
 Länsi-Kotka
 Länsi-Kreikka
@@ -992,6 +1009,7 @@ Länsi-Lontoo
 Länsi-Myanmar
 Länsi-Niili
 Länsi-Pakila
+Länsi-Papua
 Länsi-Pasila
 Länsi-Pohja
 Länsi-Pori
@@ -1009,6 +1027,7 @@ Länsi-Syyria
 Länsi-Tallinna
 Länsi-Tampere
 Länsi-Tukholma
+Länsi-Ukraina
 Länsi-Uusimaa
 Länsi-Vantaa
 Länsi-Venäjä
@@ -1107,6 +1126,7 @@ Luoteis-Lappi
 Luoteis-Lontoo
 Luoteis-Nigeria
 Luoteis-Pakistan
+Luoteis-Peking
 Luoteis-Pirkanmaa
 Luoteis-Uganda
 Luulaja
@@ -1221,6 +1241,7 @@ MM-Kolari
 MM-Latvia
 Mogadishu
 Möhkö
+Moldavia
 Moldova
 Mombasa
 Monaco
@@ -1235,6 +1256,7 @@ Mosambik
 Moskova
 Mouhijärvi
 MTK-Bryssel
+MTK-Pielavesi
 MTK-Varsinais-Suomi
 Muhos
 Multala
@@ -1439,6 +1461,7 @@ Pielinen
 Pielisjärvi
 Pielisjoki
 Pietarsaari
+Pietarsaari-Uusikaarlepyy
 Pihlajavesi
 Pihlajisto
 Pihtipudas
@@ -1450,6 +1473,7 @@ Pirkka-Häme
 Pirkkala
 Pirkkola
 Pirttikoski
+Pirttikoski-Kuusamo
 Pirttimäki
 Pisa
 Pispala
@@ -1486,6 +1510,7 @@ Pohjois-Jyllanti
 Pohjois-Kalifornia
 Pohjois-Kanada
 Pohjois-Kaukasia
+Pohjois-Kazakstan
 Pohjois-Krim
 Pohjois-Kuusamo
 Pohjois-Kypros
@@ -1511,11 +1536,13 @@ Pohjois-Seine
 Pohjois-Siperia
 Pohjois-Skotlanti
 Pohjois-Sumatra
+Pohjois-Sysmä
 Pohjois-Syyria
 Pohjois-Tallinna
 Pohjois-Tampere
 Pohjois-Tapiola
 Pohjois-Tromssa
+Pohjois-Turku
 Pohjois-Tyynimeri
 Pohjois-Uganda
 Pohjois-Uruguay
@@ -1601,6 +1628,7 @@ Rautalampi
 Rautavaara
 Rautjärvi
 Rautu
+Reims
 Rein
 Reinikkala
 Reisjärvi
@@ -1767,6 +1795,7 @@ Soisalo
 Solovetski
 Somalia
 Somero
+Somero-Forssa
 Sonkajärvi
 Sörnäinen
 Sortavala
@@ -1820,6 +1849,7 @@ Suur-Manchester
 Suur-Miami
 Suur-Miehikkälä
 Suur-Pariisi
+Suur-Pellinki
 Suursaari
 Suur-Sahara
 Suur-Saimaa
@@ -1859,6 +1889,7 @@ Tammerkoski
 Tammisaari
 Tampere
 Tampereen-Pori
+Tampere-Helsinki-Vantaa
 Tampere-Orivesi
 Tampere-Pirkkala
 Tanninen-Mattila
@@ -1952,6 +1983,7 @@ Turkki
 Turkmenistan
 Turku
 Turku-Helsinki
+Turku-Uusikaupunki
 Tuula-Mari
 Tuulos
 Tuupovaara
@@ -1985,6 +2017,7 @@ Uudenmaan-Häme
 Uukuniemi
 Uumaja
 Uurainen
+Uusi-Englanti
 Uusi-Guinea
 Uusikaarlepyy
 Uusi-Kaledonia
@@ -2027,6 +2060,7 @@ Vantaan-Kerava
 Vanuatu
 Varanginvuono
 Vårdö
+Varejoki
 Varpaisjärvi
 Varpanen
 Värtsilä
@@ -2095,6 +2129,7 @@ Ylämaa
 Yläne
 Ylä-Savo
 Ylä-Tikkurila
+Yle-Lappi
 Ylihärmä
 Yli-Ii
 Ylikiiminki

@@ -115,6 +115,7 @@ keski-Maa
 Kesko
 Kia
 Kiasma
+klassikko-Jaguar
 kohu-Jaguar
 Koraani
 Kotus
@@ -128,6 +129,7 @@ LibreOffice
 Lidl
 Linnea
 Linux
+lokinsiipi-Mersu
 Lost
 lukiolais-Linnea
 luksus-Mersu
@@ -271,6 +273,7 @@ varjo-Facebook
 vasta-Aurinko
 Vellamo
 Venus
+Vietkong
 Volkswagen
 Volvo
 von

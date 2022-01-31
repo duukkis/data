@@ -38,6 +38,7 @@ albaani
 algerianjuutalainen
 alituttava
 alkiolainen
+alkoholikeskeinen
 allergianomainen
 altis
 aluehallintaviranomainen
@@ -82,6 +83,7 @@ australialais-brittiläinen
 australialaismallinen
 australialaisrakas
 australialaisviranomainen
+automallinen
 autuas
 avojalo
 avomallinen
@@ -183,6 +185,7 @@ erikoisvieras
 erikorkuinen
 erinäköinen
 eripituinen
+eristyksenomainen
 erityinen
 erityiskylmä
 erityisnuori
@@ -196,12 +199,14 @@ esitutkintaviranomainen
 espanjalaisnuori
 espanjalaisviranomainen
 espoolaisnuori
+etelähämäläinen
 eteläkarjalainen
 eteläpohjanmaalainen
 Etelä-Pohjanmaalainen
 eteläsaamelainen
 eteläsuomalainen
 etelävenäläinen
+EU-kiire
 EU-kilpailuviranomainen
 EU-poliittinen
 eurooppalaisaikuinen
@@ -320,6 +325,7 @@ hybridimallinen
 hyvännäköinen
 hyvinvointikeskeinen
 hyvinvointimallinen
+iänmukainen
 identiteettipoliittinen
 ihanainen
 ihmisenkaltainen
@@ -370,7 +376,9 @@ israelilaisvieras
 itäfriisiläinen
 itäkarjalainen
 italialais-brittiläinen
+italialaisnuori
 italialaisrakas
+italialais-suomalainen
 italialais-venäläinen
 itämerensuomalainen
 itäsaksalainen
@@ -393,6 +401,7 @@ jenkkiläinen
 jermu
 joensuulaisnuori
 johdonmukainen
+johtamismallinen
 jokijärveläinen
 jokiliikenneviranomainen
 jokisaamelainen
@@ -429,6 +438,8 @@ kansanterveysviranomainen
 kansanvihollinen
 kantahämäläinen
 kantasuomalainen
+kanteluviranomainen
+kapeanäköinen
 kapverdeläinen
 karanteeninomainen
 karaokekerholainen
@@ -486,6 +497,7 @@ keskimatala
 keskipalkkalainen
 keskipitkä
 keskipituinen
+keskiriski
 keskisarjalainen
 keskisuomaalainen
 keskisuomalainen
@@ -550,6 +562,7 @@ koukero
 koulupoliittinen
 koulutusmallinen
 koulutuspoliittinen
+koulutusviranomainen
 kouluviranomainen
 kouru
 kouvolalaisnuori
@@ -666,6 +679,8 @@ liitännäinen
 likinäköinen
 linja-automallinen
 lipeä
+lippulaivamallinen
+lisäaikuinen
 litimärkä
 lohkovihollinen
 loisto
@@ -708,8 +723,10 @@ mafiankaltainen
 mafiarikollinen
 mainio
 makea
+mäkieläkeläinen
 mäkitupalainen
 maksuvelvollinen
+malaijilainen
 mallinen
 Manner-suomalainen
 mänttäläisnuori
@@ -797,6 +814,7 @@ neutraali
 newyorkilainen
 NHL-äijä
 NHL-huipputulokas
+NHL-jermu
 NHL-sisäpiiriläinen
 NHL-suomalainen
 NHL-supertulokas
@@ -840,6 +858,7 @@ nykysaamelainen
 nykysirkuslainen
 nykysukulainen
 nykysuomalainen
+nykyvihreä
 nynny
 odotuksenmukainen
 oheinen
@@ -857,6 +876,8 @@ olympiavieras
 oma
 omainen
 omakantasuomalainen
+omalääkärimallinen
+omankaltainen
 omanlainen
 omannäköinen
 omistajaohjauspoliittinen
@@ -905,6 +926,7 @@ paniikinomainen
 paniikkikohtauksenomainen
 pankkiviranomainen
 panttimallinen
+paramilitääri
 paranoidi
 paranormaali
 pariisilaisnuori
@@ -993,7 +1015,9 @@ portugalilaisnuori
 povikeskeinen
 presidenttikeskeinen
 priima
+privaatti
 propagandaviranomainen
+protestanttiviranomainen
 protestinomainen
 PS-aktiivi
 PS-nuori
@@ -1011,12 +1035,14 @@ puolihöhlä
 puolihullu
 puolikuiva
 puolikypsä
+puolinaku
 puolinormaali
 puoliorpo
 puoliruotsalainen
 puolisuomalainen
 puolityhjä
 puolivilli
+puoluekeskeinen
 puoluepoliittinen
 puolustuspoliittinen
 puolustusviranomainen
@@ -1047,8 +1073,10 @@ rajavartioviranomainen
 rajaviranomainen
 rakas
 rakennusvalvontaviranomainen
+rakennusviranomainen
 rämä
 rampa
+rangaistuksenomainen
 rankaisukeskeinen
 ranskalais-brittiläinen
 ranskalaiseläkeläinen
@@ -1098,6 +1126,7 @@ ruotsalaisrakas
 ruotsalais-suomalainen
 ruotsalaistulokas
 ruotsalaisviranomainen
+Ruotsin-mallinen
 ruotsinsuomalainen
 ruskea
 ruskeanharmaa
@@ -1204,6 +1233,7 @@ sosialidemokraatti
 sosiopoliittinen
 sotarikollinen
 sote-kiire
+sote-mallinen
 sotilaallispoliittinen
 sotilaspoliittinen
 sotilasviranomainen
@@ -1221,15 +1251,20 @@ sula
 sulo
 suloisenhaikea
 sunnalainen
+sunni-islamilainen
 suolaisenmakea
 suomalainen
 suomalaisaikuinen
 suomalaisaituri
+suomalais-brittiläinen
 suomalaisbrittiläinen
+suomalaiseläkeläinen
+suomalaishirmu
 suomalais-karjalainen
 suomalaiskuuma
 suomalaisloisto
 suomalaismallinen
+suomalais-norjalais-ruotsalainen
 suomalais-norjalais-venäläinen
 suomalaisnousukas
 suomalaisnuori
@@ -1249,6 +1284,7 @@ suomenruotsalainen
 suomenvenäläinen
 suora
 suorituskeskeinen
+suosikkisukulainen
 supererityinen
 superhauska
 superhelle
@@ -1270,6 +1306,7 @@ supersuuri
 supersyvä
 superterve
 supertiukka
+supertörkeä
 supertulokas
 supisuomalainen
 suppea
@@ -1374,6 +1411,7 @@ tietosuojaviranomainen
 tietoturvaviranomainen
 tietoverkkorikollinen
 tietynmallinen
+tieviranomainen
 tihku
 tiibetinbuddhalainen
 tiimimallinen
@@ -1468,9 +1506,11 @@ ugrilainen
 uhkauksenomainen
 uimaluiska
 uimapukumallinen
+u-käyrä
 ulkoilulainmukainen
 ulkokulta
 ulkolainen
+ulkoluiska
 ulkomaalainen
 ulkomaalaisvieras
 ulkonäkökeskeinen
@@ -1501,6 +1541,7 @@ urheilupoliittinen
 uskalikko
 utelias
 uudenmallinen
+uudennäköinen
 uudenuutukainen
 uushelluntailainen
 uusimaalainen
@@ -1525,6 +1566,7 @@ vaaleanvioletti
 vaaliviranomainen
 väärä
 vääränmallinen
+väärännäköinen
 väärti
 väärtti
 vaatimustenmukainen
@@ -1554,6 +1596,7 @@ valkovenäläisviranomainen
 valmentajakeskeinen
 valmiusviranomainen
 valoisa
+valtiokeskeinen
 valtionapuviranomainen
 valtionviranomainen
 valvojaviranomainen

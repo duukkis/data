@@ -12,6 +12,7 @@ Adams
 Adler
 Afganistanin-Haaranen
 Ågren
+Ågren-Hakala
 Agricola
 Ahi
 Ahlberg
@@ -22,6 +23,7 @@ Ahlqvist
 Ahlskog
 Ahlström
 Åhman
+Ahmavaara
 Aho
 Aho-Halonen
 Ahokas
@@ -50,6 +52,7 @@ Airola
 äiti-Aikio
 Aitolehti
 Aittola
+Åkerblom
 Åkerlund
 Åkerman
 Akkanen
@@ -193,6 +196,7 @@ Brask
 Braun
 Brax
 Bridges
+Brofeldt
 Broms
 Brontë
 Brotherus
@@ -202,6 +206,7 @@ Bruun
 Bush
 Byström
 Caine
+Cajander
 Callahan
 Cameron
 Campanella
@@ -290,6 +295,7 @@ Enström
 Eränen
 Erich
 Ericsson
+Erikson
 Eriksson
 Erkkilä
 Erkko
@@ -503,6 +509,7 @@ Heikkilä
 Heikkinen
 Heikkonen
 Heikura
+Heilimo
 Heimonen
 Heinänen
 Heinaro
@@ -687,9 +694,11 @@ Jakobsson
 Jakonen
 Jalkanen
 Jalonen
+Jämsä-Uusitalo
 Jämsen
 Jämsén
 Janatuinen
+Janhonen
 Janhunen
 Jänkälä
 Jännes
@@ -728,6 +737,7 @@ Jotuni
 Jouhki
 Joyce
 Juhola
+Jukarainen
 Jukola
 Julkunen
 Jumppanen
@@ -790,7 +800,9 @@ Kallasvuo
 Kalleinen
 Kallinen
 Kallio
+Kallio-Seppä
 Kallonen
+Kallström
 Kallunki
 Kaltiainen
 Kämäräinen
@@ -891,6 +903,7 @@ Ketola
 Ketonen
 Kettunen
 Kianto
+Kiina-Lehtinen
 Kiiski
 Kiiskinen
 Kiljunen
@@ -944,6 +957,7 @@ Kolumbus
 Komonen
 Komu
 Komulainen
+Könkkölä
 Kononen
 Könönen
 Konstig
@@ -1105,6 +1119,7 @@ Lasanen
 Lassila
 Latvala
 Laukkanen
+Laukkonen
 Laulajainen
 Launonen
 Lauren
@@ -1123,6 +1138,7 @@ Lehtilä
 Lehtinen
 Lehto
 Lehtola
+Lehtola-Donner
 Lehtolainen
 Lehtonen
 Lehtovaara
@@ -1136,6 +1152,7 @@ Leminen
 Lemmetti
 Lemmetyinen
 Lempiäinen
+Lempiäinen-Pellinen
 Lempinen
 Lemström
 Lenin
@@ -1296,6 +1313,7 @@ Marklund
 Marshall
 Martelius
 Martikainen
+Martin-Berglund
 Martiskainen
 Marttinen
 Marx
@@ -1390,6 +1408,7 @@ Multanen
 Muranen
 Murphy
 Murto
+Murto-Koivisto
 Murtonen
 Mussolini
 Mustonen
@@ -1408,6 +1427,7 @@ Myllyviita
 Myöhänen
 Myyrmäki-Hall
 Myyryläinen
+Näätänen
 Nabokov
 Närvänen
 Natunen
@@ -1568,6 +1588,7 @@ Paldanius
 Palme
 Palmen
 Palmgren
+Palmgren-Neuvonen
 Palmu
 Palola
 Palonen
@@ -2127,6 +2148,7 @@ Sukanen
 Sulander
 Sulander-Seppänen
 Sulin
+Sulkala
 Sulonen
 Summanen
 Sundberg
@@ -2151,6 +2173,7 @@ Svensson
 Svinhufvud
 Swift
 Sykkö
+Syrjäläinen
 Syrjänen
 Syvänen
 Taavitsainen
@@ -2348,6 +2371,7 @@ Valjus
 Valkeinen
 Valkonen
 Vallenius
+Vallgren
 Vallin
 Vallius
 Valonen
@@ -2457,6 +2481,7 @@ Wahlroos
 Wahlsten
 Wahlström
 Walden
+Wallén
 Wallendahl
 Wallenius
 Wallenius-Väisänen
