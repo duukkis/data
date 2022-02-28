@@ -62,6 +62,7 @@ anaali
 antidopingviranomainen
 a-nuori
 apea
+arjalainen
 arkkitehtuuripoliittinen
 arkkivihollinen
 armas
@@ -155,11 +156,13 @@ energiapoliittinen
 energiaviranomainen
 englantilaisnuori
 ennusteidenmukainen
+enolaisnuori
 entinen
 entisenkaltainen
 entisvanha
 epäasianmukainen
 epäformaali
+epähumaani
 epäjohdonmukainen
 epäkelpo
 epäkypsä
@@ -178,6 +181,7 @@ epäterve
 epätodennäköinen
 epätosi
 epävarma
+epäyhteensopiva
 erikoiskuiva
 erikoiskylmä
 erikoispitkä
@@ -189,6 +193,7 @@ eristyksenomainen
 erityinen
 erityiskylmä
 erityisnuori
+erityispitkä
 erityispuhdas
 erityisriski
 erityistiukka
@@ -197,6 +202,7 @@ erityisviranomainen
 esimerkinomainen
 esitutkintaviranomainen
 espanjalaisnuori
+espanjalaisvieras
 espanjalaisviranomainen
 espoolaisnuori
 etelähämäläinen
@@ -275,6 +281,7 @@ heterokeskeinen
 hiehokarkulainen
 hiihtolomalainen
 hindulainen
+hipinnäköinen
 hirmu
 hirmuhelle
 hirmukylmä
@@ -374,6 +381,7 @@ isotoope
 israelilaissiviili
 israelilaisvieras
 itäfriisiläinen
+itähelsinkiläisnuori
 itäkarjalainen
 italialais-brittiläinen
 italialaisnuori
@@ -398,6 +406,7 @@ jätepoliittinen
 jemeninjuutalainen
 jengirikollinen
 jenkkiläinen
+jenkkiviranomainen
 jermu
 joensuulaisnuori
 johdonmukainen
@@ -470,6 +479,7 @@ käyrä
 käytännönläheinen
 käyttäjäkeskeinen
 kehityspoliittinen
+keiteleläisnuori
 kelju
 kellanruskea
 kellertävänharmaa
@@ -477,6 +487,7 @@ kelmi
 kelpo
 kelta
 keltamusta
+keltaruskea
 keltavihreä
 kelttiläinen
 keminmaalainen
@@ -545,6 +556,7 @@ koltansaamelainen
 kolttasaamelainen
 komea
 komeannäköinen
+konkreetti
 konservatiivis-äärioikeistolainen
 konstantti
 korinttilainen
@@ -671,6 +683,7 @@ liero
 liettualais-suomalainen
 liika
 liikennepoliittinen
+liikenneturvallisuusviranomainen
 liikenneviranomainen
 liiketoimintamallinen
 liikuntapoliittinen
@@ -831,6 +844,7 @@ norja
 norjalaishirmu
 norjalaisnuori
 norjalais-suomalainen
+norjalaistulokas
 norjalaisvieras
 norjalaisviranomainen
 norjansaamelainen
@@ -850,6 +864,7 @@ nykyaikuinen
 nykydemokraatti
 nykyinen
 nykyisenkaltainen
+nykymallinen
 nykynuori
 nykyperussuomalainen
 nykypoppa
@@ -872,6 +887,7 @@ oikeusviranomainen
 oireenmukainen
 ökyrikas
 olympiakulta
+olympiatulokas
 olympiavieras
 oma
 omainen
@@ -908,6 +924,7 @@ paha
 pahannäköinen
 pahansuopa
 päihdeläheinen
+päihdepoliittinen
 paikallisvihollinen
 paikallisviranomainen
 päivänpoliittinen
@@ -1097,6 +1114,7 @@ rautatieviranomainen
 refleksinomainen
 reininmaalainen
 remakka
+repale
 reseptilääkkeenkaltainen
 revolverimallinen
 rietas
@@ -1123,6 +1141,7 @@ ruotsalaisaatelinen
 ruotsalais-brittiläinen
 ruotsalaisnuori
 ruotsalaisrakas
+ruotsalaisrikollinen
 ruotsalais-suomalainen
 ruotsalaistulokas
 ruotsalaisviranomainen
@@ -1167,6 +1186,7 @@ sankamallinen
 sarjarikollinen
 satamaviranomainen
 sateenkaarisaamelainen
+säteilyturvallisuusviranomainen
 saudiviranomainen
 scifi-uutukainen
 seinäjokelaisnuori
@@ -1181,6 +1201,7 @@ sekunda
 selitysvelvollinen
 sellainen
 semmoinen
+sensuuriviranomainen
 serbialais-ruotsalainen
 serbiviranomainen
 sessioaatelinen
@@ -1234,6 +1255,7 @@ sosiopoliittinen
 sotarikollinen
 sote-kiire
 sote-mallinen
+sotilaallis-poliittinen
 sotilaallispoliittinen
 sotilaspoliittinen
 sotilasviranomainen
@@ -1332,6 +1354,7 @@ syyspimeä
 syyttäjänviranomainen
 syyttäjäviranomainen
 taianomainen
+taidepoliittinen
 taiderikollinen
 taistolainen
 taistolaisaktiivi
@@ -1507,6 +1530,8 @@ uhkauksenomainen
 uimaluiska
 uimapukumallinen
 u-käyrä
+ukrainalaissiviili
+ukrainalais-venäläinen
 ulkoilulainmukainen
 ulkokulta
 ulkolainen
@@ -1544,6 +1569,7 @@ uudenmallinen
 uudennäköinen
 uudenuutukainen
 uushelluntailainen
+uusikaupunkilainen
 uusimaalainen
 uusintarikollinen
 uusiovanha
@@ -1596,11 +1622,13 @@ valkovenäläisviranomainen
 valmentajakeskeinen
 valmiusviranomainen
 valoisa
+valtapoliittinen
 valtiokeskeinen
 valtionapuviranomainen
 valtionviranomainen
 valvojaviranomainen
 valvontamallinen
+valvontavelvollinen
 valvontaviranomainen
 vammaispoliittinen
 vanha
@@ -1631,6 +1659,7 @@ venäjänjuutalainen
 venäläinen
 venäläishirmu
 venäläisnuori
+venäläisrikollinen
 venäläis-suomalainen
 venäläistulokas
 venäläis-valkovenäläinen
@@ -1688,6 +1717,7 @@ viskoosi
 vissi
 v-käyrä
 voimallinen
+voimapoliittinen
 vuoristolainen
 vuorottelumallinen
 ydinjätevelvollinen

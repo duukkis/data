@@ -124,6 +124,7 @@ harvassa
 harvoin
 häthätää
 hehtaareittain
+heittokuutioittain
 helkkari
 hellävaroen
 helpoiten
@@ -252,6 +253,7 @@ kaltoin
 kannonkoskelaisittain
 kansanedustajittain
 kantelutie
+kappaleittain
 karku
 kärrylasteittain
 käsikkäin
@@ -307,6 +309,7 @@ kissun
 kohdakkain
 kohme
 kohta
+koillismaalaisittain
 kolme
 kolmisin
 konsa
@@ -315,6 +318,7 @@ konteittain
 koommin
 köpelösti
 korealaisittain
+korkeakouluittain
 koskaan
 kosolti
 kotiinpäin
@@ -382,6 +386,7 @@ läsnä
 lauantaisin
 laukuittain
 laumoittain
+lavoittain
 leikki
 lentokonelasteittain
 lentotie
@@ -494,6 +499,7 @@ nyttemmin
 ohimennen
 ohitse
 ohjelmittain
+ohuelti
 oikeammin
 oikein
 oikeustie
@@ -565,6 +571,7 @@ pikimmin
 pikimmiten
 pikkuhiljaa
 pikkuhoususilla
+pinokuutioittain
 pisaratie
 pitkälti
 pitkittäin
@@ -779,10 +786,12 @@ tukkanuottasilla
 tukoittain
 tukuittain
 tunneittain
+tuohduksissa
 tuolloin
 tuonnemma
 tuoreeltaan
 tuoteryhmittäin
+tuotteittain
 tupakunnittain
 tupoittain
 turkkilaisittain
@@ -908,6 +917,7 @@ yksinään
 yksinomaan
 yksitellen
 yksittäin
+yksittäistapauksittain
 ykskaks
 ykskantaan
 yleensä

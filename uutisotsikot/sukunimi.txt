@@ -32,6 +32,7 @@ Aholainen
 Ahola-Korhonen
 Ahola-Launonen
 Ahonen
+Aho-Teräväinen
 Ahtee
 Ahtiainen
 Ahti-Hallberg
@@ -299,6 +300,7 @@ Erikson
 Eriksson
 Erkkilä
 Erkko
+Erkko-Salin
 Erlander
 Erola
 Eronen
@@ -407,6 +409,7 @@ Haataja
 Haatanen
 Haavio
 Haavisto
+Habsburg
 Hackman
 Hackzell
 Hagelberg
@@ -479,6 +482,7 @@ Härmälä
 Harris
 Harrison
 Hartikainen
+Hartikainen-Herranen
 Hartman
 Hartonen
 Hartwall
@@ -618,6 +622,7 @@ Huldén
 Hulkko
 Hulkkonen
 Hult
+Hultin
 Humaljoki
 Humaloja
 Humbert
@@ -1066,6 +1071,7 @@ Kymäläinen
 Kytö
 Kytölä
 Kytömaa
+Kyyrönen
 Laakkonen
 Laakso
 Laakso-Liukkonen
@@ -1107,6 +1113,7 @@ Landau
 Lander
 Landström
 Lång
+Långström
 Lankinen
 Laplace
 Lappalainen
@@ -1369,6 +1376,7 @@ Mikander
 Mikkilä
 Mikkolainen
 Mikkonen
+Mikkonen-Engman
 Mikojan
 Miller
 Minardi
@@ -1520,6 +1528,7 @@ Ohtonen
 Ohtonen-Jones
 Oikarainen
 Oikarinen
+Oikkonen
 Oinonen
 Oittinen
 Oivanen
@@ -2345,6 +2354,7 @@ Ursin
 Utriainen
 Utrio
 Uusimäki
+Uusipaavalniemi
 Uusitalo
 Uusitalo-Heikkinen
 Uusitalo-Seppälä
@@ -2425,6 +2435,7 @@ Vienonen
 Vierikko
 Viertola
 Vihavainen
+Viialainen
 Viinanen
 Viinikainen
 Viinikka

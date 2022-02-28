@@ -104,6 +104,7 @@ Jehova
 Jesaja
 Joma
 Jupiter
+kaasu-Mersu
 Kaleva
 Kalevala
 Kansallis-Osake-Pankki
@@ -149,6 +150,7 @@ Mersu
 metsä-Botnia
 Microsoft
 miespääosa-Oscar
+mini-Neptunus
 ministeri-Audi
 Minotauros
 Mitsubishi
@@ -157,6 +159,7 @@ Mossad
 Mosse
 muskeli-Audi
 Musti
+mustikka-Oscar
 Myyrmanni
 naispääosa-Oscar
 napero-Finlandia
@@ -167,6 +170,7 @@ Neptunus
 Netflix
 neuvosto-Lada
 Nintendo
+nyky-Yle
 Odin
 OECD-Maa
 Off
@@ -230,6 +234,7 @@ sisu-Valmet
 Siwa
 Sojuz
 Sokos
+some-Puh
 Sonera
 Sony
 Spartacus
@@ -249,6 +254,7 @@ Teboil
 tehdas-Hyundai
 Tehy
 Temo
+t-Ford
 tieto-Finlandia
 Tokmanni
 Toyota
@@ -257,6 +263,7 @@ Tuonela
 TV-Aurinko
 Twitter
 työmarkkina-Aurinko
+ukraina-Puh
 Unesco
 UNICEF
 Unicode

@@ -30,6 +30,7 @@ Alajärvi
 Ala-Keitele
 Ala-Kulju
 Ala-Kurikka
+Alakurtti
 Ala-Malmi
 Ala-Nikkilä
 Alankomaa
@@ -215,8 +216,10 @@ Eeva-Mari
 Egeanmeri
 Egypti
 Eira
+Elbe
 Elijärvi
 Elimäki
+Ella-Mari
 El-Medina
 EM-Altai
 EM-Koitto
@@ -290,6 +293,7 @@ Etelä-Meksiko
 Etelä-Miami
 Etelä-Nevada
 Etelä-Norja
+Etelä-Orkney
 Etelä-Ossetia
 Etelä-Pohja
 Etelä-Portugali
@@ -420,12 +424,15 @@ Havanna
 Heidelberg
 Heidi-Mari
 Heikinlaakso
+Heimola
 Heinjoki
 Heinola
+Helens
 Helka-Mari
 Helsingborg
 Helsinki
 Helsinki-Bangkok
+Helsinki-Kolari
 Helsinki-Lontoo
 Helsinki-Oulu
 Helsinki-Pariisi
@@ -565,6 +572,7 @@ Itä-Saksa
 Itä-Sarajevo
 Itä-Savo
 Itä-Siperia
+Itä-Slovakia
 Itä-Suomi
 Itä-Syyria
 Itä-Taivalkoski
@@ -608,6 +616,7 @@ Jero
 Jersey
 Jerusalem
 Joensuu
+Joensuu-Oulu
 Johannesburg
 Jokioinen
 Jokipii
@@ -699,6 +708,7 @@ Kannonkoski
 Kannus
 Kansas
 Kanta-Häme
+Kanta-Helsinki
 Kanta-Oulu
 Kanttura
 Kapkaupunki
@@ -790,12 +800,14 @@ Keski-Pori
 Keski-Puola
 Keski-Ranska
 Keski-Ruotsi
+Keski-Saimaa
 Keski-Saksa
 Keski-Satakunta
 Keski-Savo
 Keski-Siperia
 Keski-Suomi
 Keski-Töölö
+Keski-Ukraina
 Keski-Uruguay
 Keski-Uusimaa
 Keski-Vantaa
@@ -851,6 +863,7 @@ Koillis-Englanti
 Koillis-Espanja
 Koillis-Helsinki
 Koillis-Irak
+Koillis-Islanti
 Koillis-Kanada
 Koillis-Kiina
 Koillis-Lappi
@@ -862,6 +875,7 @@ Koillis-Satakunta
 Koillis-Savo
 Koillis-Siperia
 Koillis-Syyria
+Koillis-Ukraina
 Koillis-Vantaa
 Koillis-Viro
 Koillis-Yhdysvalta
@@ -875,8 +889,10 @@ Kökar
 Kokemäki
 Kokkola
 Kokkola-Imatra
+Kokkola-Kuhmo
 Kokkola-Pietarsaari
 Kolari
+Kolin-Vuonislahti
 Köln
 Köln-Bonn
 Kolumbia
@@ -955,6 +971,7 @@ Kustavi
 Kuttura
 Kuuba
 Kuusamo
+Kuusamo-Oulu
 Kuusamo-Pirttikoski
 Kuusamo-Posio
 Kuusankoski
@@ -981,6 +998,7 @@ Lampila
 Lamposaari
 Längelmäki
 Lanka
+Länsi-Aasia
 Länsi-Afganistan
 Länsi-Afrikka
 Länsi-Ahvenanmaa
@@ -1021,6 +1039,7 @@ Länsi-Sahara
 Länsi-Saimaa
 Länsi-Saksa
 Länsi-Savo
+Länsi-Siperia
 Länsi-Sulawesi
 Länsi-Suomi
 Länsi-Syyria
@@ -1040,6 +1059,7 @@ Lappi
 Lappohja
 Lapua
 Lapvesi
+Lätäseno
 Laukaa
 Laukko
 Launonen-Tiala
@@ -1127,7 +1147,9 @@ Luoteis-Lontoo
 Luoteis-Nigeria
 Luoteis-Pakistan
 Luoteis-Peking
+Luoteis-Pennsylvania
 Luoteis-Pirkanmaa
+Luoteis-Syyria
 Luoteis-Uganda
 Luulaja
 Luvia
@@ -1150,6 +1172,7 @@ Makari
 Makedonia
 Mäkelä
 Mäkelä-Nummela
+Mäki-Karvia
 Mäkkylä
 Maksamaa
 Malawi
@@ -1175,6 +1198,7 @@ Manner-Kiina
 Manner-Kreikka
 Manner-Naantali
 Manner-Suomi
+Manner-Venäjä
 Mannila
 Mansaari
 Mantojärvi
@@ -1334,6 +1358,7 @@ Nürnberg
 Nuuksio
 Nuvvus
 Nykopp-Koski
+Odessa
 Ohio
 Ojala-Nieminen
 Ojama
@@ -1462,6 +1487,7 @@ Pielisjärvi
 Pielisjoki
 Pietarsaari
 Pietarsaari-Uusikaarlepyy
+Pihkova
 Pihlajavesi
 Pihlajisto
 Pihtipudas
@@ -1519,6 +1545,7 @@ Pohjois-Lappi
 Pohjois-Liberia
 Pohjois-Lontoo
 Pohjois-Mali
+Pohjois-Marokko
 Pohjois-Mongolia
 Pohjois-Mosambik
 Pohjois-Myanmar
@@ -1527,6 +1554,7 @@ Pohjois-Namibia
 Pohjois-Nigeria
 Pohjois-Päijänne
 Pohjois-Pasila
+Pohjois-Pielavesi
 Pohjois-Pori
 Pohjois-Saimaa
 Pohjois-Sambia
@@ -1597,6 +1625,7 @@ Puotila
 Puotinharju
 Purola
 Puumala
+Puumalan-Sulkava
 Pyhäntä
 Pyhtää
 Pyrene
@@ -1610,6 +1639,7 @@ Raahe-Ylivieska
 Rääkkylä
 Raasepori
 Rahajärvi
+Räisälä
 Raisio
 Raja-Jooseppi
 Ramallah
@@ -1651,6 +1681,7 @@ Rodos
 Röksä
 Romania
 Rooma
+Ropi
 Rosala
 Rosa-Mari
 Rostock
@@ -1805,6 +1836,7 @@ Southampton
 Sparta
 Sri
 Stalingrad
+Stenius-Kaukonen
 Strasbourg
 Strömfors
 Strömsholm
@@ -1829,6 +1861,7 @@ Suomi-Romania
 Suomi-Ruotsi
 Suomi-Serbia
 Suomi-Somalia
+Suomi-Sveitsi
 Suomi-Syyria
 Suomi-Ukraina
 Suomi-Venäjä
@@ -1853,6 +1886,7 @@ Suur-Pellinki
 Suursaari
 Suur-Sahara
 Suur-Saimaa
+Suur-Saksa
 Suur-Savo
 Suur-Serbia
 Suur-Shanghai
@@ -1983,6 +2017,7 @@ Turkki
 Turkmenistan
 Turku
 Turku-Helsinki
+Turku-Tukholma
 Turku-Uusikaupunki
 Tuula-Mari
 Tuulos
@@ -2008,6 +2043,7 @@ Uppsala
 Ural
 Urjala
 Uruguay
+USA-Venäjä
 Utah
 Utajärvi
 Utra
@@ -2093,6 +2129,7 @@ Viikin-Malmi
 Viikki
 Viinikkala
 Viipuri
+Viljakkala
 Ville-Eno
 Villinki
 Vilna
@@ -2107,6 +2144,7 @@ Volga
 Vöyri
 Vuokatti
 Vuokatti-Ruka
+Vuonislahti
 Vuorinen-Lampila
 Vuorio-Mikkola
 Vuosaari
@@ -2123,6 +2161,7 @@ Wien-Helsinki
 Wisconsin
 Yellowstone
 Yhdysvalta
+Ylä-Itävalta
 Ylä-Kainuu
 Ylä-Lappi
 Ylämaa

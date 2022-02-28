@@ -129,6 +129,7 @@ Annamari
 Anna-Maria
 Anna-Reeta
 Anna-Riikka
+Anna-Rosa
 Anna-Sisko
 Anna-Sofia
 Annastiina
@@ -170,6 +171,7 @@ Antti-Pekka
 Antti-Pentti
 Antti-Petteri
 Antti-Tuomas
+Antti-Ville
 Antto
 Antton
 Anu
@@ -394,6 +396,8 @@ Emil
 Emilia
 Emily
 Emma
+Emma-Liisa
+Emma-Stina
 Emmi
 Emmi-Lydia
 EM-Pietari
@@ -487,6 +491,7 @@ Hanna-Leena
 Hanna-Liisa
 Hanna-Maaria
 Hanna-Maija
+Hanna-Maria
 Hanna-Marjut
 Hanna-Riikka
 Hanne
@@ -608,6 +613,7 @@ Inga
 Inger
 Ingrid
 Inka
+Inka-Liisa
 Ira
 Irene
 Irina
@@ -796,6 +802,7 @@ Jussi-Petteri
 Justiina
 Justus
 Jutta
+Jutta-Noora
 Jutta-Riina
 Juuli
 Juulia
@@ -832,6 +839,7 @@ Kari-Pekka
 Karita
 Karl
 Karl-Erik
+Karl-Petter
 Karoliina
 Karolina
 Kasper
@@ -866,6 +874,7 @@ Kim-Sisko
 Kingsley
 Kirsti
 Klaara
+Klaas
 Klaudia
 Klaus
 Kleopatra
@@ -1006,6 +1015,7 @@ Marianne
 Mari-Anne
 Maria-Riitta
 Marie
+Marie-Eva
 Mariella
 Marie-Philip
 Mariitta
@@ -1062,6 +1072,7 @@ Matti
 Mattias
 Matti-Jussi
 Matti-Mikael
+Matti-Pekka
 Matti-Sakari
 Mauno
 Maunu
@@ -1086,6 +1097,7 @@ Mervi
 Mette
 Mia
 Michael
+Michael-Veli
 Michel
 Michelangelo
 Michelle
@@ -1125,6 +1137,7 @@ Minni
 Minttu
 Mira
 Miranda
+Mira-Veera
 Mirella
 Mirja
 Mirjam
@@ -1199,6 +1212,7 @@ Nikolaus
 Niko-Pekka
 Niko-Petteri
 Nils
+Nils-Olof
 Nina
 Nina-Maria
 Ninni
@@ -1419,6 +1433,7 @@ Saimi
 Saini
 Saint-Louis
 Sakari
+Sakarias
 Saku-Pekka
 Salla-Maaria
 Salla-Maarit
@@ -1484,6 +1499,7 @@ Signe
 Sigrid
 Sigurd
 Siiri
+Siiri-Liisi
 Siirin-Päivi
 Siiri-Sisko
 Siivola
@@ -1522,6 +1538,7 @@ Stella
 Stephen
 Steve
 Stig
+Stig-Göran
 Stiina
 Stiina-Emilia
 Stina
@@ -1536,6 +1553,7 @@ Susanne
 Sven
 Sven-Erik
 Sven-Göran
+Sven-Otto
 Svetlana
 Swift-Toimi
 Sylvester
@@ -1631,8 +1649,10 @@ Tuula
 Tuula-Sinikka
 Tuuli
 Tuulikki
+Tuuli-Susanna
 Tuure
 TV-Alan
+TV-Sohvi
 TV-Visa
 Tytti
 Tyyne
@@ -1642,6 +1662,7 @@ Ukko-Paavo
 Ukko-Pekka
 Ulla
 Ulla-Leena
+Ulla-Lena
 Ulla-Maija
 Ulla-Marja
 Ulla-Riitta
@@ -1649,6 +1670,7 @@ Ulpu
 Ulrika
 Umberto
 Unelma
+Unelma-Alan
 Uno
 Unto
 Uolevi

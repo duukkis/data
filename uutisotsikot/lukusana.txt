@@ -16,6 +16,7 @@
 -20
 -2023
 -205
+-21
 -213
 -232
 -25
@@ -162,6 +163,7 @@ neljäkymmentätuhatta
 neljäs
 neljäsataa
 neljäsataaneljäkymmentä
+neljäsataatuhatta
 neljäsataaviisikymmentä
 neljäskymmenes
 neljässadas
@@ -181,6 +183,7 @@ sataviisikymmentä
 seitsemän
 seitsemänkymmentä
 seitsemänsataa
+seitsemänsataaseitsemänkymmentäkuusimiljoonaa
 seitsemäntoista
 seitsemäntuhatta
 seitsemäs
