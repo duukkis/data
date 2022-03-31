@@ -27,6 +27,7 @@ Adele
 Adolf
 Adonis
 Adrian
+Afrikka-Visa
 Agnes
 Ahmed
 Ahti
@@ -157,6 +158,7 @@ Annina
 Anni-Sofia
 Anni-Stiina
 Annukka
+Anselm
 Anselmi
 Anssi
 Antero
@@ -165,6 +167,7 @@ Anton
 Antonio
 Antsu
 Antti
+Antti-Juha
 Antti-Jussi
 Antti-Kustaa
 Antti-Pekka
@@ -177,6 +180,7 @@ Antton
 Anu
 Anu-Elina
 Anu-Katriina
+Anu-Maaria
 Anu-Maarit
 Anu-Maija
 Anu-Marjukka
@@ -346,6 +350,7 @@ Eija-Irmeli
 Eija-Leena
 Eija-Liisa
 Eija-Riitta
+Eija-Sinikka
 Eila
 Eila-Maria
 Einar
@@ -396,6 +401,7 @@ Emil
 Emilia
 Emily
 Emma
+Emma-Kaisa
 Emma-Liisa
 Emma-Stina
 Emmi
@@ -415,6 +421,7 @@ Erik-Johan
 Erikka
 Erin
 Erja
+Erja-Riitta
 Erkki
 Erkki-Pekka
 Ernest
@@ -423,6 +430,7 @@ Erno
 Ernst
 Esa
 Esa-Jussi
+Esa-Matti
 Esa-Pekka
 Esa-Pentti
 Esko
@@ -580,6 +588,7 @@ Idi
 Iida
 Iida-Elisa
 Iida-Lotta
+Iida-Maria
 Iina
 Iina-Katariina
 Iina-Lotta
@@ -610,6 +619,7 @@ Immanuel
 Immo
 Impi
 Inga
+Inga-Leena
 Inger
 Ingrid
 Inka
@@ -1005,6 +1015,7 @@ Margareetta
 Margaret
 Margareta
 Margaretha
+Margaret-Sisko
 Margaretta
 Margit
 Maria
@@ -1026,6 +1037,7 @@ Mari-Linda
 Marin-Saarikko-Akseli
 Mario
 Marion
+Mario-Päivä
 Mari-Pauliina
 Mari-Sanna
 Mari-Sisko
@@ -1157,6 +1169,8 @@ Missi-Eveliina
 Missi-Heidi
 Missi-Katariina
 Missi-Laura
+Missi-Lotta
+Missi-Riikka
 MM-Taisto
 MM-Unelma
 Mohammad
@@ -1183,6 +1197,7 @@ Nea
 Nea-Sofia
 Neea
 Nella
+Nella-Sofia
 Nelli
 Nelly
 Nelson
@@ -1206,6 +1221,7 @@ Niina
 Niklas
 Niko
 Nikodeemus
+Niko-Jussi
 Nikolai
 Nikolas
 Nikolaus
@@ -1365,6 +1381,7 @@ Rebecca
 Rebekka
 Reea
 Reeta
+Reeta-Maija
 Reetta
 Reetta-Leena
 Regina
@@ -1462,6 +1479,7 @@ Sanna-Liisa
 Sanna-Liisi
 Sanna-Maija
 Sanna-Maria
+Sanna-Marja
 Sanna-Riitta
 Sanni
 Santeri
@@ -1519,6 +1537,7 @@ Sinuhe
 Sippo
 Sirja
 Sirpa
+Sirpa-Sisko
 Sivi
 SM-Taisto
 Sofia
@@ -1585,6 +1604,7 @@ Tauno
 Tea
 Teea
 Teemu
+Teemu-Taavetti
 Teija
 Teija-Liisa
 Tellervo
@@ -1608,6 +1628,7 @@ Tiitus
 Tilda
 Timo
 Timo-Jukka
+Timo-Kalevi
 Timo-Pekka
 Timo-Tapani
 Tino
@@ -1618,6 +1639,7 @@ Toimi
 Toini
 Toini-Pyry
 Toivo
+Tolkien-Päivä
 Tom
 Tomas
 Tomas-Veli
@@ -1751,6 +1773,7 @@ Vladimir
 Volter
 Vorma
 VR-Toivo
+Wagner-Jouko
 Wäinö
 Walter
 Waltteri

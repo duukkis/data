@@ -13,6 +13,7 @@
 -1712021
 -1764
 -19
+-1900
 -20
 -2023
 -205
@@ -38,6 +39,7 @@
 -39
 -40
 -4000
+-4090
 -41
 -43
 -45
@@ -245,6 +247,7 @@ xxxi
 yhdeksän
 yhdeksänkymmentä
 yhdeksänkymmentäyhdeksän
+yhdeksänmiljoonaa
 yhdeksänsataa
 yhdeksäntoista
 yhdeksäntuhatta

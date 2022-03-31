@@ -24,6 +24,7 @@ aidonnäköinen
 aikuinen
 äimä
 ainoa
+aitotumainen
 aitotumallinen
 aituri
 ajanmukainen
@@ -94,6 +95,7 @@ baltialaisvieras
 balttilainen
 baskilainen
 beigenruskea
+berberijuutalainen
 bisnesrikollinen
 b-nuori
 boikotinomainen
@@ -118,6 +120,8 @@ digivihreä
 DVD-ekstra
 edellinen
 edellisenkaltainen
+edunmukainen
+egyptiläisviranomainen
 ei-binääri
 ei-islamilainen
 ei-juutalainen
@@ -200,6 +204,7 @@ erityistiukka
 erityisvieras
 erityisviranomainen
 esimerkinomainen
+esimerkkisuomalainen
 esitutkintaviranomainen
 espanjalaisnuori
 espanjalaisvieras
@@ -264,6 +269,7 @@ hätäviranomainen
 hauska
 hauskannäköinen
 heikkonäköinen
+heinälahtelainen
 helakanvihreä
 heleänvihreä
 helle
@@ -281,6 +287,7 @@ heterokeskeinen
 hiehokarkulainen
 hiihtolomalainen
 hindulainen
+hintapoliittinen
 hipinnäköinen
 hirmu
 hirmuhelle
@@ -374,10 +381,12 @@ irtain
 irtokulta
 irtolainen
 islamilainen
+islantilaismallinen
 iso
 isomatala
 isorikas
 isotoope
+isovenäläinen
 israelilaissiviili
 israelilaisvieras
 itäfriisiläinen
@@ -388,6 +397,7 @@ italialaisnuori
 italialaisrakas
 italialais-suomalainen
 italialais-venäläinen
+italialaisviranomainen
 itämerensuomalainen
 itäsaksalainen
 itäsuomalainen
@@ -491,6 +501,7 @@ keltaruskea
 keltavihreä
 kelttiläinen
 keminmaalainen
+kemiönsaarelainen
 kenialaisrakas
 kenkku
 keno
@@ -504,6 +515,7 @@ kesälomalainen
 keskeinen
 keskikova
 keskimääräsuomalainen
+keskimärkä
 keskimatala
 keskipalkkalainen
 keskipitkä
@@ -554,6 +566,7 @@ kolea
 kolho
 koltansaamelainen
 kolttasaamelainen
+kolumbialaisviranomainen
 komea
 komeannäköinen
 konkreetti
@@ -584,6 +597,7 @@ köyry
 k-poppa
 kreikansuomalainen
 kreikkalaiskatolilainen
+kreikkalaiskatolinen
 kriminaalipoliittinen
 kristillisdemokraatti
 kristitty
@@ -591,6 +605,7 @@ krouvi
 kuiva
 kuljetusmallinen
 kullanruskea
+kulo
 kulovalkea
 kulta
 kultapossukerholainen
@@ -670,6 +685,7 @@ lauha
 lautasmallinen
 lauttasaarelainen
 legioonalainen
+leikinomainen
 leniniläinen
 lentokenttäviranomainen
 lentoturvallisuusviranomainen
@@ -732,6 +748,7 @@ maanläheinen
 maapallokeskeinen
 maapoliittinen
 maaseutuelinkeinoviranomainen
+maatalouspoliittinen
 mafiankaltainen
 mafiarikollinen
 mainio
@@ -756,6 +773,7 @@ marxilais-leniniläinen
 mätä
 matala
 matalanriski
+materiaalipoliittinen
 matkailuviranomainen
 matkamallinen
 matkustajaliitännäinen
@@ -801,6 +819,7 @@ muslimiläheinen
 musta
 mustalainen
 mustalipeä
+mustankirjava
 mustankorkea
 mustanruskea
 mustasaarelainen
@@ -860,6 +879,7 @@ nuorisorikollinen
 nuorsuomalainen
 nuoska
 nurmijärveläinen
+nuuskarikollinen
 nykyaikuinen
 nykydemokraatti
 nykyinen
@@ -949,6 +969,7 @@ paranormaali
 pariisilaisnuori
 pariisilaisvieras
 parka
+parkour-kerholainen
 paskiainen
 pedantti
 pehmeä
@@ -967,6 +988,7 @@ perinnebiotoope
 perisuomalainen
 perivihollinen
 permanentti
+perusmallinen
 perussuomalainen
 perussuomalaisaktiivi
 perustuslainmukainen
@@ -1028,6 +1050,7 @@ porilaisnuori
 porilaisvieras
 pormestarimallinen
 porosaamelainen
+porttiteatterilainen
 portugalilaisnuori
 povikeskeinen
 presidenttikeskeinen
@@ -1070,6 +1093,7 @@ pyhä
 pyhäjärveläinen
 pyhienvietto
 pykäläkeskeinen
+pyörämallinen
 qatarilaisviranomainen
 raaka
 raakalainen
@@ -1084,6 +1108,7 @@ rahvaanomainen
 räjähdyksenkaltainen
 räjähdyksenomainen
 rajanläheinen
+rajatarkastusviranomainen
 rajatestausmallinen
 rajavalvontaviranomainen
 rajavartioviranomainen
@@ -1100,6 +1125,7 @@ ranskalaiseläkeläinen
 ranskalaishirmu
 ranskalaisrakas
 ranskalais-suomalainen
+ranskalais-venäläinen
 ranskalaisvieras
 ranskalaisviranomainen
 rantakarjalainen
@@ -1111,6 +1137,7 @@ ratto
 rauhanomainen
 raukka
 rautatieviranomainen
+reaalipoliittinen
 refleksinomainen
 reininmaalainen
 remakka
@@ -1149,6 +1176,7 @@ Ruotsin-mallinen
 ruotsinsuomalainen
 ruskea
 ruskeanharmaa
+ruskeankirjava
 ruskeanvihreä
 rutiininomainen
 rutiköyhä
@@ -1240,6 +1268,7 @@ s-mobiili
 SM-pitkä
 SM-tupla
 sodankaltainen
+sodanomainen
 sokea
 sokko
 somalimaalainen
@@ -1491,10 +1520,12 @@ tuplakulta
 tuplariski
 tuplatupla
 turha
+turismiviranomainen
 turistiviranomainen
 turkkilaisislamilainen
 turkulaisnuori
 turva-aikuinen
+turvallisuusasiakirjavelvollinen
 turvallisuuspoliittinen
 turvallisuusviranomainen
 tutkintaviranomainen
@@ -1530,8 +1561,10 @@ uhkauksenomainen
 uimaluiska
 uimapukumallinen
 u-käyrä
+ukrainalaisnuori
 ukrainalaissiviili
 ukrainalais-venäläinen
+ukrainalaisviranomainen
 ulkoilulainmukainen
 ulkokulta
 ulkolainen
@@ -1541,6 +1574,7 @@ ulkomaalaisvieras
 ulkonäkökeskeinen
 ulkopoliittinen
 ulkosuomalainen
+ulkovenäläinen
 ulosottoviranomainen
 ultrakylmä
 ultraortodoksijuutalainen
@@ -1591,6 +1625,7 @@ vaaleanvihreä
 vaaleanvioletti
 vaaliviranomainen
 väärä
+vääränkorkuinen
 vääränmallinen
 väärännäköinen
 väärti
@@ -1599,6 +1634,7 @@ vaatimustenmukainen
 väestöpoliittinen
 väestötietoviranomainen
 vähä
+vähävenäläinen
 vahingonkorvausvelvollinen
 väistämisvelvollinen
 vaitiolovelvollinen
@@ -1611,6 +1647,7 @@ väkivaltarikollinen
 vakkasuomalainen
 vakovenäläinen
 valio
+välitilamallinen
 väljä
 valkea
 valkomusta
@@ -1620,6 +1657,7 @@ valkovenäläisnuori
 valkovenäläisvieras
 valkovenäläisviranomainen
 valmentajakeskeinen
+valmiuslainmukainen
 valmiusviranomainen
 valoisa
 valtapoliittinen
@@ -1641,6 +1679,7 @@ vapaa
 varma
 varsinaissuomalainen
 vasemmistolainen
+vasemmistopoliittinen
 vasen
 vastaavankaltainen
 vastuunkantaja-aikuinen
@@ -1662,6 +1701,7 @@ venäläisnuori
 venäläisrikollinen
 venäläis-suomalainen
 venäläistulokas
+venäläistuttava
 venäläis-valkovenäläinen
 venäläisvekkuli
 venäläisviranomainen
@@ -1688,6 +1728,7 @@ viestintäviranomainen
 vietto
 vihanta
 vihermusta
+vihertävänharmaa
 vihervasemmistolainen
 vihollinen
 vihonviimeinen

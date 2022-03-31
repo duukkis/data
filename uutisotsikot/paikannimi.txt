@@ -4,6 +4,7 @@
 Äänisjärvi
 Äänislinna
 Aasia
+ABC-Suomi
 Abhasia
 Adrianmeri
 Afganistan
@@ -18,6 +19,7 @@ Aino-Inkeri
 Ainola
 Aino-Mari
 Airisto
+äiti-Venäjä
 Akaa
 Äkäslompolo
 Akkad
@@ -71,10 +73,12 @@ Anna-Mari
 Anne-Mari
 Antarktis
 Antigua
+Antrea
 Anttola
 Antwerpen
 Arabia
 Arabiemiirikunta
+Aragonia
 Argentiina
 Argentiina-Brasilia
 Arizona
@@ -109,6 +113,7 @@ Azerbaidžan
 Azerbaidzhan
 Babylon
 Baden
+Baden-Baden
 Bagdad
 Bahama
 Bahrain
@@ -293,6 +298,7 @@ Etelä-Meksiko
 Etelä-Miami
 Etelä-Nevada
 Etelä-Norja
+Etelä-Ohio
 Etelä-Orkney
 Etelä-Ossetia
 Etelä-Pohja
@@ -331,6 +337,7 @@ Eura
 Euraasia
 Eurajoki
 Eurooppa
+EU-Suomi
 EU-Taipale
 EU-Viro
 Eväjärvi
@@ -592,6 +599,7 @@ Itä-Viro
 Ivalo
 Ivalojoki
 Jaala
+Jääski
 Jaava
 Jaffa
 Jaja
@@ -683,6 +691,7 @@ Kalkutta
 Kallavesi
 Kallela
 Kalliola
+Kallio-Lehtimäki
 Kallislahti
 Kalmukia
 Kälviä
@@ -925,10 +934,12 @@ Kosovo
 Kostamo
 Kotka
 Kotka-Hamina
+Kotka-Hamina-Pyhtää
 Kotka-Kouvola
 Kotka-Kymi
 Kotkan-Hamina
 Kotka-Pyhtää
+Kotkatjärvi
 Kouvola
 Kouvola-Joensuu
 Köyliö
@@ -962,8 +973,10 @@ Kuorevesi
 Kuorinka
 Kuortane
 Kupittaa
+Kupittaa-Turku
 Kurala
 Kurdistan
+Kurgan
 Kurikka
 Kursk
 Kuru
@@ -1032,6 +1045,7 @@ Länsi-Pasila
 Länsi-Pohja
 Länsi-Pori
 Länsi-Puijo
+Länsi-Puola
 Länsi-Ranska
 Länsi-Rooma
 Länsi-Ruotsi
@@ -1149,6 +1163,7 @@ Luoteis-Pakistan
 Luoteis-Peking
 Luoteis-Pennsylvania
 Luoteis-Pirkanmaa
+Luoteis-Skåne
 Luoteis-Syyria
 Luoteis-Uganda
 Luulaja
@@ -1485,6 +1500,7 @@ Pielavesi-Keitele
 Pielinen
 Pielisjärvi
 Pielisjoki
+Pietarhovi
 Pietarsaari
 Pietarsaari-Uusikaarlepyy
 Pihkova
@@ -1516,6 +1532,7 @@ Pohjois-Bhutan
 Pohjois-Böömi
 Pohjois-Brasilia
 Pohjois-Carolina
+Pohjois-Chile
 Pohjois-Dakota
 Pohjois-Espoo
 Pohjois-Etiopia
@@ -1545,6 +1562,7 @@ Pohjois-Lappi
 Pohjois-Liberia
 Pohjois-Lontoo
 Pohjois-Mali
+Pohjois-Mariaani
 Pohjois-Marokko
 Pohjois-Mongolia
 Pohjois-Mosambik
@@ -1552,6 +1570,7 @@ Pohjois-Myanmar
 Pohjois-Naantali
 Pohjois-Namibia
 Pohjois-Nigeria
+Pohjois-Ossetia
 Pohjois-Päijänne
 Pohjois-Pasila
 Pohjois-Pielavesi
@@ -1599,6 +1618,7 @@ Portugali-Ranska
 Portugali-Saksa
 Porvoo
 Posio
+Posion-Kuusamo
 Poventsa
 Pöytyä
 Praha
@@ -1770,6 +1790,7 @@ Seattle
 Sedan
 Seelanti
 Seinäjoki
+Seinäjoki-Vaasa
 Seine
 Seiskari
 Selkie
@@ -1789,12 +1810,14 @@ Sidney
 Sieppijärvi
 Siestarjoki
 Sievi
+Siihtala
 Siikainen
 Siikajoki
 Siikalatva
 Siilainen
 Siilinjärvi
 Siinai
+Siion
 Silvola
 Simo
 Simojärvi
@@ -1816,6 +1839,7 @@ Skotlanti
 Skotlanti-Hollanti-Saksa-Puola
 Skotlanti-Hollanti-Saksa-Puola-Venäjä
 Slovakia
+Slovakia-Suomi
 Slovenia
 Smolensk
 Sodankylä
@@ -1849,17 +1873,20 @@ Sulawesi
 Sulkava
 Sumatra
 Sumiainen
+Suodenniemi
 Suojärvi
 Suolahti
 Suomen-Ruotsi
 Suomi
 Suomi-Belgia
+Suomi-Islanti
 Suomi-Latvia
 Suomi-Montenegro
 Suomi-Ranska
 Suomi-Romania
 Suomi-Ruotsi
 Suomi-Serbia
+Suomi-Slovakia
 Suomi-Somalia
 Suomi-Sveitsi
 Suomi-Syyria
@@ -2164,8 +2191,10 @@ Yhdysvalta
 Ylä-Itävalta
 Ylä-Kainuu
 Ylä-Lappi
+Ylä-Levi
 Ylämaa
 Yläne
+Ylä-Satakunta
 Ylä-Savo
 Ylä-Tikkurila
 Yle-Lappi

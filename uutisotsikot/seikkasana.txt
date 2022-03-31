@@ -153,6 +153,7 @@ hiljattain
 hilkulla
 himpun
 hippasilla
+hirvitalousalueittain
 hissukseen
 hissun
 hitto
@@ -234,6 +235,7 @@ jouten
 joutessa
 jukra
 julki
+julkisivuittain
 junalasteittain
 juovuksissa
 juovuspäissä
@@ -278,6 +280,7 @@ kausittain
 kauttaalta
 käymistie
 kelteisillä
+kennelpiireittäin
 kenties
 kerroksittain
 kertaalleen
@@ -296,6 +299,7 @@ keulilla
 keväämmällä
 kieppeillä
 kiertotie
+kiihdyksissä
 kiikissä
 kiinalaisittain
 kiinni
@@ -361,6 +365,7 @@ kymmenittäin
 kyse
 laajalti
 laajemmalti
+laatikoittain
 lähekkäin
 lähellä
 lähemmäs
@@ -589,6 +594,7 @@ poliisilaitoksittain
 poliisipiireittäin
 pörhössä
 porilaisittain
+portaaleittain
 portaittain
 posti
 postinumeroalueittain
@@ -608,6 +614,7 @@ puuskittain
 pyörryksissä
 raaka-aineryhmittäin
 radiotie
+ranskalaisittain
 ratsain
 rautatie
 reilassa
@@ -682,6 +689,7 @@ sivullepäin
 sivumennen
 sivumpana
 sivuttain
+slaavilaisittain
 sokin
 soopa
 sopimustie
@@ -758,6 +766,7 @@ tiettäväksi
 tiettävästi
 tiimeittäin
 tiistai-iltapäivisin
+tilaisuuksittain
 tilanteittain
 tipoittain
 tipotiessään
@@ -794,6 +803,7 @@ tuoteryhmittäin
 tuotteittain
 tupakunnittain
 tupoittain
+turhanpäiten
 turkkilaisittain
 turvoksissa
 tusinoittain

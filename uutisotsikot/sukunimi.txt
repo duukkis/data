@@ -31,6 +31,7 @@ Ahola
 Aholainen
 Ahola-Korhonen
 Ahola-Launonen
+Ahola-Männistö
 Ahonen
 Aho-Teräväinen
 Ahtee
@@ -71,6 +72,7 @@ Al-Malkki
 Alonso
 Altmann
 Alzheimer
+Amerikan-Tuominen
 Amin
 Amis
 Andersen
@@ -125,6 +127,7 @@ Atlantis-Mantere
 Attila
 Atwood
 Auer
+Aunesluoma
 Aunio
 Aura-Autto
 Auranen
@@ -192,6 +195,7 @@ Bradbury
 Bragge
 Brahe
 Brander
+Brander-Keskinen
 Brandt
 Brask
 Braun
@@ -463,6 +467,7 @@ Hannikainen
 Hännikäinen
 Hänninen
 Hänninen-Helin
+Hänninen-Koskela
 Hannonen
 Hannukainen
 Hannuksela
@@ -663,6 +668,7 @@ Ihatsu
 Iivanainen
 Iivonen
 Ijäs
+Ikäheimonen
 Ikäläinen
 Ikävalko
 Ikävalko-Lindqvist
@@ -678,6 +684,7 @@ Ingman
 Inkinen
 Innala
 Innanen
+Instagram-Kuvaaja
 Irwin
 Isaksson
 Isberg
@@ -874,6 +881,7 @@ Kattelus
 Kattelus-Kilpeläinen
 Kauhanen
 Kaukinen
+Kaunismäki-Suhonen
 Kaunisto
 Kauppi
 Kauppinen
@@ -990,6 +998,7 @@ Koskela
 Koskela-Janhunen
 Koskenvuo
 Koski-Heikkinen
+Koski-Kujala
 Koskinen
 Koskinen-Papunen
 Kosola
@@ -1064,6 +1073,7 @@ Kuutti
 Kuvaaja
 Kuvaja
 Kvarnström
+Kvick
 Kylliäinen
 Kyllönen
 Kylmänen
@@ -1099,6 +1109,7 @@ Laine-Tolonen
 Laitala
 Laitinen
 Laitinen-Parkkonen
+Laitinen-Pesola
 Lajunen
 Laksio
 Lamberg
@@ -1143,6 +1154,7 @@ Lehkonen
 Lehtelä
 Lehtilä
 Lehtinen
+Lehtinen-Nevalainen
 Lehto
 Lehtola
 Lehtola-Donner
@@ -1236,6 +1248,7 @@ Lovecraft
 Luhtala
 Luhtanen
 Lukkala
+Lukkala-Mäkinen
 Lukkarinen
 Lumio
 Lund
@@ -1281,6 +1294,7 @@ Mäki-Hakola
 Mäki-Ikola
 Mäki-Jokela
 Mäki-Jussila
+Mäki-Ketola
 Mäki-Kivistö
 Mäkilä
 Mäkinen
@@ -1375,6 +1389,7 @@ Miinin
 Mikander
 Mikkilä
 Mikkolainen
+Mikkola-Riekkinen
 Mikkonen
 Mikkonen-Engman
 Mikojan
@@ -1515,6 +1530,7 @@ Nykopp
 Nylander
 Nylund
 Nyman
+Nyman-Pitkänen
 Nyqvist
 Nyrhinen
 Nysten
@@ -1555,6 +1571,7 @@ Orwell
 Osara
 Österberg
 Österlund
+Österman
 Östman
 Oulu-Hall
 Outinen
@@ -1744,6 +1761,7 @@ Purhonen
 Purmonen
 Puronen
 Pursiainen
+Puruskainen
 Pusa
 Puskala
 Puškin
@@ -1794,6 +1812,7 @@ Rämö
 Ramsay
 Ramstedt
 Raninen
+Raninen-Siiskonen
 Ranki
 Rankine
 Ranskan-Linna
@@ -1803,7 +1822,9 @@ Ranta-Ahonen
 Ranta-Alanko
 Ranta-Asukas
 Ranta-Eskola
+Ranta-Hirvelä
 Ranta-Kartano
+Ranta-Koivisto
 Rantala
 Rantalainen
 Rantala-Korhonen
@@ -1921,6 +1942,7 @@ Ruohola
 Ruohonen
 Ruokolainen
 Ruokonen
+Ruotsin-Kilpi
 Ruottinen
 Rusanen
 Rusanen-Kartano
@@ -1953,6 +1975,7 @@ Saarikko
 Saarnio
 Saaros
 Sagan
+Sahala
 Sahlberg
 Sahlman
 Sahlstedt
@@ -1988,6 +2011,7 @@ Sarkanen
 Särkelä
 Sarkia
 Sarkkinen
+Sarlund
 Sarvas
 Sasi
 Sassi
@@ -2143,6 +2167,7 @@ Sterling
 Stevenson
 Stewart
 Stoker
+Stokes
 Stolypin
 Strandberg
 Strandén
@@ -2155,6 +2180,7 @@ Suihkonen
 Suikkanen
 Sukanen
 Sulander
+Sulander-Seppälä
 Sulander-Seppänen
 Sulin
 Sulkala
@@ -2171,6 +2197,7 @@ Suni-Lajunen
 Suntila
 Suojanen
 Suokas
+Suomi-Riski
 Suonio
 Suorsa
 Surakka

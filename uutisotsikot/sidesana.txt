@@ -14,6 +14,7 @@ kunnes
 kunpa
 mutta
 sekä
+tahi
 tai
 taikka
 vaan

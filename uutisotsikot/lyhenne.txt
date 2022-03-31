@@ -1,5 +1,6 @@
 €
 A4
+AA
 AAA
 aamu-TV
 ab
@@ -9,6 +10,7 @@ ADHD
 AIDS
 alfa-TV
 ALV
+äly-WC
 antenni-TV
 asunto-oy
 ATK
@@ -47,6 +49,7 @@ HTML
 Hz
 IMF
 invalidi-WC
+inva-WC
 IPCC
 irto-a
 iso-d
@@ -66,6 +69,7 @@ krs
 kuu-WC
 kWh
 LED
+leijona-TV
 lisä-m
 LP
 LSD
