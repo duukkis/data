@@ -129,6 +129,7 @@ Anna-Maija
 Annamari
 Anna-Maria
 Anna-Reeta
+Anna-Reetta
 Anna-Riikka
 Anna-Rosa
 Anna-Sisko
@@ -141,6 +142,7 @@ Anne-Elina
 Anne-Elisabeth
 Anne-Kari
 Anneli
+Anne-Maarit
 Anne-Maija
 Anne-Maria
 Anne-Marie
@@ -450,6 +452,7 @@ Eva
 Eva-Christina
 Eva-Lotta
 Eva-Lotte
+Eva-Maria
 Eva-Riitta
 Eveliina
 Evelina
@@ -567,6 +570,7 @@ Herodes
 Hessu
 Heta
 Heta-Elena
+Heta-Maaria
 Hilda
 Hildegard
 Hilja
@@ -796,6 +800,7 @@ Juha-Petteri
 Juha-Santeri
 Juho
 Juho-Antti
+Juho-Jari
 Juho-Kustaa
 Juho-Matti
 Juho-Pekka
@@ -1048,6 +1053,7 @@ Marja
 Marja-Aimo
 Marjaana
 Marja-Aron
+Marja-Helena
 Marja-Kristiina
 Marja-Leena
 Marja-Liisa
@@ -1072,6 +1078,7 @@ Martin
 Martina
 Martta
 Martti
+Martti-Uki
 Mary
 Masa
 Mathias
@@ -1171,6 +1178,7 @@ Missi-Katariina
 Missi-Laura
 Missi-Lotta
 Missi-Riikka
+Missi-Viivi
 MM-Taisto
 MM-Unelma
 Mohammad
@@ -1279,6 +1287,7 @@ Pal
 Pamela
 Panu
 Pär
+Pärssinen-Markus
 Pasi
 Pasi-Heikki
 Patricia
@@ -1351,6 +1360,7 @@ Pori-Tampere-Mikkeli-Akseli
 Porvoo-Kotka-Akseli
 Prospero
 Pyry
+Raafael
 Raakel
 Rafael
 Raija
@@ -1420,6 +1430,7 @@ Rodion
 Roger
 Roland
 Rolf
+Rolf-Erik
 Ronald
 Roni
 Ronja
@@ -1534,6 +1545,7 @@ Simo-Pekka
 Simo-Viljami
 Sinikka
 Sinuhe
+Sipi
 Sippo
 Sirja
 Sirpa
@@ -1623,6 +1635,7 @@ Tiia
 Tiia-Maria
 Tiina
 Tiina-Kaisa
+Tiina-Leena
 Tiina-Liisa
 Tiitus
 Tilda
@@ -1685,6 +1698,7 @@ Ukko-Pekka
 Ulla
 Ulla-Leena
 Ulla-Lena
+Ulla-Maaria
 Ulla-Maija
 Ulla-Marja
 Ulla-Riitta
@@ -1750,6 +1764,7 @@ Vilhelm
 Vilhelmiina
 Vilho
 Vili
+Vili-Jesper
 Vili-Pekka
 Viljami
 Viljo
@@ -1757,6 +1772,7 @@ Ville
 Ville-Eemeli
 Ville-Juha
 Ville-Matti
+Ville-Mikael
 Ville-Pekka
 Ville-Petteri
 Ville-Riiko
@@ -1772,6 +1788,7 @@ Vivian
 Vladimir
 Volter
 Vorma
+VR-Maila
 VR-Toivo
 Wagner-Jouko
 Wäinö

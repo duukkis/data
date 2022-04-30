@@ -41,6 +41,7 @@ Ala-Riihimäki
 Ala-Satakunta
 Alaska
 Alastaro
+Ala-Teno
 Ala-Tikkurila
 Alavi
 Alavieska
@@ -59,6 +60,7 @@ Amazon
 Ambomaa
 Amerikka
 Amman
+ämpäri-Suomi
 Amsterdam
 Amuri
 Anatolia
@@ -324,6 +326,7 @@ Etelä-Tiroli
 Etelä-Tukholma
 Etelä-Turku
 Etelä-Ukraina
+Etelä-Unkari
 Etelä-Vantaa
 Etelä-Venäjä
 Etelä-Vietnam
@@ -543,6 +546,7 @@ Istanbul
 Itä-Aasia
 Itä-Afganistan
 Itä-Afrikka
+Itä-Australia
 Itä-Belgia
 Itä-Berliini
 Itä-Englanti
@@ -568,6 +572,7 @@ Itä-Malawi
 Itämeri
 Itä-Myanmar
 Itä-Pakila
+Itä-Pariisi
 Itä-Pasila
 Itä-Pori
 Itä-Puola
@@ -668,6 +673,7 @@ Kaamanen
 Kaanaa
 Kaarela
 Kaarina
+Kaarina-Raisio
 Kaavi
 Kabul
 Kaija
@@ -732,6 +738,7 @@ Karjaa
 Karjala
 Karjalohja
 Karkkila
+Karkku
 Kärkölä
 Karlskrona
 Karlsruhe
@@ -873,6 +880,7 @@ Koillis-Espanja
 Koillis-Helsinki
 Koillis-Irak
 Koillis-Islanti
+Koillis-Itävalta
 Koillis-Kanada
 Koillis-Kiina
 Koillis-Lappi
@@ -883,6 +891,7 @@ Koillis-Ruotsi
 Koillis-Satakunta
 Koillis-Savo
 Koillis-Siperia
+Koillis-Suomi
 Koillis-Syyria
 Koillis-Ukraina
 Koillis-Vantaa
@@ -999,8 +1008,10 @@ Kyrönjoki
 Kyrönmaa
 Kyröskoski
 Kyyjärvi
+Kyyvesi
 Laajalahti
 Laajasalo
+Laakso-Nikkilä
 Laatokka
 Labrador
 Lähi-itä
@@ -1028,6 +1039,7 @@ Länsi-Eurooppa
 Länsi-Grönlanti
 Länsi-Helsinki
 Länsi-Intia
+Länsi-Jaala
 Länsi-Jaava
 Länsi-Kanada
 Länsi-Kazakstan
@@ -1163,6 +1175,7 @@ Luoteis-Pakistan
 Luoteis-Peking
 Luoteis-Pennsylvania
 Luoteis-Pirkanmaa
+Luoteis-Siperia
 Luoteis-Skåne
 Luoteis-Syyria
 Luoteis-Uganda
@@ -1229,6 +1242,7 @@ Marjala
 Marokko
 Mars
 Marseille
+Martinique
 Marttila
 Maryland
 Masku
@@ -1296,6 +1310,7 @@ Moskova
 Mouhijärvi
 MTK-Bryssel
 MTK-Pielavesi
+MTK-Uusimaa
 MTK-Varsinais-Suomi
 Muhos
 Multala
@@ -1326,6 +1341,7 @@ Napoli
 Närpiö
 Narva
 Narva-Tartto
+Nasaret
 Nashville
 Näsijärvi
 Nassau
@@ -1554,6 +1570,7 @@ Pohjois-Kalifornia
 Pohjois-Kanada
 Pohjois-Kaukasia
 Pohjois-Kazakstan
+Pohjois-Konnevesi
 Pohjois-Krim
 Pohjois-Kuusamo
 Pohjois-Kypros
@@ -1572,6 +1589,7 @@ Pohjois-Namibia
 Pohjois-Nigeria
 Pohjois-Ossetia
 Pohjois-Päijänne
+Pohjois-Pakistan
 Pohjois-Pasila
 Pohjois-Pielavesi
 Pohjois-Pori
@@ -1706,6 +1724,7 @@ Rosala
 Rosa-Mari
 Rostock
 Rotterdam
+Roukalahti
 Rovaniemi
 Röyttä
 Ruanda
@@ -1843,6 +1862,7 @@ Slovakia-Suomi
 Slovenia
 Smolensk
 Sodankylä
+Sodankylä-Ivalo
 Södertälje
 Sodoma
 Soini
@@ -2022,6 +2042,7 @@ Troija
 Tromssa
 Trondheim
 Tšad
+Tsarskoje
 Tsekki
 Tšekki
 Tšekkoslovakia
@@ -2044,6 +2065,7 @@ Turkki
 Turkmenistan
 Turku
 Turku-Helsinki
+Turku-Maarianhamina-Tukholma
 Turku-Tukholma
 Turku-Uusikaupunki
 Tuula-Mari

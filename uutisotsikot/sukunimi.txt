@@ -4,6 +4,7 @@ Aalto-Alanen
 Aaltonen
 Aalto-Setälä
 äänestäjä-Mäkinen
+Aapo-Koiranen
 Aarnio
 Abbey
 Abdulla
@@ -59,6 +60,7 @@ Aittola
 Åkerman
 Akkanen
 Akola
+Akvinolainen
 Alanen
 Alanenpää
 Alanko
@@ -318,6 +320,7 @@ EU-Eronen
 Euler
 EU-Myllys
 EU-Piik
+Eurooppa-Riski
 Evans
 Fabritius
 Fagerholm
@@ -526,6 +529,7 @@ Heinilä
 Heiniö
 Heinonen
 Heinrichs
+Heiskala
 Heiskanen
 Heiskari
 Heitto
@@ -688,6 +692,7 @@ Instagram-Kuvaaja
 Irwin
 Isaksson
 Isberg
+Isopahkala
 Issakainen
 Itälä
 IT-Alanen
@@ -772,6 +777,7 @@ Juuti
 Juutilainen
 Juutinen
 Juvonen
+Jyrälä
 Jyrinki
 Jyrkiäinen
 Jyrkilä
@@ -892,6 +898,7 @@ Käyhkö
 Keihänen
 Keinänen
 Keinonen
+Keituri
 Kekäläinen
 Kekki
 Kekkonen
@@ -908,6 +915,7 @@ Keronen
 Kerttula
 Kerttunen
 Kervinen
+Kesäläinen
 Keskinen
 Kestilä-Kekkonen
 Keto
@@ -988,12 +996,14 @@ Kordelin
 Korhonen
 Korkala
 Korkalainen
+Korkiakangas
 Korkiakoski
 Korpela
 Korpelainen
 Korpinen
 Kortelainen
 Kortteinen
+Korvenheimo
 Koskela
 Koskela-Janhunen
 Koskenvuo
@@ -1044,6 +1054,7 @@ Kunnasluoto
 Kunttu
 Kuokka
 Kuokkanen
+Kuopio-Hall
 Kuoppala
 Kuortti
 Kuosmanen
@@ -1175,6 +1186,7 @@ Lempiäinen-Pellinen
 Lempinen
 Lemström
 Lenin
+Leo-Koiranen
 Lepistö
 Leppälä
 Leppänen
@@ -1777,6 +1789,7 @@ Puustinen-Korhonen
 Puustjärvi
 Pykäri
 Pylkkänen
+Pylkkönen
 Pylvänäinen
 Pynninen
 Pynnönen
@@ -1992,7 +2005,9 @@ Salmelainen
 Salmén
 Salminen
 Salminen-Kultanen
+Salminen-Tuomaala
 Salonen
+Salonius
 Salonius-Pasternak
 Salonsaari-Posti
 Salo-Vartiainen
@@ -2062,6 +2077,7 @@ Siilasmaa
 Siippainen
 Siirilä
 Siiskonen
+Siitoin
 Siitonen
 Siivonen
 Sikanen
@@ -2200,6 +2216,8 @@ Suokas
 Suomi-Riski
 Suonio
 Suorsa
+Suortti
+Supo-Tiitinen
 Surakka
 Sutela
 Sutinen
@@ -2329,6 +2347,7 @@ Tossavainen
 Tourette
 Tourunen
 Töyrylä
+Trotski
 Trulli
 Trump
 Tuhkanen
@@ -2339,6 +2358,7 @@ Tuokko
 Tuomaala
 Tuomainen
 Tuomala
+Tuomala-Nikkanen
 Tuomela
 Tuominen
 Tuomisto
@@ -2348,6 +2368,7 @@ Tuovila
 Tuovinen
 Tuppurainen
 Turkia
+Turku-Hall
 Turpeinen
 Turtiainen
 Turunen

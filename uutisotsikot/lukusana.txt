@@ -123,6 +123,7 @@ kolmattasataa
 kolmattatuhatta
 kolme
 kolmekymmentä
+kolmekymmentäkaksi
 kolmekymmentäkuusi
 kolmesataa
 kolmesataatuhatta

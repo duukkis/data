@@ -63,6 +63,7 @@ kJ
 kk
 klo
 km
+kokooma-CD
 koulu-TV
 kpl
 krs
@@ -116,6 +117,7 @@ RKP
 ry
 ryhmä-x
 SA
+sääntö-EU
 SAK
 SDP
 seinä-WC

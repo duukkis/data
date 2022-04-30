@@ -47,6 +47,7 @@ apposen
 apteekeittain
 äreissään
 arkipäivisin
+askeleittain
 äsken
 äskettäin
 asteittain
@@ -127,6 +128,7 @@ hehtaareittain
 heittokuutioittain
 helkkari
 hellävaroen
+hellävaroin
 helpoiten
 helsinkiläisittäin
 helvetti
@@ -182,6 +184,7 @@ hyvin
 hyvineen
 hyvinvointialueittain
 iäti
+idempi
 ihan
 ihka
 ihmeemmin
@@ -310,6 +313,7 @@ kilpasilla
 kinoksittain
 kirje
 kissun
+kiukuspäissä
 kohdakkain
 kohme
 kohta
@@ -326,6 +330,7 @@ korkeakouluittain
 koskaan
 kosolti
 kotiinpäin
+kotkalaisittain
 kotoisin
 kotosalla
 kouluasteittain
@@ -339,6 +344,7 @@ kukaties
 kukkua
 kulloin
 kulmittain
+kumminkaan
 kumminkin
 kumollaan
 kumossa
@@ -365,6 +371,7 @@ kymmenittäin
 kyse
 laajalti
 laajemmalti
+lääpällä
 laatikoittain
 lähekkäin
 lähellä
@@ -380,7 +387,9 @@ laikuittain
 laimin
 lainkaan
 lainsäädäntötie
+läiskittäin
 lajeittain
+lajityypeittäin
 lakitie
 lännemmäs
 länsimaisittain
@@ -396,6 +405,7 @@ leikki
 lentokonelasteittain
 lentotie
 letkoittain
+liialti
 liiemmälti
 liiketoiminnoittain
 liiketoiminta-alueittain
@@ -489,6 +499,7 @@ niukalti
 no
 noin
 nokakkain
+nokatusten
 nokikkain
 nopeiten
 normaalilainsäädäntötie
@@ -578,6 +589,7 @@ pikkuhiljaa
 pikkuhoususilla
 pinokuutioittain
 pisaratie
+pisteittäin
 pitkälti
 pitkittäin
 pohjimmiltaan
@@ -590,6 +602,7 @@ poikkiteloin
 pois
 poispäin
 poissa
+pökerryksissä
 poliisilaitoksittain
 poliisipiireittäin
 pörhössä
@@ -614,6 +627,7 @@ puuskittain
 pyörryksissä
 raaka-aineryhmittäin
 radiotie
+rakennustyypeittäin
 ranskalaisittain
 ratsain
 rautatie
@@ -855,6 +869,8 @@ valkovenäläisittäin
 valtoimena
 vängällä
 vanhemmiten
+vankkumatta
+vantaalaisittain
 varhain
 varhemmin
 varpaisilla
@@ -944,5 +960,6 @@ ymmällä
 ympäri
 ympärillä
 ynnä
+yorkilaisittain
 ypöyksin
 yrityksittäin

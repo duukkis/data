@@ -119,6 +119,7 @@ Kesko
 Kia
 Kiasma
 klassikko-Jaguar
+klassikko-Windows
 kohu-Jaguar
 Koraani
 Kotus
@@ -132,6 +133,7 @@ LibreOffice
 Lidl
 Linnea
 Linux
+loki-Jumala
 lokinsiipi-Mersu
 Lost
 lukiolais-Linnea
@@ -212,10 +214,12 @@ Reuters
 Riigikogu
 robotti-Musti
 Roche
+rock-Finlandia
 Rotary
 rotta-Audi
 Saab
 sähkö-Audi
+sähkö-Hyundai
 sähkö-Mersu
 sähkö-Porsche
 sähkö-Volvo
@@ -252,6 +256,7 @@ Stuka
 Suomi-Instagram
 Suomi-Twitter
 Supo
+taksi-Mersu
 Tamiflu
 Tarzan
 Tavastia
@@ -260,6 +265,7 @@ tehdas-Hyundai
 Tehy
 Temo
 t-Ford
+Theseus
 tieto-Finlandia
 Tokmanni
 Toyota
