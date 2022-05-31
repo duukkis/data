@@ -485,6 +485,7 @@ näköjään
 näkösällä
 naukin
 näytillä
+neliömetreittäin
 neljännesvuosittain
 nenäkkäin
 nenätysten
@@ -501,6 +502,7 @@ noin
 nokakkain
 nokatusten
 nokikkain
+nokittain
 nopeiten
 normaalilainsäädäntötie
 nukuksissa
@@ -545,6 +547,7 @@ päin
 päinsä
 painuksissa
 päinvastoin
+päiten
 paitsi
 päittäin
 päiväsaikaan
@@ -667,6 +670,7 @@ sammuksissa
 samoin
 sangen
 satamäärin
+säteittäin
 sattumoisin
 savolaisittain
 seassa
@@ -711,6 +715,7 @@ sote-alueittain
 suinkin
 sujut
 sukkasillaan
+sukupuolitie
 sukupuolittain
 summamutikassa
 summanmutikassa
@@ -772,6 +777,7 @@ täytäntöön
 teemoittain
 tekeillä
 tekstiviesti
+tenä
 tie
 tiedekunnittain
 ties
@@ -863,6 +869,7 @@ vaivihkaa
 vakavissaan
 väkisin
 vakuutusyhtiöittäin
+valikoimajaksoittain
 valikoimittain
 valitustie
 valkovenäläisittäin

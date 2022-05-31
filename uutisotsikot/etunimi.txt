@@ -182,6 +182,7 @@ Antton
 Anu
 Anu-Elina
 Anu-Katriina
+Anu-Leena
 Anu-Maaria
 Anu-Maarit
 Anu-Maija
@@ -334,6 +335,7 @@ Eero-Pekka
 Eero-Veli
 Eeti
 Eetu
+Eetu-Mikko
 Eeva
 Eeva-Helena
 Eeva-Johanna
@@ -413,6 +415,7 @@ EM-Taisto
 EM-Unelma
 EM-Visa
 Enni
+Enni-Lotta
 Enok
 Ensio
 Eppu
@@ -463,6 +466,7 @@ Fanny
 Felix
 Feodor
 Ferdinand
+Ferrari-Unelma
 Fidel
 Fiona
 Foma
@@ -474,6 +478,7 @@ Franz
 Fred
 Freddy
 Fredrik
+Fredrik-Valdemar
 Freja
 Frida
 Friedrich
@@ -495,6 +500,7 @@ Gustaf
 Gustav
 Håkan
 Hal
+Hamilton-Taisto
 Hanna
 Hanna-Kaisa
 Hanna-Katariina
@@ -534,6 +540,7 @@ Heini-Tuuli
 Heino
 Helen
 Helena
+Helena-Ahti
 Helene
 Helga
 Helge
@@ -734,6 +741,7 @@ Jesper
 Jesse
 Jesse-Petteri
 Jessica
+Jessica-Sisko
 Jessika
 Jimi
 Joachim
@@ -787,6 +795,7 @@ Judith
 Juha
 Juha-Heikki
 Juha-Jaakko
+Juha-Markku
 Juha-Matti
 Juha-Miguel
 Juha-Mikko
@@ -869,6 +878,7 @@ Katri
 Katriina
 Katrina
 Kauko
+Kauko-Aatos
 Kauno
 Kay
 Kazuhiro
@@ -931,6 +941,7 @@ Lassi
 Lassi-Pekka
 Lati
 Laura
+Laura-Liisa
 Laura-Tuuli
 Lauri
 Lawrence
@@ -1032,6 +1043,7 @@ Mari-Anne
 Maria-Riitta
 Marie
 Marie-Eva
+Mari-Elina
 Mariella
 Marie-Philip
 Mariitta
@@ -1124,6 +1136,7 @@ Mielikki
 Miguel
 Miia
 Miika
+Miika-Markus
 Miikka
 Miina
 Miina-Anniina
@@ -1213,6 +1226,7 @@ Nestori
 Nestorin-Päivä
 Netta
 Newton-John
+NHL-Elvis
 NHL-Kasperi
 NHL-Laina
 NHL-Taisto
@@ -1462,10 +1476,12 @@ Saini
 Saint-Louis
 Sakari
 Sakarias
+Saksa-Päivä
 Saku-Pekka
 Salla-Maaria
 Salla-Maarit
 Salla-Marja
+Salla-Riikka
 Salme
 Salme-Martta
 Salome
@@ -1486,6 +1502,7 @@ Sanda
 Sandra
 Sanna
 Sanna-Kaisa
+Sanna-Leena
 Sanna-Liisa
 Sanna-Liisi
 Sanna-Maija
@@ -1509,6 +1526,7 @@ Sarita
 Sasu
 Saul
 Sauli
+Saulo
 Säynätsalo-Päivi
 Sebastian
 Seela
@@ -1534,6 +1552,7 @@ Siiri-Sisko
 Siivola
 Sikstus
 Silja
+Silja-Elisa
 Silja-Riikka
 Silva
 Silvia
@@ -1733,6 +1752,7 @@ Valtsu
 Valtteri
 Valtteri-Pyry
 Vanessa
+Vantaa-Päivä
 Vasili
 Vaula
 Veera

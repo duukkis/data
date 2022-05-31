@@ -102,6 +102,7 @@ kahdestoista
 kaksi
 kaksikymmentä
 kaksikymmentäkaksi
+kaksikymmentäkin
 kaksikymmentäkuusi
 kaksikymmentäneljä
 kaksikymmentätuhatta
@@ -163,6 +164,7 @@ neljä
 neljäkymmentä
 neljäkymmentäkaksi
 neljäkymmentätuhatta
+neljäkymmentäviisi
 neljäs
 neljäsataa
 neljäsataaneljäkymmentä

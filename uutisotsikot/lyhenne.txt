@@ -84,6 +84,7 @@ mini-LP
 mini-PC
 ml
 MM
+mobiili-PC
 mokka-e
 MP3
 MTK
@@ -140,6 +141,7 @@ tmi
 toosa-TV
 tosi-TV
 tri
+tshekki-DNA
 TV
 UKK
 urheilu-TV

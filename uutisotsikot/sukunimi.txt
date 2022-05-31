@@ -12,6 +12,7 @@ Abdulla
 Adams
 Adler
 Afganistanin-Haaranen
+Afrikan-Tuominen
 Ågren
 Ågren-Hakala
 Agricola
@@ -153,6 +154,7 @@ Bärlund-Toivonen
 Bates
 Baudelaire
 Bauer
+Baumgartner
 Beauvoir
 Beckett
 Beckman
@@ -362,6 +364,7 @@ Freud
 Friberg
 Friman
 Furman
+Gahmberg
 Galilei
 Gallen-Kallela
 Gauss
@@ -546,9 +549,11 @@ Helkama
 Hellgren
 Hellman
 Hellsten
+Hellstén
 Hellström
 Helminen
 Helovirta
+Helsinki-Hall
 Helve
 Hemmilä
 Hendunen
@@ -569,6 +574,7 @@ Hihnala
 Hilden
 Hildén
 Hillilä
+Hilpinen
 Hiltunen
 Himanen
 Hinkkanen
@@ -599,6 +605,7 @@ Holmén
 Holmes
 Holmlund
 Holmqvist
+Holmqvist-Sipilä
 Holmroos
 Holmström
 Holopainen
@@ -705,6 +712,7 @@ Jaakkola
 Jaakola
 Jaatinen
 Jäätteenmäki
+Jack-Koiranen
 Jackson
 Jahnukainen
 Jakobsson
@@ -925,6 +933,7 @@ Ketonen
 Kettunen
 Kianto
 Kiina-Lehtinen
+Kiina-Riski
 Kiiski
 Kiiskinen
 Kiljunen
@@ -932,6 +941,7 @@ Kilpeläinen
 Kilpi
 Kilpi-Jakonen
 Kilpinen
+Kilpi-Nevalainen
 Kilponen
 Kiminkinen
 Kimmel
@@ -1352,6 +1362,7 @@ Marttinen
 Marx
 Maskonen
 Matero
+Matero-Puttonen
 Matheson
 Matikainen
 Matikainen-Kallström
@@ -1383,6 +1394,7 @@ Meltti
 Menshikov
 Menšikov
 Mentula
+Mercier
 Merikanto
 Meriläinen
 Meri-Toppila
@@ -1499,6 +1511,7 @@ Nikkanen
 Nikkarinen
 Nikkinen
 Nikkola
+Nikkonen
 Niklander
 Niklas-Salminen
 Nikula
@@ -1593,6 +1606,7 @@ Owen
 öykkäri-Palmu
 Paajanen
 Pääjärvi
+Paakinaho-Heikkinen
 Paakkanen
 Paakki
 Paakkinen
@@ -1638,6 +1652,7 @@ Parkinson
 Parkkari
 Parkkila
 Parkkinen
+Parkkola
 Parkkonen
 Pärnänen
 Paronen
@@ -1783,6 +1798,7 @@ Putkinen
 Putkonen
 Puttonen
 Puumalainen
+Puurtinen
 Puurunen
 Puustinen
 Puustinen-Korhonen
@@ -1906,6 +1922,7 @@ Ritala
 Ritola
 Roberts
 Roberts-Smith
+Robertsson
 Roiha
 Roikonen
 Roimola
@@ -1976,6 +1993,7 @@ Ryhänen
 Ryömä
 Ryti
 Rytkönen
+Rytkönen-Sandberg
 Ryttyläinen-Korhonen
 Ryymin
 Ryynänen
@@ -1983,6 +2001,7 @@ Ryyppö
 Saarakkala
 Saaranen
 Saarela
+Saarela-Tainio
 Saarento
 Saarikko
 Saarnio
@@ -2020,6 +2039,7 @@ Sandström-Hovi
 Santala
 Santanen
 Sarajuuri
+Sarasalo
 Sarasvuo
 Sariola
 Sarkanen
@@ -2031,6 +2051,7 @@ Sarvas
 Sasi
 Sassi
 Saukkonen
+Saura
 Sävelä
 Saveljeff
 Savenius
@@ -2126,6 +2147,7 @@ Sjöberg
 Sjöblom
 Sjögren
 Sjöholm
+Sjöstedt
 Sjöström
 Skinnari
 Skog
@@ -2246,6 +2268,7 @@ Talaskivi
 Talaslahti
 Talasmäki
 Talasniemi
+Talasrinne
 Talasterä
 Talikka
 Tallberg
@@ -2530,6 +2553,7 @@ Vuohelainen
 Vuojolainen
 Vuokola
 Vuolijoki
+Vuontela
 Vuorela
 Vuorio
 Vuorio-Wilson

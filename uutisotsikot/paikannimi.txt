@@ -114,6 +114,7 @@ Australia
 Azerbaidžan
 Azerbaidzhan
 Babylon
+Babylonia
 Baden
 Baden-Baden
 Bagdad
@@ -155,6 +156,7 @@ Bonn
 Böömi
 Bordeaux
 Borneo
+Bospori
 Boston
 Boström-Mäkelä
 Botswana
@@ -173,6 +175,7 @@ Brunei
 Bryssel
 Budapest
 Bukarest
+Burjatia
 Burundi
 Bysantti
 Calgary
@@ -223,6 +226,7 @@ Eeva-Mari
 Egeanmeri
 Egypti
 Eira
+EK-Pohja
 Elbe
 Elijärvi
 Elimäki
@@ -232,6 +236,7 @@ EM-Altai
 EM-Koitto
 Emma-Mari
 Emmi-Inkeri
+EM-München
 EM-Taipale
 Englanti
 Englanti-Italia
@@ -277,6 +282,7 @@ Etelä-Helsinki
 Etelä-Hervanta
 Etelä-Hyvinkää
 Etelä-Intia
+Etelä-Irak
 Etelä-Israel
 Etelä-Italia
 Etelä-Itämeri
@@ -297,6 +303,7 @@ Etelä-Lontoo
 Etelä-Madagaskar
 Etelä-Manchester
 Etelä-Meksiko
+Etelä-Mesopotamia
 Etelä-Miami
 Etelä-Nevada
 Etelä-Norja
@@ -421,6 +428,7 @@ Hanne-Mari
 Hannover
 Hanoi
 Harare
+Hartikkala
 Hartola
 Harvard
 Hastings
@@ -456,12 +464,14 @@ Helsinki-Vantaa
 Helsinki-Venetsia
 Hennala
 Heretty
+Hermanni-Ruka
 Herrala
 Hertsegovina
 Herttoniemi
 Hervanta
 Hessen
 Hetta
+Hetta-Pallas
 Hietanen-Peltola
 Hiitola
 Hiltula
@@ -770,10 +780,12 @@ Kauniainen
 Kaunismäki
 Kaunispää
 Kauppila
+Kaurila
 Kaustinen
 Kazakstan
 Kazan
 Keitele
+Kelankylä
 Kemi
 Kemie
 Kemihaara
@@ -824,6 +836,7 @@ Keski-Siperia
 Keski-Suomi
 Keski-Töölö
 Keski-Ukraina
+Keski-Ural
 Keski-Uruguay
 Keski-Uusimaa
 Keski-Vantaa
@@ -877,6 +890,7 @@ Koillis-Australia
 Koillis-Brasilia
 Koillis-Englanti
 Koillis-Espanja
+Koillis-Eurooppa
 Koillis-Helsinki
 Koillis-Irak
 Koillis-Islanti
@@ -1051,6 +1065,7 @@ Länsi-Lappi
 Länsi-Lontoo
 Länsi-Myanmar
 Länsi-Niili
+Länsi-Orimattila
 Länsi-Pakila
 Länsi-Papua
 Länsi-Pasila
@@ -1084,6 +1099,7 @@ Lappee
 Lappi
 Lappohja
 Lapua
+Lapväärti
 Lapvesi
 Lätäseno
 Laukaa
@@ -1290,8 +1306,10 @@ Mirka-Mari
 Mississippi
 Missouri
 MM-Japani
+MM-Koitto
 MM-Kolari
 MM-Latvia
+MM-Taipale
 Mogadishu
 Möhkö
 Moldavia
@@ -1485,6 +1503,7 @@ Partala
 Pasila
 Patagonia
 Patari
+Patola
 Pattijoki
 Pedersöre
 Peipsijärvi
@@ -1537,6 +1556,7 @@ Pisa
 Pispala
 Pohja
 Pohjanmaan-Kainuu
+Pohjoinen-Atlantti
 Pohjois-Aasia
 Pohjois-Afganistan
 Pohjois-Afrikka
@@ -1545,6 +1565,7 @@ Pohjois-Alaska
 Pohjois-Amerikka
 Pohjois-Atlantti
 Pohjois-Bhutan
+Pohjois-Bolivia
 Pohjois-Böömi
 Pohjois-Brasilia
 Pohjois-Carolina
@@ -1610,6 +1631,7 @@ Pohjois-Tromssa
 Pohjois-Turku
 Pohjois-Tyynimeri
 Pohjois-Uganda
+Pohjois-Ural
 Pohjois-Uruguay
 Pohjois-Virginia
 Pohjola
@@ -1910,6 +1932,7 @@ Suomi-Slovakia
 Suomi-Somalia
 Suomi-Sveitsi
 Suomi-Syyria
+Suomi-Tshekki
 Suomi-Ukraina
 Suomi-Venäjä
 Suomi-Viro
@@ -2029,6 +2052,7 @@ Torino
 Törmälä
 Törnävä
 Tornio
+Tornion-Ylitornio
 Toronto
 Toscana
 Tottijärvi
@@ -2059,7 +2083,9 @@ Tukholma-Los
 Tula
 Tunguska
 Tunisia
+Tuntsa
 Tuomarila
+Tupala
 Turenki
 Turkki
 Turkmenistan
@@ -2107,6 +2133,7 @@ Uusi-Guinea
 Uusikaarlepyy
 Uusi-Kaledonia
 Uusikaupunki
+Uusikirkko
 Uusikylä
 Uusimaa
 Uusi-Seelanti
@@ -2179,6 +2206,7 @@ Viikki
 Viinikkala
 Viipuri
 Viljakkala
+Villala
 Ville-Eno
 Villinki
 Vilna
@@ -2215,6 +2243,7 @@ Ylä-Kainuu
 Ylä-Lappi
 Ylä-Levi
 Ylämaa
+Ylä-Malmi
 Yläne
 Ylä-Satakunta
 Ylä-Savo
