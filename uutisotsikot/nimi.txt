@@ -25,6 +25,7 @@ Arava
 arkkitehtuuri-Finlandia
 arvo-Porsche
 Aspirin
+ässä-Mersu
 Ateneum
 Aten-Jumala
 Athene
@@ -46,9 +47,11 @@ Coca-Cola
 Colt
 Core
 Crash
+Cujo
 Dalai-lama
 Dallas-Mersu
 Dei
+diesel-Mersu
 Dionysos
 Edita
 El
@@ -219,6 +222,7 @@ Rotary
 rotta-Audi
 Saab
 sähkö-Audi
+sähkö-Ford
 sähkö-Hyundai
 sähkö-Mersu
 sähkö-Porsche
@@ -243,6 +247,7 @@ sivuosa-Oscar
 Siwa
 Sojuz
 Sokos
+some-Maa
 some-Puh
 Sonera
 Sony
@@ -264,6 +269,7 @@ Teboil
 tehdas-Hyundai
 Tehy
 Temo
+Tend
 t-Ford
 Theseus
 tieto-Finlandia

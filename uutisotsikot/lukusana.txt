@@ -29,6 +29,7 @@
 -309
 -33
 -331
+-34
 -35
 -350
 -352
@@ -67,6 +68,7 @@ aamuneljä
 aamuseitsemän
 aamuviisi
 aamuyhdeksän
+aamuyhteentoista
 aamuyksi
 biljoona
 ensimmäinen
@@ -163,6 +165,7 @@ nelisentuhatta
 neljä
 neljäkymmentä
 neljäkymmentäkaksi
+neljäkymmentäkuusi
 neljäkymmentätuhatta
 neljäkymmentäviisi
 neljäs
@@ -210,6 +213,7 @@ vii
 VII
 viides
 viideskymmenes
+viideskymmeneskolmas
 viidessadas
 viidestoista
 viii
@@ -243,6 +247,7 @@ xviii
 xx
 XX
 xxiii
+xxv
 xxvii
 xxx
 XXX

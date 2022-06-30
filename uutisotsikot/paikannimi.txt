@@ -289,6 +289,7 @@ Etelä-Itämeri
 Etelä-Jemen
 Etelä-Juva
 Etelä-Kalifornia
+Etelä-Kallavesi
 Etelä-Karjala
 Etelä-Kaukasia
 Etelä-Kazakstan
@@ -299,6 +300,7 @@ Etelä-Korea
 Etelä-Kuusamo
 Etelä-Lappi
 Etelä-Libanon
+Etelä-Liettua
 Etelä-Lontoo
 Etelä-Madagaskar
 Etelä-Manchester
@@ -310,6 +312,7 @@ Etelä-Norja
 Etelä-Ohio
 Etelä-Orkney
 Etelä-Ossetia
+Etelä-Päijänne
 Etelä-Pohja
 Etelä-Portugali
 Etelä-Posio
@@ -340,6 +343,7 @@ Etelä-Vietnam
 Etelä-Viro
 Etelä-Vuosaari
 Etelä-Wales
+Etelä-Yhdysvalta
 Etiopia
 Etna
 EU-Irlanti
@@ -349,6 +353,7 @@ Eurajoki
 Eurooppa
 EU-Suomi
 EU-Taipale
+EU-Ukraina
 EU-Viro
 Eväjärvi
 Eva-Mari
@@ -371,6 +376,7 @@ Forssa
 Francisco
 Frankfurt
 Gabon
+Galilea
 Gallia
 Gambia
 Gaza
@@ -405,7 +411,9 @@ Hailuoto
 Haiti
 Hakala-Mikkola
 Hakkila
+Hakojärvi
 Hakovirta
+Halden
 Halikko
 Halsua
 Halti
@@ -566,6 +574,7 @@ Itä-Hakkila
 Itä-Häme
 Itä-Helsinki
 Itä-Hervanta
+Itä-Hollanti
 Itä-Hollola
 Itä-Indonesia
 Itä-Intia
@@ -574,6 +583,7 @@ Itä-Jerusalem
 Itä-Kanada
 Itä-Karjala
 Itä-Kiina
+Itä-Kurdistan
 Itä-Lappi
 Italia
 Italia-Espanja
@@ -625,6 +635,7 @@ Jamaika
 Jamali
 Jämijärvi
 Jämsä
+Jämsä-Jyväskylä
 Janakkala
 Japani
 Japanin-Venäjä
@@ -654,6 +665,7 @@ Joutseno
 Juankoski
 Jugoslavia
 Junttila
+Juokslahti
 Juorkuna
 Jurmo
 Jurva
@@ -677,6 +689,7 @@ Kaakkois-Helsinki
 Kaakkois-Itävalta
 Kaakkois-Meksiko
 Kaakkois-Nigeria
+Kaakkois-Pakistan
 Kaakkois-Siperia
 Kaalamo
 Kaamanen
@@ -691,6 +704,7 @@ Kainuu
 Kairo
 Kaisa-Mari
 Kaisaniemi
+Kaisu-Mari
 Kaitajärvi
 Kaivoksela
 Kajaani
@@ -734,6 +748,7 @@ Kannus
 Kansas
 Kanta-Häme
 Kanta-Helsinki
+Kanta-Kouvola
 Kanta-Oulu
 Kanttura
 Kapkaupunki
@@ -752,6 +767,8 @@ Karkku
 Kärkölä
 Karlskrona
 Karlsruhe
+Karmala
+Karpaatti
 Kärsämäki
 Karstula
 Karthago
@@ -764,6 +781,7 @@ Kaskinen
 Kaspianmeri
 Katalonia
 Kathmandu
+Katja-Mari
 Kauhajoki
 Kauhajoki-Isojoki
 Kauhajoki-Karvia
@@ -887,11 +905,13 @@ Koillis-Aasia
 Koillis-Afganistan
 Koillis-Afrikka
 Koillis-Australia
+Koillis-Bangladesh
 Koillis-Brasilia
 Koillis-Englanti
 Koillis-Espanja
 Koillis-Eurooppa
 Koillis-Helsinki
+Koillis-Intia
 Koillis-Irak
 Koillis-Islanti
 Koillis-Itävalta
@@ -979,6 +999,7 @@ Kronstadt
 Kruununhaka
 Kruunupyy
 Kuha
+Kuhmalahti
 Kuhmo
 Kuhmoinen
 Kuisma
@@ -1003,6 +1024,7 @@ Kurgan
 Kurikka
 Kursk
 Kuru
+Kustaanmiekka
 Kustavi
 Kuttura
 Kuuba
@@ -1167,6 +1189,7 @@ Louisiana
 Lounais-Afrikka
 Lounais-Australia
 Lounais-Häme
+Lounais-Kolumbia
 Lounais-Lappi
 Lounais-Lontoo
 Lounais-Meksiko
@@ -1328,6 +1351,7 @@ Moskova
 Mouhijärvi
 MTK-Bryssel
 MTK-Pielavesi
+MTK-Satakunta
 MTK-Uusimaa
 MTK-Varsinais-Suomi
 Muhos
@@ -1336,6 +1360,7 @@ Multia
 Mumbai
 München
 München-Kiova
+Muolaa
 Muonio
 Muotka
 Murmansk
@@ -1365,6 +1390,7 @@ Näsijärvi
 Nassau
 Nastola
 Natal
+Nato-Eurooppa
 Nauvo
 Nebraska
 Neea-Mari
@@ -1392,14 +1418,17 @@ Nivala
 Nivala-Haapajärvi
 Nizza
 Nokia
+Nokian-Ylöjärvi
 Noljakka
 Noormarkku
 Normandia
 Nousiainen
 Novgorod
 Novosibirsk
+Nuaskylä
 Nubia
 Nummela
+Nunnanen
 Nuorgam
 Nurmes
 Nurmo
@@ -1446,6 +1475,7 @@ Oulu-Helsinki
 Oulujärvi
 Oulujoen-Iijoki
 Oulujoki
+Oulu-Kainuu
 Oulu-Kajaani-Kuopio
 Oulu-Kemi
 Oulu-Kemi-Rovaniemi
@@ -1509,6 +1539,7 @@ Pedersöre
 Peipsijärvi
 Peking
 Pekkanen-Mattila
+Pelkosenniemen-Savukoski
 Pellinki
 Pello
 Peloponnesos
@@ -1516,6 +1547,7 @@ Peltola
 Peltovuoma
 Pennsylvania
 Penttilä
+Perä-Posio
 Peräseinäjoki
 Perho
 Perkjärvi
@@ -1533,6 +1565,7 @@ Pieksämäki
 Pielavesi
 Pielavesi-Keitele
 Pielinen
+Pielisen-Karjala
 Pielisjärvi
 Pielisjoki
 Pietarhovi
@@ -1602,6 +1635,7 @@ Pohjois-Lontoo
 Pohjois-Mali
 Pohjois-Mariaani
 Pohjois-Marokko
+Pohjois-Meksiko
 Pohjois-Mongolia
 Pohjois-Mosambik
 Pohjois-Myanmar
@@ -1622,10 +1656,12 @@ Pohjois-Seine
 Pohjois-Siperia
 Pohjois-Skotlanti
 Pohjois-Sumatra
+Pohjois-Sveitsi
 Pohjois-Sysmä
 Pohjois-Syyria
 Pohjois-Tallinna
 Pohjois-Tampere
+Pohjois-Tansania
 Pohjois-Tapiola
 Pohjois-Tromssa
 Pohjois-Turku
@@ -1668,6 +1704,7 @@ Provence
 Pudasjärvi
 Puhos
 Puijo
+Puikkola
 Puistola
 Pukkila
 Pulkkila
@@ -1699,8 +1736,10 @@ Raahe-Ylivieska
 Rääkkylä
 Raasepori
 Rahajärvi
+Räihä-Mäntyharju
 Räisälä
 Raisio
+Raisio-Naantali
 Raja-Jooseppi
 Ramallah
 Ranska
@@ -1826,6 +1865,7 @@ Savo-Karjala
 Savo-Pielinen
 Savukoski
 Säynätsalo
+Säyneinen
 Schengen
 Seattle
 Sedan
@@ -1996,6 +2036,7 @@ Tampereen-Pori
 Tampere-Helsinki-Vantaa
 Tampere-Orivesi
 Tampere-Pirkkala
+Tampere-Toijala
 Tanninen-Mattila
 Tansania
 Tanska
@@ -2028,6 +2069,7 @@ Thessalia
 Tiala
 Tiia-Mari
 Tiibet
+Tiina-Mari
 Tiirismaa
 Tikkala
 Tikkurila
@@ -2041,6 +2083,7 @@ Togo
 Tohmajärvi
 Toholampi
 Toijala
+Toijala-Tampere
 Toimela
 Toivakka
 Tokelau
@@ -2049,6 +2092,7 @@ Tonava
 Tonga
 Töölö
 Torino
+Torkkeli-Lahti
 Törmälä
 Törnävä
 Tornio

@@ -84,6 +84,7 @@ mini-LP
 mini-PC
 ml
 MM
+MM-ralli-EK
 mobiili-PC
 mokka-e
 MP3
@@ -112,6 +113,7 @@ pj
 poliisi-TV
 PR
 PS
+puoli-q
 ralli-SM
 rkl
 RKP

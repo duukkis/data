@@ -7,6 +7,7 @@ aasialaisittain
 afganistanilaisittain
 afrikkalaisittain
 aiemmin
+aihepiireittäin
 aikaisemmin
 aikaisin
 aimo
@@ -117,6 +118,7 @@ hallussa
 haltioissaan
 hamassa
 hämillä
+hammashoitoloittain
 harppauksittain
 harvaan
 harvakseen
@@ -315,6 +317,7 @@ kirje
 kissun
 kiukuspäissä
 kohdakkain
+kohdakkoin
 kohme
 kohta
 koillismaalaisittain
@@ -435,6 +438,7 @@ maanosittain
 maantie
 maatie
 maittain
+malleittain
 marxilaisittain
 massoittain
 meikäläisittäin
@@ -442,6 +446,7 @@ melkein
 meneillä
 meri
 meritie
+merkeittäin
 metreittäin
 mieluimmin
 mieluiten
@@ -492,6 +497,7 @@ nenätysten
 nettitie
 neuvottelutie
 niin
+niinpäin
 nimenomaan
 nimittäin
 nipin
@@ -537,6 +543,7 @@ päällekkäin
 päällepäin
 pääluokittain
 pääpiirteittäin
+päätoimialoittain
 pahiten
 pahitteeksi
 paikkakunnittain
@@ -547,6 +554,7 @@ päin
 päinsä
 painuksissa
 päinvastoin
+päistikkaa
 päiten
 paitsi
 päittäin
@@ -579,6 +587,7 @@ perhekunnittain
 perillä
 perisuomalaisittain
 perjantaisin
+perkele
 perussuomalaisittain
 piakkoin
 piilosilla

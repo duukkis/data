@@ -155,8 +155,10 @@ Annikki
 Anni-Kristiina
 Anni-Lotta
 Anni-Maaria
+Anni-Maija
 Anni-Marja
 Annina
+Anni-Saara
 Anni-Sofia
 Anni-Stiina
 Annukka
@@ -299,6 +301,7 @@ Colin
 Daavid
 Dagmar
 Daisy
+Damokles
 Daniel
 Daniela
 Dante
@@ -332,6 +335,7 @@ Eerikki
 Eero
 Eero-Matti
 Eero-Pekka
+Eero-Tapani
 Eero-Veli
 Eeti
 Eetu
@@ -463,6 +467,7 @@ Evert
 Fabian
 Fanni
 Fanny
+Fanny-Amanda
 Felix
 Feodor
 Ferdinand
@@ -533,6 +538,7 @@ Hauho-Päivä
 Heidi
 Heidi-Maria
 Heikki
+Heikkis-Jaska
 Heikki-Veli
 Heini
 Heini-Sisko
@@ -563,6 +569,7 @@ Hennariikka
 Henni
 Henri
 Henrietta
+Henriika
 Henriikka
 Henri-Ilari
 Henrik
@@ -887,6 +894,7 @@ Keimo
 Keke
 Kenneth
 Kerstin
+Keto-Orvokki
 Kev
 Kevin
 Kia-Emilia
@@ -1120,6 +1128,7 @@ Meri-Anna
 Meri-Helmi
 Meri-Ilma
 Meri-Maija
+Meri-Sisko
 Merituuli
 Meri-Tuuli
 Merja
@@ -1148,6 +1157,7 @@ Mikaela
 Mika-Jussi
 Mike
 Mikko
+Mikko-Pekka
 Mikko-Petteri
 Miko
 Miksu
@@ -1191,6 +1201,7 @@ Missi-Katariina
 Missi-Laura
 Missi-Lotta
 Missi-Riikka
+Missi-Rosa
 Missi-Viivi
 MM-Taisto
 MM-Unelma
@@ -1349,6 +1360,7 @@ Pia-Pauliina
 Pierre-Emil
 Pierre-Jean
 Pierre-Joseph
+Pierre-Louis
 Pietari
 Pietari-Paavali
 Pietari-Saima
@@ -1434,7 +1446,9 @@ Riku-Sakari
 Rimma
 Rinna
 Risto
+Risto-Matti
 Risto-Pekka
+Risto-Veikko
 Ritva
 Ritva-Liisa
 Robert
@@ -1675,6 +1689,7 @@ Tolkien-Päivä
 Tom
 Tomas
 Tomas-Veli
+Tom-Erik
 Tomi
 Tomi-Erik
 Tomi-Pekka
@@ -1704,6 +1719,7 @@ Tuula-Sinikka
 Tuuli
 Tuulikki
 Tuuli-Susanna
+Tuuli-Tytti
 Tuure
 TV-Alan
 TV-Sohvi
@@ -1720,6 +1736,7 @@ Ulla-Lena
 Ulla-Maaria
 Ulla-Maija
 Ulla-Marja
+Ulla-Riikka
 Ulla-Riitta
 Ulpu
 Ulrika

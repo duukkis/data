@@ -4,6 +4,7 @@ Aalto-Alanen
 Aaltonen
 Aalto-Setälä
 äänestäjä-Mäkinen
+Aapala
 Aapo-Koiranen
 Aarnio
 Abbey
@@ -49,6 +50,7 @@ Aikio
 Aikio-Tallgren
 Ailio
 Aimo-Koivisto
+Aina-Karhunen
 Airaksinen
 Airas
 Airila
@@ -170,6 +172,7 @@ Bergström
 Bering
 Berner
 Biaudet
+Bingen
 Bismarck
 Björk
 Björklund
@@ -685,6 +688,7 @@ Ikävalko
 Ikävalko-Lindqvist
 Ikola
 Ikonen
+Ilaskivi
 Illikainen
 Ilvonen
 Immonen
@@ -980,6 +984,7 @@ Koivunen
 Kojonen
 Kokkari
 Kokkila
+Kokkinen
 Kokkonen
 Kolehmainen
 Koli
@@ -1147,6 +1152,7 @@ Landström
 Lång
 Långström
 Lankinen
+Lantiainen
 Laplace
 Lappalainen
 Lappi-Seppälä
@@ -1349,6 +1355,7 @@ Mäntylä
 Mäntynen
 Mäntysaari
 Mao
+Marja-Aho
 Marjanen
 Markkanen
 Markkula
@@ -1417,6 +1424,7 @@ Mikkola-Riekkinen
 Mikkonen
 Mikkonen-Engman
 Mikojan
+Mikonmäki
 Miller
 Minardi
 Minkkinen
@@ -1430,6 +1438,7 @@ Moilanen
 Moisander
 Moisander-Jylhä
 Moisio
+Mökkönen
 Molander
 Mollberg
 Molotov
@@ -1484,6 +1493,7 @@ Näveri
 Näykki
 Neck
 Nederström
+Neiglick
 Nenonen
 Nesser
 Neuman
@@ -2062,6 +2072,7 @@ Schildt
 Schjerfbeck
 Schönberg
 Schroderus
+Schrödinger
 Schubert
 Schuller
 Schumacher
@@ -2095,6 +2106,7 @@ Sihvonen
 Siikala
 Siikanen
 Siilasmaa
+Siilasvuo
 Siippainen
 Siirilä
 Siiskonen
@@ -2209,6 +2221,7 @@ Stokes
 Stolypin
 Strandberg
 Strandén
+Strandman
 Strindberg
 Ström
 Strömberg
@@ -2299,6 +2312,7 @@ Taylor
 Tegelberg
 Teijo
 Teittinen
+Telakivi
 Telaranta
 Telivuo
 Tenhunen
@@ -2471,6 +2485,7 @@ Vares-Kantola
 Varesvuo
 Varjola
 Varjonen
+Varmavuo
 Varonen
 Vartiainen
 Vartiainen-Koskela-Pitkänen
@@ -2491,6 +2506,7 @@ Veijalainen
 Veijanen
 Veijola
 Veijonen
+Vellonen
 Vennamo
 Vento
 Vepsäläinen
@@ -2553,6 +2569,7 @@ Vuohelainen
 Vuojolainen
 Vuokola
 Vuolijoki
+Vuolijoki-Marttinen
 Vuontela
 Vuorela
 Vuorio
@@ -2595,6 +2612,7 @@ Williams-Autto
 Wilman-Koistinen
 Wilson
 Witting
+Woolf
 Wrede
 Wright
 Wright-Laiho

@@ -78,6 +78,7 @@ aseennäköinen
 asevelvollinen
 asiakaskeskeinen
 asiakeskeinen
+asiamukainen
 asianmukainen
 asianomainen
 asiantuntijaviranomainen
@@ -101,6 +102,7 @@ balttilainen
 baskilainen
 beigenruskea
 berberijuutalainen
+binääri
 bisnesrikollinen
 b-nuori
 boikotinomainen
@@ -133,6 +135,7 @@ ei-binääri
 ei-islamilainen
 ei-juutalainen
 eilinen
+ei-musta
 ei-normaali
 ei-oppivelvollinen
 ei-poliittinen
@@ -269,6 +272,7 @@ hapan
 hapero
 harmaa
 harmaanruskea
+harmaanvihreä
 härmäläinen
 harrastuksenomainen
 harvinaissairas
@@ -318,6 +322,7 @@ höntti
 höperö
 höppänä
 höpsö
+hotellinomainen
 housumallinen
 höyhensarjalainen
 huikeankorkea
@@ -366,6 +371,7 @@ ihmisläheinen
 ihmisoikeuspoliittinen
 iisalmelaisnuori
 ikävä
+ikävännäköinen
 iki-ihanainen
 ikinuori
 ikioma
@@ -381,7 +387,9 @@ ilmoitusvelvollinen
 iltapäiväkerholainen
 imatralaisnuori
 imbesilli
+inarilaisnuori
 inarinsaamelainen
+indeksimallinen
 inkeriläinen
 inkerinkarjalainen
 inkerinsuomalainen
@@ -538,6 +546,7 @@ keravalaisnuori
 kerettiläinen
 kerholainen
 kesälomalainen
+kesäteatterilainen
 keskeinen
 keskikova
 keskimääräsuomalainen
@@ -594,6 +603,7 @@ koillismaalainen
 kokoomuslainen
 kolea
 kolho
+kolmionmallinen
 koltansaamelainen
 kolttasaamelainen
 kolumbialaisviranomainen
@@ -602,6 +612,7 @@ komeannäköinen
 konemallinen
 konkreetti
 konservatiivis-äärioikeistolainen
+konsolimallinen
 konstantti
 korinttilainen
 korkea
@@ -695,6 +706,7 @@ lainmukainen
 lainvalvontaviranomainen
 laiska
 laitaoikeistolainen
+laitavasemmistolainen
 lajinmukainen
 lajinomainen
 lakitekstikeskeinen
@@ -715,11 +727,13 @@ lapsipoliittinen
 laskuhumalainen
 lastensuojeluviranomainen
 latinalainen
+latvialaisvieras
 lauha
 lautasmallinen
 lauttasaarelainen
 legioonalainen
 leikinomainen
+leikkovihreä
 leniniläinen
 lentokenttäviranomainen
 lentoturvallisuusviranomainen
@@ -793,6 +807,7 @@ mäkitupalainen
 maksuvelvollinen
 malaijilainen
 mallinen
+mannersuomalainen
 Manner-suomalainen
 mänttäläisnuori
 maolainen
@@ -816,6 +831,7 @@ matkustusmallinen
 matkustusviranomainen
 mattamusta
 mediapoliittinen
+mediavalvontaviranomainen
 mediaviranomainen
 megatakamusta
 meksikolaisviranomainen
@@ -844,9 +860,12 @@ monenkeskeinen
 monennäköinen
 monituottajamallinen
 moottorikerholainen
+moottoripyöräkerholainen
+moraalis-poliittinen
 muinaisnorja
 muinaissukulainen
 muinaissuomalainen
+muinaistulokas
 muinais-ugrilainen
 muinaisvenäläinen
 mukainen
@@ -882,6 +901,7 @@ neliönmallinen
 nero
 nettirikollinen
 neutraali
+newjerseyläinen
 newyorkilainen
 NHL-äijä
 NHL-huipputulokas
@@ -892,6 +912,7 @@ NHL-supertulokas
 NHL-tulokas
 NHL-tupla
 nigerialaiskulta
+nilkkapituinen
 nimenomainen
 nimikkoaikuinen
 niukka
@@ -1049,6 +1070,7 @@ pikimusta
 pikkuäijä
 pikkuhelle
 pikkuinen
+pikkukuuro
 pikkumusta
 pikkurietas
 pikkurikollinen
@@ -1084,6 +1106,7 @@ pohjois-norja
 pohjoispohjanmaalainen
 pohjoisruotsalainen
 pohjoissuomalainen
+pohjois-venäläinen
 pöhkö
 pökkelö
 poliisiviranomainen
@@ -1149,6 +1172,7 @@ raakalainen
 raavas
 radikaali
 radikaalioikeistolainen
+radikaalivasemmistolainen
 rahanpesuviranomainen
 rahapelipoliittinen
 rahapoliittinen
@@ -1193,6 +1217,7 @@ refleksinomainen
 reininmaalainen
 remakka
 repale
+reposaarelainen
 reseptilääkkeenkaltainen
 revolverimallinen
 rietas
@@ -1264,12 +1289,15 @@ samanpituinen
 samoalainen
 sanfranciscolainen
 sankamallinen
+sanmarinolainen
 sarjarikollinen
 satamaviranomainen
+sateenkaaripoliittinen
 sateenkaarisaamelainen
 säteilyturvallisuusviranomainen
 saudiviranomainen
 scifi-uutukainen
+Sedan-mallinen
 seinäjokelaisnuori
 Seinäjoki-keskeinen
 seitakuorolainen
@@ -1495,6 +1523,7 @@ täydennyspalvelusvelvollinen
 täysmusta
 täyspitkä
 täyspöljä
+täystollo
 täytäntöönpanoviranomainen
 teatterilainen
 teatterinomainen
@@ -1525,6 +1554,7 @@ texasilaisviranomainen
 tiedepoliittinen
 tiedusteluviranomainen
 tietosuojaviranomainen
+tietoturvarikollinen
 tietoturvaviranomainen
 tietoverkkorikollinen
 tietynmallinen
@@ -1542,6 +1572,7 @@ t-mallinen
 todenmukainen
 todennäköinen
 tohelo
+toimilupaviranomainen
 toimintamallinen
 toimitusvelvollinen
 toistuttu
@@ -1576,6 +1607,7 @@ tummanharmaa
 tummanrautias
 tummanruskea
 tummanvihreä
+tunnelinomainen
 tunnuksenomainen
 tuollainen
 tuotantomallinen
@@ -1635,6 +1667,7 @@ ukrainalaisnuori
 ukrainalaisorpo
 ukrainalaissiviili
 ukrainalais-venäläinen
+ukrainalaisvieras
 ukrainalaisviranomainen
 ukrainanjuutalainen
 ulkoilulainmukainen
@@ -1655,6 +1688,7 @@ ultratiukka
 ultraviileä
 ultravioletti
 ummikko
+umpihölmö
 umpihullu
 umpiköyhä
 umpipoliittinen
@@ -1764,6 +1798,7 @@ vätysteatterilainen
 vauras
 vaurastuttava
 vaurastuttu
+vedenjakeluviranomainen
 vehmas
 veikeä
 vekkuli
@@ -1817,6 +1852,7 @@ vihreämusta
 vihtahousu
 viileä
 viimeinen
+viinijärveläinen
 viitasaarelainen
 villi
 vilu
