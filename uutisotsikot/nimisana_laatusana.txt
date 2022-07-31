@@ -58,6 +58,7 @@ amerikkalais-brittiläinen
 amerikkalaisnuori
 amerikkalaisrakas
 amerikkalais-suomalainen
+amerikkalaisvieras
 amerikkalaisviranomainen
 ammattiaikuinen
 ammattirikollinen
@@ -67,6 +68,7 @@ antidopingviranomainen
 antiseptinen
 a-nuori
 apea
+apurahasuomalainen
 arjalainen
 arkkitehtuuripoliittinen
 arkkivihollinen
@@ -201,6 +203,7 @@ erikoisäijä
 erikoiskuiva
 erikoiskylmä
 erikoispitkä
+erikoissuuri
 erikoisvieras
 erikorkuinen
 erinäköinen
@@ -240,12 +243,14 @@ EU-suomalainen
 EU-viranomainen
 EU-vironomainen
 EU-yhteensopiva
+eväjalkainen
 evankelis-luterilainen
 evankelisluterilainen
 farkkutakamusta
 farmarimallinen
 farssinomainen
 feminiini
+finanssinero
 finanssipoliittinen
 finanssivalvontaviranomainen
 flaamilainen
@@ -274,6 +279,7 @@ harmaa
 harmaanruskea
 harmaanvihreä
 härmäläinen
+harrastajateatterilainen
 harrastuksenomainen
 harvinaissairas
 hassu
@@ -353,6 +359,7 @@ hupakko
 hupsu
 hurjannäköinen
 hurskas
+huumepoliittinen
 huumerikollinen
 huutolainen
 hybridimallinen
@@ -620,6 +627,8 @@ korkuinen
 koronankaltainen
 körttiläinen
 korvausvelvollinen
+kosovolaisnuori
+kosovolaisvieras
 kosteankylmä
 kotikeskeinen
 kotitoimistosi
@@ -745,6 +754,7 @@ liberaalidemokraatti
 liberaalikatolinen
 liero
 liettualais-suomalainen
+lihanomainen
 liika
 liikennepoliittinen
 liikenneturvallisuusviranomainen
@@ -766,6 +776,7 @@ lomalainen
 löperö
 loppilainen
 losangelesilainen
+lounaishämäläinen
 lounaissuomalainen
 löyhkä
 löysä
@@ -873,6 +884,7 @@ mukava
 mukavannäköinen
 museopoliittinen
 museoviranomainen
+musiikkiteatterilainen
 muslimiläheinen
 musta
 mustalainen
@@ -995,6 +1007,7 @@ oululaisnuori
 outo
 outokumma
 ovaali
+ovenkaltainen
 oxfordilaismallinen
 öykkäri
 pääkaupunkilainen
@@ -1024,6 +1037,7 @@ paniikinomainen
 paniikkikohtauksenomainen
 pankkiviranomainen
 panttimallinen
+papuauusiguinealainen
 paramilitääri
 paranoidi
 paranormaali
@@ -1065,6 +1079,7 @@ piilorikollinen
 piiloveronomainen
 piirustuksenomainen
 pika-aituri
+pikahelle
 pikatestauspaikanilmainen
 pikimusta
 pikkuäijä
@@ -1079,6 +1094,7 @@ pikkuvanha
 pikkuvesseli
 pikkuvieras
 pilkkopimeä
+pilottimallinen
 pimeä
 piru
 pirulainen
@@ -1184,6 +1200,7 @@ räjähdyksenomainen
 rajanläheinen
 rajatarkastusviranomainen
 rajatestausmallinen
+rajaturvallisuusviranomainen
 rajavalvontaviranomainen
 rajavartioviranomainen
 rajaviranomainen
@@ -1247,6 +1264,7 @@ ruotsalaisrakas
 ruotsalaisrikollinen
 ruotsalais-suomalainen
 ruotsalaistulokas
+ruotsalaisvieras
 ruotsalaisviranomainen
 Ruotsin-mallinen
 ruotsinsuomalainen
@@ -1304,6 +1322,7 @@ seitakuorolainen
 sekava
 seko
 seksirikollinen
+seksuaalipoliittinen
 seksuaalirikollinen
 sekulaari
 sekunda
@@ -1379,6 +1398,8 @@ sudenmallinen
 suippo
 sukulainen
 sukulaisnuori
+sukupolvipoliittinen
+sukupuolihömppä
 sukupuolineutraali
 sula
 sulo
@@ -1575,6 +1596,7 @@ tohelo
 toimilupaviranomainen
 toimintamallinen
 toimitusvelvollinen
+toipumiskeskeinen
 toistuttu
 tökerö
 tollo
@@ -1619,7 +1641,9 @@ tuplatupla
 turha
 turismiviranomainen
 turistiviranomainen
+turkinsuomalainen
 turkkilaisislamilainen
+turkkilaisviranomainen
 turkulaisnuori
 turva-aikuinen
 turvallisuusasiakirjavelvollinen
@@ -1650,6 +1674,7 @@ työsuojeluviranomainen
 työttömyysturvamallinen
 työvelvollinen
 työviranomainen
+työvoimapalvelumallinen
 työvoimapoliittinen
 työvoimaviranomainen
 typötyhjä
@@ -1876,10 +1901,13 @@ voimallinen
 voimapoliittinen
 vuoristolainen
 vuorottelumallinen
+vuosilomalainen
 ydinjätevelvollinen
 ydinturvallisuusviranomainen
+ydinvoimaviranomainen
 yhdyntäkeskeinen
 yhdysvaltalaisaikuinen
+yhdysvaltalaisaituri
 yhdysvaltalais-brittiläinen
 yhdysvaltalaisnuori
 yhdysvaltalaisviranomainen

@@ -136,6 +136,7 @@ Aunesluoma
 Aunio
 Aura-Autto
 Auranen
+Auravuo
 Autio
 Autto
 Auvinen
@@ -555,6 +556,7 @@ Hellsten
 Hellstén
 Hellström
 Helminen
+Helojoki
 Helovirta
 Helsinki-Hall
 Helve
@@ -630,11 +632,13 @@ Hotakainen
 Hotanen
 Hovila
 Hubble
+Hudson-Smith
 Hugo-Salin
 Huhtala
 Huhtanen
 Huhtilainen
 Huhtinen
+Huikuri
 Hujanen
 Hukkanen
 Huldén
@@ -880,6 +884,7 @@ Karpo
 Karppanen
 Karppi
 Karppinen
+Karstunen
 Kartano
 Kartio
 Karttunen
@@ -1016,6 +1021,7 @@ Korkiakoski
 Korpela
 Korpelainen
 Korpinen
+Korsimo
 Kortelainen
 Kortteinen
 Korvenheimo
@@ -1167,6 +1173,7 @@ Laukkanen
 Laukkonen
 Laulajainen
 Launonen
+Laura-Mäkinen
 Lauren
 Laurikainen
 Laurila
@@ -1433,6 +1440,7 @@ Missi
 MM-Hall
 MM-Mäki
 MM-Nurmi
+MM-piste-Eronen
 Mohamed
 Moilanen
 Moisander
@@ -1668,6 +1676,7 @@ Pärnänen
 Paronen
 Pärssinen
 Partanen
+Partanen-Vainio
 Parvainen
 Parviainen
 Pasanen
@@ -1830,6 +1839,7 @@ Quisling
 Raassina
 Raatikainen
 Rahikainen
+Rahikka
 Rahkola
 Rahkonen
 Rahm
@@ -1913,6 +1923,7 @@ Ribbentrop
 Riekki
 Riekkinen
 Riihelä
+Riihimäki-Järvelä
 Riikola
 Riikonen
 Riina-Karhunen
@@ -1937,6 +1948,7 @@ Roiha
 Roikonen
 Roimola
 Roine
+Roine-Mentula
 Roininen
 Roivainen
 Roivas
@@ -2429,6 +2441,7 @@ Ukko-Koiranen
 Ukko-Koli
 Ukkola-Paronen
 Ulmanen
+Unelma-Asukas
 Uosukainen
 Uotila
 Uotinen
@@ -2553,6 +2566,7 @@ Virkkula
 Virkkunen
 Virolainen
 Virolainen-Julkunen
+Virolais-Venäläinen
 Virtala
 Virtamo
 Virtanen
@@ -2574,6 +2588,7 @@ Vuontela
 Vuorela
 Vuorio
 Vuorio-Wilson
+Vygotski
 Wacklin
 Wagner
 Wahlberg

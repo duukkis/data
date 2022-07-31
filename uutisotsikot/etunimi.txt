@@ -47,6 +47,7 @@ Aino-Kaisa
 Aino-Maija
 Aira
 Airi
+äiti-Johanna
 äiti-Kaari
 äiti-Riikka
 äiti-Vaula
@@ -93,6 +94,7 @@ Alzheimer-Päivä
 Amadeus
 Amalia
 Amanda
+Amazon-Päivä
 Amelia
 Amis-Miika
 Anastas
@@ -204,6 +206,7 @@ Arja-Sisko
 Armi
 Arndt
 Arno
+Aron
 Art
 Arthur
 Arto
@@ -214,6 +217,7 @@ Arturo
 Arvi
 Arvid
 Asko
+Asko-Pekka
 Aslak
 Asmo
 Asser
@@ -241,6 +245,7 @@ Auvo
 Axel
 Barack
 Barbara
+Barcelona-Laina
 Ben
 Bengt
 Benito
@@ -272,6 +277,7 @@ Carina
 Carina-Elisabeth
 Carita
 Carl
+Carl-Erik
 Carl-Fredrik
 Carl-Gustaf
 Carl-Henrik
@@ -336,6 +342,7 @@ Eero
 Eero-Matti
 Eero-Pekka
 Eero-Tapani
+Eero-Veikko
 Eero-Veli
 Eeti
 Eetu
@@ -348,9 +355,11 @@ Eeva-Kaisa
 Eeva-Kirsti
 Eeva-Kristiina
 Eeva-Leena
+Eeva-Liina
 Eeva-Liisa
 Eeva-Maarit
 Eeva-Riitta
+Eeva-Stiina
 Eevert
 Eevi
 Eija
@@ -414,6 +423,7 @@ Emma-Liisa
 Emma-Stina
 Emmi
 Emmi-Lydia
+Emmi-Sofia
 EM-Pietari
 EM-Taisto
 EM-Unelma
@@ -552,10 +562,12 @@ Helga
 Helge
 Heli
 Helinä
+Heli-Sanna
 Heljä
 Heljä-Sisko
 Heljä-Tuuli
 Helka
+Helle
 Hellevi
 Helli
 Helmer
@@ -654,12 +666,14 @@ Isabella
 Isadora
 Isak
 Ismo
+Ismo-Pekka
 Isto
 IT-Alan
 IT-Kimmo
 IT-Mikko
 Ivan
 Ivar
+Ivari
 Jaakko
 Jaakob
 Jaana
@@ -878,9 +892,11 @@ Kasperi
 Katariina
 Katarina
 Kati
+Kati-Susanna
 Katja
 Katja-Maaria
 Katja-Pia
+Katja-Sisko
 Katri
 Katriina
 Katrina
@@ -970,6 +986,7 @@ Lena
 Lenita
 Lennart
 Lenni
+Lenni-Joonatan
 Lenni-Kalle
 Leo
 Leonardo
@@ -1155,6 +1172,7 @@ Mika
 Mikael
 Mikaela
 Mika-Jussi
+Mika-Matti
 Mike
 Mikko
 Mikko-Pekka
@@ -1204,6 +1222,7 @@ Missi-Riikka
 Missi-Rosa
 Missi-Viivi
 MM-Taisto
+MM-Toivo
 MM-Unelma
 Mohammad
 Mohammed
@@ -1289,6 +1308,7 @@ Olli-Veikko
 Olof
 Olov
 Oona
+Oona-Emilia
 Orvo
 Osama
 Oskar
@@ -1299,6 +1319,7 @@ Oswald
 Ötzi
 Outi
 Outi-Maria
+Outi-Sisko
 Paavali
 Paavo
 Pablo
@@ -1357,6 +1378,7 @@ Philip
 Philippe
 Pia
 Pia-Pauliina
+Pierre-Dimitri
 Pierre-Emil
 Pierre-Jean
 Pierre-Joseph
@@ -1430,6 +1452,7 @@ Reino
 Reko
 Rembrandt
 Richard
+Rieti
 Riikka
 Riiko
 Riina
@@ -1486,6 +1509,7 @@ Saija
 Saila
 Saima
 Saimi
+Saimo
 Saini
 Saint-Louis
 Sakari
@@ -1663,6 +1687,7 @@ Tero-Petri
 Terry
 Terttu
 Teuvo
+Teuvo-Pentti
 Thomas
 Tiia
 Tiia-Maria
@@ -1670,6 +1695,7 @@ Tiina
 Tiina-Kaisa
 Tiina-Leena
 Tiina-Liisa
+Tiina-Riikka
 Tiitus
 Tilda
 Timo
@@ -1744,6 +1770,7 @@ Umberto
 Unelma
 Unelma-Alan
 Uno
+Untamo
 Unto
 Uolevi
 Uoti

@@ -55,6 +55,7 @@ Almaty
 Alppi
 Alppila
 Al-Salmi
+Al-Sudan
 Altai
 Amazon
 Ambomaa
@@ -70,6 +71,7 @@ Andorra
 Angeles
 Angeli
 Angola
+Anguilla
 Anjala
 Anna-Mari
 Anne-Mari
@@ -286,6 +288,7 @@ Etelä-Irak
 Etelä-Israel
 Etelä-Italia
 Etelä-Itämeri
+Etelä-Japani
 Etelä-Jemen
 Etelä-Juva
 Etelä-Kalifornia
@@ -325,6 +328,7 @@ Etelä-Saksa
 Etelä-Satakunta
 Etelä-Savo
 Etelä-Siperia
+Etelä-Sipoo
 Etelä-Sudan
 Etelä-Suomi
 Etelä-Taivalkoski
@@ -358,6 +362,7 @@ EU-Viro
 Eväjärvi
 Eva-Mari
 Evijärvi
+Fagervik
 Färsaari
 Fennoskandia
 Ferrari-Taipale
@@ -672,6 +677,7 @@ Jurva
 Juudea
 Juuka
 Juupajoki
+Juurikka
 Juutinrauma
 Juva
 Jyllanti
@@ -682,6 +688,7 @@ Jyväskylä-Tampere
 Kaaba
 Kaakkois-Aasia
 Kaakkois-Afrikka
+Kaakkois-Australia
 Kaakkois-Belgia
 Kaakkois-Brasilia
 Kaakkois-Eurooppa
@@ -709,6 +716,7 @@ Kaitajärvi
 Kaivoksela
 Kajaani
 Kajaani-Iisalmi
+Kajaani-Vaala-Utajärvi-Oulu
 Kakola
 Kalahari
 Kalajoki
@@ -828,6 +836,7 @@ Keski-Espoo
 Keski-Eurooppa
 Keski-Häme
 Keski-Helsinki
+Keski-Irak
 Keski-Israel
 Keski-Jaava
 Keski-Jyllanti
@@ -910,6 +919,7 @@ Koillis-Brasilia
 Koillis-Englanti
 Koillis-Espanja
 Koillis-Eurooppa
+Koillis-Grönlanti
 Koillis-Helsinki
 Koillis-Intia
 Koillis-Irak
@@ -971,6 +981,7 @@ Korppoo
 Korsika
 Korsnäs
 Kortesjärvi
+Kose
 Koski
 Koski-Lammi
 Kosovo
@@ -1156,6 +1167,7 @@ Liechtenstein
 Lieksa
 Lielahti
 Lieto
+Lievestuore
 Liinahamari
 Liisa-Mari
 Likolahti
@@ -1194,6 +1206,7 @@ Lounais-Lappi
 Lounais-Lontoo
 Lounais-Meksiko
 Lounais-Yunnan
+Lounas-Ranska
 Lounas-Suomi
 Loviisa
 Luanda
@@ -1240,6 +1253,7 @@ Makedonia
 Mäkelä
 Mäkelä-Nummela
 Mäki-Karvia
+Mäki-Patola
 Mäkkylä
 Maksamaa
 Malawi
@@ -1294,6 +1308,7 @@ Meilahti
 Mekrijärvi
 Meksiko
 Melbourne
+Mellilä
 Mellunkylä
 Mellunmäki
 Meltosjärvi
@@ -1362,7 +1377,9 @@ München
 München-Kiova
 Muolaa
 Muonio
+Muonio-Enontekiö
 Muotka
+Muotkatunturi
 Murmansk
 Mustameri
 Mustola
@@ -1483,6 +1500,8 @@ Oulu-Kiiminki
 Oulu-Lieksa
 Oulunkylä-Patola
 Oulunsalo-Kempele-Liminka-Lumijoki
+Oulu-Rovaniemi
+Oulu-Vaasa
 Ounasjoki
 Ounastunturi
 Ounasvaara
@@ -1684,6 +1703,7 @@ Pompeji
 Pontos
 Pori
 Pori-Helsinki
+Porin-Tampere
 Pori-Tampere
 Porkkala
 Pornainen
@@ -1734,6 +1754,7 @@ Raahe
 Raahe-Siikajoki
 Raahe-Ylivieska
 Rääkkylä
+Raanujärvi
 Raasepori
 Rahajärvi
 Räihä-Mäntyharju
@@ -1768,9 +1789,11 @@ Reykjavík
 Rhodesia
 Rihtniemi
 Riihimäki
+Riihimäki-Herrala
 Riika
 Riika-Helsinki
 Riikka-Mari
+Rinteelä
 Rissala
 Ristee
 Ristiina
@@ -2245,6 +2268,7 @@ Vihanti
 Vihti
 Vihti-Karkkila
 Viiala
+Viianranta
 Viikin-Malmi
 Viikki
 Viinikkala

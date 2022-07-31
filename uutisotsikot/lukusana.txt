@@ -185,6 +185,7 @@ sadas
 sadastuhannes
 sata
 satakaksikymmentä
+satamiljardia
 satamiljoonaa
 satatuhatta
 sataviisikymmentä

@@ -58,6 +58,7 @@ auki
 autokunnittain
 autokuormittain
 autolasteittain
+automalleittain
 avoinna
 busseittain
 bussilasteittain
@@ -71,6 +72,7 @@ ehkä
 eilen
 eittämättä
 eksyksissä
+eläinryhmittäin
 enää
 enemmälti
 enemmän
@@ -210,6 +212,7 @@ irrallaan
 irti
 irvessä
 istualla
+itäeurooppalaisittain
 italialaisittain
 itäpuolitse
 itäsuomalaisittain
@@ -393,6 +396,7 @@ lainsäädäntötie
 läiskittäin
 lajeittain
 lajityypeittäin
+läkähdyksissä
 lakitie
 lännemmäs
 länsimaisittain
@@ -430,6 +434,7 @@ lopen
 luo
 luokittain
 luokse
+luterilaisittain
 lysyssä
 lytyssä
 maa
@@ -526,6 +531,7 @@ ohjelmittain
 ohuelti
 oikeammin
 oikein
+oikeistolaisittain
 oikeustie
 oitis
 öittäin
@@ -640,7 +646,9 @@ pyörryksissä
 raaka-aineryhmittäin
 radiotie
 rakennustyypeittäin
+rannempana
 ranskalaisittain
+ranualaisittain
 ratsain
 rautatie
 reilassa
@@ -848,6 +856,7 @@ työpareittain
 tyynni
 tyystin
 uimapukusillaan
+uimasillaan
 uimatie
 ulkoapäin
 ulkosalla
@@ -892,6 +901,7 @@ varhemmin
 varpaisilla
 varuilla
 varuskunnittain
+vasemmistolaisittain
 vasta
 vastaan
 vastakkain
@@ -942,12 +952,14 @@ vuosineljänneksittäin
 vuosittain
 yhä
 yhdessä
+yhdyskunnittain
 yhtä
 yhtäällä
 yhtään
 yhtaikaa
 yhtäkkiä
 yhteensä
+yhteiskuntaluokittain
 yhtenä
 yhtenään
 yhtikäs
