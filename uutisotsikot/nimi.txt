@@ -120,6 +120,7 @@ Kemira
 Kerberos
 keski-Maa
 Kesko
+kestotesti-Saab
 Kia
 Kiasma
 klassikko-Jaguar
@@ -200,6 +201,7 @@ Peugeot
 pikku-Finlandia
 pistoke-Volvo
 Pluto
+pop-Finlandia
 Porsche
 Poseidon
 Pravda
@@ -242,6 +244,7 @@ Selecta
 Shell
 sinkku-Kia
 Sirius
+sisar-Toyota
 Siska
 sisu-Valmet
 sivuosa-Oscar

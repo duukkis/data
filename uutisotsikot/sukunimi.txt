@@ -107,6 +107,7 @@ Argento
 Arhinmäki
 Arkivuo
 Arkko
+Armfelt
 Arminen
 Armstrong
 Aro
@@ -169,6 +170,7 @@ Bergholm
 Bergius
 Berglund
 Bergman
+Bergmann
 Bergström
 Bering
 Berner
@@ -280,6 +282,7 @@ Eiffel
 Einola
 Einola-Koponen
 Einstein
+Eiras
 Eisenhower
 Ekblad
 Ekholm
@@ -440,6 +443,7 @@ Haimakainen
 Hainari
 Haipus
 Hakala
+Häkkä
 Häkkänen
 Hakkarainen
 Häkkilä
@@ -707,6 +711,7 @@ Instagram-Kuvaaja
 Irwin
 Isaksson
 Isberg
+Ishiguro
 Isopahkala
 Issakainen
 Itälä
@@ -1012,6 +1017,7 @@ Konttinen
 Kontulainen
 Kopernikus
 Koponen
+Koponen-Laiho
 Kordelin
 Korhonen
 Korkala
@@ -1085,6 +1091,7 @@ Kurikkala
 Kurkela
 Kurki
 Kurki-Issakainen
+Kurkilahti
 Kurkinen
 Kurki-Suonio
 Kuronen
@@ -1118,6 +1125,7 @@ Laakkonen
 Laakso
 Laakso-Liukkonen
 Laaksonen
+Laakso-Suutari
 Laalo
 Laamanen
 Laaninen
@@ -1224,6 +1232,7 @@ Liimatainen
 Liimatta
 Likonen
 Lilius
+Liljeroos
 Liljeström
 Lind
 Lindahl
@@ -1308,6 +1317,7 @@ Luukkainen
 Luukkanen
 Luukko
 Luukkonen
+Lyy
 Lyytikäinen
 Lyytinen
 Määttä
@@ -1414,6 +1424,7 @@ Meriläinen
 Meri-Toppila
 Meronen
 Mertanen
+Messerschmitt
 Metelinen
 Metso
 Metsola
@@ -1580,7 +1591,9 @@ Nysten
 Nyström
 Nyyssönen
 Obama
+Oesch
 Off-Shore
+Ogilvy
 Ohisalo
 Öhman
 Ohtonen
@@ -1878,6 +1891,7 @@ Rantala
 Rantalainen
 Rantala-Korhonen
 Rantanen
+Rantanen-Kosonen
 Ranta-Toppila
 Rantonen
 Rapo
@@ -2447,6 +2461,7 @@ Uotila
 Uotinen
 Ural-Vuori
 Uronen
+Uros-Hallikainen
 Urpilainen
 Ursin
 Utriainen
@@ -2554,6 +2569,7 @@ Vilhunen
 Viljakainen
 Viljanen
 Vilkamaa
+Vilkman
 Vilkuna
 Villeneuve
 Villiers

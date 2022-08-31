@@ -172,6 +172,7 @@ energialäheinen
 energiapoliittinen
 energiaviranomainen
 englantilaisnuori
+englantilais-suomalainen
 ennusteidenmukainen
 enolaisnuori
 entinen
@@ -197,6 +198,7 @@ epätavanomainen
 epäterve
 epätodennäköinen
 epätosi
+epätotuudenmukainen
 epävarma
 epäyhteensopiva
 erikoisäijä
@@ -267,6 +269,7 @@ häijynnäköinen
 haikea
 haitilaisviranomainen
 hallintokeskeinen
+hallintopoliittinen
 hallintoviranomainen
 hallituspoliittinen
 hämärä
@@ -331,6 +334,7 @@ höpsö
 hotellinomainen
 housumallinen
 höyhensarjalainen
+huijaussähköpostinomainen
 huikeankorkea
 huippuaituri
 huippuhauska
@@ -338,6 +342,7 @@ huippuhelle
 huippukomea
 huippukorkea
 huippukova
+huippukylmä
 huippumukava
 huippupitkä
 huippurikas
@@ -388,6 +393,7 @@ ikivihreä
 ilkeännäköinen
 ilmailuviranomainen
 ilmainen
+ilmastokiertuelainen
 ilmastopoliittinen
 ilmastorikollinen
 ilmoitusvelvollinen
@@ -443,6 +449,7 @@ jakomallinen
 jälkeläinen
 jälkimmäinen
 jalo
+japanilaisnuori
 japanilaistulokas
 japanilais-venäläinen
 järveläinen
@@ -468,6 +475,7 @@ juoni
 juutalainen
 jylhänkomea
 jyrkkä
+jyväskyläläisnuori
 kaakkois-norja
 kaakkoissuomalainen
 kade
@@ -485,10 +493,12 @@ kalju
 kaltainen
 kamala
 kanadalaisnuori
+kanadalaistohelo
 kanadansuomalainen
 kanavaviranomainen
 kansainvälispoliittinen
 kansanläheinen
+kansanmurhanomainen
 kansanomainen
 kansanterveysviranomainen
 kansanvihollinen
@@ -621,6 +631,7 @@ konkreetti
 konservatiivis-äärioikeistolainen
 konsolimallinen
 konstantti
+koptilainen
 korinttilainen
 korkea
 korkuinen
@@ -636,6 +647,7 @@ kotosuomalainen
 kotouttamispoliittinen
 kotva
 koukero
+koukkumallinen
 koulupoliittinen
 koulutusmallinen
 koulutuspoliittinen
@@ -653,6 +665,7 @@ kreikkalaiskatolinen
 kriminaalipoliittinen
 kristillisdemokraatti
 kristitty
+kroatialaisvieras
 krouvi
 kuiva
 kuljetusmallinen
@@ -768,6 +781,7 @@ linja-automallinen
 lipeä
 lippulaivamallinen
 lisäaikuinen
+lisääntymiskeskeinen
 litimärkä
 lohkovihollinen
 loisto
@@ -844,6 +858,7 @@ mattamusta
 mediapoliittinen
 mediavalvontaviranomainen
 mediaviranomainen
+meemi-ikivihreä
 megatakamusta
 meksikolaisviranomainen
 merenkulkuviranomainen
@@ -1021,6 +1036,7 @@ päihdeläheinen
 päihdepoliittinen
 paikallisvihollinen
 paikallisviranomainen
+painokeskeinen
 päivänpoliittinen
 pakettiautomallinen
 pakonomainen
@@ -1048,6 +1064,7 @@ pariisilaisvieras
 parityömallinen
 parka
 parkour-kerholainen
+parlamenttikeskeinen
 paskiainen
 pedantti
 pehmeä
@@ -1056,6 +1073,7 @@ peikonnäköinen
 pelastusviranomainen
 pelinomainen
 penetraatiokeskeinen
+peniskeskeinen
 peräkkäiskulta
 perheenomainen
 perhekeskeinen
@@ -1089,6 +1107,7 @@ pikkukuuro
 pikkumusta
 pikkurietas
 pikkurikollinen
+pikkusiivekäs
 pikkutuhma
 pikkuvanha
 pikkuvesseli
@@ -1165,6 +1184,7 @@ puolinaku
 puolinormaali
 puoliorpo
 puoliruotsalainen
+puolisokea
 puolisuomalainen
 puolityhjä
 puolivilli
@@ -1298,6 +1318,7 @@ saksalaisnuori
 saksalais-suomalainen
 saksalais-venäläinen
 saksalaisviranomainen
+saksansuomalainen
 saksanvenäläinen
 samankaltainen
 samanmaalainen
@@ -1360,6 +1381,7 @@ siviililentoviranomainen
 siviilimallinen
 siviilipalvelusvelvollinen
 siviiliviranomainen
+skandaalinomainen
 skottilainen
 skyyttalainen
 slaavilainen
@@ -1449,6 +1471,7 @@ superkova
 superkuuma
 superkylmä
 superlämmin
+supermakea
 supermukava
 superouto
 superpaljo
@@ -1481,6 +1504,7 @@ suursuomalainen
 suursyömäri
 suurvaltapoliittinen
 suvereeni
+sveitsiläis-amerikkalais-brittiläinen
 sveitsiläisrakas
 syömäri
 syvä
@@ -1517,6 +1541,7 @@ tämmöinen
 tamperelaisnuori
 tanskalaisnuori
 tanskalais-ruotsalainen
+tanskalaisvieras
 tanskalaisviranomainen
 taparikollinen
 tarhakarkulainen
@@ -1620,6 +1645,7 @@ tšekkiläissuomalainen
 tshekkiläistulokas
 tuhma
 tukiaikuinen
+tukimallinen
 tukiviranomainen
 tulliviranomainen
 tulokas
@@ -1767,6 +1793,7 @@ väestötietoviranomainen
 vähä
 vähävenäläinen
 vahingonkorvausvelvollinen
+vainolainen
 väistämisvelvollinen
 vaitiolovelvollinen
 vajaa
@@ -1847,6 +1874,7 @@ venäläisviranomainen
 ventovieras
 verenkaltainen
 verivihollinen
+verkkopohjoinen
 verkkorikollinen
 veromallinen
 veropoliittinen
@@ -1854,6 +1882,7 @@ verovapaa
 verovelvollinen
 veroviranomainen
 vertikaali
+vesihuoltoviranomainen
 vesilainmukainen
 vesistöviranomainen
 vesiviranomainen
@@ -1878,6 +1907,7 @@ vihtahousu
 viileä
 viimeinen
 viinijärveläinen
+viisumiviranomainen
 viitasaarelainen
 villi
 vilu
@@ -1910,6 +1940,7 @@ yhdysvaltalaisaikuinen
 yhdysvaltalaisaituri
 yhdysvaltalais-brittiläinen
 yhdysvaltalaisnuori
+yhdysvaltalais-suomalainen
 yhdysvaltalaisviranomainen
 yhteensopiva
 yhteiskuntamallinen
@@ -1931,6 +1962,7 @@ yleispoliittinen
 yleissuomalainen
 yleisvenäläinen
 Yle-lainen
+ylihauska
 ylijäävi
 ylikiltti
 ylikova

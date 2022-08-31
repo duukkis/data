@@ -17,6 +17,7 @@ Aatami
 Aatos
 Aatto
 Aatu
+Aatu-Eemeli
 Abel
 Abraham
 Ada
@@ -112,6 +113,7 @@ Angela
 Anita
 Anitta
 Anja
+Anja-Liisa
 Anja-Riitta
 Anna
 Anna-Elena
@@ -292,6 +294,7 @@ Cay
 Cecilia
 Charles
 Charles-Marie
+Charles-Veli
 Charlotta
 Charlotte
 Chris
@@ -396,6 +399,7 @@ Eljas
 Elke
 Ella
 Ella-Maija
+Ella-Sofia
 Ellen
 Elli
 Elli-Alina
@@ -426,6 +430,7 @@ Emmi-Lydia
 Emmi-Sofia
 EM-Pietari
 EM-Taisto
+EM-Toivo
 EM-Unelma
 EM-Visa
 Enni
@@ -498,6 +503,7 @@ Freja
 Frida
 Friedrich
 Gabriel
+Gaius
 Geena
 Geoffrey
 Georg
@@ -613,6 +619,7 @@ Hulda
 Ibrahim
 Ida
 Ida-Elina
+Ida-Liina
 Ida-Sisko
 Idi
 Iida
@@ -669,6 +676,7 @@ Ismo
 Ismo-Pekka
 Isto
 IT-Alan
+Itämeri-Päivä
 IT-Kimmo
 IT-Mikko
 Ivan
@@ -678,6 +686,7 @@ Jaakko
 Jaakob
 Jaana
 Jaana-Mirjam
+Jaana-Piia
 Jack
 Jacques
 Jake
@@ -870,6 +879,7 @@ Kai-Pekka
 Kaisa
 Kaisa-Maija
 Kaisa-Reeta
+Kaisa-Riikka
 Kaisu
 Kaj
 Kaj-Gustaf
@@ -934,6 +944,7 @@ Konsta
 Konstantinos
 Kosti
 Kotka-Päivä
+Kouvola-Kotka-Hamina-Akseli
 Kouvola-Päivä
 Krista
 Krister
@@ -1066,6 +1077,7 @@ Mari-Anna
 Marianne
 Mari-Anne
 Maria-Riitta
+Maria-Terttu
 Marie
 Marie-Eva
 Mari-Elina
@@ -1172,9 +1184,11 @@ Mika
 Mikael
 Mikaela
 Mika-Jussi
+Mika-Matias
 Mika-Matti
 Mike
 Mikko
+Mikko-Juha
 Mikko-Pekka
 Mikko-Petteri
 Miko
@@ -1280,6 +1294,7 @@ Nikolaus
 Niko-Pekka
 Niko-Petteri
 Nils
+Nils-Aslak
 Nils-Olof
 Nina
 Nina-Maria
@@ -1322,6 +1337,7 @@ Outi-Maria
 Outi-Sisko
 Paavali
 Paavo
+Paavo-Petri
 Pablo
 Päivä
 Päivi
@@ -1400,6 +1416,7 @@ Pirjo-Riitta
 Pirkka
 Pirkka-Pekka
 Pirkko
+Pirkko-Leena
 Pirkko-Liisa
 Platon
 Pohjan-Veikko
@@ -1414,6 +1431,7 @@ Rafael
 Raija
 Raija-Leena
 Raija-Liisa
+Raija-Sinikka
 Raija-Sisko
 Raila
 Raili
@@ -1575,6 +1593,7 @@ Selma-Sisko
 Senja
 Senni
 Seppo
+Serafiina
 Sergei
 Severi
 Severus
@@ -1653,6 +1672,8 @@ Taavi
 Tage
 Taija
 Taimi
+Taimi-Alan
+Taimi-Tapio
 Taina
 Taisto
 Talvikki
@@ -1741,6 +1762,7 @@ Tuovi
 Turkka
 Tuukka
 Tuula
+Tuula-Maija
 Tuula-Sinikka
 Tuuli
 Tuulikki
@@ -1760,6 +1782,7 @@ Ulla
 Ulla-Leena
 Ulla-Lena
 Ulla-Maaria
+Ulla-Maarit
 Ulla-Maija
 Ulla-Marja
 Ulla-Riikka
@@ -1809,6 +1832,7 @@ Veikko
 Veini
 Veli
 Venla
+Venla-Ellen
 Vera
 Verna
 Verner

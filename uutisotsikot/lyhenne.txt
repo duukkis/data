@@ -37,6 +37,7 @@ EU
 EUR
 FBI
 fi
+FL
 FM
 FT
 GPS
@@ -129,6 +130,7 @@ seinä-WC
 SKDL
 SKP
 SM
+snt
 SOS
 sote
 SPR

@@ -1,4 +1,5 @@
 aamupäivisin
+aamusella
 aamutuimaan
 aamuvarhain
 ääneti
@@ -227,8 +228,10 @@ jalkeilla
 jälleen
 jamassa
 jaostoittain
+japanilaisittain
 järin
 jäsenmaittain
+jätesäkeittäin
 jo
 jokseenkin
 jolloin
@@ -341,6 +344,7 @@ kotoisin
 kotosalla
 kouluasteittain
 kouluittain
+koulupiireittäin
 koulutusasteittain
 kreikkalaisittain
 kuiduittain
@@ -394,6 +398,7 @@ laimin
 lainkaan
 lainsäädäntötie
 läiskittäin
+laitoksittain
 lajeittain
 lajityypeittäin
 läkähdyksissä
@@ -431,6 +436,7 @@ loitolla
 lomitse
 lomittain
 lopen
+luimussa
 luo
 luokittain
 luokse
@@ -464,6 +470,7 @@ miljoonittain
 millänsäkään
 milloin
 miltei
+ministeriöittäin
 minuuteittain
 missäpäin
 miten
@@ -610,6 +617,7 @@ pisaratie
 pisteittäin
 pitkälti
 pitkittäin
+pohjalaisittain
 pohjimmiltaan
 pohjoismaalaisittain
 pohjoispuolitse
@@ -636,6 +644,7 @@ pulloittain
 puolalaisittain
 puoliltaöin
 puoliltapäivin
+puolinukuksissa
 puolittain
 puolivakavissaan
 puolivuosittain
