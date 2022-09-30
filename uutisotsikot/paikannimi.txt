@@ -36,6 +36,7 @@ Alakurtti
 Ala-Malmi
 Ala-Nikkilä
 Alankomaa
+Ala-Pispala
 Ala-Renko
 Ala-Riihimäki
 Ala-Satakunta
@@ -65,6 +66,7 @@ Amman
 Amsterdam
 Amuri
 Anatolia
+Ancylus
 Andalusia
 Andi
 Andorra
@@ -707,6 +709,7 @@ Kaakkois-Meksiko
 Kaakkois-Nigeria
 Kaakkois-Pakistan
 Kaakkois-Siperia
+Kaakkois-Taiwan
 Kaalamo
 Kaamanen
 Kaanaa
@@ -941,6 +944,7 @@ Koillis-Kiina
 Koillis-Lappi
 Koillis-Moskova
 Koillis-Nigeria
+Koillis-Pohja
 Koillis-Ranska
 Koillis-Ruotsi
 Koillis-Satakunta
@@ -1109,6 +1113,7 @@ Länsi-Kreikka
 Länsi-Kuuba
 Länsi-Lappi
 Länsi-Lontoo
+Länsi-Meksiko
 Länsi-Myanmar
 Länsi-Niili
 Länsi-Orimattila
@@ -1190,6 +1195,7 @@ Liminka
 Liminka-Lumijoki
 Liminka-Oulu
 Linda-Mari
+Lindholm-Heikkilä
 Linköping
 Linnala-Mattila
 Lisa-Mari
@@ -1298,6 +1304,7 @@ Mannila
 Mansaari
 Mantojärvi
 Mäntsälä
+Mantsuria
 Mänttä
 Mänttä-Vilppula
 Mäntyharju
@@ -1705,7 +1712,9 @@ Pohjois-Tyynimeri
 Pohjois-Uganda
 Pohjois-Ural
 Pohjois-Uruguay
+Pohjois-Viena
 Pohjois-Virginia
+Pohjois-Vuosaari
 Pohjola
 Pohjos-Irlanti
 Pohjos-Karjala
@@ -2198,6 +2207,7 @@ Tyrnävä
 Tyrnävä-Muhos
 Tyrvää
 Tyynimeri
+Udmurtia
 Uganda
 Ukkola
 Ukko-Luosto

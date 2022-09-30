@@ -168,6 +168,7 @@ elintarvikevalvontaviranomainen
 elintarvikeviranomainen
 elsalvadorilainen
 EM-kulta
+EM-loisto
 energialäheinen
 energiapoliittinen
 energiaviranomainen
@@ -293,6 +294,7 @@ hätäviranomainen
 hauska
 hauskannäköinen
 heikkonäköinen
+heimolainen
 heinälahtelainen
 helakanvihreä
 heleänvihreä
@@ -303,6 +305,7 @@ hellekäyräriski
 helluntailainen
 Helsinki-keskeinen
 helsinkiläisnuori
+helsinkiläisvieras
 hengenheimolainen
 henkilökeskeinen
 henkilöpoliittinen
@@ -323,6 +326,7 @@ hirmuvähä
 höhlä
 hollantilais-brittiläinen
 hollantilaisrakas
+hollantilaistulokas
 hölmö
 hölmöläinen
 hömppä
@@ -413,6 +417,7 @@ introvertti
 irakilaissiviili
 irakilaisviranomainen
 iranilaisviranomainen
+iraninsuomalainen
 irlantilaisrakas
 irlantilais-suomalainen
 irtain
@@ -455,6 +460,7 @@ japanilais-venäläinen
 järveläinen
 jätehuoltoviranomainen
 jätepoliittinen
+jätkäsaarelainen
 jemeninjuutalainen
 jengirikollinen
 jenkkiläinen
@@ -1070,6 +1076,7 @@ pedantti
 pehmeä
 pehmo
 peikonnäköinen
+pelaajakeskeinen
 pelastusviranomainen
 pelinomainen
 penetraatiokeskeinen
@@ -1248,6 +1255,7 @@ ratto
 rauhanomainen
 rauhanpoliittinen
 raukka
+raumalaisvieras
 rautatieviranomainen
 reaalipoliittinen
 refleksinomainen
@@ -1287,6 +1295,7 @@ ruotsalaistulokas
 ruotsalaisvieras
 ruotsalaisviranomainen
 Ruotsin-mallinen
+ruotsinsaamelainen
 ruotsinsuomalainen
 ruskea
 ruskeanharmaa
@@ -1393,6 +1402,7 @@ SM-tupla
 sodankaltainen
 sodanomainen
 sokea
+sokerihumalainen
 sokko
 somalimaalainen
 somerolaisnuori
@@ -1466,6 +1476,8 @@ supererityinen
 superhauska
 superhelle
 superhuono
+superhyvännäköinen
+superiso
 superkomea
 superkova
 superkuuma
@@ -1484,6 +1496,7 @@ superrikollinen
 superrohkea
 superroisto
 supersuuri
+supersyömäri
 supersyvä
 superterve
 supertiukka
@@ -1582,6 +1595,7 @@ tekotakamusta
 tekovelvollinen
 televiranomainen
 teneriffalaisvieras
+tenonsaamelainen
 teollisuuspoliittinen
 terävänäköinen
 terrorismiviranomainen
@@ -1635,6 +1649,7 @@ törkeä
 torkku
 tornimallinen
 tosi
+tosiäijä
 toteutusmallinen
 totuudenmukainen
 transsinomainen
@@ -1700,6 +1715,7 @@ työsuojeluviranomainen
 työttömyysturvamallinen
 työvelvollinen
 työviranomainen
+työvoimamallinen
 työvoimapalvelumallinen
 työvoimapoliittinen
 työvoimaviranomainen

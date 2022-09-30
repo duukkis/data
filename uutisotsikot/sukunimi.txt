@@ -85,6 +85,7 @@ Anderson
 Andersson
 Andrews
 Angelos
+Angerkoski
 Annala
 Annemari
 Antikainen
@@ -257,6 +258,7 @@ Davis
 Dell
 Diamond
 Dick
+Dillinger
 Disney
 DNA-Tulonen
 Donner
@@ -564,6 +566,7 @@ Helojoki
 Helovirta
 Helsinki-Hall
 Helve
+Hemilä
 Hemmilä
 Hendunen
 Henriksson
@@ -1504,6 +1507,7 @@ Myyrmäki-Hall
 Myyryläinen
 Näätänen
 Nabokov
+Narkaus
 Närvänen
 Natunen
 Naukkarinen
@@ -1564,6 +1568,7 @@ Nordman
 Nordström
 Noronen
 Norrgård
+Nostradamus
 Novak
 Nummelin
 Numminen
@@ -2053,6 +2058,7 @@ Saikkonen
 Sainio
 Sairanen
 Säkkinen
+Saksilainen
 Salin
 Sallinen
 Salmela-Aro
@@ -2248,6 +2254,7 @@ Stolypin
 Strandberg
 Strandén
 Strandman
+Straub
 Strindberg
 Ström
 Strömberg
@@ -2514,6 +2521,7 @@ Varesvuo
 Varjola
 Varjonen
 Varmavuo
+Varmavuo-Häikiö
 Varonen
 Vartiainen
 Vartiainen-Koskela-Pitkänen
@@ -2603,6 +2611,7 @@ Vuolijoki-Marttinen
 Vuontela
 Vuorela
 Vuorio
+Vuorio-Kuokka
 Vuorio-Wilson
 Vygotski
 Wacklin

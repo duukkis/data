@@ -104,6 +104,7 @@ ajoneuvo-osata
 ajoneuvovakuuttaa
 äkämystyä
 äkätä
+äkki-ilmestyä
 äkkikadota
 äkkipoistua
 äkkirikastua
@@ -364,6 +365,8 @@ boikotoida
 boksipelata
 bongailla
 bongata
+brändijohtaa
+bränditehdä
 brändivaikuttaa
 briljeerata
 budjetoida
@@ -499,6 +502,7 @@ energiahyödyntää
 energiakerätä
 energiansäästää
 energiaosata
+energiasäästää
 enetä
 enkelisijoittaa
 ennakkoäänestää
@@ -805,6 +809,7 @@ hallinto-osata
 hallita
 hallitusvaikuttaa
 Halloween-pukeutua
+halonhakata
 halstrata
 haltioitua
 haluta
@@ -1015,6 +1020,7 @@ henkilökuulla
 henkilöosata
 henkilöstöjohtaa
 henkilöstöosata
+henkistää
 henkistyä
 hennoa
 herahtaa
@@ -1283,6 +1289,7 @@ huollattaa
 huoltaa
 huoltajatavata
 huoltoasema-ampua
+huoltokiusata
 huomata
 huomautella
 huomauttaa
@@ -1378,6 +1385,7 @@ hyrrätä
 hyssytellä
 hytistä
 hytkyä
+hytkytellä
 hyväillä
 hyväksikäyttää
 hyväksyä
@@ -1442,6 +1450,7 @@ ilmastonlämmetä
 ilmasto-osata
 ilmastotavata
 ilmastovaikuttaa
+ilmata
 ilmaveivata
 ilmeillä
 ilmentää
@@ -2031,6 +2040,7 @@ karkeistaa
 karkeloida
 kärkikohdata
 kärkiosata
+kärkipelata
 karkkiosata
 kärkkyä
 karkottaa
@@ -2565,6 +2575,7 @@ kokoilla
 kokonaisaltistua
 kokonaisasua
 kokonaisjohtaa
+kokonaiskehittää
 kokonaisliikkua
 kokonaisrakentaa
 kokonaisyöpyä
@@ -2573,6 +2584,7 @@ kökötellä
 kököttää
 kokouskäyttäytyä
 kokousosallistua
+koksata
 kolahdella
 kolahtaa
 kolaroida
@@ -2717,6 +2729,7 @@ korostua
 korotella
 körötellä
 korottaa
+köröttää
 korreloida
 korreloitua
 korruptoida
@@ -3007,6 +3020,8 @@ kuvitella
 kuvittaa
 kuvottaa
 kvalifioitua
+kvanttilomittaa
+kyberosata
 kyberturvallisuusosata
 kybervaikuttaa
 kybervarautua
@@ -3314,6 +3329,7 @@ lennonjohtaa
 lentää
 lentokenttätestata
 lentomatkustaa
+lentomyöhästyä
 lepäillä
 lepatella
 lepattaa
@@ -3976,6 +3992,7 @@ MM-tehdä
 MM-valmistautua
 mobiilimaksaa
 mobiilipelata
+mobiilipeliosata
 mobilisoida
 mobilisoitua
 modernisoida
@@ -3983,6 +4000,7 @@ modernisoitua
 moderoida
 modifioida
 moduulirakentaa
+möhläillä
 möhlätä
 möhliä
 moikata
@@ -4777,6 +4795,7 @@ palvoa
 pälyillä
 pamahdella
 pamahtaa
+pamautella
 pamauttaa
 pamista
 pamppailla
@@ -4824,6 +4843,7 @@ pärskähtää
 pärskäyttää
 pärskiä
 pärskyä
+pärskytellä
 partioida
 parturoida
 parveilla
@@ -4935,6 +4955,7 @@ periytyä
 personoida
 personoitua
 perua
+perunaosata
 peruselää
 perushoitaa
 peruskorjata
@@ -5113,6 +5134,7 @@ pohtia
 poiketa
 poikia
 poimia
+poisheittää
 poisjäädä
 poisjättää
 poisjättäytyä
@@ -5492,6 +5514,7 @@ raapaista
 raapata
 raapia
 raapustaa
+raapustella
 raaputella
 raaputtaa
 raaskia
@@ -5984,6 +6007,7 @@ ryöpsähdellä
 ryöpsähtää
 ryöpsäyttää
 ryöpytä
+ryöpytellä
 ryöpyttää
 ryöstää
 ryöstäytyä
@@ -6110,6 +6134,7 @@ salpautua
 salvata
 salvoa
 sälyttää
+Salzburg-osata
 samaistaa
 samaistua
 samankaltaistaa
@@ -6216,6 +6241,7 @@ sekoitella
 sekoittaa
 sekoittua
 seksikäyttäytyä
+seksipukeutua
 seksuaalikäyttäytyä
 seksuaalineuvontatavata
 sekularisoitua
@@ -6980,6 +7006,7 @@ teipata
 teititellä
 tekaista
 tekeytyä
+tekijäkohdata
 teknologiajohtaa
 teknologiaosata
 teknologiatavata
@@ -7204,6 +7231,7 @@ torikohdata
 toritavata
 torjua
 torkahtaa
+törkeillä
 torkkua
 törkykäyttäytyä
 törmäillä
@@ -7585,6 +7613,7 @@ uudelleenavautua
 uudelleenhakea
 uudelleenherätä
 uudelleenitsenäistyä
+uudelleenjäädyttää
 uudelleenjakaa
 uudelleenjärjestää
 uudelleenkärjistyä
@@ -8263,6 +8292,7 @@ vouhkata
 vouhottaa
 VR-osata
 VR-pelata
+VR-säätää
 vuodatella
 vuodattaa
 vuodenvaihtua
@@ -8456,5 +8486,6 @@ yskiä
 yskittää
 ystävystyä
 ystävyystavata
+zombiselviytyä
 zoomailla
 zoomata

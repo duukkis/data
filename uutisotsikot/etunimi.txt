@@ -119,6 +119,7 @@ Anna
 Anna-Elena
 Anna-Elina
 Anna-Elisabeth
+Anna-Julia
 Anna-Kaari
 Anna-Kaisa
 Anna-Kari
@@ -936,6 +937,7 @@ Klaara
 Klaas
 Klaudia
 Klaus
+Klaus-Fred
 Kleopatra
 Knut
 Knuutti
@@ -1226,6 +1228,7 @@ Mirva
 Miska
 Missi-Alina
 Missi-Emmi
+Missi-Erikka
 Missi-Essi
 Missi-Eveliina
 Missi-Heidi
@@ -1778,6 +1781,7 @@ Uki
 Ukko
 Ukko-Paavo
 Ukko-Pekka
+Ukko-Veli
 Ulla
 Ulla-Leena
 Ulla-Lena
@@ -1868,6 +1872,7 @@ Ville-Valtteri
 Ville-Veikko
 Ville-Veli
 Vilma
+Vimpeli-Unelma
 Virpi
 Virva
 Virve

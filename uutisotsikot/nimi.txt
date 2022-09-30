@@ -53,6 +53,7 @@ Dallas-Mersu
 Dei
 dieetti-Coca-Cola
 diesel-Mersu
+diesel-Volvo
 Dionysos
 Edita
 El
@@ -63,6 +64,7 @@ erikois-Oscar
 Esso
 Estonia
 EU-Maa
+EU-Puh
 Euribor
 Facebook
 Fazer
@@ -264,6 +266,7 @@ STT-Yle
 Stuka
 Suomi-Instagram
 Suomi-Twitter
+suosikki-Linux
 Supo
 taksi-Mersu
 Tamiflu
