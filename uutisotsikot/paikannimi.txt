@@ -592,6 +592,7 @@ Itä-Hollanti
 Itä-Hollola
 Itä-Indonesia
 Itä-Intia
+Itä-Jaava
 Itä-Jemen
 Itä-Jerusalem
 Itä-Kanada
@@ -601,6 +602,7 @@ Itä-Kurdistan
 Itä-Lappi
 Italia
 Italia-Espanja
+Italia-Saksa
 Itä-Lontoo
 Itä-Malawi
 Itämeri
@@ -1104,6 +1106,7 @@ Länsi-Helsinki
 Länsi-Intia
 Länsi-Jaala
 Länsi-Jaava
+Länsi-Jerusalem
 Länsi-Kanada
 Länsi-Kazakstan
 Länsi-Kenia
@@ -1138,6 +1141,7 @@ Länsi-Syyria
 Länsi-Tallinna
 Länsi-Tampere
 Länsi-Tukholma
+Länsi-Turku
 Länsi-Ukraina
 Länsi-Uusimaa
 Länsi-Vantaa
@@ -1766,6 +1770,7 @@ Puola-Liettua
 Puolanka
 Puotila
 Puotinharju
+Puotinkylä
 Purola
 Puumala
 Puumalan-Sulkava
@@ -1814,6 +1819,7 @@ Reykjavik
 Reykjavík
 Rhodesia
 Rihtniemi
+Riihimäen-Hyvinkää
 Riihimäki
 Riihimäki-Helsinki
 Riihimäki-Herrala

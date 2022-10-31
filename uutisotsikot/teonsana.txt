@@ -182,6 +182,7 @@ ammuttaa
 ampaista
 ampua
 amputoida
+amputoitua
 analysoida
 analysoitua
 analytiikkaosata
@@ -415,6 +416,7 @@ digitalisoida
 digitalisoitua
 digitoida
 digitoitua
+digiturvaosata
 diivailla
 dipata
 diplomaattitavata
@@ -503,6 +505,7 @@ energiakerätä
 energiansäästää
 energiaosata
 energiasäästää
+energiavarautua
 enetä
 enkelisijoittaa
 ennakkoäänestää
@@ -1471,6 +1474,7 @@ ilotulittaa
 iltakokoontua
 iltalukea
 iltanuotiokohdata
+iltapäiväkohdata
 iltavalvoa
 iltavihkiä
 ilveillä
@@ -2307,6 +2311,7 @@ kiehauttaa
 kiehnätä
 kiehtoa
 kiehua
+kiehuttaa
 kiekaista
 kiekkoilla
 kiekko-osata
@@ -2558,6 +2563,7 @@ kohotella
 kohottaa
 kohtuullistaa
 kohtuullistua
+kohuhermostua
 kohuta
 koikkelehtia
 koillissanoa
@@ -2720,6 +2726,7 @@ koronatoipua
 koronatuomita
 koronatylsistyä
 koronavarautua
+koronavelkaantua
 koronavirusaltistua
 koronavirusrokottaa
 koronavirustestata
@@ -2763,6 +2770,7 @@ kotikontata
 kotiladata
 kotimajoittaa
 kotiopettaa
+kotipelata
 kotitestata
 kotitreenata
 kotiuttaa
@@ -3631,6 +3639,7 @@ luhistua
 luikahtaa
 luikauttaa
 luikerrella
+luikertaa
 luikkia
 luimistella
 luiskahtaa
@@ -3968,6 +3977,7 @@ mikromuovialtistua
 mikrosäästää
 miksailla
 miksata
+Milan-kohdata
 militarisoida
 minimikuluttaa
 minimipelata
@@ -4628,6 +4638,7 @@ ottaa
 otteluperuuntua
 oudoksua
 oudoksuttaa
+oululaisosata
 ounastella
 öykkäröidä
 paahtaa
@@ -4653,6 +4664,7 @@ paastota
 päätellä
 päätöksentehdä
 päättää
+päättäjätavata
 päättyä
 päätyä
 päätypelata
@@ -4741,6 +4753,7 @@ pakkolaskeutua
 pakkolomauttaa
 pakkolunastaa
 pakkonaittaa
+pakko-ottaa
 pakkopalauttaa
 pakkorokottaa
 pakkosäästää
@@ -5841,6 +5854,7 @@ riuduttaa
 riuhtaista
 riuhtoa
 riutua
+rivitaloasua
 rivitalorakentaa
 robotisoitua
 robottilentää
@@ -6944,6 +6958,7 @@ tasautua
 tasavertaistaa
 tasavertaistua
 täsmätä
+täsmäyttää
 täsmentää
 täsmentyä
 tasoitella
@@ -7728,6 +7743,7 @@ vaihdattaa
 vaihdella
 vaiheistaa
 vaihtaa
+vaihteisto-osata
 vaihtoehtohoitaa
 vaihtua
 väijyä
@@ -7980,6 +7996,7 @@ veivata
 veljeillä
 velkaannuttaa
 velkaantua
+velkavipusijoittaa
 velkoa
 velloa
 velmuilla
@@ -8319,6 +8336,7 @@ ydinaseistaa
 ydinaseosata
 ydinosata
 ydintehdä
+ydinvoimaosata
 ydinvoimarakentaa
 yhdeksänkertaistua
 yhdenmukaistaa
@@ -8479,6 +8497,7 @@ YouTube-esiintyä
 YouTube-käyttäytyä
 yövalvoa
 yrittää
+yrityskehittää
 yskähdellä
 yskähtää
 yskäistä

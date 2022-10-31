@@ -1925,6 +1925,7 @@ Rehula
 Reijonen
 Reinikainen
 Reinikka
+Reino-Koiranen
 Rekola
 Rekonen
 Relander
@@ -2546,6 +2547,7 @@ Vellonen
 Vennamo
 Vento
 Vepsäläinen
+Vermeer
 Verronen
 Vertanen
 Vesalainen
@@ -2556,6 +2558,7 @@ Veteläinen
 Vienola
 Vienonen
 Vierikko
+Viertiö
 Viertola
 Vihavainen
 Viialainen

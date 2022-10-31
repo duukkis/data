@@ -317,6 +317,7 @@ Daniela
 Dante
 Dario
 Daryl
+Dashiel
 David
 Diana
 Dimitri
@@ -712,6 +713,7 @@ Janina
 Jani-Pekka
 Jani-Petteri
 Janita
+Jan-Johannes
 Jan-Kristian
 Jan-Mikael
 Janna
@@ -1073,6 +1075,7 @@ Margaret-Sisko
 Margaretta
 Margit
 Maria
+Maria-Kaisa
 Marian-Jean
 Marianna
 Mari-Anna
@@ -1446,6 +1449,7 @@ Raisio-Päivä
 Raisio-Päivi
 Ralf
 Rami
+Räsäs-Päivi
 Rasmus
 Rasmus-Lauri
 Rauha

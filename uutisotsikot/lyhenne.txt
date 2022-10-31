@@ -112,6 +112,7 @@ peli-PC
 perus-CV
 pH
 pikku-g
+pikku-PC
 pj
 poliisi-TV
 PR

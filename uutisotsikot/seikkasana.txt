@@ -263,6 +263,7 @@ kalenterivuosittain
 kallellaan
 kalpaten
 kaltoin
+kanadalaisittain
 kannonkoskelaisittain
 kansanedustajittain
 kantelutie
@@ -479,6 +480,7 @@ moksis
 moni
 moniaalla
 mönkään
+moskovalaisittain
 muassa
 muinoin
 muka
@@ -851,6 +853,7 @@ tupakunnittain
 tupoittain
 turhanpäiten
 turkkilaisittain
+turkulaisittain
 turvoksissa
 tusinoittain
 tuskin

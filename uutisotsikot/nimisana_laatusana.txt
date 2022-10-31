@@ -108,6 +108,7 @@ binääri
 bisnesrikollinen
 b-nuori
 boikotinomainen
+bonusaikuinen
 bonusmallinen
 brasiliansuomalainen
 britanniansuomalainen
@@ -119,6 +120,7 @@ brittiviranomainen
 Brysselin-suomalainen
 buddhalainen
 burleski
+c-nuori
 costaricalainen
 datakeskeinen
 debiili
@@ -880,6 +882,7 @@ mieskeskeinen
 miesmallinen
 miessukulainen
 minäkeskeinen
+minimipalkkalainen
 MM-kulta
 MM-lohkovihollinen
 MM-tulokas
@@ -934,6 +937,7 @@ neliönmallinen
 nero
 nettirikollinen
 neutraali
+neuvostomallinen
 newjerseyläinen
 newyorkilainen
 NHL-äijä
@@ -1179,6 +1183,7 @@ puhelinmallinen
 pujo
 pullukka
 punavalkovihreä
+puolalais-suomalainen
 puolalais-valkovenäläinen
 puolalaisviranomainen
 puolanjuutalainen
