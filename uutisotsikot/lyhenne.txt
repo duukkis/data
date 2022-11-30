@@ -128,6 +128,7 @@ sääntö-EU
 SAK
 SDP
 seinä-WC
+SI
 SKDL
 SKP
 SM

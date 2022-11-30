@@ -305,6 +305,7 @@ Christina
 Christopher
 Chuck
 Claes
+Claes-Göran
 Clarice
 Clayton
 Colin
@@ -395,6 +396,7 @@ Elis
 Elisa
 Elisabet
 Elisabeth
+Elisa-Sisko
 Elise
 Elizabeth
 Eljas
@@ -622,6 +624,7 @@ Ibrahim
 Ida
 Ida-Elina
 Ida-Liina
+Ida-Lotta
 Ida-Sisko
 Idi
 Iida
@@ -729,6 +732,7 @@ Jan-Peter
 Jäntti-Alan
 Jared
 Jari
+Jari-Jukka
 Jari-Matti
 Jari-Pekka
 Jarkko
@@ -946,6 +950,7 @@ Knuutti
 Konrad
 Konsta
 Konstantinos
+Kontio-Jouko
 Kosti
 Kotka-Päivä
 Kouvola-Kotka-Hamina-Akseli
@@ -1105,6 +1110,7 @@ Marita
 Maritta
 Marja
 Marja-Aimo
+Marja-Alan
 Marjaana
 Marja-Aron
 Marja-Helena
@@ -1200,6 +1206,7 @@ Miko
 Miksu
 Mila
 Milja
+Milja-Maaria
 Milka
 Milla
 Mimmi
@@ -1241,6 +1248,7 @@ Missi-Lotta
 Missi-Riikka
 Missi-Rosa
 Missi-Viivi
+MM-Päivä
 MM-Taisto
 MM-Toivo
 MM-Unelma
@@ -1665,6 +1673,7 @@ Susan
 Susanna
 Susanne
 Sven
+Sven-Bertil
 Sven-Erik
 Sven-Göran
 Sven-Otto
@@ -1752,6 +1761,7 @@ Tommi
 Tommy
 Toni
 Toni-Pekka
+Toni-Veli
 Tony
 Topi
 Topias

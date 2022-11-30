@@ -399,6 +399,7 @@ ikivihreä
 ilkeännäköinen
 ilmailuviranomainen
 ilmainen
+ilmastokeskeinen
 ilmastokiertuelainen
 ilmastopoliittinen
 ilmastorikollinen
@@ -463,6 +464,7 @@ järveläinen
 jätehuoltoviranomainen
 jätepoliittinen
 jätkäsaarelainen
+jazz-sisäpiiriläinen
 jemeninjuutalainen
 jengirikollinen
 jenkkiläinen
@@ -713,6 +715,7 @@ kyberriski
 kyberturvallisuusviranomainen
 kylmä
 kylmänviileä
+kylmäviileä
 kyömy
 kypsä
 lääkepoliittinen
@@ -829,6 +832,7 @@ maanläheinen
 maapallokeskeinen
 maapoliittinen
 maaseutuelinkeinoviranomainen
+maastomallinen
 maatalouspoliittinen
 madridilaisvieras
 mafiankaltainen
@@ -875,6 +879,7 @@ mestaririkollinen
 metsäläinen
 metsäpoliittinen
 metsäsaamelainen
+metsäsuomalainen
 miehenkorkuinen
 mieleinen
 mielenterveysomainen
@@ -889,6 +894,7 @@ MM-tulokas
 MM-tupla
 mobiili
 mobiilivapaa
+mobiiliyhteensopiva
 moderninmallinen
 mokoma
 monenkeskeinen
@@ -1334,6 +1340,8 @@ saksalais-venäläinen
 saksalaisviranomainen
 saksansuomalainen
 saksanvenäläinen
+salaliittoteorianomainen
+salibandyvihollinen
 samankaltainen
 samanmaalainen
 samanmallinen
@@ -1347,6 +1355,7 @@ sarjarikollinen
 satamaviranomainen
 sateenkaaripoliittinen
 sateenkaarisaamelainen
+sateenkaarisensuuri
 säteilyturvallisuusviranomainen
 saudiviranomainen
 scifi-uutukainen
@@ -1467,6 +1476,7 @@ suomalaistulokas
 suomalaistupla
 suomalaistuttu
 suomalais-ugrilainen
+suomalaisugrilainen
 suomalais-venäläinen
 suomalaisvenäläinen
 suomalaisvieras
@@ -1490,6 +1500,7 @@ superkylmä
 superlämmin
 supermakea
 supermukava
+supernuori
 superouto
 superpaljo
 superpehmeä
@@ -1701,6 +1712,7 @@ tuttu
 tutunnäköinen
 tutunomainen
 tutuntuttu
+TV-spesiaali
 tyhjä
 tyhmä
 tyhmänrohkea
@@ -1899,6 +1911,7 @@ verkkopohjoinen
 verkkorikollinen
 veromallinen
 veropoliittinen
+verorikollinen
 verovapaa
 verovelvollinen
 veroviranomainen
@@ -1919,6 +1932,7 @@ vihanta
 vihermusta
 vihertävänharmaa
 vihervasemmistolainen
+vihervasen
 vihollinen
 vihonviimeinen
 vihoviimeinen

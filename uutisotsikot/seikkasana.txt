@@ -523,6 +523,7 @@ nokakkain
 nokatusten
 nokikkain
 nokittain
+nonstop
 nopeiten
 normaalilainsäädäntötie
 nukuksissa
@@ -870,6 +871,7 @@ tyystin
 uimapukusillaan
 uimasillaan
 uimatie
+ukrainalaisittain
 ulkoapäin
 ulkosalla
 ulommas

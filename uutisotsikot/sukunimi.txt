@@ -882,6 +882,7 @@ Karjalainen
 Karjula
 Kärkkäinen
 Karlsson
+Karlsson-Haapala
 Karlström
 Karlström-Rantala
 Kärmeniemi
@@ -1424,6 +1425,7 @@ Mentula
 Mercier
 Merikanto
 Meriläinen
+Meriläinen-Aho
 Meri-Toppila
 Meronen
 Mertanen
@@ -1620,6 +1622,7 @@ Oksala
 Oksanen
 Oksman
 Olenius
+Olga-Koiranen
 Olkkonen
 Ollikainen
 Ollikkala
@@ -1628,6 +1631,7 @@ Onerva
 Onttonen
 Oranen
 Orpana
+Orvola
 Orwell
 Osara
 Österberg

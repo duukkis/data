@@ -230,6 +230,7 @@ arkipäiväistyä
 arkipukeutua
 arkistoida
 arkistoitua
+arkitehdä
 armahtaa
 arpeuttaa
 arpeutua
@@ -398,6 +399,7 @@ demonstroida
 denaturoitua
 deponoida
 design-osata
+designosata
 desinfioida
 desinfioitua
 devalvoida
@@ -1004,6 +1006,7 @@ helpontua
 helpottaa
 helpottua
 Helsingin-tavata
+helskyä
 heltyä
 hemaista
 hemmotella
@@ -1394,6 +1397,7 @@ hyväksikäyttää
 hyväksyä
 hyväksyttää
 hyvästellä
+hyvinvointitavata
 hyvitellä
 hyvittää
 hyydyttää
@@ -1510,6 +1514,7 @@ inhottaa
 inistä
 injektoida
 innoittaa
+innoittua
 innostaa
 innostua
 innostuttaa
@@ -1720,6 +1725,7 @@ joiata
 joikata
 jojolaihduttaa
 jököttää
+jolkutella
 jolkuttaa
 jomottaa
 jongleerata
@@ -1958,6 +1964,7 @@ kamanvetää
 kammata
 kammeta
 kammoksua
+kammoloukkaantua
 kammota
 kampanjoida
 kampata
@@ -2230,6 +2237,7 @@ kelpuuttaa
 kelvata
 kengittää
 kenkkuilla
+kenkuttaa
 Kennedy-tavata
 kenttäpelata
 kepittää
@@ -2493,6 +2501,7 @@ kisasuorittaa
 kisata
 kiskaista
 kiskoa
+kiskottaa
 kismittää
 kitaraesiintyä
 kitata
@@ -2994,6 +3003,7 @@ kutoa
 kutsua
 kuukahtaa
 kuukausisäästää
+kuulaskeutua
 kuulla
 kuulokeosata
 kuulostaa
@@ -3043,6 +3053,7 @@ kyllästää
 kyllästyä
 kyllästyttää
 kylmätestata
+kylmävalmistaa
 kylmentää
 kylmentyä
 kylmetä
@@ -3494,6 +3505,7 @@ lisälannoittaa
 lisämyöhästyä
 lisäosata
 lisäostaa
+lisäpalkata
 lisärahoittaa
 lisärakentaa
 lisärokottaa
@@ -4044,6 +4056,7 @@ monipuolistaa
 monipuolistua
 monistaa
 monistua
+monitehdä
 monitoroida
 monivelkaantua
 mönkiä
@@ -4346,6 +4359,7 @@ nettipelata
 nettirekisteröityä
 nettisolvata
 nettitehdä
+nettitilata
 nettitreenata
 nettovelkaantua
 neuloa
@@ -4617,6 +4631,7 @@ osastoida
 osastolentää
 osata
 osauudistaa
+Oscar-esiintyä
 osittaa
 osittaisjakautua
 osoitella
@@ -4745,6 +4760,7 @@ pakkaantua
 pakkailla
 pakkaspukeutua
 pakkautua
+pakkoennallistaa
 pakkoesiintyä
 pakkoirtisanoutua
 pakkokeskittää
@@ -4995,6 +5011,7 @@ pesiytyä
 pestä
 pestata
 pestautua
+petailla
 petkuttaa
 peto-osata
 petrata
@@ -5272,6 +5289,7 @@ prameilla
 prässätä
 prässipelata
 prepata
+presidenttitavata
 prinsessakaatua
 printata
 priorisoida
@@ -5988,6 +6006,7 @@ ruumiillistua
 ruuvata
 ruveta
 ryhdistäytyä
+ryhmä-äänestää
 ryhmäasua
 ryhmäharrastaa
 ryhmäkäsikirjoittaa
@@ -6396,6 +6415,7 @@ siristellä
 sirittää
 sirkutella
 sirkuttaa
+siroilla
 sirotella
 sirottaa
 sirpaloitua
@@ -7063,6 +7083,7 @@ teollistaa
 teollistua
 teollisuusrakentaa
 teoriakoeosata
+teoriaosata
 teorioida
 tepastella
 tepsiä
@@ -7077,6 +7098,7 @@ terästäytyä
 terävöittää
 terävöityä
 terminoida
+teroitella
 teroittaa
 terrorisoida
 tervata
@@ -7780,6 +7802,7 @@ vakavoittaa
 vakavoitua
 väkevöidä
 väkevöittää
+väkevöityä
 vakiinnuttaa
 vakiintua
 vakinaistaa
@@ -7807,6 +7830,7 @@ valikoida
 valikoitua
 välimuotoasua
 välinehuijata
+valiokuntakuulla
 valioliigakohdata
 valistaa
 valita
@@ -8072,6 +8096,7 @@ vesirakentaa
 vesistörakentaa
 vesittää
 vesittyä
+vesivärimaalata
 vesivirrata
 vesivoimarakentaa
 vesoa
@@ -8305,6 +8330,7 @@ voittajatehdä
 voivotella
 vollottaa
 vongata
+vonkua
 vouhkata
 vouhottaa
 VR-osata
@@ -8423,6 +8449,7 @@ ylikalastaa
 ylikaupallistaa
 ylikellottaa
 ylikompensoida
+ylikorjata
 ylikorostaa
 ylikorostua
 ylikuluttaa
@@ -8432,6 +8459,7 @@ ylikuumentaa
 ylikuumentua
 ylikuumeta
 ylilaiduntaa
+yliläikkyä
 ylilämmittää
 ylilannoittaa
 ylilatautua

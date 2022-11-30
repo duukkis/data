@@ -861,6 +861,7 @@ Keski-Kuha
 Keski-Lappi
 Keski-Mali
 Keski-Nigeria
+Keski-Norja
 Keski-Nurmo
 Keski-Päijänne
 Keski-Pasila
@@ -1221,6 +1222,7 @@ Loppi
 Los
 Louhela
 Louisiana
+Loukinainen
 Lounais-Afrikka
 Lounais-Australia
 Lounais-Häme
@@ -1373,6 +1375,7 @@ MM-Japani
 MM-Koitto
 MM-Kolari
 MM-Latvia
+MM-Qatar
 MM-Taipale
 Mogadishu
 Möhkö
@@ -1866,6 +1869,7 @@ Ruskeala
 Rusko
 Ruukki
 Rymättylä
+Rymättylä-Merimasku
 Sääksjärvi
 Saana
 Saanatunturi
@@ -2103,6 +2107,7 @@ Tanninen-Mattila
 Tansania
 Tanska
 Tanska-Suomi
+Tanska-Tunisia
 Tapiola
 Tapiola-Karelia
 Tartto
@@ -2354,6 +2359,7 @@ Ylä-Levi
 Ylämaa
 Ylä-Malmi
 Yläne
+Ylä-Oulanka
 Ylä-Satakunta
 Ylä-Savo
 Ylä-Tikkurila
