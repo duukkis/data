@@ -52,6 +52,7 @@ Ailio
 Aimo-Koivisto
 Aina-Karhunen
 Airaksinen
+Airamo
 Airas
 Airila
 Airola
@@ -1328,6 +1329,7 @@ Määttä
 Määttänen
 Macleod
 Madetoja
+Mahkonen
 Mahonen
 Mähönen
 Maijala
@@ -1439,6 +1441,7 @@ Mickelsson
 Mielonen
 Miettinen
 Miettunen
+Miinalainen
 Miinin
 Mikander
 Mikkilä
@@ -1748,6 +1751,7 @@ Petriläinen
 Pettersson
 Pettinen
 Peurala
+Pfeifer
 Picasso
 Piekkola
 Pienimäki
@@ -2556,6 +2560,7 @@ Verronen
 Vertanen
 Vesalainen
 Vesanen
+Vesanen-Laukkanen
 Vesisenaho
 Vesterinen
 Veteläinen

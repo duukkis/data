@@ -364,6 +364,7 @@ Eeva-Leena
 Eeva-Liina
 Eeva-Liisa
 Eeva-Maarit
+Eeva-Marja
 Eeva-Riitta
 Eeva-Stiina
 Eevert
@@ -461,6 +462,7 @@ Esa-Jussi
 Esa-Matti
 Esa-Pekka
 Esa-Pentti
+Esa-Veikko
 Esko
 Esko-Juha
 Espoo-Päivä
@@ -558,6 +560,7 @@ Hauho-Päivä
 Heidi
 Heidi-Maria
 Heikki
+Heikki-Pekka
 Heikkis-Jaska
 Heikki-Veli
 Heini
@@ -665,6 +668,7 @@ Inga-Leena
 Inger
 Ingrid
 Inka
+Inka-Liina
 Inka-Liisa
 Ira
 Irene
@@ -984,6 +988,7 @@ Lasse
 Lassi
 Lassi-Pekka
 Lati
+Launo
 Laura
 Laura-Liisa
 Laura-Tuuli
@@ -1249,6 +1254,7 @@ Missi-Riikka
 Missi-Rosa
 Missi-Viivi
 MM-Päivä
+MM-Satu
 MM-Taisto
 MM-Toivo
 MM-Unelma
@@ -1267,6 +1273,7 @@ Muhammad
 Muhammed
 Nadine
 Nanna
+Nanna-Katariina
 Nanny
 Napoleon
 Natalia

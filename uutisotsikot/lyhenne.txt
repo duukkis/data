@@ -61,6 +61,7 @@ juhla-DVD
 kaapeli-TV
 kaupunki-TV
 kg
+kHz
 kJ
 kk
 klo

@@ -317,6 +317,7 @@ Etelä-Meksiko
 Etelä-Mesopotamia
 Etelä-Miami
 Etelä-Nevada
+Etelä-Nikkilä
 Etelä-Norja
 Etelä-Ohio
 Etelä-Orkney
@@ -500,6 +501,7 @@ Hiltula
 Himalaja
 Himanka
 Hiroshima
+Hobittila
 Hollola
 Hollywood
 Hölmölä
@@ -735,6 +737,7 @@ Kakola
 Kalahari
 Kalajoki
 Kalanti
+Kalanti-Pyhäranta
 Kaldoaivi
 Kalifornia
 Kaliningrad
@@ -1371,6 +1374,7 @@ Mira-Mari
 Mirka-Mari
 Mississippi
 Missouri
+MM-Altai
 MM-Japani
 MM-Koitto
 MM-Kolari
@@ -1389,6 +1393,7 @@ Montenegro
 Montola
 Montpellier
 Montreal
+Montserrat
 Mordva
 Mosambik
 Moskova
@@ -1675,6 +1680,7 @@ Pohjois-Kanada
 Pohjois-Kaukasia
 Pohjois-Kazakstan
 Pohjois-Konnevesi
+Pohjois-Kosovo
 Pohjois-Krim
 Pohjois-Kuusamo
 Pohjois-Kypros
@@ -2076,6 +2082,7 @@ Svinesund
 Swazimaa
 Sydän-Lappi
 Sydän-Satakunta
+Sydän-Suomi
 Sydney
 Syrjälä
 Sysmä

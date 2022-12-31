@@ -105,6 +105,7 @@ baskilainen
 beigenruskea
 berberijuutalainen
 binääri
+bioyhteensopiva
 bisnesrikollinen
 b-nuori
 boikotinomainen
@@ -394,6 +395,7 @@ iki-ihanainen
 ikinuori
 ikioma
 ikipimeä
+ikiruskea
 ikivanha
 ikivihreä
 ilkeännäköinen
@@ -480,8 +482,10 @@ jörö
 joululomalainen
 joutilas
 j-poppa
+julmannäköinen
 juniorikuorolainen
 juoni
+juoniköyhä
 juutalainen
 jylhänkomea
 jyrkkä
@@ -502,6 +506,7 @@ kalifornialaisnuori
 kalju
 kaltainen
 kamala
+kamalannäköinen
 kanadalaisnuori
 kanadalaistohelo
 kanadansuomalainen
@@ -681,6 +686,7 @@ kuiva
 kuljetusmallinen
 kullanruskea
 kulo
+kulosaarelainen
 kulovalkea
 kulta
 kultapossukerholainen
@@ -914,6 +920,7 @@ mukava
 mukavannäköinen
 museopoliittinen
 museoviranomainen
+musiikkiopistolainen
 musiikkiteatterilainen
 muslimiläheinen
 musta
@@ -1010,6 +1017,7 @@ oikeusviranomainen
 oireenmukainen
 ökyrikas
 olympiakulta
+olympialoisto
 olympiatulokas
 olympiavieras
 oma
@@ -1046,6 +1054,7 @@ päänomainen
 päästökauppamallinen
 päävihollinen
 paha
+pahalainen
 pahannäköinen
 pahansuopa
 päihdeläheinen
@@ -1154,6 +1163,7 @@ pohjoinen
 pohjoiskarjalainen
 pohjois-korea
 pohjoismaalainen
+pohjoismais-balttilainen
 pohjois-norja
 pohjoispohjanmaalainen
 pohjoisruotsalainen
@@ -1390,6 +1400,7 @@ siirtolaisviranomainen
 siivekäs
 siivo
 silkka
+simpanssikarkulainen
 sinertävänvihreä
 sipoolaisnuori
 sirkuslainen
@@ -1409,6 +1420,7 @@ skottilainen
 skyyttalainen
 slaavilainen
 slovakialaisviranomainen
+slovenialaisvieras
 SM-kulta
 s-mobiili
 SM-pitkä
@@ -1472,6 +1484,7 @@ suomalaisnuori
 suomalaisrakas
 suomalaisrikollinen
 suomalais-ruotsalainen
+suomalaisruotsalainen
 suomalaistulokas
 suomalaistupla
 suomalaistuttu
@@ -1602,6 +1615,7 @@ täystollo
 täytäntöönpanoviranomainen
 teatterilainen
 teatterinomainen
+teemallinen
 teemasuomalainen
 teerijärveläinen
 tehtäväkeskeinen
@@ -1702,6 +1716,7 @@ turkinsuomalainen
 turkkilaisislamilainen
 turkkilaisviranomainen
 turkulaisnuori
+turunmaalainen
 turva-aikuinen
 turvallisuusasiakirjavelvollinen
 turvallisuuspoliittinen
@@ -1750,6 +1765,7 @@ ukrainalaisaikuinen
 ukrainalaisnuori
 ukrainalaisorpo
 ukrainalaissiviili
+ukrainalais-suomalainen
 ukrainalais-venäläinen
 ukrainalaisvieras
 ukrainalaisviranomainen
@@ -1775,6 +1791,7 @@ ummikko
 umpihölmö
 umpihullu
 umpiköyhä
+umpiouto
 umpipoliittinen
 umpivenäläinen
 unenkaltainen

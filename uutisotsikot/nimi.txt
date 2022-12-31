@@ -2,6 +2,7 @@
 Abloy
 af
 Afrikan-Maa
+Agonist
 Airam
 Airbus
 Akademi
@@ -200,6 +201,7 @@ Panadol
 Partek
 Pendolino
 Pepsi
+perus-Mersu
 Peugeot
 pikku-Finlandia
 pistoke-Volvo

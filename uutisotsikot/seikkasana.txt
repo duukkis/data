@@ -2,6 +2,7 @@ aamupäivisin
 aamusella
 aamutuimaan
 aamuvarhain
+äänekoskelaisittain
 ääneti
 äärimmillään
 aasialaisittain
@@ -360,6 +361,7 @@ kumminkin
 kumollaan
 kumossa
 kunnittain
+kuohuksissa
 kuoliaaksi
 kuorma-autolavoittain
 kuormalavoittain
@@ -602,6 +604,7 @@ perheittäin
 perhekunnittain
 perillä
 perisuomalaisittain
+perjantai-iltapäivisin
 perjantaisin
 perkele
 perussuomalaisittain
