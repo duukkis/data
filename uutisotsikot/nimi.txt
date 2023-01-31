@@ -191,6 +191,7 @@ Off
 öky-Audi
 öky-Mersu
 öky-Porsche
+öky-Volvo
 Olavinlinna
 Orion
 Oscar

@@ -380,6 +380,7 @@ hyppäyksenomainen
 hyvännäköinen
 hyvinvointikeskeinen
 hyvinvointimallinen
+hyvitysmallinen
 iänmukainen
 identiteettipoliittinen
 ihanainen
@@ -511,6 +512,7 @@ kanadalaisnuori
 kanadalaistohelo
 kanadansuomalainen
 kanavaviranomainen
+kangastuksenomainen
 kansainvälispoliittinen
 kansanläheinen
 kansanmurhanomainen
@@ -568,6 +570,7 @@ keltavihreä
 kelttiläinen
 keminmaalainen
 kemiönsaarelainen
+kenialaisnuori
 kenialaisrakas
 kenkku
 keno
@@ -761,6 +764,7 @@ Lapin-lomalainen
 läpipoliittinen
 lappilaisnuori
 lapsenomainen
+lapsiaikuinen
 lapsikuorolainen
 lapsipoliittinen
 laskuhumalainen
@@ -1131,6 +1135,7 @@ pikkuhelle
 pikkuinen
 pikkukuuro
 pikkumusta
+pikkuparka
 pikkurietas
 pikkurikollinen
 pikkusiivekäs
@@ -1474,6 +1479,7 @@ suomalaisbrittiläinen
 suomalaiseläkeläinen
 suomalaishirmu
 suomalais-karjalainen
+suomalaiskulta
 suomalaiskuuma
 suomalaisloisto
 suomalaismallinen

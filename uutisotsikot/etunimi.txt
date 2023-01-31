@@ -60,6 +60,7 @@ Akseli
 Aku
 Aku-Veli
 Alan
+Alarik
 Alastair
 Albert
 Albin
@@ -534,6 +535,7 @@ Hanna-Katariina
 Hanna-Leena
 Hanna-Liisa
 Hanna-Maaria
+Hanna-Maarit
 Hanna-Maija
 Hanna-Maria
 Hanna-Marjut
@@ -921,6 +923,7 @@ Katja-Sisko
 Katri
 Katriina
 Katrina
+Katri-Sisko
 Kauko
 Kauko-Aatos
 Kauno

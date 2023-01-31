@@ -227,6 +227,7 @@ Edinburgh
 Edmonton
 Eesti
 Eeva-Mari
+Eevi-Inkeri
 Egeanmeri
 Egypti
 Eira
@@ -745,6 +746,7 @@ Kalkkinen
 Kalkutta
 Kallavesi
 Kallela
+Kallen-Kallela
 Kalliola
 Kallio-Lehtimäki
 Kallislahti
@@ -1378,6 +1380,7 @@ MM-Altai
 MM-Japani
 MM-Koitto
 MM-Kolari
+MM-Lahti
 MM-Latvia
 MM-Qatar
 MM-Taipale
@@ -1824,6 +1827,7 @@ Reinikkala
 Reisjärvi
 Renko
 Repola
+Réunion
 Reykjavik
 Reykjavík
 Rhodesia

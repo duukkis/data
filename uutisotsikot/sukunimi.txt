@@ -354,6 +354,7 @@ Flagg
 Fleming
 Flemming
 Flink
+Flink-Liimatainen
 Floridan-Kartano
 Föhr
 Föhr-Lundberg
@@ -536,6 +537,7 @@ Heikkinen
 Heikkonen
 Heikura
 Heilimo
+Heimala
 Heimonen
 Heinänen
 Heinaro
@@ -1969,6 +1971,7 @@ Rista
 Ristolainen
 Ritala
 Ritola
+Ritvanen
 Roberts
 Roberts-Smith
 Robertsson
@@ -2299,6 +2302,7 @@ Surakka
 Sutela
 Sutinen
 Suuronen
+Suutela
 Suvivuo
 Svensson
 Svinhufvud
@@ -2456,6 +2460,7 @@ Tuulonen
 Tuunainen
 Tuunanen
 Tuurna
+Tuvalu-Saari
 TV-Kuvaaja
 Tykkyläinen
 Tyni
