@@ -69,6 +69,7 @@ EU-Maa
 EU-Puh
 Euribor
 Facebook
+farkku-Audi
 Fazer
 Finlandia
 Finlayson
@@ -198,6 +199,7 @@ Oscar
 Ossian
 Otava
 pääosa-Oscar
+palkinto-Mersu
 Panadol
 Partek
 Pendolino
@@ -261,6 +263,7 @@ some-Maa
 some-Puh
 Sonera
 Sony
+sote-Puh
 Spartacus
 Sprite
 Sputnik

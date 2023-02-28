@@ -333,6 +333,7 @@ Euler
 EU-Myllys
 EU-Piik
 Eurooppa-Riski
+EU-Valta
 Evans
 Fabritius
 Fagerholm
@@ -586,6 +587,7 @@ Hiekkanen
 Hietala
 Hietanen
 Hihnala
+Hildebrandt
 Hilden
 Hildén
 Hillilä
@@ -1494,6 +1496,7 @@ Muranen
 Murphy
 Murto
 Murto-Koivisto
+Murtola
 Murtonen
 Mussolini
 Mustonen
@@ -1525,6 +1528,7 @@ Neck
 Nederström
 Neiglick
 Nenonen
+Neruda
 Nesser
 Neuman
 Neuvonen
@@ -1818,6 +1822,7 @@ PS-Junnila
 Ptolemaios
 Puhakka
 Puhakka-Tarvainen
+Puheloinen
 Puhtila
 Puikkonen
 Pukkala
@@ -2111,6 +2116,7 @@ Saveljeff
 Savenius
 Savola
 Savolainen-Peltonen
+Scarpetta
 Schauman
 Schildt
 Schjerfbeck
@@ -2461,6 +2467,7 @@ Tuunainen
 Tuunanen
 Tuurna
 Tuvalu-Saari
+TV-Julkunen
 TV-Kuvaaja
 Tykkyläinen
 Tyni
@@ -2666,6 +2673,7 @@ Wilén
 Willberg
 Williams
 Williams-Autto
+Wilma-Murto
 Wilman-Koistinen
 Wilson
 Witting

@@ -355,6 +355,7 @@ huippupitkä
 huippurikas
 huipputiukka
 huipputulokas
+huippuvarma
 huippuvieras
 huithapeli
 hulivili
@@ -777,6 +778,7 @@ lauttasaarelainen
 legioonalainen
 leikinomainen
 leikkovihreä
+lemmikkikarkulainen
 leniniläinen
 lentokenttäviranomainen
 lentoturvallisuusviranomainen
@@ -946,6 +948,7 @@ naisvihollinen
 näköinen
 naku
 nami
+Nato-lainen
 natsirikollinen
 naurulainen
 neandertalilainen
@@ -994,6 +997,7 @@ nuorsuomalainen
 nuoska
 nurmijärveläinen
 nuuskarikollinen
+nykerö
 nykyaikuinen
 nykydemokraatti
 nykyinen
@@ -1421,6 +1425,7 @@ siviilimallinen
 siviilipalvelusvelvollinen
 siviiliviranomainen
 skandaalinomainen
+skotlantilais-ruotsalainen
 skottilainen
 skyyttalainen
 slaavilainen
@@ -1790,6 +1795,7 @@ ulosottoviranomainen
 ultrakylmä
 ultraortodoksijuutalainen
 ultrarikas
+ultrarohkea
 ultratiukka
 ultraviileä
 ultravioletti
@@ -2031,6 +2037,7 @@ ylirohkea
 ylisuuri
 ylitiukka
 ylitörkeä
+yllätyssuomalainen
 ympäristölupaviranomainen
 ympäristönsuojeluviranomainen
 ympäristönvalvontaviranomainen

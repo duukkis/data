@@ -27,6 +27,7 @@ CIA
 cm
 CNN
 CV
+digi-TV
 DNA
 DVD
 EAN
@@ -139,6 +140,7 @@ SOS
 sote
 SPR
 STT
+suomi-TV
 suomi-USA
 super-g
 super-PC

@@ -250,6 +250,7 @@ Englanti-Italia
 Englanti-Kroatia
 Englanti-Saksa
 Englanti-Skotlanti
+Englanti-Suomi
 Englanti-Tanska
 Enni-Mari
 Eno
@@ -1567,6 +1568,7 @@ Palestiina
 Pälkäne
 Pälksaari
 Pallas
+Pallas-Ounastunturi
 Pallastunturi
 Pallas-Ylläs
 Pallas-Yllästunturi
@@ -1728,6 +1730,7 @@ Pohjois-Tyynimeri
 Pohjois-Uganda
 Pohjois-Ural
 Pohjois-Uruguay
+Pohjois-Vantaa
 Pohjois-Viena
 Pohjois-Virginia
 Pohjois-Vuosaari
@@ -2055,6 +2058,7 @@ Suomussalmi
 Suonenjoki
 Suorlahti
 Surinam
+Suriname
 Suur-Barcelona
 Suur-Göteborg
 Suur-Helsinki

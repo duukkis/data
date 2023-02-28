@@ -34,6 +34,7 @@ aerosolilevitä
 Afganistan-epäonnistua
 Afganistan-vetäytyä
 agitoida
+ahavoittaa
 ahdata
 ahdistaa
 ahdistella
@@ -296,6 +297,7 @@ astua
 astuttaa
 asua
 asuinrakentaa
+asukasosallistua
 asukastavata
 asumisoikeusasua
 asuntorakentaa
@@ -1452,6 +1454,7 @@ ilahtua
 ilakoida
 iljetä
 iljettää
+ilkamoida
 ilkeillä
 ilkkua
 illallistaa
@@ -2014,6 +2017,7 @@ kännykkäpelata
 kanonisoida
 kansainvälistää
 kansainvälistyä
+kansalaistaa
 kansalaistavata
 kansalaisvaikuttaa
 kansallistaa
@@ -2442,6 +2446,7 @@ kikattaa
 kikkailla
 kilahdella
 kilahtaa
+kilautella
 kilauttaa
 kilistä
 kilistää
@@ -3722,6 +3727,7 @@ luonnostella
 luontokerhovaikuttaa
 luontua
 luopua
+luotailla
 luotottaa
 luotsata
 luottaa
@@ -4040,6 +4046,7 @@ mittauttaa
 MM-diskata
 MM-kisarakentaa
 MM-kohdata
+MM-kyntää
 MM-osallistua
 MM-sulaa
 MM-tehdä
@@ -4095,6 +4102,7 @@ mönkiä
 monopolisoida
 monopolisoitua
 monottaa
+moottorikelkkailla
 moottorikokoontua
 moottoriosata
 moottoripyörätavata
@@ -4556,6 +4564,7 @@ nyyhkyttää
 odotella
 odottaa
 odotuttaa
+oheistaa
 oheistehdä
 ohentaa
 ohentua
@@ -5101,6 +5110,7 @@ piipahtaa
 piipata
 piipertää
 piipittää
+piippailla
 piiputtaa
 piiritavata
 piirittää
@@ -5925,6 +5935,7 @@ rohjeta
 rohkaista
 rohkaistua
 röhkiä
+rohmuilla
 rohmuta
 rohtua
 roihahdella
@@ -6293,6 +6304,7 @@ saunottaa
 sauvoa
 sävähdyttää
 sävähtää
+säväytellä
 säväyttää
 säveltää
 saveta
@@ -6717,6 +6729,7 @@ suomentua
 suomettua
 suomia
 Suomi-kohdata
+Suomi-Ruotsi-tavata
 Suomi-sulaa
 Suomi-tavata
 suomustaa
@@ -7216,6 +7229,7 @@ tikunkatketa
 tilailla
 tilannejohtaa
 tilanteenvaihtopelata
+tilapäisrakentaa
 tilastoida
 tilastoitua
 tilata
@@ -7868,6 +7882,7 @@ väkevöityä
 vakiinnuttaa
 vakiintua
 vakinaistaa
+vakinaistua
 vakioida
 vakioitua
 väkivaltaistua
@@ -8082,6 +8097,7 @@ veivata
 veljeillä
 velkaannuttaa
 velkaantua
+velkajankata
 velkavipusijoittaa
 velkoa
 velloa
@@ -8299,6 +8315,7 @@ vilustua
 viluttaa
 vilvoitella
 vilvoittaa
+vimmastua
 vinguttaa
 vinkata
 vinkkailla
@@ -8383,6 +8400,7 @@ voimaannuttaa
 voimaanpalauttaa
 voimaansaattaa
 voimaantua
+voimailla
 voimalaitosrakentaa
 voimalarakentaa
 voimauttaa
