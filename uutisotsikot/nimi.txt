@@ -201,6 +201,7 @@ Otava
 pääosa-Oscar
 palkinto-Mersu
 Panadol
+paperi-Kaleva
 Partek
 Pendolino
 Pepsi
@@ -219,6 +220,7 @@ Puh
 puna-Musti
 pyhimys-Volvo
 Qaida
+Qatar-Puh
 Raamattu
 ralli-Audi
 Ramses

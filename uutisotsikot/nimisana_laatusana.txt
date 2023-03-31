@@ -42,6 +42,7 @@ algerianjuutalainen
 alituttava
 alkiolainen
 alkoholikeskeinen
+alkoholipoliittinen
 allergianomainen
 altis
 aluehallintaviranomainen
@@ -133,6 +134,7 @@ digivihreä
 DVD-ekstra
 edellinen
 edellisenkaltainen
+edeltäjämallinen
 edunmukainen
 egyptiläisviranomainen
 ei-akuutti
@@ -171,6 +173,7 @@ elintarvikevalvontaviranomainen
 elintarvikeviranomainen
 elsalvadorilainen
 EM-kulta
+EM-kulta-aituri
 EM-loisto
 energialäheinen
 energiapoliittinen
@@ -521,6 +524,7 @@ kansanomainen
 kansanterveysviranomainen
 kansanvihollinen
 kantahämäläinen
+kantakirjakepulainen
 kantasuomalainen
 kanteluviranomainen
 kapeanäköinen
@@ -739,6 +743,7 @@ laboratoriokarkulainen
 läheinen
 lähiomainen
 lähisukulainen
+lähivihreä
 lahkolainen
 lahkonomainen
 laho
@@ -1215,6 +1220,7 @@ puolanjuutalainen
 puoliammattilaismallinen
 puolihöhlä
 puolihullu
+puolikova
 puolikuiva
 puolikypsä
 puolinaku
@@ -1347,6 +1353,7 @@ saaristolainen
 säätyläinen
 sääviranomainen
 sadunomainen
+sähköautosukulainen
 säikky
 sairas
 sairaslomalainen
@@ -1501,6 +1508,7 @@ suomalaistupla
 suomalaistuttu
 suomalais-ugrilainen
 suomalaisugrilainen
+suomalaisvelmu
 suomalais-venäläinen
 suomalaisvenäläinen
 suomalaisvieras
@@ -1619,6 +1627,7 @@ tavanmukainen
 tavanomainen
 tavoitekeskeinen
 täydennyspalvelusvelvollinen
+täyskorkea
 täysmusta
 täyspitkä
 täyspöljä
@@ -1810,6 +1819,7 @@ unenkaltainen
 unenomainen
 unkarilais-suomalainen
 unkarilaistuttu
+unkarilaisvieras
 upeannäköinen
 uppo-outo
 upporikas
@@ -1955,6 +1965,7 @@ viekas
 vienankarjalainen
 vieras
 vierasmaalainen
+vierasvarma
 viestintäviranomainen
 vietto
 vihanta
@@ -2022,6 +2033,7 @@ yksinoma
 yksinomainen
 yläoikea
 yleiseteläsuomalainen
+yleisnero
 yleispoliittinen
 yleissuomalainen
 yleisvenäläinen

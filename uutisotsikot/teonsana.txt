@@ -110,6 +110,7 @@ ajoneuvovakuuttaa
 äkkipoistua
 äkkirakastua
 äkkirikastua
+akkreditoitua
 akkuosata
 äkseerata
 äksyillä
@@ -925,6 +926,7 @@ hätäillä
 hätäkuulla
 hätälaskeutua
 hätämajoittaa
+hätäpoistua
 hätätavata
 hätäteurastaa
 hätätilanneosata
@@ -1397,6 +1399,7 @@ hypellä
 hyperkuluttaa
 hypistellä
 hypnotisoida
+hypnotisoitua
 hyppelehtiä
 hyppiä
 hyppyyttää
@@ -1428,6 +1431,7 @@ identifioitua
 ideoida
 ihailla
 ihannoida
+ihannoitua
 ihastella
 ihastua
 ihastuttaa
@@ -1734,6 +1738,7 @@ jelpata
 jemmailla
 jemmata
 jengiampua
+jengikäyttäytyä
 jengiytyä
 jenkkiosata
 johdatella
@@ -1873,6 +1878,7 @@ jysäyttää
 jyskyä
 jyskyttää
 jytistä
+jytkyttää
 jyvittää
 jyystää
 kaadella
@@ -1976,6 +1982,7 @@ kalkattaa
 kalliolaskeutua
 kalliorakentaa
 kallistaa
+kallistella
 kallistua
 kalppia
 kalskahtaa
@@ -2017,6 +2024,7 @@ kännykkäpelata
 kanonisoida
 kansainvälistää
 kansainvälistyä
+kansalaisosallistua
 kansalaistaa
 kansalaistavata
 kansalaisvaikuttaa
@@ -2174,6 +2182,7 @@ kaukovaikuttaa
 kaulailla
 kaulata
 kaunistaa
+kaunistautua
 kaunistella
 kaunistua
 kaupallistaa
@@ -2500,6 +2509,7 @@ kiristyä
 kirittää
 kirjailijatavata
 kirjailla
+kirjankustantaa
 kirjata
 kirjautua
 kirjeenkirjoittaa
@@ -2535,6 +2545,7 @@ kiskoa
 kiskottaa
 kismittää
 kitaraesiintyä
+kitaraosata
 kitata
 kiteyttää
 kiteytyä
@@ -2564,6 +2575,7 @@ klikata
 klikkailla
 kloonata
 kloorata
+kobolttialtistua
 koeajaa
 koeampua
 koe-esiintyä
@@ -2811,6 +2823,7 @@ kotiladata
 kotimajoittaa
 kotiopettaa
 kotipelata
+kotitavata
 kotitestata
 kotitreenata
 kotiuttaa
@@ -3032,6 +3045,7 @@ kutkuta
 kutkutella
 kutkuttaa
 kutoa
+kutoutua
 kutsua
 kuukahtaa
 kuukausisäästää
@@ -3342,6 +3356,7 @@ laventua
 laverrella
 lävistää
 legitimoida
+Lego-robottirakentaa
 lehahtaa
 lehdistötavata
 lehteillä
@@ -3475,6 +3490,7 @@ liikuskella
 liikutella
 liikuttaa
 liikuttua
+liimaantua
 liimailla
 liimata
 liimautua
@@ -4029,6 +4045,7 @@ miksailla
 miksata
 Milan-kohdata
 militarisoida
+militarisoitua
 minimikuluttaa
 minimipelata
 minimoida
@@ -4271,6 +4288,7 @@ myyntiosata
 myyntisaada
 myyntitapahtua
 myyntitavata
+myytinmurtaa
 naamioida
 naamioitua
 näännyttää
@@ -4880,6 +4898,7 @@ paneutua
 paniikkihamstrata
 paniikkiostaa
 pankkikorttimaksaa
+pankkisulkea
 pankkitunnistautua
 panna
 pannoittaa
@@ -5122,6 +5141,7 @@ piiskata
 piitata
 pika-aloittaa
 pikadieettilaihduttaa
+pikaistua
 pikakouluttaa
 pikalaihduttaa
 pikapalautua
@@ -5225,6 +5245,7 @@ poisnukkua
 poisottaa
 poispäästää
 poispestä
+poisrajata
 poissulkea
 poistaa
 poistattaa
@@ -6174,6 +6195,7 @@ sähkötavata
 sähköttää
 sählätä
 säihkyä
+säikähdyttää
 säikähtää
 säikäytellä
 säikäyttää
@@ -7551,6 +7573,7 @@ tuurata
 tuutata
 TV-avautua
 TV-esiintyä
+TV-esittää
 TV-kohdata
 twistata
 Twitter-avautua
@@ -7689,9 +7712,11 @@ ulvahtaa
 ulvoa
 ummistaa
 umpeutua
+umpioida
 uneksia
 unelmakohdata
 unelmoida
+Unkari-tavata
 unohdella
 unohtaa
 unohtua
@@ -7779,6 +7804,7 @@ uusintasairastua
 uusiokäyttää
 uusiutua
 uussuomettua
+uusteollistua
 uutisoida
 uutisoitua
 uuttaa
@@ -8147,6 +8173,7 @@ verkkopelata
 verkkorahapelata
 verkkotavata
 verkkotehdä
+verkkotunnistautua
 verkostoitua
 verkostojohtaa
 verkostotavata
@@ -8581,6 +8608,7 @@ yllätyslaskeutua
 yllätysluhistua
 yllätyspoistua
 yllätyspudota
+yllätystavata
 yllyttää
 ylpeillä
 ylpistyä
@@ -8610,6 +8638,7 @@ YouTube-esiintyä
 YouTube-käyttäytyä
 yövalvoa
 yrittää
+yritysjohtaa
 yrityskehittää
 yskähdellä
 yskähtää

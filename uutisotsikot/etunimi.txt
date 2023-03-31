@@ -809,6 +809,7 @@ Jonas
 Jonatan
 Jonathan
 Joni
+Joni-Arttu
 Joni-Matti
 Joni-Pekka
 Joni-Petri
@@ -1036,6 +1037,7 @@ Linda-Lotta
 Linda-Thomas
 Linus
 Lisa
+Lisa-Marie
 Lissu
 Liverpool-Laina
 Liverpool-Unelma
@@ -1185,6 +1187,7 @@ Merja
 Merja-Hannele
 Mervi
 Mette
+Mette-Marie
 Mia
 Michael
 Michael-Veli
@@ -1699,6 +1702,7 @@ Sylvi-Kyllikki
 Taavetti
 Taavi
 Tage
+Tahvo
 Taija
 Taimi
 Taimi-Alan

@@ -390,6 +390,7 @@ Gorbatshov
 Gorbatšov
 Grafton
 Granberg
+Granfelt
 Granholm
 Granlund
 Granqvist
@@ -675,6 +676,7 @@ Huuhtanen
 Huunonen
 Huusko
 Huuskonen
+Huygens
 Hynninen
 Hynynen
 Hyppönen
@@ -789,6 +791,7 @@ Julkunen
 Jumppanen
 Junes
 Junes-Leinonen
+Junkers
 Junkkarinen
 Junnila
 Juntunen
@@ -2111,6 +2114,7 @@ Sasi
 Sassi
 Saukkonen
 Saura
+Sauramo
 Sävelä
 Saveljeff
 Savenius
