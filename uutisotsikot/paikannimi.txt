@@ -1045,6 +1045,7 @@ Kuivaniemi
 Kukkola
 Kulho
 Kulju
+Kumlinge
 Kumpula
 Kunnasniemi
 Kuokkala
@@ -1379,6 +1380,7 @@ Mirka-Mari
 Mississippi
 Missouri
 MM-Altai
+MM-Budapest
 MM-Japani
 MM-Koitto
 MM-Kolari
@@ -1386,6 +1388,7 @@ MM-Lahti
 MM-Latvia
 MM-Qatar
 MM-Taipale
+MM-Tampere
 Mogadishu
 Möhkö
 Moldavia
@@ -1711,6 +1714,7 @@ Pohjois-Pasila
 Pohjois-Pielavesi
 Pohjois-Pori
 Pohjois-Saimaa
+Pohjois-Salla
 Pohjois-Sambia
 Pohjois-Satakunta
 Pohjois-Savo
@@ -1731,6 +1735,7 @@ Pohjois-Tyynimeri
 Pohjois-Uganda
 Pohjois-Ural
 Pohjois-Uruguay
+Pohjois-Valkeala
 Pohjois-Vantaa
 Pohjois-Viena
 Pohjois-Virginia
@@ -2328,6 +2333,7 @@ Viensuu
 Vierumäki
 Vihanti
 Vihti
+Vihtijärvi
 Vihti-Karkkila
 Viiala
 Viianranta

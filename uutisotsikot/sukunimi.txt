@@ -68,6 +68,7 @@ Akvinolainen
 Alanen
 Alanenpää
 Alanko
+Alanko-Salminen
 Alastalo
 Alén
 Alenius
@@ -578,6 +579,7 @@ Henriksson
 Henttinen
 Henttonen
 Hentunen
+Herbert-Jones
 Hermansson
 Hernesniemi
 Herranen
@@ -2674,6 +2676,7 @@ Wiklund
 Wikström
 Wilder
 Wilén
+Wilhelm-Salin
 Willberg
 Williams
 Williams-Autto
@@ -2687,6 +2690,7 @@ Wright
 Wright-Laiho
 Wu
 Wuolijoki
+Ylimartimo
 Ylinen
 Yliruusi
 Ylönen

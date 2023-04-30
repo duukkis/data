@@ -25,6 +25,7 @@ aidonnäköinen
 aikuinen
 äimä
 ainoa
+äitelä
 äitikeskeinen
 aitotumainen
 aitotumallinen
@@ -131,6 +132,7 @@ demokraatti
 diagnoosikeskeinen
 digikiire
 digivihreä
+digiviranomainen
 DVD-ekstra
 edellinen
 edellisenkaltainen
@@ -418,6 +420,7 @@ inarilaisnuori
 inarinsaamelainen
 indeksimallinen
 inkeriläinen
+inkeriläis-venäläinen
 inkerinkarjalainen
 inkerinsuomalainen
 inkluusiomallinen
@@ -479,6 +482,7 @@ jenkkiviranomainen
 jermu
 joensuulaisnuori
 johdonmukainen
+johtajakeskeinen
 johtamismallinen
 jokijärveläinen
 jokiliikenneviranomainen
@@ -968,6 +972,7 @@ newyorkilainen
 NHL-äijä
 NHL-huipputulokas
 NHL-jermu
+NHL-lomalainen
 NHL-sisäpiiriläinen
 NHL-suomalainen
 NHL-supertulokas
@@ -1736,6 +1741,7 @@ turkinsuomalainen
 turkkilaisislamilainen
 turkkilaisviranomainen
 turkulaisnuori
+turkulaisvieras
 turunmaalainen
 turva-aikuinen
 turvallisuusasiakirjavelvollinen
@@ -1814,6 +1820,7 @@ umpihullu
 umpiköyhä
 umpiouto
 umpipoliittinen
+umpirohkea
 umpivenäläinen
 unenkaltainen
 unenomainen
@@ -1842,6 +1849,7 @@ uusmaalainen
 uusoikeistolainen
 uusrikas
 uussuomalainen
+uustaistolainen
 uusvanha
 uusvasemmistolainen
 uutissuomalainen
@@ -2007,6 +2015,7 @@ voimapoliittinen
 vuoristolainen
 vuorottelumallinen
 vuosilomalainen
+Wagner-rikollinen
 ydinjätevelvollinen
 ydinturvallisuusviranomainen
 ydinvoimaviranomainen

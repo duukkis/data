@@ -623,8 +623,10 @@ Hilppa
 Hjalmar
 Hjalmar-Veli
 Holger
+Hollywood-Satu
 Hollywood-Unelma
 Hugo
+Hugo-Jalmari
 Hulda
 Ibrahim
 Ida
@@ -673,6 +675,7 @@ Ingrid
 Inka
 Inka-Liina
 Inka-Liisa
+Instagram-Nelly
 Instagram-Nina
 Ira
 Irene
@@ -991,12 +994,14 @@ Lars-Johan
 Lars-Peter
 Lasarus
 Lasse
+Lasse-Maija
 Lassi
 Lassi-Pekka
 Lati
 Launo
 Laura
 Laura-Liisa
+Laura-Maija
 Laura-Tuuli
 Lauri
 Lawrence
@@ -1506,6 +1511,7 @@ Riiko
 Riina
 Riina-Eveliina
 Riina-Maija
+Riipis-Pekka
 Riitta
 Riitta-Liisa
 Riitta-Miina
@@ -1783,6 +1789,7 @@ Tony
 Topi
 Topias
 Topinpuisto-Päivä
+Topi-Veli
 Torsten
 Touko
 Tove

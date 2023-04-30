@@ -1005,6 +1005,7 @@ hekotella
 hekottaa
 hekumoida
 hekumoitua
+helähdellä
 helähtää
 heläyttää
 helistä
@@ -1794,6 +1795,7 @@ jousiaseampua
 joustaa
 joutaa
 joutua
+juhlajuoda
 juhlapukeutua
 juhlasaunoa
 juhlia
@@ -1812,6 +1814,7 @@ julkitulla
 julkituoda
 julmistua
 jumaloida
+jumaloitua
 jumbokohdata
 jumitella
 jumittaa
@@ -1854,6 +1857,7 @@ juurruttaa
 juurtaa
 juurtua
 juuttua
+jylähtää
 jylistä
 jyllätä
 jymähtää
@@ -1998,6 +2002,7 @@ kammeta
 kammoksua
 kammoloukkaantua
 kammota
+kammottaa
 kampanjoida
 kampata
 kampittaa
@@ -2288,6 +2293,7 @@ keretä
 kerhoampua
 keriä
 keritä
+kerjäillä
 kerjätä
 kerrata
 kerrospukeutua
@@ -2664,6 +2670,7 @@ köllötellä
 köllöttää
 kolminkertaistaa
 kolminkertaistua
+kolonisoida
 kolottaa
 koluta
 komeilla
@@ -3179,6 +3186,7 @@ lähipelata
 lähipiirirokottaa
 lähitavata
 lahjoa
+lahjoitella
 lahjoittaa
 lahota
 lahottaa
@@ -3566,6 +3574,7 @@ lisävelkaantua
 lisensioida
 lisensoida
 lisensoitua
+lisenssipelata
 listata
 listautua
 listiä
@@ -4069,6 +4078,7 @@ MM-sulaa
 MM-tehdä
 MM-valmistautua
 mobiilimaksaa
+mobiiliosata
 mobiilipelata
 mobiilipeliosata
 mobilisoida
@@ -4405,6 +4415,7 @@ näytteenottaa
 nelinkertaistaa
 nelinkertaistua
 neliöidä
+nelistää
 nesteyttää
 nesteytyä
 netota
@@ -5188,6 +5199,7 @@ pinnoittaa
 pinota
 pinttyä
 piparirakentaa
+pipetoida
 pirahtaa
 pirauttaa
 piristä
@@ -5918,6 +5930,7 @@ rinnakkaislistautua
 rinnakkaislukea
 rinnastaa
 rinnastua
+ripauttaa
 ripittää
 ripittäytyä
 ripotella
@@ -6307,6 +6320,7 @@ sataa
 sateenkaariasua
 sateenkaaripukeutua
 säteillä
+säteilyttää
 satelliitintuhota
 satelliittipaikantaa
 sätkiä
@@ -6581,6 +6595,7 @@ somekiusata
 somekytätä
 someloukkaantua
 someosata
+somepäivystää
 someroikkua
 someseurata
 sometehdä
@@ -6652,6 +6667,7 @@ standardoitua
 startata
 starttailla
 starttitavata
+stemmata
 stepata
 steppailla
 sterilisoida
@@ -6976,6 +6992,7 @@ taluttaa
 talvehtia
 talviasua
 talvilaiduntaa
+talvilatautua
 talviliikkua
 talvilomatehdä
 talvilomatiedottaa
@@ -7515,6 +7532,7 @@ tuprutella
 tupruttaa
 tupsahdella
 tupsahtaa
+tupsauttaa
 tuputtaa
 turhauttaa
 turhautua
@@ -7625,6 +7643,7 @@ työntehdä
 työntyä
 työpaikka-altistua
 työpaikkakiusata
+työpaikkarakentaa
 työpaikkasopia
 työpukeutua
 työryhmätavata
@@ -7929,6 +7948,7 @@ valehdella
 valella
 validoida
 validoitua
+välieräkohdata
 valikoida
 valikoitua
 välimuotoasua
@@ -8473,6 +8493,7 @@ ydinosata
 ydintehdä
 ydinvoimaosata
 ydinvoimarakentaa
+Yellowstone-tavata
 yhdeksänkertaistua
 yhdenmukaistaa
 yhdenmukaistua
@@ -8587,6 +8608,7 @@ ylistää
 ylisukupolvistua
 ylisuorittaa
 ylitehdä
+ylitreenata
 ylittää
 ylittyä
 ylitulkita
@@ -8640,6 +8662,7 @@ yövalvoa
 yrittää
 yritysjohtaa
 yrityskehittää
+yrjötä
 yskähdellä
 yskähtää
 yskäistä
