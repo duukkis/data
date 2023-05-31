@@ -245,6 +245,7 @@ eteläsuomalainen
 etelävenäläinen
 EU-kiire
 EU-kilpailuviranomainen
+EU-norja
 EU-poliittinen
 eurooppalaisaikuinen
 eurooppalaistulokas
@@ -957,6 +958,7 @@ naisvihollinen
 näköinen
 naku
 nami
+namibialaisnuori
 Nato-lainen
 natsirikollinen
 naurulainen
@@ -1273,6 +1275,7 @@ rajavalvontaviranomainen
 rajavartioviranomainen
 rajaviranomainen
 rakas
+rakenneilmainen
 rakennusvalvontaviranomainen
 rakennusviranomainen
 rämä
@@ -1299,6 +1302,7 @@ raukka
 raumalaisvieras
 rautatieviranomainen
 reaalipoliittinen
+referenssimallinen
 refleksinomainen
 reininmaalainen
 remakka
@@ -1508,6 +1512,7 @@ suomalaisrakas
 suomalaisrikollinen
 suomalais-ruotsalainen
 suomalaisruotsalainen
+suomalais-thaimaalainen
 suomalaistulokas
 suomalaistupla
 suomalaistuttu

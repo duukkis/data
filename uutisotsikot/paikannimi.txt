@@ -1,3 +1,4 @@
+Aalto-Luoto
 Äänekoski
 Äänekoski-Pihtipudas
 Ääninen
@@ -739,6 +740,7 @@ Kajaani-Vaala-Utajärvi-Oulu
 Kakola
 Kalahari
 Kalajoki
+Kalajoki-Oulainen-Haapavesi-Kärsämäki
 Kalanti
 Kalanti-Pyhäranta
 Kaldoaivi
@@ -1481,6 +1483,7 @@ Nokian-Ylöjärvi
 Noljakka
 Noormarkku
 Normandia
+Nouakchott
 Nousiainen
 Novgorod
 Novosibirsk
@@ -1527,6 +1530,7 @@ Otaniemi
 Ottawa
 Ouagadougou
 Oulainen
+Oulainen-Ylivieska-Nivala-Haapajärvi
 Oulanka
 Oulankajoki
 Oulu
@@ -2095,6 +2099,7 @@ Sveitsi-Suomi
 Svinesund
 Swazimaa
 Sydän-Lappi
+Sydän-Laukaa
 Sydän-Satakunta
 Sydän-Suomi
 Sydney
@@ -2113,6 +2118,7 @@ Taiwan
 Takalo
 Talaskangas
 Tallinna
+Tallinna-Tampere
 Tammela
 Tammela-Kaleva-Petsamo
 Tammerkoski
@@ -2252,6 +2258,7 @@ Uppsala
 Ural
 Urjala
 Uruguay
+USA-Kiina
 USA-Venäjä
 Utah
 Utajärvi
@@ -2286,6 +2293,7 @@ Vähä-Aasia
 Vähäkyrö
 Vähä-Rauma
 Vahto
+Vahto-Rusko
 Vahviala
 Vainikkala
 Väinölä

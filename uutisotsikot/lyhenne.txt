@@ -120,6 +120,7 @@ pikku-g
 pikku-PC
 pj
 poliisi-TV
+posti-IT
 PR
 PS
 puoli-q
@@ -161,6 +162,7 @@ UKK
 urheilu-TV
 USA
 USB
+uutuus-TV
 vara-pj
 verso-s
 vision-s

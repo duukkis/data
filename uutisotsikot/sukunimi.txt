@@ -1357,6 +1357,7 @@ Mäki-Jussila
 Mäki-Ketola
 Mäki-Kivistö
 Mäkilä
+Mäki-Latvala
 Mäkinen
 Mäki-Rahkola
 Mäki-Saari
@@ -2631,6 +2632,7 @@ Voionmaa
 Voipio
 Volanen
 Volga-Autto
+Volvo-Markkanen
 Vornanen
 Voutilainen
 Vuohelainen

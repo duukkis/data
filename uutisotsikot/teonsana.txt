@@ -133,6 +133,7 @@ alistaa
 alistua
 alisuorittaa
 alisuoriutua
+alitella
 alittaa
 alittua
 alivakuuttaa
@@ -686,6 +687,7 @@ evästää
 evästellä
 evätä
 Facebook-kirjautua
+Facebook-lukijatavata
 faksata
 fanikohdata
 fanitavata
@@ -1156,6 +1158,7 @@ hitsata
 hitsautua
 HIV-altistua
 hivellä
+hivutella
 hivuttaa
 hivuttautua
 hohdella
@@ -2261,6 +2264,7 @@ keittää
 keksiä
 kelailla
 kelata
+keljuilla
 keljuttaa
 kelkkailla
 kellahdella
@@ -2508,6 +2512,7 @@ kipristyä
 kipsata
 kipuilla
 kipukäyttäytyä
+kipunoida
 kiriä
 kiristää
 kiristellä
@@ -2622,6 +2627,7 @@ kohottaa
 kohtuullistaa
 kohtuullistua
 kohuhermostua
+kohupettää
 kohuta
 koikkelehtia
 koillissanoa
@@ -3176,6 +3182,7 @@ lähetä
 lähetellä
 lähettää
 lähialtistua
+lähijakaa
 lähijohtaa
 lähikohdata
 lähikuluttaa
@@ -3447,6 +3454,7 @@ liehua
 liehuttaa
 liekehtiä
 liekittää
+liennytellä
 liennyttää
 lientyä
 lietsoa
@@ -3769,6 +3777,7 @@ lutviutua
 luuhata
 luukuttaa
 luulla
+luulotella
 luurata
 luututa
 luvata
@@ -4070,6 +4079,7 @@ mittarilähestyä
 mittarilentää
 mittauttaa
 MM-diskata
+MM-kieltäytyä
 MM-kisarakentaa
 MM-kohdata
 MM-kyntää
@@ -4155,6 +4165,7 @@ motorisoitua
 motoristitavata
 moukaroida
 moukaroitua
+mouruta
 möyhentää
 möyhiä
 möykätä
@@ -4514,6 +4525,7 @@ nostattaa
 nostella
 noteerata
 notkahtaa
+notkauttaa
 notkistaa
 notkua
 noudatella
@@ -5229,6 +5241,7 @@ pitkästyttää
 pitkittää
 pitkittyä
 pitopalveluyrittää
+pizzayrittää
 plagioida
 plagioitua
 plarata
@@ -5323,6 +5336,7 @@ pontata
 popsia
 popularisoida
 popularisoitua
+pörähtää
 porailla
 porata
 porautua
@@ -6066,6 +6080,7 @@ ruostua
 ruostuttaa
 ruotia
 ruotsalaiskohdata
+ruotsalaisosata
 ruotsalaistaa
 Ruotsin-matkustaa
 ruotsintaa
@@ -6443,6 +6458,7 @@ signeerata
 sihahdella
 sihahtaa
 sihautella
+sihauttaa
 sihdata
 sihistä
 sihtailla
@@ -6517,6 +6533,7 @@ siroilla
 sirotella
 sirottaa
 sirpaloitua
+siruosata
 sisäänkirjautua
 sisäänpäästä
 sisäilma-altistua
@@ -6637,6 +6654,7 @@ sotalentää
 sotavarautua
 sote-osata
 sotia
+sotilasjohtaa
 sotilasosata
 sotkea
 sotkeutua
@@ -7638,6 +7656,7 @@ työmatkustaa
 työnhakea
 työnnellä
 työnohjata
+työnsaada
 työntää
 työntehdä
 työntyä
@@ -8105,6 +8124,7 @@ vastata
 vastoa
 vastustaa
 vastustella
+vastuullisuusosata
 vastuunkantaa
 vastuunottaa
 väsyä
@@ -8234,6 +8254,7 @@ vetäytyä
 vetistellä
 vetkutella
 vetreyttää
+vetristää
 vettyä
 videoesiintyä
 videoida

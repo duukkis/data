@@ -13,6 +13,7 @@ Aarno
 Aaro
 Aaron
 Aarto
+Aasia-Visa
 Aatami
 Aatos
 Aatto
@@ -174,6 +175,7 @@ Anssi
 Antero
 Anthony
 Anton
+Antoniina
 Antonio
 Antsu
 Antti
@@ -229,6 +231,7 @@ Asta
 Astrid
 Ate
 ATK-Alan
+ATK-Päivi
 Atro
 Atso
 Atte
@@ -367,6 +370,7 @@ Eeva-Liisa
 Eeva-Maarit
 Eeva-Marja
 Eeva-Riitta
+Eeva-Sisko
 Eeva-Stiina
 Eevert
 Eevi
@@ -430,8 +434,10 @@ Emily
 Emma
 Emma-Kaisa
 Emma-Liisa
+Emma-Lotta
 Emma-Stina
 Emmi
+Emmi-Lotta
 Emmi-Lydia
 Emmi-Sofia
 EM-Pietari
@@ -613,6 +619,7 @@ Hessu
 Heta
 Heta-Elena
 Heta-Maaria
+Heta-Maija
 Hilda
 Hildegard
 Hilja
@@ -741,6 +748,7 @@ Jan-Olof
 Janos
 Jan-Peter
 Jäntti-Alan
+Japani-Päivä
 Jared
 Jari
 Jari-Jukka
@@ -1305,11 +1313,13 @@ Nestorin-Päivä
 Netta
 Newton-John
 NHL-Elvis
+NHL-Jyri
 NHL-Kasperi
 NHL-Laina
 NHL-Taisto
 NHL-Taru
 NHL-Toivo
+NHL-Ukko
 NHL-Unelma
 Nicholas
 Nico
@@ -1691,6 +1701,7 @@ Sulevi
 Suni
 Suomi-Helmi
 Suomi-sarja-Laina
+Suomi-Vappu
 Susan
 Susanna
 Susanne
