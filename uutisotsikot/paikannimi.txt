@@ -20,6 +20,7 @@ Aino-Inkeri
 Ainola
 Aino-Mari
 Airisto
+Airisto-Velkua
 äiti-Venäjä
 Akaa
 Äkäslompolo
@@ -950,6 +951,7 @@ Koillis-Helsinki
 Koillis-Intia
 Koillis-Irak
 Koillis-Islanti
+Koillis-Italia
 Koillis-Itävalta
 Koillis-Kanada
 Koillis-Kiina
@@ -1480,6 +1482,7 @@ Nivala-Haapajärvi
 Nizza
 Nokia
 Nokian-Ylöjärvi
+Nokia-Suomi
 Noljakka
 Noormarkku
 Normandia

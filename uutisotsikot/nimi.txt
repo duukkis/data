@@ -200,6 +200,7 @@ Ossian
 Otava
 pääosa-Oscar
 palkinto-Mersu
+palkinto-Volvo
 Panadol
 paperi-Kaleva
 Partek
@@ -219,6 +220,7 @@ Psycho
 Puh
 puna-Musti
 pyhimys-Volvo
+Pythagoras
 Qaida
 Qatar-Puh
 Raamattu
@@ -280,6 +282,7 @@ Supo
 taksi-Mersu
 Tamiflu
 Tarzan
+täti-Halloween
 Tavastia
 Teboil
 tehdas-Hyundai

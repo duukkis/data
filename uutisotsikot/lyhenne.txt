@@ -125,6 +125,7 @@ PR
 PS
 puoli-q
 ralli-SM
+rata-SM
 rkl
 RKP
 ry

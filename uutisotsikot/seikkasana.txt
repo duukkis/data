@@ -457,6 +457,7 @@ malleittain
 marxilaisittain
 massoittain
 meikäläisittäin
+meksikolaisittain
 melkein
 meneillä
 meri
@@ -699,6 +700,7 @@ sakeanaan
 säkeittäin
 saksalaisittain
 salaa
+salavihkaa
 samaten
 sammuksissa
 samoin

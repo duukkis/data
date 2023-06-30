@@ -465,6 +465,7 @@ itäsuomalais-goottilainen
 itsekeskeinen
 jäävi
 jakomallinen
+jalkapallopikkuinen
 jälkeläinen
 jälkimmäinen
 jalo
@@ -528,6 +529,7 @@ kansanmurhanomainen
 kansanomainen
 kansanterveysviranomainen
 kansanvihollinen
+kanssarikollinen
 kantahämäläinen
 kantakirjakepulainen
 kantasuomalainen
@@ -769,6 +771,7 @@ länsisaksalainen
 länsisuomalainen
 länsiuusimaalainen
 länsivenäläinen
+länsiviranomainen
 lantalainen
 lapinjärveläinen
 Lapin-lomalainen
@@ -894,6 +897,7 @@ mediavalvontaviranomainen
 mediaviranomainen
 meemi-ikivihreä
 megatakamusta
+mekkomallinen
 meksikolaisviranomainen
 merenkulkuviranomainen
 meripelastusviranomainen
@@ -1029,6 +1033,7 @@ odotuksenmukainen
 oheinen
 ohjauksenomainen
 oikea
+oikeanmaalainen
 oikeidenmukainen
 oikeistolainen
 oikeudenmukainen
@@ -1111,6 +1116,7 @@ parka
 parkour-kerholainen
 parlamenttikeskeinen
 paskiainen
+PC-yhteensopiva
 pedantti
 pehmeä
 pehmo
@@ -1267,6 +1273,7 @@ rahoitusviranomainen
 rahvaanomainen
 räjähdyksenkaltainen
 räjähdyksenomainen
+rajakarjalainen
 rajanläheinen
 rajatarkastusviranomainen
 rajatestausmallinen
@@ -1491,6 +1498,7 @@ suloisenhaikea
 sumerilainen
 sunnalainen
 sunni-islamilainen
+sunnuntaisuomalainen
 suolaisenmakea
 suomalainen
 suomalaisaikuinen
@@ -1814,6 +1822,7 @@ ulkovenäläinen
 ulosottoviranomainen
 ultrakylmä
 ultraortodoksijuutalainen
+ultrapehmeä
 ultrarikas
 ultrarohkea
 ultratiukka

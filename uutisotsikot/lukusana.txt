@@ -219,6 +219,7 @@ seitsemästoista
 seitsemisen
 seitsemisenkymmentä
 toinen
+toinenkymmenes
 toistakymmentä
 toistasataa
 toistatuhatta

@@ -595,6 +595,7 @@ Helli
 Helmer
 Helmiina
 Helsinki-Päivä
+Helsinki-Visa
 Helvi
 Helvi-Sisko
 Hemmi
@@ -643,6 +644,7 @@ Ida-Lotta
 Ida-Sisko
 Idi
 Iida
+Iida-Amalia
 Iida-Elisa
 Iida-Lotta
 Iida-Maria
@@ -682,6 +684,7 @@ Ingrid
 Inka
 Inka-Liina
 Inka-Liisa
+Instagram-Julia
 Instagram-Nelly
 Instagram-Nina
 Ira
@@ -929,6 +932,7 @@ Kasperi
 Katariina
 Katarina
 Kati
+Kati-Sisko
 Kati-Susanna
 Katja
 Katja-Maaria
@@ -1761,6 +1765,7 @@ Teuvo
 Teuvo-Pentti
 Thomas
 Tiia
+Tiia-Elina
 Tiia-Maria
 Tiina
 Tiina-Kaisa
@@ -1782,6 +1787,7 @@ Toimi
 Toini
 Toini-Pyry
 Toivo
+Toivo-Olavi
 Tolkien-Päivä
 Tom
 Tomas

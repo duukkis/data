@@ -19,6 +19,7 @@ Afrikan-Tuominen
 Agricola
 Ahi
 Ahlberg
+Ahlbom
 Ahlfors
 Ahlgren
 Ahlgren-Rimpiläinen
@@ -1360,6 +1361,7 @@ Mäkilä
 Mäki-Latvala
 Mäkinen
 Mäki-Rahkola
+Mäki-Reinikka
 Mäki-Saari
 Mäki-Tapola
 Makkonen
@@ -1814,6 +1816,7 @@ Pöntinen
 Pöntynen
 Popov
 Porthan
+Porvoo-Jukola
 Pösö
 Posti
 Potter
@@ -1909,6 +1912,7 @@ Ranta-Aho
 Ranta-Ahonen
 Ranta-Alanko
 Ranta-Asukas
+Ranta-Autto
 Ranta-Eskola
 Ranta-Hirvelä
 Ranta-Kartano
