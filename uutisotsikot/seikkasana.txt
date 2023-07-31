@@ -348,6 +348,7 @@ kouluasteittain
 kouluittain
 koulupiireittäin
 koulutusasteittain
+köynnöksittäin
 kreikkalaisittain
 kuiduittain
 kuitenkaan

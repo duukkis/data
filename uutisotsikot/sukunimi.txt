@@ -223,6 +223,7 @@ Bruni
 Brunila
 Bruun
 Bush
+Byman
 Byström
 Caine
 Cajander
@@ -494,6 +495,7 @@ Hannonen
 Hannukainen
 Hannuksela
 Hannula
+Hannunen
 Hannus
 Hansen
 Hansson
@@ -962,6 +964,7 @@ Ketonen
 Kettunen
 Kianto
 Kiina-Lehtinen
+Kiina-Murto
 Kiina-Riski
 Kiiski
 Kiiskinen
@@ -1450,6 +1453,7 @@ Metsola
 Meyer
 Michelin
 Mickelsson
+Microsoft-Murto
 Mielonen
 Miettinen
 Miettunen
@@ -1638,6 +1642,7 @@ Okkonen
 Oksala
 Oksanen
 Oksman
+öky-Ferrari
 Olenius
 Olga-Koiranen
 Olkkonen
@@ -1769,6 +1774,7 @@ Pfeifer
 Picasso
 Piekkola
 Pienimäki
+Pieniniemi
 Pietarinen
 Pietikäinen
 Pietilä

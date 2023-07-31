@@ -148,6 +148,7 @@ Anne
 Anne-Elina
 Anne-Elisabeth
 Anne-Kari
+Anne-Leena
 Anneli
 Anne-Maarit
 Anne-Maija
@@ -615,6 +616,7 @@ Herbert
 Herkko
 Herman
 Hermanni
+Herman-Päivi
 Herodes
 Hessu
 Heta
@@ -685,6 +687,7 @@ Inka
 Inka-Liina
 Inka-Liisa
 Instagram-Julia
+Instagram-Laura
 Instagram-Nelly
 Instagram-Nina
 Ira
@@ -1405,6 +1408,7 @@ Patrick
 Patrik
 Paul
 Paula
+Paula-Maija
 Paula-Sirkka
 Paul-Henri
 Pauli
@@ -1569,6 +1573,7 @@ Saana-Sisko
 Saara
 Saara-Eliisa
 Saara-Lotta
+Saara-Sisko
 Saara-Sofia
 Sabina
 Sabine
@@ -1671,6 +1676,7 @@ Simon-Erik
 Simo-Pekka
 Simo-Viljami
 Sinikka
+Sinikka-Sisko
 Sinuhe
 Sipi
 Sippo

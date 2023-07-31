@@ -1560,6 +1560,7 @@ integroitua
 Internet-maksaa
 internoida
 internoitua
+interrailata
 intoilla
 intoutua
 inttää
@@ -1932,6 +1933,7 @@ kaavoitusosata
 kadehtia
 kadota
 kadottaa
+kadunvarsiladata
 kaduttaa
 kahakoida
 kahdeksankertaistua
@@ -2022,6 +2024,7 @@ kampittaa
 kamppailla
 kamppailupelata
 kampusaltistua
+kanadalaisosata
 kanavoida
 kanavoitua
 kangastella
@@ -2324,6 +2327,7 @@ kertailla
 kertailmoittautua
 kertajuoda
 kertakäyttöoppia
+kertakäyttörakentaa
 kertalaillistaa
 kertapalkita
 kertautua
@@ -2360,6 +2364,7 @@ kessutella
 kestää
 kestävyysosata
 kestitä
+kestittää
 kesyttää
 kesyyntyä
 ketjuttaa
@@ -2716,6 +2721,7 @@ kondensoitua
 koneellistaa
 koneellistua
 koneenrakentaa
+koneistaa
 koneistua
 konekirjoittaa
 konenäköosata
@@ -3073,6 +3079,7 @@ kutkuttaa
 kutoa
 kutoutua
 kutsua
+kutsuttaa
 kuukahtaa
 kuukausisäästää
 kuulaskeutua
@@ -3252,6 +3259,7 @@ laittaa
 laittautua
 laivamatkustaa
 laivanrakentaa
+laivapudota
 laivata
 laivatestata
 läjähtää
@@ -3905,6 +3913,7 @@ maksusaada
 makustella
 makuuttaa
 maleksia
+mallailla
 mälläillä
 mallata
 mällätä
@@ -4363,6 +4372,7 @@ nälviä
 napata
 näpätä
 napauttaa
+näpäytellä
 näpäyttää
 näpelöidä
 näperrellä
@@ -6065,6 +6075,7 @@ ruiskia
 ruiskuta
 ruiskutella
 ruiskuttaa
+ruisrock-esiintyä
 rukata
 rukoilla
 ruksailla
@@ -6878,6 +6889,7 @@ svengata
 sydämistyä
 sykähdellä
 sykähdyttää
+sykähtää
 sykkiä
 syleillä
 syljeskellä
@@ -7358,12 +7370,14 @@ töhertää
 tohista
 töhriä
 tohtia
+tohtoroida
 toikkaroida
 toilailla
 toimeenpanna
 toimia
 toimintapelata
 toimistorakentaa
+toimitilajohtaa
 toimitilarakentaa
 toimittaa
 toimittajatavata
@@ -7743,6 +7757,7 @@ ujuttautua
 ukkostaa
 ukkostella
 ukkoutua
+Ukraina-tavata
 ulista
 ulkoilla
 ulkoiluttaa
@@ -7851,6 +7866,7 @@ uudelleenvangita
 uudisasuttaa
 uudisrakentaa
 uudistaa
+uudistella
 uudistoimitilarakentaa
 uudistua
 uudistushakata
@@ -7923,6 +7939,7 @@ vahvistua
 vahvistuskuulla
 vahvistusoppia
 vaientaa
+vaientua
 vaieta
 vaihdattaa
 vaihdella

@@ -336,6 +336,7 @@ Etelä-Ranska
 Etelä-Ruotsi
 Etelä-Saimaa
 Etelä-Saksa
+Etelä-Salla
 Etelä-Satakunta
 Etelä-Savo
 Etelä-Siperia
@@ -577,6 +578,7 @@ Islamabad
 Island
 Islanti
 Iso-Britannia
+Iso-Kouvola
 Isokyrö
 Iso-Ylläs
 Israel
@@ -836,6 +838,7 @@ Kazakstan
 Kazan
 Keitele
 Kelankylä
+Keltainenmeri
 Kemi
 Kemie
 Kemihaara
@@ -1286,6 +1289,7 @@ Madagaskar
 Madeira
 Madrid
 Mainila
+Maisonvaara
 Makari
 Makedonia
 Mäkelä
@@ -2250,6 +2254,7 @@ Tyrvää
 Tyynimeri
 Udmurtia
 Uganda
+Uhtua
 Ukkola
 Ukko-Luosto
 Ulla-Mari

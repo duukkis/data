@@ -209,6 +209,7 @@ Pepsi
 perus-Mersu
 Peugeot
 pikku-Finlandia
+pikku-Mersu
 pistoke-Volvo
 Pluto
 pop-Finlandia
@@ -225,6 +226,7 @@ Qaida
 Qatar-Puh
 Raamattu
 ralli-Audi
+ralli-Porsche
 Ramses
 Renault
 Retretti
@@ -328,6 +330,7 @@ Wikipedia
 Windows
 WTO-Maa
 Xinhua
+x-Twitter
 Yakuza
 Yaris
 YK-Maa
