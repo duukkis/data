@@ -105,6 +105,7 @@ baltialaisvieras
 balttilainen
 baskilainen
 beigenruskea
+belgialaisvieras
 berberijuutalainen
 binääri
 bioyhteensopiva
@@ -211,6 +212,7 @@ epätosi
 epätotuudenmukainen
 epävarma
 epäyhteensopiva
+eräkerholainen
 erikoisäijä
 erikoiskuiva
 erikoiskylmä
@@ -1354,6 +1356,7 @@ ruotsalaisviranomainen
 Ruotsin-mallinen
 ruotsinsaamelainen
 ruotsinsuomalainen
+ruotsinvenäläinen
 ruskea
 ruskeanharmaa
 ruskeankirjava
@@ -1914,6 +1917,7 @@ valkovenäläinen
 valkovenäläisnuori
 valkovenäläisvieras
 valkovenäläisviranomainen
+valkovihreä
 valmentajakeskeinen
 valmiuslainmukainen
 valmiusviranomainen
@@ -1962,6 +1966,7 @@ venäläinen
 venäläishirmu
 venäläisnuori
 venäläisrikollinen
+venäläis-ruotsalainen
 venäläissiviili
 venäläis-suomalainen
 venäläissuomalainen
@@ -2042,6 +2047,7 @@ yhdyntäkeskeinen
 yhdysvaltalaisaikuinen
 yhdysvaltalaisaituri
 yhdysvaltalais-brittiläinen
+yhdysvaltalaishirmu
 yhdysvaltalaisnuori
 yhdysvaltalais-suomalainen
 yhdysvaltalaisviranomainen

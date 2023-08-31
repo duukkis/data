@@ -607,6 +607,7 @@ Itä-Jerusalem
 Itä-Kanada
 Itä-Karjala
 Itä-Kiina
+Itä-Kongo
 Itä-Kurdistan
 Itä-Lappi
 Italia
@@ -905,6 +906,7 @@ Kettula
 Keuruu
 Keuruun-Saarijärvi
 Kevo
+Kiestinki
 Kihniö
 Kiihtelysvaara
 Kiikala
@@ -936,6 +938,7 @@ Kittilä
 Kiukainen
 Kiuruvesi
 Kiutaköngäs
+Kivennapa
 Kivijärvi
 Klaukkala
 Kluuvi
@@ -989,6 +992,7 @@ Kolari
 Kolin-Vuonislahti
 Köln
 Köln-Bonn
+Kölnin-Bonn
 Kolumbia
 Komori
 Konala
@@ -1397,6 +1401,7 @@ MM-Latvia
 MM-Qatar
 MM-Taipale
 MM-Tampere
+MM-Unkari
 Mogadishu
 Möhkö
 Moldavia
@@ -1521,6 +1526,7 @@ Ontario
 Onttola
 Oolanti
 Öölanti
+Oona-Mari
 Oravainen
 Oravi
 Oregon
@@ -2055,7 +2061,9 @@ Suolahti
 Suomen-Ruotsi
 Suomi
 Suomi-Belgia
+Suomi-Espanja
 Suomi-Islanti
+Suomi-Japani
 Suomi-Latvia
 Suomi-Montenegro
 Suomi-Ranska

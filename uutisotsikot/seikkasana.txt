@@ -50,6 +50,7 @@ apposen
 apteekeittain
 äreissään
 arkipäivisin
+aselajeittain
 askeleittain
 äsken
 äskettäin

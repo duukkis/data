@@ -80,6 +80,7 @@ Al-Malkki
 Alonso
 Altmann
 Alzheimer
+Amerikan-Kartano
 Amerikan-Tuominen
 Amin
 Amis
@@ -222,6 +223,7 @@ Brotherus
 Bruni
 Brunila
 Bruun
+Bulin
 Bush
 Byman
 Byström
@@ -406,6 +408,7 @@ Gröhn
 Grön
 Grönberg
 Grönholm
+Grönholm-Hallman
 Grönholm-Nyman
 Grönholm-Paananen
 Grönlund
@@ -504,6 +507,7 @@ Happonen
 Harinen
 Harjula
 Harjunen
+Härkin
 Härkönen
 Harlin
 Harmaja
@@ -777,6 +781,7 @@ Johansson
 Jokela
 Jokelainen
 Jokinen
+Jokinen-Anttila
 Jolkkonen
 Jones
 Jonninen
@@ -1399,10 +1404,12 @@ Markkanen
 Markkula
 Marklund
 Marshall
+Marshall-Vuori
 Martelius
 Martikainen
 Martin-Berglund
 Martiskainen
+Martola
 Marttinen
 Marx
 Maskonen
@@ -1476,6 +1483,7 @@ MM-Hall
 MM-Mäki
 MM-Nurmi
 MM-piste-Eronen
+MM-Saari
 Mohamed
 Moilanen
 Moisander
@@ -2702,6 +2710,7 @@ Wright
 Wright-Laiho
 Wu
 Wuolijoki
+Wuori-Tabermann
 Ylimartimo
 Ylinen
 Yliruusi
