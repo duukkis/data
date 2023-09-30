@@ -360,6 +360,7 @@ huippukorkea
 huippukova
 huippukylmä
 huippumukava
+huippuouto
 huippupitkä
 huippurikas
 huipputiukka
@@ -522,6 +523,7 @@ kalju
 kaltainen
 kamala
 kamalannäköinen
+kanadalaishirmu
 kanadalaisnuori
 kanadalaistohelo
 kanadansuomalainen
@@ -786,6 +788,7 @@ lapsenomainen
 lapsiaikuinen
 lapsikuorolainen
 lapsipoliittinen
+lapualaisnuori
 laskuhumalainen
 lastensuojeluviranomainen
 latinalainen
@@ -1053,6 +1056,7 @@ olympiatulokas
 olympiavieras
 oma
 omainen
+omaisuusrikollinen
 omakantasuomalainen
 omalääkärimallinen
 omankaltainen
@@ -1245,6 +1249,7 @@ puolikypsä
 puolinaku
 puolinormaali
 puoliorpo
+puoliraaka
 puoliruotsalainen
 puolisokea
 puolisuomalainen
@@ -1320,6 +1325,7 @@ referenssimallinen
 refleksinomainen
 reininmaalainen
 remakka
+rennonvetelä
 repale
 reposaarelainen
 reseptilääkkeenkaltainen
@@ -1551,6 +1557,7 @@ superhelle
 superhuono
 superhyvännäköinen
 superiso
+superkiltti
 superkomea
 superkova
 superkuuma
@@ -1594,6 +1601,7 @@ suvereeni
 sveitsiläis-amerikkalais-brittiläinen
 sveitsiläisrakas
 syömäri
+sysioikeistolainen
 syvä
 syväkylmä
 syvänvihreä
@@ -1669,6 +1677,7 @@ teinimallinen
 teknologiakeskeinen
 tekotakamusta
 tekovelvollinen
+telepaatti
 televiranomainen
 teneriffalaisvieras
 tenonsaamelainen
@@ -1939,6 +1948,7 @@ vankilaviranomainen
 vankiviranomainen
 vantaalaisnuori
 vapaa
+varkautelaisnuori
 varma
 varsinaissuomalainen
 vasemmistolainen

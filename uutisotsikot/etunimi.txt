@@ -358,6 +358,7 @@ Eero-Veli
 Eeti
 Eetu
 Eetu-Mikko
+Eetu-Veli
 Eeva
 Eeva-Helena
 Eeva-Johanna
@@ -686,6 +687,7 @@ Ingrid
 Inka
 Inka-Liina
 Inka-Liisa
+Instagram-Emily
 Instagram-Julia
 Instagram-Laura
 Instagram-Nelly
@@ -1092,6 +1094,7 @@ Maiju
 Maikki
 Maila
 Maila-Jussi
+Maila-Katriina
 Maili
 Mailis
 Mailis-Sisko
@@ -1226,6 +1229,7 @@ Miikka
 Miina
 Miina-Anniina
 Miina-Liisa
+Miina-Maija
 Miisa
 Mika
 Mikael
@@ -1359,6 +1363,7 @@ Noel
 Nooa
 Noora
 Nora
+Nora-Maria
 Nuutti
 Nyyrikki
 Odysseus
@@ -1562,6 +1567,7 @@ Rolf-Erik
 Ronald
 Roni
 Ronja
+Ronja-Sisko
 Roope
 Roope-Santeri
 Roope-Uki
@@ -1640,6 +1646,7 @@ Sari-Marika
 Sari-Minna
 Sarita
 Sasu
+Sasu-Matti
 Saul
 Sauli
 Saulo

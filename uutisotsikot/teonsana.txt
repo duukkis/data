@@ -301,10 +301,12 @@ astella
 astua
 astuttaa
 asua
+asuinpientalorakentaa
 asuinrakentaa
 asukasosallistua
 asukastavata
 asumisoikeusasua
+asumisoikeusrakentaa
 asuntorakentaa
 asuntosijoittaa
 asustaa
@@ -340,6 +342,7 @@ auttaa
 availla
 avartaa
 avartua
+avaruusrakentaa
 avata
 avauskohdata
 avauspelata
@@ -364,6 +367,7 @@ beetatestata
 betonirakentaa
 betonitalorakentaa
 betonoida
+bikinipukeutua
 bingota
 bisnesmatkustaa
 bisnespukeutua
@@ -375,10 +379,12 @@ bluffata
 bodata
 Bodom-osata
 boikotoida
+boikotoitua
 boksipelata
 bongailla
 bongata
 brändijohtaa
+brändiosata
 bränditehdä
 brändivaikuttaa
 briljeerata
@@ -1211,6 +1217,7 @@ hommata
 homobaariampua
 homogenoida
 hönkäistä
+honottaa
 hopeoida
 höpistä
 höpötellä
@@ -1506,6 +1513,7 @@ ilmoittaa
 ilmoittautua
 ilmoitusosata
 iloita
+ilonpilata
 ilostua
 ilostuttaa
 ilotella
@@ -2047,6 +2055,7 @@ kannattajatavata
 kannella
 kanniskella
 kannustaa
+kännykkäkiusata
 kännykkämaksaa
 kännykkäpelata
 kanonisoida
@@ -2336,6 +2345,7 @@ kertailmoittautua
 kertajuoda
 kertakäyttöoppia
 kertakäyttörakentaa
+kertakuulla
 kertalaillistaa
 kertapalkita
 kertautua
@@ -2376,6 +2386,7 @@ kestitä
 kestittää
 kesyttää
 kesyyntyä
+ketjupolttaa
 ketjuttaa
 ketjuuntua
 ketuttaa
@@ -2558,6 +2569,7 @@ kirjoittautua
 kirkastaa
 kirkastua
 kirkkoampua
+kirkkoesiintyä
 kirkkovihkiä
 kirkonrakentaa
 kirkua
@@ -2567,6 +2579,7 @@ kiroilla
 kiroiluttaa
 kirota
 kirpaista
+kirskauttaa
 kirskua
 kirvellä
 kirveltää
@@ -4024,6 +4037,7 @@ mediakohdata
 mediatavata
 mediavaikuttaa
 meditoida
+meemisijoittaa
 mehevöittää
 mehevöityä
 mehustaa
@@ -5526,6 +5540,7 @@ pulpahtaa
 pulputa
 pulputella
 pulputtaa
+pulskistaa
 pultata
 pulttailla
 pummailla
@@ -5533,6 +5548,7 @@ pummata
 pumpata
 pumppailla
 pumputa
+punalaputtaa
 punastella
 punastua
 punastuttaa
@@ -5807,6 +5823,7 @@ rapsahdella
 rapsahtaa
 räpsähtää
 rapsauttaa
+räpsäytellä
 räpsäyttää
 rapsutella
 rapsuttaa
@@ -5940,6 +5957,7 @@ rettelöidä
 retusoida
 retuutella
 retuuttaa
+reuhata
 reunustaa
 revähtää
 revalvoitua
@@ -6323,6 +6341,7 @@ salasanaosata
 salata
 salatavata
 salibandykohdata
+salikäyttäytyä
 salitreenata
 sallia
 salpaantua
@@ -6581,6 +6600,7 @@ sipsuttaa
 siristää
 siristellä
 sirittää
+sirklata
 sirkutella
 sirkuttaa
 siroilla
@@ -6667,6 +6687,7 @@ somekytätä
 someloukkaantua
 someosata
 somepäivystää
+someräyhätä
 someroikkua
 someseurata
 sometehdä
@@ -7701,6 +7722,7 @@ tylsyttää
 tympääntyä
 tympäistä
 tympiä
+tympiintyä
 työehtosopia
 työeläkevakuuttaa
 työelämäkehittää

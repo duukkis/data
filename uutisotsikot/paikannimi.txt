@@ -35,6 +35,7 @@ Ala-Keitele
 Ala-Kulju
 Ala-Kurikka
 Alakurtti
+Ala-Lahti
 Ala-Malmi
 Ala-Nikkilä
 Alankomaa
@@ -640,6 +641,7 @@ Itä-Timor
 Itä-Turkmenistan
 Itä-Turku
 Itä-Ukraina
+Itä-Unkari
 Itä-Ural
 Itä-Uusimaa
 Itävalta
@@ -1155,6 +1157,7 @@ Länsi-Saimaa
 Länsi-Saksa
 Länsi-Savo
 Länsi-Siperia
+Länsi-Sudan
 Länsi-Sulawesi
 Länsi-Suomi
 Länsi-Syyria
@@ -1790,6 +1793,7 @@ Pretoria
 Preussi
 Provence
 Pudasjärvi
+Pudasjärvi-Taivalkoski
 Puhos
 Puijo
 Puikkola
@@ -2213,6 +2217,7 @@ Toukola
 Toulouse
 Töysä
 Traakia
+Travemünde
 Trinidad
 Tripoli
 Troija
@@ -2305,6 +2310,7 @@ Vaasa
 Vaasa-Jyväskylä
 Vaasa-Kuopio
 Vaasa-Uumaja
+Vaasa-Varsova
 Vähä-Aasia
 Vähäkyrö
 Vähä-Rauma

@@ -724,6 +724,7 @@ Ingberg
 Ingelius
 Ingman
 Inkinen
+Inkinen-Remes
 Innala
 Innanen
 Instagram-Kuvaaja
@@ -2121,6 +2122,7 @@ Sandström
 Sandström-Hovi
 Santala
 Santanen
+Sappinen
 Sarajuuri
 Sarasalo
 Sarasvuo
@@ -2348,6 +2350,7 @@ Tähkänen
 Tahvanainen
 Taimi-Kangas
 Tainio
+Taittonen
 Takala
 Takalo-Eskola
 Takamäki

@@ -264,6 +264,7 @@ kaikkialla
 kalenterivuosittain
 kallellaan
 kalpaten
+kalsarisillaan
 kaltoin
 kanadalaisittain
 kannonkoskelaisittain
@@ -478,6 +479,7 @@ millänsäkään
 milloin
 miltei
 ministeriöittäin
+minnepäin
 minuuteittain
 missäpäin
 miten

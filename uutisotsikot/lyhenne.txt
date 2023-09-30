@@ -122,6 +122,7 @@ pj
 poliisi-TV
 posti-IT
 PR
+propaganda-TV
 PS
 puoli-q
 ralli-SM
@@ -143,6 +144,7 @@ snt
 SOS
 sote
 SPR
+sprintti-SM
 STT
 suomi-TV
 suomi-USA
@@ -150,6 +152,7 @@ super-g
 super-PC
 tauti-x
 teho-PC
+tekoäly-PC
 teksti-TV
 testi-EK
 tl
