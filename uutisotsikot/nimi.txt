@@ -231,6 +231,7 @@ Qaida
 Qatar-Puh
 Raamattu
 ralli-Audi
+ralli-Lada
 ralli-Porsche
 Ramses
 Renault
@@ -285,6 +286,7 @@ Stuka
 Suomi-Instagram
 Suomi-Twitter
 suosikki-Linux
+super-Mersu
 Supo
 taksi-Mersu
 Tamiflu

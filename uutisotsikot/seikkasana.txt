@@ -415,6 +415,7 @@ läpi
 läpikotaisin
 lappilaisittain
 läsnä
+lasteittain
 latinalaisittain
 lauantaisin
 laukuittain

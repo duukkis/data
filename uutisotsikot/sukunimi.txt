@@ -7,6 +7,7 @@ Aalto-Setälä
 Aapala
 Aapo-Koiranen
 Aarnio
+Aarnio-Haavisto
 Abbey
 Abdulla
 Åberg
@@ -266,6 +267,7 @@ Diamond
 Dick
 Dillinger
 Disney
+Disney-Linna
 DNA-Tulonen
 Donner
 Dostojevski
@@ -555,6 +557,7 @@ Heinilä
 Heiniö
 Heinonen
 Heinrichs
+Heisenberg
 Heiskala
 Heiskanen
 Heiskari
@@ -919,6 +922,7 @@ Karttunen
 Karvanen
 Karvetti
 Karvinen
+Karvinen-Poutanen
 Karvonen
 Kasanen
 Kaskela
@@ -1294,6 +1298,7 @@ Litvinov
 Liukko
 Liukkonen
 Liukkonen-Hämäläinen
+Liukko-Sundström
 Liuksiala
 Löfberg
 Löfgren

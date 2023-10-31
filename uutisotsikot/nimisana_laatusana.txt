@@ -19,6 +19,7 @@ afganistanilaisviranomainen
 afrikkalaisrakas
 afrosuomalainen
 ahmatti
+äidinkielenomainen
 aidonkaltainen
 aidonnäköinen
 äijä
@@ -66,6 +67,7 @@ ammattiaikuinen
 ammattirikollinen
 amurinsuomalainen
 anaali
+animaatiokerholainen
 antidopingviranomainen
 antiseptinen
 a-nuori
@@ -1154,6 +1156,7 @@ perusuomalainen
 pesimäkivikko
 petosrikollinen
 peurasaarelainen
+pieneläkeläinen
 pienoisaikuinen
 piilorikollinen
 piiloveronomainen
@@ -1384,6 +1387,7 @@ säätyläinen
 sääviranomainen
 sadunomainen
 sähköautosukulainen
+sähkömarkkinamallinen
 säikky
 sairas
 sairaslomalainen
@@ -1728,6 +1732,7 @@ tolstoilainen
 tolvana
 tomppeli
 tönkkö
+tontinluovutusmallinen
 tonttu
 toope
 törkeä
@@ -1744,6 +1749,7 @@ trendinomainen
 tšekkiläissuomalainen
 tshekkiläistulokas
 tuhma
+tukholmalaisnuori
 tukiaikuinen
 tukimallinen
 tukiviranomainen
@@ -1916,6 +1922,7 @@ väkivaltarikollinen
 vakkasuomalainen
 vakovenäläinen
 vakuuttamisvelvollinen
+valeviranomainen
 valio
 välitilamallinen
 väljä
@@ -2060,6 +2067,7 @@ yhdysvaltalais-brittiläinen
 yhdysvaltalaishirmu
 yhdysvaltalaisnuori
 yhdysvaltalais-suomalainen
+yhdysvaltalais-venäläinen
 yhdysvaltalaisviranomainen
 yhteensopiva
 yhteiskuntamallinen

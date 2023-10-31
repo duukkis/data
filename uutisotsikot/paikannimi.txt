@@ -140,6 +140,7 @@ Barbuda
 Barcelona
 Beirut
 Belgia
+Belgia-Ruotsi
 Belgrad
 Belize
 Bengtskär
@@ -718,6 +719,7 @@ Kaakkois-Belgia
 Kaakkois-Brasilia
 Kaakkois-Eurooppa
 Kaakkois-Helsinki
+Kaakkois-Intia
 Kaakkois-Itävalta
 Kaakkois-Meksiko
 Kaakkois-Nigeria
@@ -1691,6 +1693,7 @@ Pohjois-Dakota
 Pohjois-Espoo
 Pohjois-Etiopia
 Pohjois-Eurooppa
+Pohjois-Gaza
 Pohjois-Grenadiini
 Pohjois-Haaga
 Pohjois-Häme
@@ -1964,6 +1967,7 @@ Savio
 Savitaipale
 Savo
 Savo-Karjala
+Savonlinna-Helsinki
 Savo-Pielinen
 Savukoski
 Säynätsalo
@@ -2110,6 +2114,7 @@ Suur-Serbia
 Suur-Shanghai
 Suur-Suomi
 Suur-Tukholma
+Suur-Venäjä
 Suutarila
 Suvela
 Svartholma

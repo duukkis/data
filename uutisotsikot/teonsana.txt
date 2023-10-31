@@ -167,6 +167,7 @@ alueellistua
 aluejohtaa
 aluekehittää
 aluerakentaa
+alusasupukeutua
 aluspukeutua
 alustaa
 älykaupunkikehittää
@@ -284,6 +285,7 @@ asiajohtaa
 asiakaskäyttäytyä
 asiakaskohdata
 asiakastavata
+asiallistua
 asianajajatavata
 asiantuntijaesiintyä
 asiantuntijakuulla
@@ -493,6 +495,7 @@ eläinkohdata
 eläkesäästää
 eläkesijoittaa
 eläköityä
+elämäkertakirjoittaa
 elämöidä
 elannonsaada
 elätellä
@@ -2085,6 +2088,7 @@ kapeutua
 kapinoida
 käpristyä
 kapsahtaa
+kapselipukeutua
 kapseloida
 kapseloitua
 kapuilla
@@ -2196,6 +2200,7 @@ katkoa
 katoilla
 katsahtaa
 katsastaa
+katsastella
 katsella
 katselmoida
 katsoa
@@ -2672,6 +2677,7 @@ kohuta
 koikkelehtia
 koillissanoa
 koirakohdata
+koisia
 koittaa
 koitua
 kokata
@@ -3144,6 +3150,7 @@ kuvittaa
 kuvottaa
 kvalifioitua
 kvanttilomittaa
+kvanttiosata
 kyberosata
 kyberturvallisuusosata
 kybervaikuttaa
@@ -3890,6 +3897,7 @@ maaseutuistua
 maastoutua
 maata
 maatalousyrittää
+maatilarakentaa
 maatua
 madaltaa
 madaltua
@@ -4020,6 +4028,7 @@ matkailurakentaa
 matkailuyrittää
 mätkäistä
 matkata
+mätkäyttää
 matkia
 mätkiä
 matkimiskäyttäytyä
@@ -5121,6 +5130,7 @@ perhesidekuulla
 perhetavata
 periä
 perinnekorjata
+perinneosata
 perinnerakentaa
 periyttää
 periytyä
@@ -5820,6 +5830,7 @@ rappeuttaa
 rappeutua
 rappioittaa
 rapsahdella
+räpsähdellä
 rapsahtaa
 räpsähtää
 rapsauttaa
@@ -6025,6 +6036,7 @@ riskeerata
 riskijuoda
 riskikäyttäytyä
 riskinottaa
+riskipelata
 risoa
 risteilijärakentaa
 risteillä
@@ -6405,6 +6417,7 @@ säröillä
 säröytyä
 särpiä
 sataa
+satakertaistua
 sateenkaariasua
 sateenkaaripukeutua
 säteillä
@@ -7076,6 +7089,7 @@ talloa
 tallustaa
 tallustella
 talonrakentaa
+talorakentaa
 talouselpyä
 talousjohtaa
 talousosata
@@ -7311,6 +7325,7 @@ tervehtää
 tervehtiä
 tervehtyä
 terveydenedistää
+terveydenvaarantaa
 terveysjohtaa
 terveyskäyttäytyä
 terveystarkastaa
@@ -7350,6 +7365,7 @@ tihuuttaa
 tiilirakentaa
 tiimioppia
 tiimipelata
+tiimitavata
 tiimivalmentaa
 tiirailla
 tiirata
@@ -7533,6 +7549,7 @@ tuhoilla
 tuhota
 tuhoutua
 tuhraantua
+tuhrata
 tuhrautua
 tuhria
 tuijotella
@@ -7840,6 +7857,7 @@ umpioida
 uneksia
 unelmakohdata
 unelmoida
+unettaa
 Unkari-tavata
 unohdella
 unohtaa
@@ -8773,6 +8791,7 @@ yöpyä
 YouTube-esiintyä
 YouTube-käyttäytyä
 yövalvoa
+yritellä
 yrittää
 yritysjohtaa
 yrityskehittää
