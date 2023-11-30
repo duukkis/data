@@ -150,6 +150,7 @@ suomi-TV
 suomi-USA
 super-g
 super-PC
+tasku-PC
 tauti-x
 teho-PC
 tekoäly-PC

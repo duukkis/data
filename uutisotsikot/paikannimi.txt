@@ -480,6 +480,7 @@ Helsingborg
 Helsingin-Uusimaa
 Helsinki
 Helsinki-Bangkok
+Helsinki-Dubrovnik
 Helsinki-Kolari
 Helsinki-Lappeenranta-Helsinki
 Helsinki-Lontoo
@@ -843,6 +844,7 @@ Kazakstan
 Kazan
 Keitele
 Kelankylä
+Kelloselkä
 Keltainenmeri
 Kemi
 Kemie
@@ -1060,6 +1062,7 @@ Kuivaniemi
 Kukkola
 Kulho
 Kulju
+Kuloharju
 Kumlinge
 Kumpula
 Kunnasniemi
@@ -1212,6 +1215,7 @@ Liberia
 Libya
 Liechtenstein
 Lieksa
+Lieksa-Nurmes
 Lielahti
 Lieto
 Lievestuore
@@ -1425,6 +1429,7 @@ Mosambik
 Moskova
 Mouhijärvi
 MTK-Bryssel
+MTK-Keitele
 MTK-Pielavesi
 MTK-Satakunta
 MTK-Uusimaa
@@ -1493,6 +1498,7 @@ Ninive
 Niskala
 Nivala
 Nivala-Haapajärvi
+Nivala-Haapavesi
 Nizza
 Nokia
 Nokian-Ylöjärvi
@@ -1715,6 +1721,7 @@ Pohjois-Konnevesi
 Pohjois-Kosovo
 Pohjois-Krim
 Pohjois-Kuusamo
+Pohjois-Kuusankoski
 Pohjois-Kypros
 Pohjois-Laos
 Pohjois-Lappi
@@ -2256,6 +2263,7 @@ Turkmenistan
 Turku
 Turku-Helsinki
 Turku-Maarianhamina-Tukholma
+Turku-Tampere
 Turku-Tukholma
 Turku-Uusikaupunki
 Tuula-Mari

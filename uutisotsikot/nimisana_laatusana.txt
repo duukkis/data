@@ -135,6 +135,7 @@ dekadentti
 demokraatti
 diagnoosikeskeinen
 digikiire
+digiuuno
 digivihreä
 digiviranomainen
 DVD-ekstra
@@ -241,6 +242,7 @@ espanjalaisnuori
 espanjalaisvieras
 espanjalaisviranomainen
 espoolaisnuori
+espoolaisvieras
 etelähämäläinen
 eteläkarjalainen
 eteläpohjanmaalainen
@@ -505,6 +507,7 @@ juniorikuorolainen
 juoni
 juoniköyhä
 juutalainen
+juutalaisaktiivi
 jylhänkomea
 jyrkkä
 jyväskyläläisnuori
@@ -518,6 +521,7 @@ kaiho
 kaikennäköinen
 kaikenpituinen
 kaivosviranomainen
+kaksoismaalainen
 kalastusviranomainen
 kaldealaiskatolinen
 kalifornialaisnuori
@@ -566,6 +570,7 @@ kauhea
 kauhunomainen
 kaukokylmä
 kaukonäköinen
+kaunoinen
 kauppapoliittinen
 kauppaviranomainen
 kaupunkilainen
@@ -637,6 +642,7 @@ kiinankaltainen
 kiinteistöverovelvollinen
 kiinteistöviranomainen
 kiire
+kiireneutraali
 kilpailukeskeinen
 kilpailunomainen
 kilpailupoliittinen
@@ -889,6 +895,7 @@ markkinaviranomainen
 marksilainen
 marokonjuutalainen
 marras
+marrasmukava
 marsilainen
 marto
 marxilainen
@@ -1078,6 +1085,7 @@ oranssinkirjava
 oranssinruskea
 orpo
 ortodoksijuutalainen
+osa-aikaeläkeläinen
 oulaistelainen
 oululaisnuori
 outo
@@ -1104,6 +1112,7 @@ pakettiautomallinen
 pakonomainen
 paksu
 paksukainen
+palestiinalaisnuori
 palestiinalaissiviili
 palestiinalaisterveysviranomainen
 palestiinalaisviranomainen
@@ -1246,6 +1255,7 @@ puolanjuutalainen
 puoliammattilaismallinen
 puolihöhlä
 puolihullu
+puolikalju
 puolikova
 puolikuiva
 puolikypsä
@@ -2108,3 +2118,4 @@ ympäristönvalvontaviranomainen
 ympäristöpoliittinen
 ympäristösuojeluviranomainen
 ympäristöviranomainen
+z-mallinen

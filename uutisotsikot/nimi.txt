@@ -1,6 +1,7 @@
 ääni-Oscar
 Abloy
 af
+a-Ford
 Afrikan-Maa
 Agonist
 Airam
@@ -142,6 +143,7 @@ Kristus
 kunnia-Oscar
 Lada
 lähi-Alko
+laina-Volvo
 Lego
 LibreOffice
 Lidl
@@ -215,6 +217,7 @@ perus-Mersu
 Peugeot
 pikku-Finlandia
 pikku-Mersu
+pikku-Volvo
 pistoke-Volvo
 Pluto
 pop-Finlandia
@@ -301,6 +304,7 @@ Tend
 t-Ford
 Theseus
 tieto-Finlandia
+tila-Kia
 Tokmanni
 Toyota
 traileri-Saab

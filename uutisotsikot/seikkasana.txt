@@ -261,6 +261,7 @@ kahtia
 kai
 kaiketi
 kaikkialla
+kaksittain
 kalenterivuosittain
 kallellaan
 kalpaten
