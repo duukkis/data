@@ -419,6 +419,7 @@ Ella-Sofia
 Ellen
 Elli
 Elli-Alina
+Elli-Noora
 Elli-Saara
 Elli-Sisko
 Elma
@@ -571,6 +572,7 @@ Harald
 Harriet
 Harry
 Hauho-Päivä
+Hedda
 Heidi
 Heidi-Maria
 Heikki
@@ -690,6 +692,7 @@ Inga-Leena
 Inger
 Ingrid
 Inka
+Inka-Johanna
 Inka-Liina
 Inka-Liisa
 Instagram-Emily
@@ -699,6 +702,7 @@ Instagram-Michelle
 Instagram-Nelly
 Instagram-Nina
 Instagram-Sarah
+Instagram-Victoria
 Ira
 Irene
 Irina
@@ -906,6 +910,7 @@ Juuli
 Juulia
 Juuso
 Jyri
+Jyri-Petteri
 Jyrki
 Kaapo
 Kaarin-Anna
@@ -1167,6 +1172,7 @@ Marja-Leena
 Marja-Liisa
 Marjan-Alan
 Marja-Riitta
+Marja-Sisko
 Marja-Terttu
 Marjatta
 Marjo
@@ -1653,6 +1659,7 @@ Santtu-Matias
 Sara-Elise
 Sarah
 Sara-Lotta
+Sari-Anna
 Sari-Annika
 Sari-Helena
 Sari-Leena

@@ -61,6 +61,7 @@ diesel-Mersu
 diesel-Volvo
 Dionysos
 Edita
+edustus-Volvo
 El
 EM-Maa
 Englannin-Maa
@@ -95,6 +96,7 @@ Halloween
 Hamlet
 Hari
 Helios
+Heluna
 Hesari
 Hesburger
 Homeros
@@ -161,6 +163,7 @@ maasturi-Mersu
 Macbeth
 mahti-Kia
 Mansikki
+Maol
 Marimekko
 Mars-Maa
 Masala
@@ -287,6 +290,7 @@ STT-Reuters
 STT-Yle
 Stuka
 Suomi-Instagram
+Suomi-Puh
 Suomi-Twitter
 suosikki-Linux
 super-Mersu
@@ -312,6 +316,7 @@ Tuonela
 TV-Aurinko
 Twitter
 työmarkkina-Aurinko
+työsuhde-Audi
 ukraina-Puh
 Unesco
 UNICEF

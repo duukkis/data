@@ -49,6 +49,7 @@ GSM
 ha
 halli-EM
 halli-SM
+Hämeenlinna-LP
 hepatiitti-c
 HIV
 HTML
@@ -169,6 +170,7 @@ USA
 USB
 uutuus-TV
 vara-pj
+varjo-IT
 verso-s
 vision-s
 VR

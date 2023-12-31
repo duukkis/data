@@ -573,6 +573,7 @@ kaukonäköinen
 kaunoinen
 kauppapoliittinen
 kauppaviranomainen
+kaupunkikeskeinen
 kaupunkilainen
 kaupunkilaisaikuinen
 kaupunkilaisnuori
@@ -1154,6 +1155,7 @@ perhepoliittinen
 perhevapaamallinen
 peribrittiläinen
 perinnebiotoope
+periruotsalainen
 perisuomalainen
 perivihollinen
 permanentti
@@ -1262,6 +1264,7 @@ puolikypsä
 puolinaku
 puolinormaali
 puoliorpo
+puolipitkä
 puoliraaka
 puoliruotsalainen
 puolisokea
@@ -1396,6 +1399,7 @@ saaristolainen
 säätyläinen
 sääviranomainen
 sadunomainen
+sähköautomallinen
 sähköautosukulainen
 sähkömarkkinamallinen
 säikky
@@ -1559,6 +1563,7 @@ suomalais-venäläinen
 suomalaisvenäläinen
 suomalaisvieras
 suomalaisviranomainen
+suomenjuutalainen
 suomenkaltainen
 suomenruotsalainen
 suomenvenäläinen
@@ -1741,6 +1746,7 @@ tollo
 tolstoilainen
 tolvana
 tomppeli
+tomppelitonttu
 tönkkö
 tontinluovutusmallinen
 tonttu
@@ -1901,6 +1907,7 @@ uusvanha
 uusvasemmistolainen
 uutissuomalainen
 uutukainen
+uutuusmallinen
 vaakamallinen
 vaaleanharmaa
 vaaleankirjava
@@ -2067,6 +2074,7 @@ vuoristolainen
 vuorottelumallinen
 vuosilomalainen
 Wagner-rikollinen
+Yakuza-rikollinen
 ydinjätevelvollinen
 ydinturvallisuusviranomainen
 ydinvoimaviranomainen

@@ -729,6 +729,7 @@ flopata
 fokusoida
 föönata
 formuloida
+freestylehiihtää
 friteerata
 fuusioida
 fuusioitua
@@ -1691,9 +1692,11 @@ jälleenoppia
 jälleenrakentaa
 jälleensyttyä
 jälleentavata
+jälleentulla
 jälleenvakuuttaa
 jälleenyhdistää
 jälleenyhdistyä
+jällenrakentaa
 jallitella
 jallittaa
 jaloitella
@@ -2917,6 +2920,7 @@ koululintsata
 koulumatkaliikkua
 koulupinnata
 koulupukeutua
+kouluraiskata
 koulurakennusosata
 koulurakentaa
 kouluttaa
@@ -3040,6 +3044,7 @@ kuntajohtaa
 kuntavaalipiristyä
 kuntavaikuttaa
 kuntoilla
+kuntosalipukeutua
 kuntouttaa
 kuntoutua
 kuohahtaa
@@ -3271,6 +3276,7 @@ läikkyä
 laikuttaa
 läikyttää
 laillistaa
+läimähtää
 läimäistä
 läimäyttää
 laimentaa
@@ -3360,6 +3366,7 @@ läpivalaista
 läpivetää
 läpiviedä
 lappaa
+läpsäyttää
 lapsettaa
 läpsiä
 lapsitavata
@@ -4054,6 +4061,7 @@ maustaa
 maustua
 mediaesiintyä
 mediakohdata
+mediaseurata
 mediatavata
 mediavaikuttaa
 meditoida
@@ -4655,6 +4663,7 @@ nyhtäistä
 nykäistä
 nykiä
 nykyaikaistaa
+nykyaikaistua
 nykyelää
 nykyrakentaa
 nylkeä
@@ -5453,6 +5462,7 @@ postinumeroäänestää
 postitella
 postittaa
 potea
+potilaskohdata
 potkaista
 potkia
 pötkiä
@@ -5641,6 +5651,7 @@ putata
 Putin-tavata
 putkahdella
 putkahtaa
+putkimatkustaa
 putkittaa
 putoilla
 putsailla
@@ -5870,6 +5881,7 @@ raskauttaa
 raskia
 rassata
 rastia
+rastitella
 rastittaa
 rasvata
 rasvoittua
@@ -5942,6 +5954,7 @@ reivata
 rekisteröidä
 rekisteröityä
 rekkakuvata
+rekkalevikeampua
 reklamoida
 rekombinoitua
 rekonstruoida
@@ -6682,6 +6695,7 @@ sohaista
 sohia
 sohjoutua
 söhlätä
+söhliä
 soida
 soimata
 sointua
@@ -6906,6 +6920,7 @@ suositella
 suosittaa
 suostua
 suostutella
+supatella
 supattaa
 superkaupungistua
 superkohdata
@@ -8640,6 +8655,7 @@ vyönkiristää
 vyöryä
 vyöryttää
 vyöttää
+WC-säästää
 WhatsApp-soittaa
 ydinaseistaa
 ydinaseosata
@@ -8752,6 +8768,7 @@ ylilatautua
 ylimerkitä
 ylimitoittaa
 ylinäytellä
+yliopistoampua
 ylipäästä
 ylipuhua
 ylipukeutua

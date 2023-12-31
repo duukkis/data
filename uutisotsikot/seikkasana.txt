@@ -663,6 +663,7 @@ puolittain
 puolivakavissaan
 puolivuosittain
 puolueittain
+pusseittain
 puulajeittain
 puuskittain
 pyörryksissä
@@ -889,6 +890,7 @@ ulkoapäin
 ulkosalla
 ulommas
 ulos
+ulosottotie
 ulospäin
 umpimähkään
 upoksissa

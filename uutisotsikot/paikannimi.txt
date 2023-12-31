@@ -78,6 +78,7 @@ Angeli
 Angola
 Anguilla
 Anjala
+Anna-Kreeta
 Anna-Mari
 Anne-Mari
 Antarktis
@@ -288,6 +289,7 @@ Etelä-Etiopia
 Etelä-Eurooppa
 Etelä-Filippiini
 Etelä-Florida
+Etelä-Gaza
 Etelä-Georgia
 Etelä-Haaga
 Etelä-Häme
@@ -489,6 +491,7 @@ Helsinki-Pariisi
 Helsinki-Sipoo
 Helsinki-Tallinna
 Helsinki-Tampere
+Helsinki-Tartto
 Helsinki-Tukholma
 Helsinki-Turku
 Helsinki-Uusimaa
@@ -1958,6 +1961,7 @@ Sarajärvi
 Sarajevo
 Sarakylä
 Saramäki
+Sara-Mari
 Saratov
 Saravesi
 Sardinia

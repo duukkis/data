@@ -695,6 +695,7 @@ Hynynen
 Hyppönen
 Hyrkäs
 Hyrkkö
+Hyssälä
 Hytönen
 Hyttinen
 Hyväri
@@ -754,6 +755,7 @@ Jackson
 Jahnukainen
 Jakobsson
 Jakonen
+Jakovleva
 Jalkanen
 Jalonen
 Jämsä-Uusitalo
@@ -2123,6 +2125,7 @@ Salo-Vartiainen
 Salvesen
 Sandberg
 Sandell
+Sandell-Pekkala
 Sandholm
 Sandström
 Sandström-Hovi
@@ -2641,6 +2644,7 @@ Villeneuve
 Villiers
 Vilponen
 Vilppu
+Vilska
 Viren
 Virkki
 Virkki-Hatakka
