@@ -1190,6 +1190,7 @@ asemoitunut
 asemoituva
 asemoiva
 asemyönteinen
+asenneongelmainen
 asennepitoinen
 asennetestinen
 asennettava
@@ -3092,6 +3093,7 @@ erotisoiva
 erottamaton
 erottanut
 erottautunut
+erottautuva
 erottava
 erotteleva
 erottu
@@ -5324,6 +5326,7 @@ huippukevyt
 huippukiinnostava
 huippukiivas
 huippukireä
+huippukirkas
 huippukitaristinen
 huippukiva
 huippukokenut
@@ -7075,6 +7078,7 @@ järkiperusteinen
 Jarkko-puolisollut
 järkkymätön
 järkkynyt
+järkkyvä
 järkyttänyt
 järkyttävä
 järkytty
@@ -7928,6 +7932,7 @@ kaivoskriittinen
 kaivoskumppaninen
 kaivosmyönteinen
 kaivospiirinulkopuolinen
+kaivostorninen
 kaivosvastainen
 kaivosystävällinen
 kajaanilainen
@@ -10781,6 +10786,7 @@ kömpinyt
 kompleksinen
 kompleksisuusteoreettinen
 komplisoitunut
+komposiittivalmisteinen
 kompostoitava
 kompostoituva
 kompostoiva
@@ -11622,6 +11628,7 @@ kulinaristinen
 kulissientakainen
 kulissipelinen
 kuljeskeleva
+kuljeskeltu
 kuljeteltu
 kuljetettava
 kuljetettu
@@ -12276,6 +12283,7 @@ kybervakoillut
 kyennyt
 kyettävä
 kyetty
+kyhäilty
 kyhännyt
 kyhätty
 kyhjöttänyt
@@ -13329,6 +13337,7 @@ leiriytyvä
 leiskahtanut
 leiskauttanut
 leiskuva
+leiskuvanpunainen
 leivänpäällinen
 leivätön
 leivitetty
@@ -13896,6 +13905,7 @@ live-lähetty
 livennyt
 liverpoolilainen
 Liverpool-merkkinen
+Liverpool-pelinen
 Liverpool-topparinen
 live-säestetty
 live-spesiaalinen
@@ -14782,6 +14792,7 @@ mahtiballadinen
 mahtipelinen
 mahtipontinen
 mahtisuorittu
+mahtitallinen
 mahtivireinen
 mahtumaton
 mahtunut
@@ -17389,6 +17400,7 @@ nouseva
 noussut
 noustava
 noustu
+nousuhaluinen
 nousujohteinen
 nousujohtoinen
 nousukarsintafinaalinen
@@ -17423,6 +17435,7 @@ nuijittava
 nuijittu
 nuiva
 nujakoinut
+nujakoitu
 nujerrettu
 nujertanut
 nujertava
@@ -17810,6 +17823,7 @@ oliivirouheinen
 öljylämmitetty
 öljylämmitteinen
 öljymäinen
+öljymiljonäärinen
 öljyperäinen
 öljypitoinen
 öljypohjainen
@@ -18161,6 +18175,7 @@ osoitteleva
 ostamaton
 ostanut
 ostava
+ostellut
 osteltava
 osteltu
 osterintuoksuinen
@@ -18357,6 +18372,7 @@ päätyttävä
 päätytty
 päätyvä
 pääuutislähetty
+päävalmentajafarssinen
 päävalmentajapestinen
 päävalmentava
 päävastuullinen
@@ -19825,6 +19841,7 @@ pihistänyt
 pihistävä
 pihistelemätön
 pihistelevä
+pihistelty
 pihkainen
 pihkovalainen
 pihtaava
@@ -20015,6 +20032,7 @@ pimeä
 pimeäaktiivinen
 pimenevä
 pimennetty
+pimennytty
 pimentänyt
 pimentävä
 pimentynyt
@@ -20227,6 +20245,7 @@ plasmamainen
 plastiikkakirurginen
 platoninen
 plusmerkkinen
+plussakokoinen
 plussamerkkinen
 plussattu
 pneumaattinen
@@ -22264,6 +22283,7 @@ reistailtu
 reititettävä
 reititetty
 reitittänyt
+reitittävä
 reittikohtainen
 reivaava
 reivattu
@@ -23850,6 +23870,7 @@ sateenkaarenvärinen
 sateenkaareva
 sateenkaariavioliitoinen
 sateenkaariperheellinen
+sateenkaaritietoinen
 sateenkaarivärinen
 sateenkaarivihamielinen
 sateenkaariystävällinen
@@ -24971,6 +24992,7 @@ sometrendinen
 somettanut
 somettava
 someviestiminen
+someviestinen
 somevirallinen
 somevitsinen
 someystävällinen
@@ -25086,6 +25108,7 @@ sosiaalistunut
 sosiaalitieteellinen
 sosialidemokraattinen
 sosialismintuoksuinen
+sosialisoitava
 sosialistijohtoinen
 sosialistinen
 sosialistitaustainen
@@ -25157,6 +25180,7 @@ sotkeuduttu
 sotkeutunut
 sotkeva
 sotkuinen
+sotkuton
 sottainen
 soturimainen
 soudeltu
@@ -25323,6 +25347,7 @@ suitsuttu
 suittu
 suivaantunut
 sujahtanut
+sujahtava
 sujautettava
 sujautettu
 sujauttanut
@@ -25695,6 +25720,7 @@ suosikkifilosofinen
 suosikkihotellinen
 suosikkikasvinen
 suosikkilajinen
+suosikkiorkesterinen
 suosikkipelinen
 suosikkipodcastinen
 suosikkiräppärinen
@@ -26998,6 +27024,7 @@ taustahaastateltu
 taustaluonteinen
 taustamateriaalinen
 taustapeilinen
+taustavalaistu
 taustoitettu
 taustoittanut
 taustoittava
@@ -27155,6 +27182,7 @@ teflonpintainen
 tehdashuollettu
 tehdaskohtainen
 tehdaskorjattu
+tehdaskunnostettu
 tehdasmainen
 tehdaspanssaroitu
 tehdastekoinen
@@ -28148,6 +28176,7 @@ trendilajinen
 trenditietoinen
 trendityylinen
 trendivärinen
+trikkikuvattu
 trikoinen
 trillerimäinen
 trilleripelinen
@@ -28161,6 +28190,7 @@ troijalainen
 troolannut
 troolattu
 trooppinen
+trukkikuskinen
 trukkilavallinen
 trumpettivoittoinen
 Trumpin-aikainen
@@ -28974,6 +29004,7 @@ työnaikainen
 työnantajabrändinen
 työnantajakohtainen
 työnantajalähtöinen
+työnantajaleirinen
 työnantajaliitoinen
 työnantajavetoinen
 työnhakuviisuminen
@@ -29773,6 +29804,7 @@ vaalentunut
 vaaligrillinen
 vaalikampanjoiva
 vaalikelpoinen
+vaalikelvoton
 vaalikohtainen
 vaalikuumeinen
 vaalikylkiäinen
@@ -29854,7 +29886,9 @@ vaatekaapillinen
 vaatekriisinen
 vaatelaastarinen
 vaatelias
+vaatemateriaalinen
 vaatesulkeinen
+vaatetettu
 vaatettanut
 vaatimaton
 vaatinut
@@ -30306,6 +30340,7 @@ valekuoltu
 valelääkärinen
 valeltu
 valepoliisinen
+valeporilainen
 valeprofiilinen
 valepukuinen
 valettu
@@ -31043,6 +31078,7 @@ vatsatautinen
 vatsavaivainen
 vatsaystävällinen
 vatuloitu
+vatvonut
 vatvottu
 vauhdikas
 vauhdinjaollinen
@@ -32288,6 +32324,7 @@ Wagner-tuomittu
 walesilainen
 washingtonilainen
 WC-paperinen
+web-pohjainen
 westendiläinen
 WhatsApp-mysteerinen
 WhatsApp-tilinen
@@ -32770,6 +32807,7 @@ ylikellotettava
 ylikellotettu
 ylikiiminkiläinen
 ylikireä
+ylikirjoittunut
 ylikompensoitu
 ylikorostettu
 ylikorostunut

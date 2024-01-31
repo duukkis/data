@@ -3010,6 +3010,7 @@ kulminoida
 kulminoitua
 kulotella
 kulottaa
+kulttuurikohdata
 kulttuurinkuluttaa
 kulttuuriosallistua
 kulttuuriosata
@@ -4208,6 +4209,7 @@ moninaistua
 moninkertaistaa
 moninkertaistua
 moniosata
+monipaikka-asua
 monipuolistaa
 monipuolistua
 monistaa
@@ -4886,6 +4888,7 @@ painaa
 painattaa
 painautua
 paineistaa
+paineistua
 painella
 painia
 painiskella
@@ -4928,6 +4931,7 @@ pakettiautoasua
 pakista
 pakkaantua
 pakkailla
+pakkashyytyä
 pakkaspukeutua
 pakkautua
 pakkoennallistaa

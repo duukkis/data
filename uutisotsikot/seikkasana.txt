@@ -594,6 +594,7 @@ paliskunnittain
 paljolti
 pälkähästä
 paloittain
+palveluittain
 parahiksi
 paraikaa
 paraislaisittain

@@ -413,6 +413,7 @@ ikioma
 ikipimeä
 ikiruskea
 ikivanha
+ikivihollinen
 ikivihreä
 ilkeännäköinen
 ilmailuviranomainen
@@ -1448,6 +1449,7 @@ selitysvelvollinen
 sellainen
 semmoinen
 seniili
+sensaatiosuomalainen
 sensuuriviranomainen
 serbialais-ruotsalainen
 serbiviranomainen
@@ -1784,6 +1786,7 @@ tuotantomallinen
 tupakkapoliittinen
 tupla
 tuplakulta
+tuplapituinen
 tuplariski
 tuplatupla
 turha
