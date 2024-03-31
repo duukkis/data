@@ -1792,6 +1792,7 @@ Pori-Tampere
 Porkkala
 Pornainen
 Porojärvi
+Portimo
 Porttipahta
 Portugali
 Portugali-Ranska
@@ -2402,6 +2403,7 @@ Viuruniemi
 Voikkaa
 Volga
 Vöyri
+Vuojoki
 Vuokatti
 Vuokatti-Ruka
 Vuonislahti

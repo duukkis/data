@@ -909,6 +909,7 @@ Jutta-Noora
 Jutta-Riina
 Juuli
 Juulia
+Juulia-Sisko
 Juuso
 Jyri
 Jyri-Petteri
@@ -1812,6 +1813,7 @@ Tiina-Kaisa
 Tiina-Leena
 Tiina-Liisa
 Tiina-Riikka
+Tiina-Sisko
 Tiitus
 Tilda
 Timo

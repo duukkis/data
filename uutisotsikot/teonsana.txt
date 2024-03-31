@@ -358,6 +358,7 @@ avunantaa
 avunsaada
 avustaa
 avustajatavata
+äyskäröidä
 äyskiä
 baariampua
 baarikäyttäytyä
@@ -3140,6 +3141,7 @@ kuulua
 kuulustella
 kuulusteluosata
 kuuluttaa
+kuumaliimata
 kuumennä
 kuumentaa
 kuumentua
@@ -4282,6 +4284,7 @@ mullistaa
 mullistua
 multiosata
 mumista
+munailla
 munata
 munia
 muodostaa
@@ -4844,6 +4847,7 @@ pääomittaa
 pääpelata
 paapoa
 paasata
+pääsiäistehdä
 päästä
 päästää
 päästellä
@@ -5859,6 +5863,7 @@ raportoitua
 rappeuttaa
 rappeutua
 rappioittaa
+rappukäytäväampua
 rapsahdella
 räpsähdellä
 rapsahtaa
@@ -6771,6 +6776,7 @@ sosiaalistua
 sosialisoida
 sosialisoitua
 sössöttää
+sotahämätä
 sotakuvata
 sotalentää
 sotavarautua
@@ -8801,6 +8807,7 @@ yllätellä
 yllättää
 yllättyä
 yllätysesiintyä
+yllätyskadota
 yllätyslaskeutua
 yllätysluhistua
 yllätyspoistua

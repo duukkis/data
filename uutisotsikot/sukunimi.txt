@@ -1568,6 +1568,7 @@ Newton
 Newton-Kolehmainen
 Nguyen
 NHL-Hall
+NHL-Heitto
 NHL-Kapanen
 NHL-Virtanen
 Nicholas-Williams
