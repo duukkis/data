@@ -695,6 +695,7 @@ Inka
 Inka-Johanna
 Inka-Liina
 Inka-Liisa
+Inkeri-Sisko
 Instagram-Emily
 Instagram-Julia
 Instagram-Laura
@@ -773,6 +774,7 @@ Jari
 Jari-Jukka
 Jari-Matti
 Jari-Pekka
+Jari-Veikko
 Jarkko
 Jarkko-Juha
 Jarl
@@ -1676,6 +1678,7 @@ Saulo
 Säynätsalo-Päivi
 Sebastian
 Seela
+Seela-Kaari
 Seija
 Seija-Leena
 Selma

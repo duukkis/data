@@ -98,6 +98,7 @@ australialaisrakas
 australialaisviranomainen
 automallinen
 autuas
+avioliittomallinen
 avojalo
 avomallinen
 avunantovelvollinen
@@ -390,6 +391,7 @@ huumepoliittinen
 huumerikollinen
 huutolainen
 hybridimallinen
+hylkeenomainen
 hyperpoppa
 hyppäyksenomainen
 hyvännäköinen
@@ -506,6 +508,7 @@ j-poppa
 julmannäköinen
 juniorikuorolainen
 juoni
+juonikoukero
 juoniköyhä
 juutalainen
 juutalaisaktiivi
@@ -1406,6 +1409,7 @@ sähkömarkkinamallinen
 säikky
 sairas
 sairaslomalainen
+sairauslomalainen
 saita
 saksalais-brittiläinen
 saksalaishirmu
@@ -1808,6 +1812,7 @@ tuttu
 tutunnäköinen
 tutunomainen
 tutuntuttu
+TV-kiire
 TV-spesiaali
 tyhjä
 tyhmä
@@ -1926,6 +1931,7 @@ väärännäköinen
 väärti
 väärtti
 vaatimustenmukainen
+väestönsuojeluviranomainen
 väestöpoliittinen
 väestötietoviranomainen
 vähä

@@ -108,6 +108,7 @@ ajoneuvovakuuttaa
 äkämystyä
 äkätä
 äkki-ilmestyä
+äkkikaatua
 äkkikadota
 äkkipoistua
 äkkirakastua
@@ -395,6 +396,7 @@ brändivaikuttaa
 briljeerata
 budjetoida
 budjetoitua
+budjettirakentaa
 bussiampua
 bussimatkustaa
 buuata
@@ -1095,6 +1097,7 @@ hetkauttaa
 hetkua
 hetkutella
 hevosenomistaa
+hevososata
 hevostella
 hidastaa
 hidastella
@@ -2810,6 +2813,7 @@ kopsauttaa
 koputella
 koputtaa
 koreilla
+koripallo-osata
 korista
 koristaa
 koristautua
@@ -3052,6 +3056,7 @@ kuntoutua
 kuohahtaa
 kuohauttaa
 kuohia
+kuohita
 kuohua
 kuohuttaa
 kuokkia
@@ -3287,6 +3292,7 @@ laimentua
 laimeta
 laiminlyödä
 lainailla
+lainasaada
 lainata
 lainehtia
 lainehtiä
@@ -3627,6 +3633,7 @@ lipsua
 lipua
 liputtaa
 lirahdella
+lirahtaa
 lirauttaa
 liristä
 lirittää
@@ -3828,6 +3835,7 @@ luntata
 luoda
 luodata
 luokitella
+luokittaa
 luokka-altistua
 luonnehtia
 luonnenäytellä
@@ -3891,6 +3899,7 @@ maalailla
 maalata
 maalauttaa
 maalineduspelata
+maalinteko-osata
 maalivahtiosata
 maalivahtipelata
 maallistaa
@@ -4103,6 +4112,7 @@ messurakentaa
 messuta
 mestaroida
 mestata
+metalliosata
 metallitulostaa
 metelöidä
 metkuilla
@@ -5924,6 +5934,7 @@ rävähtää
 ravata
 räväyttää
 ravintola-altistua
+ravintola-ampua
 ravintolakäyttäytyä
 ravintolasyödä
 ravipelata
@@ -6092,6 +6103,7 @@ riutua
 rivitaloasua
 rivitalorakentaa
 robotisoitua
+robottiajaa
 robottilentää
 röhähtää
 rohjeta
@@ -6805,6 +6817,7 @@ spesialisoitua
 sponsoroida
 sponsoroitua
 spurtata
+stabilisoida
 stabilisoitua
 stabiloida
 stabiloitua
@@ -7308,6 +7321,7 @@ teknologiatavata
 tekoälyosata
 tekohengittää
 tekonurmipelata
+tekopöyristyä
 tekstailla
 tekstata
 tekstittää
@@ -7869,6 +7883,7 @@ ukkoutua
 Ukraina-tavata
 ulista
 ulkoilla
+ulkoilmapelata
 ulkoiluttaa
 ulkoistaa
 ulkokokoontua

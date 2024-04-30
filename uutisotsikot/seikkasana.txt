@@ -665,6 +665,7 @@ puolittain
 puolivakavissaan
 puolivuosittain
 puolueittain
+puoluekannoittain
 pusseittain
 puulajeittain
 puuskittain

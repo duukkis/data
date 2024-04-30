@@ -122,6 +122,7 @@ pikku-PC
 pj
 poliisi-TV
 posti-IT
+pöytä-PC
 PR
 propaganda-TV
 PS

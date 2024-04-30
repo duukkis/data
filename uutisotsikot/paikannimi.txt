@@ -198,6 +198,7 @@ Carelia
 Carolina
 Caymansaari
 Chicago
+Chicago-Helsinki
 Chile
 Colorado
 Colosseum
@@ -1087,6 +1088,7 @@ Kustaanmiekka
 Kustavi
 Kuttura
 Kuuba
+Kuurinmaa
 Kuusamo
 Kuusamo-Oulu
 Kuusamo-Pirttikoski
@@ -1828,6 +1830,7 @@ Puotila
 Puotinharju
 Puotinkylä
 Purola
+Pusula
 Puumala
 Puumalan-Sulkava
 Pyhäntä

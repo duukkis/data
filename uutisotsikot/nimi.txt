@@ -145,6 +145,7 @@ Kristus
 kunnia-Oscar
 Lada
 lähi-Alko
+lahja-Porsche
 laina-Volvo
 Lego
 LibreOffice
@@ -291,6 +292,7 @@ STT-Reuters
 STT-Yle
 Stuka
 Suomi-Instagram
+Suomi-Netflix
 Suomi-Puh
 Suomi-Twitter
 suosikki-Linux
