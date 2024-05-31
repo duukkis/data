@@ -250,6 +250,7 @@ Emma-Mari
 Emmi-Inkeri
 EM-München
 EM-Rooma
+EM-Saksa
 EM-Taipale
 Englanti
 Englanti-Italia
@@ -1412,9 +1413,11 @@ MM-Koitto
 MM-Kolari
 MM-Lahti
 MM-Latvia
+MM-Praha
 MM-Qatar
 MM-Taipale
 MM-Tampere
+MM-Tshekki
 MM-Unkari
 Mogadishu
 Möhkö
@@ -2081,6 +2084,7 @@ Sumiainen
 Suodenniemi
 Suojärvi
 Suolahti
+Suolahti-Sumiainen
 Suomen-Ruotsi
 Suomi
 Suomi-Belgia
@@ -2335,6 +2339,7 @@ Vaasa-Varsova
 Vähä-Aasia
 Vähäkyrö
 Vähä-Rauma
+Vähä-Venäjä
 Vahto
 Vahto-Rusko
 Vahviala

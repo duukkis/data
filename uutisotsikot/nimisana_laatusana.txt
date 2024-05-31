@@ -283,6 +283,7 @@ gnostilainen
 goottilainen
 groteski
 haapajärveläinen
+haapasaarelainen
 häijynnäköinen
 haikea
 haitilaisviranomainen
@@ -594,6 +595,7 @@ kellertävänharmaa
 kelmi
 kelpo
 kelta
+keltakulta
 keltamusta
 keltaruskea
 keltavihreä
@@ -941,6 +943,7 @@ MM-kulta
 MM-lohkovihollinen
 MM-tulokas
 MM-tupla
+MM-vihollinen
 mobiili
 mobiilivapaa
 mobiiliyhteensopiva
@@ -1008,6 +1011,7 @@ NHL-supertulokas
 NHL-tulokas
 NHL-tupla
 nigerialaiskulta
+nigerialaisnuori
 nilkkapituinen
 nimenomainen
 nimikkoaikuinen
@@ -1108,6 +1112,7 @@ pahalainen
 pahannäköinen
 pahansuopa
 päihdeläheinen
+päihdeomainen
 päihdepoliittinen
 paikallisvihollinen
 paikallisviranomainen
@@ -1261,6 +1266,7 @@ puolanjuutalainen
 puoliammattilaismallinen
 puolihöhlä
 puolihullu
+puolijyrkkä
 puolikalju
 puolikova
 puolikuiva
@@ -1679,6 +1685,7 @@ tasapaksu
 tasavajaa
 tasavaltalainen
 tasavarma
+täsmäkuuro
 täsmävapaa
 tautiviranomainen
 tavallisenruskea
@@ -1762,6 +1769,7 @@ torkku
 tornimallinen
 tosi
 tosiäijä
+tosi-TV-rakas
 toteutusmallinen
 totuudenmukainen
 transsinomainen

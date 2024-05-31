@@ -12,6 +12,7 @@ Abbey
 Abdulla
 Åberg
 Adams
+ADHD-Riski
 Adler
 Afganistanin-Haaranen
 Afrikan-Tuominen
@@ -25,6 +26,7 @@ Ahlfors
 Ahlgren
 Ahlgren-Rimpiläinen
 Ahlqvist
+Ahlroth
 Ahlskog
 Ahlström
 Åhman

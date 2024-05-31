@@ -32,6 +32,7 @@ Adonis
 Adrian
 Afrikka-Visa
 Agnes
+Ahab
 Ahmed
 Ahti
 Ahto
@@ -354,6 +355,7 @@ Eerik
 Eerika
 Eerikki
 Eero
+Eero-Kalle
 Eero-Matti
 Eero-Pekka
 Eero-Tapani
@@ -763,9 +765,11 @@ Janne
 Janne-Juha
 Janne-Olli
 Janne-Pekka
+Janne-Veli
 Jannika
 Jan-Olof
 Janos
+János
 Jan-Peter
 Jäntti-Alan
 Japani-Päivä
@@ -1050,6 +1054,7 @@ Leea
 Leena
 Leena-Kaisa
 Leena-Maija
+Leena-Riitta
 Leeni
 Leevi
 Leevi-Veli
@@ -1414,6 +1419,7 @@ Oskar
 Oskari
 Osmo
 Ossi
+Ossi-Petteri
 Oswald
 Ötzi
 Outi
@@ -1547,6 +1553,7 @@ Reeta
 Reeta-Maija
 Reetta
 Reetta-Leena
+Reetta-Sofia
 Regina
 Reidar
 Reija
@@ -1616,6 +1623,7 @@ Saga
 Saija
 Saila
 Saima
+Saima-Sisko
 Saimi
 Saimo
 Saini
@@ -1907,6 +1915,7 @@ Urho
 Urmas
 Urpo
 Ursula
+USA-Jouko
 USA-Unelma
 Uuno
 Uvas

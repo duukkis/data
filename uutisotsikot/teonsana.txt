@@ -224,6 +224,7 @@ apinoida
 aplodeerata
 aprikoida
 aprillata
+ärähdellä
 ärähtää
 arastaa
 arastella
@@ -444,6 +445,7 @@ digitalisoida
 digitalisoitua
 digitoida
 digitoitua
+digiturvallisuusosata
 digiturvaosata
 diivailla
 dipata
@@ -2010,6 +2012,7 @@ kajahdella
 kajahtaa
 kajastaa
 kajastella
+kajautella
 kajauttaa
 kajota
 kakata
@@ -2316,6 +2319,7 @@ keittää
 keksiä
 kelailla
 kelata
+kelautua
 keljuilla
 keljuttaa
 kelkkailla
@@ -3473,6 +3477,7 @@ leimautua
 leimuta
 leipääntyä
 leipoa
+leiri-ilmoittautua
 leirintäalueyöpyä
 leirittää
 leiriytyä
@@ -4341,6 +4346,7 @@ musertaa
 musertua
 musiikinoppia
 musiikintehdä
+musiikkiosata
 musiikkituottaa
 musisoida
 mussuttaa
@@ -4417,6 +4423,7 @@ naarmuttaa
 naarmuuntua
 nähdä
 nahinoida
+nahista
 nahistella
 naida
 naisistua
@@ -5019,6 +5026,7 @@ pamista
 pamppailla
 pamputtaa
 pandemiavarautua
+paneloida
 panetella
 panettaa
 paneutua
@@ -5066,6 +5074,7 @@ pärskytellä
 partioida
 parturoida
 parveilla
+parvekegrillata
 parvekekäyttäytyä
 paskanjauhaa
 paskantaa
@@ -5181,6 +5190,7 @@ perunaosata
 peruselää
 perushoitaa
 peruskorjata
+peruskouluosata
 peruslentää
 perusosata
 perusparantaa
@@ -5429,6 +5439,7 @@ pölyttyä
 pölyyntyä
 pommitella
 pommittaa
+pomokohdata
 pompahtaa
 pompata
 pompauttaa
@@ -5660,6 +5671,7 @@ pursuilla
 pursuta
 pusertaa
 pusertua
+puskapissata
 puskea
 puskuroida
 pussailla
@@ -8340,6 +8352,7 @@ veloittaa
 velvoitetyöllistää
 velvoittaa
 venähtää
+Venäjä-esiintyä
 Venäjä-osata
 Venäjä-tavata
 venäläistää
@@ -8514,6 +8527,7 @@ viisikkopuolustaa
 viisinkertaistaa
 viisinkertaistua
 viistää
+viisuosallistua
 viitata
 viitoittaa
 viitsiä
@@ -8558,6 +8572,7 @@ vilvoitella
 vilvoittaa
 vimmastua
 vinguttaa
+vinkaista
 vinkata
 vinkkailla
 vinksahtaa
@@ -8648,6 +8663,7 @@ voimauttaa
 voimistaa
 voimistella
 voimistua
+voipua
 voittaa
 voittajatehdä
 voivotella
