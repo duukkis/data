@@ -282,6 +282,7 @@ Brita
 Britannian-Päivä
 Bruce
 Bruno
+Brutus
 Buddha
 Burt
 Camilla
@@ -308,6 +309,7 @@ Charles-Marie
 Charles-Veli
 Charlotta
 Charlotte
+Charlotte-Sisko
 Chris
 Christer
 Christian
@@ -449,6 +451,7 @@ Emmi
 Emmi-Lotta
 Emmi-Lydia
 Emmi-Sofia
+EM-Päivä
 EM-Pietari
 EM-Taisto
 EM-Toivo
@@ -975,6 +978,7 @@ Katri-Sisko
 Kauko
 Kauko-Aatos
 Kauno
+Kauppis-Visa
 Kay
 Kazuhiro
 Keijo

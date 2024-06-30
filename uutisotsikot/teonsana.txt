@@ -528,9 +528,12 @@ elpyä
 elvyttää
 emännöidä
 emäspariutua
+EM-kohdata
 empiä
 EM-pudota
 emuloida
+EM-valmistautua
+EM-valmistua
 enemmistöomistaa
 energiahyödyntää
 energiakerätä
@@ -729,6 +732,7 @@ filmauskieriä
 filmikuvata
 filosofoida
 finaalikohdata
+finaalisulaa
 flirttailla
 flopata
 fokusoida
@@ -1360,6 +1364,7 @@ huoritella
 huovata
 huovuttaa
 hupailla
+hupsahtaa
 hupsutella
 hurahtaa
 hurauttaa
@@ -1612,6 +1617,7 @@ irtautua
 irtisanoa
 irtisanoutua
 irtoilla
+irtosanoa
 irtosanoutua
 irvailla
 irviä
@@ -3179,6 +3185,7 @@ kvalifioitua
 kvanttilomittaa
 kvanttiosata
 kyberosata
+kyberturvajohtaa
 kyberturvallisuusosata
 kybervaikuttaa
 kybervarautua
@@ -3583,6 +3590,7 @@ liiketoimintaosata
 liikkeenharjoittaa
 liikkua
 liikkumiskäyttäytyä
+liikunnanharrastaa
 liikuntaharrastaa
 liikuntakäyttäytyä
 liikuntapaikkarakentaa
@@ -4590,6 +4598,7 @@ nitistä
 nitistää
 nitistyä
 nitoa
+niuhottaa
 niukentaa
 niukentua
 niuketa
@@ -5061,6 +5070,7 @@ parjata
 pärjätä
 parkaista
 parkkeerata
+parkkilaskea
 parkua
 parodiaräpätä
 parodioida
@@ -6467,6 +6477,7 @@ särähtää
 saranoida
 sarastaa
 säristä
+sarjailmoittautua
 sarjamurhata
 sarjapudota
 sarjasekoilla
@@ -6566,6 +6577,7 @@ selviytyä
 sementoida
 sementoitua
 senioriasua
+senioriliikkua
 sensuroida
 sensuroitua
 seostaa
@@ -6925,9 +6937,11 @@ suojatiekäyttäytyä
 suojautua
 suojavarustautua
 suojella
+suojeluonnistua
 suolaantua
 suolata
 suoltaa
+suomalaiskarsiutua
 suomalaiskohdata
 suomalaisloukkaantua
 suomalaisonnistua
@@ -7423,6 +7437,7 @@ tietää
 tieteentehdä
 tieteillä
 tietojohtaa
+tietokoneistua
 tietokonepelata
 tietoturvaosata
 tihentää
@@ -7563,6 +7578,7 @@ torkahtaa
 törkeillä
 torkkua
 törkykäyttäytyä
+törkyteloa
 törmäillä
 törmätä
 tornirakentaa
@@ -7620,6 +7636,7 @@ tuhraantua
 tuhrata
 tuhrautua
 tuhria
+tuhriutua
 tuijotella
 tuijottaa
 tuikata
@@ -8788,6 +8805,7 @@ ylihoitaa
 ylihyökätä
 ylikalastaa
 ylikaupallistaa
+ylikellotella
 ylikellottaa
 ylikompensoida
 ylikorjata

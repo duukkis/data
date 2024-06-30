@@ -33,6 +33,7 @@ aitotumallinen
 aituri
 ajanmukainen
 ajattelumallinen
+ajatusrikollinen
 äkkijyrkkä
 äkkisyvä
 äkkiväärä
@@ -61,6 +62,7 @@ amerikkalais-brittiläinen
 amerikkalaisnuori
 amerikkalaisrakas
 amerikkalais-suomalainen
+amerikkalais-venäläinen
 amerikkalaisvieras
 amerikkalaisviranomainen
 ammattiaikuinen
@@ -140,6 +142,7 @@ digiuuno
 digivihreä
 digiviranomainen
 DVD-ekstra
+ecuadorilais-suomalainen
 edellinen
 edellisenkaltainen
 edeltäjämallinen
@@ -716,6 +719,7 @@ kreikkalaiskatolinen
 kriminaalipoliittinen
 kristillisdemokraatti
 kristitty
+kroatialaisnuori
 kroatialaisvieras
 krouvi
 kryptovaluuttarikollinen
@@ -1151,6 +1155,7 @@ PC-yhteensopiva
 pedantti
 pehmeä
 pehmo
+pehmoainoa
 peikonnäköinen
 pelaajakeskeinen
 pelastusviranomainen
@@ -1235,6 +1240,7 @@ poliisiviranomainen
 poliittinen
 pöljä
 polo
+polttopuukeskeinen
 polvenkorkuinen
 poppa
 porilaisnuori
@@ -1372,6 +1378,7 @@ rokoteviranomainen
 roomalais-katolinen
 roomalaiskatolinen
 röttelö
+Ruanda-mallinen
 rukka
 ruma
 ruokamallinen
@@ -1400,6 +1407,7 @@ rutto
 saamelainen
 saamelaisaktiivi
 saamelaisnuori
+saamelaispoliittinen
 säänmukainen
 säännönmukainen
 sääntelyviranomainen
@@ -1444,6 +1452,7 @@ sateenkaarisensuuri
 säteilyturvallisuusviranomainen
 saudiviranomainen
 scifi-uutukainen
+SDP-nuori
 Sedan-mallinen
 seinäjokelaisnuori
 Seinäjoki-keskeinen
@@ -1647,6 +1656,7 @@ taidepoliittinen
 taiderikollinen
 taistolainen
 taistolaisaktiivi
+taitoheimolainen
 taivalkoskelaisnuori
 takaiskulta
 takakeno
@@ -1889,6 +1899,7 @@ umpihullu
 umpiköyhä
 umpimätä
 umpiouto
+umpipimeä
 umpipoliittinen
 umpirohkea
 umpivenäläinen

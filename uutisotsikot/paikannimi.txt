@@ -249,6 +249,7 @@ EM-Koitto
 Emma-Mari
 Emmi-Inkeri
 EM-München
+EM-Ranska
 EM-Rooma
 EM-Saksa
 EM-Taipale
@@ -805,6 +806,7 @@ Karibia
 Karigasniemi
 Karijoki
 Karjaa
+Karjaa-Kupittaa
 Karjala
 Karjalohja
 Karkkila
@@ -1576,6 +1578,7 @@ Oulu-Kemi
 Oulu-Kemi-Rovaniemi
 Oulu-Kiiminki
 Oulu-Lieksa
+Oulu-München
 Oulunkylä-Patola
 Oulunsalo-Kempele-Liminka-Lumijoki
 Oulu-Rovaniemi
