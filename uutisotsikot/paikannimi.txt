@@ -78,6 +78,7 @@ Angeli
 Angola
 Anguilla
 Anjala
+Anna-Kaarina
 Anna-Kreeta
 Anna-Mari
 Anne-Mari
@@ -253,6 +254,7 @@ EM-Ranska
 EM-Rooma
 EM-Saksa
 EM-Taipale
+EM-Tampere
 Englanti
 Englanti-Italia
 Englanti-Kroatia

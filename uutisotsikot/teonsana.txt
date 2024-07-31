@@ -80,6 +80,7 @@ aitoa
 aivastaa
 aivastella
 aivastuttaa
+aivojämähtää
 aivopestä
 aivorappeutua
 ajaa
@@ -436,6 +437,7 @@ diagnostiikkaosata
 diagnostisoida
 digikehittää
 digilevittää
+digimaksaa
 digimarkkinointiosata
 digiosata
 digipainattaa
@@ -1395,6 +1397,7 @@ huumaantua
 huumata
 huumautua
 huumekuolla
+huumetavata
 huurtua
 huutaa
 huutokaupata
@@ -2047,6 +2050,7 @@ kallistaa
 kallistella
 kallistua
 kalppia
+kalskahdella
 kalskahtaa
 kaltaistaa
 kalustaa
@@ -2231,6 +2235,7 @@ katselmoida
 katsoa
 kattaa
 katua
+katuesiintyä
 katujengiytyä
 katukerjätä
 katurakentaa
@@ -2384,6 +2389,7 @@ kertoa
 kertoilla
 kertyä
 kesäjuoda
+kesäkokoontua
 kesälaiduntaa
 kesälomajuoda
 kesälomatehdä
@@ -2911,6 +2917,7 @@ kotiladata
 kotimajoittaa
 kotiopettaa
 kotipelata
+kotipolttaa
 kotitavata
 kotitestata
 kotitreenata
@@ -3185,6 +3192,7 @@ kvalifioitua
 kvanttilomittaa
 kvanttiosata
 kyberosata
+kybersuojata
 kyberturvajohtaa
 kyberturvallisuusosata
 kybervaikuttaa
@@ -3975,6 +3983,7 @@ mäjäyttää
 majoittaa
 majoittua
 majoitusrakentaa
+Major-valmistautua
 makailla
 mäkättää
 makeilla
@@ -5918,6 +5927,7 @@ rasia
 rasismisyyllistää
 rasittaa
 rasittua
+raskauspukeutua
 raskauttaa
 raskia
 rassata

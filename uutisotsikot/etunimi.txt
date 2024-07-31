@@ -142,6 +142,7 @@ Anna-Maria
 Anna-Reeta
 Anna-Reetta
 Anna-Riikka
+Anna-Roosa
 Anna-Rosa
 Anna-Sisko
 Anna-Sofia
@@ -195,6 +196,7 @@ Antti-Tuomas
 Antti-Ville
 Antto
 Antton
+Anttoni
 Anu
 Anu-Elina
 Anu-Katriina
@@ -492,6 +494,7 @@ EU-Elin
 Eugen
 EU-Jouko
 EU-Laina
+EU-Päivä
 Eurooppa-Päivä
 EU-Toimi
 EU-Unelma
@@ -1488,6 +1491,7 @@ Petteri
 Philip
 Philippe
 Pia
+Pia-Liisa
 Pia-Pauliina
 Pierre-Dimitri
 Pierre-Emil

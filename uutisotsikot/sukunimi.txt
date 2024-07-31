@@ -154,6 +154,7 @@ Bach
 Backlund
 Backman
 Bäckman
+Backström
 Bäckström
 Bacon
 Bagge
@@ -1477,6 +1478,7 @@ Microsoft-Murto
 Mielonen
 Miettinen
 Miettunen
+Miikkulainen
 Miinalainen
 Miinin
 Mikander

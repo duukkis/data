@@ -59,6 +59,7 @@ ALV-verovelvollinen
 amerikanjuutalainen
 amerikansuomalainen
 amerikkalais-brittiläinen
+amerikkalaiskulta
 amerikkalaisnuori
 amerikkalaisrakas
 amerikkalais-suomalainen
@@ -179,6 +180,7 @@ elatusvelvollinen
 elävännäköinen
 elektropoppa
 elinkeinopoliittinen
+elinkeinoviranomainen
 elintarviketurvallisuusviranomainen
 elintarvikevalvontaviranomainen
 elintarvikeviranomainen
@@ -1384,6 +1386,7 @@ ruma
 ruokamallinen
 ruotsalainen
 ruotsalaisaatelinen
+ruotsalaisaituri
 ruotsalais-brittiläinen
 ruotsalaisnuori
 ruotsalaisrakas
@@ -1486,6 +1489,7 @@ siivekäs
 siivo
 silkka
 simpanssikarkulainen
+simpukkamallinen
 sinertävänvihreä
 sipoolaisnuori
 sirkuslainen
@@ -1738,6 +1742,7 @@ terveysviranomainen
 testausmallinen
 texasilaisdemokraatti
 texasilaisviranomainen
+thaimaalaisviranomainen
 tiedepoliittinen
 tiedusteluviranomainen
 tietosuojaviranomainen
@@ -2017,6 +2022,7 @@ vauras
 vaurastuttava
 vaurastuttu
 vedenjakeluviranomainen
+vedonlyöntirikollinen
 vehmas
 veikeä
 vekkuli
@@ -2058,6 +2064,7 @@ vesseli
 vetelä
 viekas
 vienankarjalainen
+vientimallinen
 vieras
 vierasmaalainen
 vierasvarma
