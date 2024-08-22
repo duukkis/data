@@ -14,8 +14,6 @@ Abdulla
 Adams
 ADHD-Riski
 Adler
-Afganistanin-Haaranen
-Afrikan-Tuominen
 Ågren
 Ågren-Hakala
 Agricola
@@ -60,7 +58,6 @@ Airamo
 Airas
 Airila
 Airola
-äiti-Aikio
 Aitolehti
 Aittola
 Åkerblom
@@ -137,13 +134,11 @@ Astikainen
 Asukas
 Asunmaa
 Atkinson
-Atlantis-Mantere
 Attila
 Atwood
 Auer
 Aunesluoma
 Aunio
-Aura-Autto
 Auranen
 Auravuo
 Autio
@@ -310,9 +305,6 @@ Elenius
 Ellin-Laitinen
 Elonen
 Elton
-EM-Hall
-EM-Kaste
-EM-Nurmi
 Enckell
 Engblom
 Engel
@@ -339,13 +331,7 @@ Eskola
 Eskola-Heikkinen
 Eskolin
 Ettanen
-EU-Asukas
-EU-Eronen
 Euler
-EU-Myllys
-EU-Piik
-Eurooppa-Riski
-EU-Valta
 Evans
 Fabritius
 Fagerholm
@@ -585,7 +571,6 @@ Hellström
 Helminen
 Helojoki
 Helovirta
-Helsinki-Hall
 Helve
 Hemilä
 Hemmilä
@@ -662,7 +647,6 @@ Hotakainen
 Hotanen
 Hovila
 Hubble
-Hudson-Smith
 Hugo-Salin
 Huhtala
 Huhtanen
@@ -762,7 +746,6 @@ Jakonen
 Jakovleva
 Jalkanen
 Jalonen
-Jämsä-Uusitalo
 Jämsen
 Jämsén
 Janatuinen
@@ -879,7 +862,6 @@ Kaltiainen
 Kämäräinen
 Kammonen
 Känä
-Kanada-Maljanen
 Kananen
 Kanerva
 Kanervala
@@ -896,7 +878,6 @@ Kantanen
 Kantola
 Kantonen
 Kapanen
-Käpylä-Koskela
 Kärävä
 Karell
 Kares
@@ -943,12 +924,10 @@ Kattelus
 Kattelus-Kilpeläinen
 Kauhanen
 Kaukinen
-Kaunismäki-Suhonen
 Kaunisto
 Kauppi
 Kauppinen
 Kauranen
-Kaustinen-Kokkola
 Kautto
 Käyhkö
 Keihänen
@@ -973,16 +952,12 @@ Kerttunen
 Kervinen
 Kesäläinen
 Keskinen
-Kestilä-Kekkonen
 Keto
 Keto-Huovinen
 Ketola
 Ketonen
 Kettunen
 Kianto
-Kiina-Lehtinen
-Kiina-Murto
-Kiina-Riski
 Kiiski
 Kiiskinen
 Kiljunen
@@ -1116,7 +1091,6 @@ Kunnasluoto
 Kunttu
 Kuokka
 Kuokkanen
-Kuopio-Hall
 Kuoppala
 Kuortti
 Kuosmanen
@@ -1139,7 +1113,6 @@ Kutvonen
 Kuukka
 Kuukka-Anttila
 Kuukkanen
-Kuusela-Hurskainen
 Kuusinen
 Kuusisto
 Kuuskoski
@@ -1204,8 +1177,6 @@ Lankinen
 Lantiainen
 Laplace
 Lappalainen
-Lappi-Seppälä
-Lappi-Vesterinen
 Larin-Kyösti
 Larivaara
 Larsson
@@ -1391,7 +1362,6 @@ Mäkynen
 Malinen
 Maljanen
 Malkki
-Mallorca-Saari
 Malm
 Malmberg
 Malmsten
@@ -1407,7 +1377,6 @@ Mannonen
 Mantere
 Mantsinen
 Mänttäri
-Mänttä-Vilppula-Ruovesi-Virta
 Mäntylä
 Mäntynen
 Mäntysaari
@@ -1489,17 +1458,11 @@ Mikkonen
 Mikkonen-Engman
 Mikojan
 Mikonmäki
-Milano-Autto
 Miller
 Minardi
 Minkkinen
 Mironoff
 Missi
-MM-Hall
-MM-Mäki
-MM-Nurmi
-MM-piste-Eronen
-MM-Saari
 Mohamed
 Moilanen
 Moisander
@@ -1549,7 +1512,6 @@ Myllynen
 Myllys
 Myllyviita
 Myöhänen
-Myyrmäki-Hall
 Myyryläinen
 Näätänen
 Nabokov
@@ -1574,10 +1536,6 @@ Nevanen
 Newton
 Newton-Kolehmainen
 Nguyen
-NHL-Hall
-NHL-Heitto
-NHL-Kapanen
-NHL-Virtanen
 Nicholas-Williams
 Nielikäinen
 Niemelä
@@ -1685,7 +1643,6 @@ Osara
 Österlund
 Österman
 Östman
-Oulu-Hall
 Outinen
 Ovaska
 Ovaskainen
@@ -1835,7 +1792,6 @@ Pitsinki
 Poe
 Pohjala
 Pohjolainen
-Pohjola-Malmberg
 Pohjonen
 Poikolainen
 Poikonen
@@ -1847,7 +1803,6 @@ Pöntinen
 Pöntynen
 Popov
 Porthan
-Porvoo-Jukola
 Pösö
 Posti
 Potter
@@ -1999,7 +1954,6 @@ Ribbentrop
 Riekki
 Riekkinen
 Riihelä
-Riihimäki-Järvelä
 Riikola
 Riikonen
 Riina-Karhunen
@@ -2129,7 +2083,6 @@ Salonen
 Salonius
 Salonius-Pasternak
 Salonsaari-Posti
-Salo-Vartiainen
 Salvesen
 Sandberg
 Sandell
@@ -2343,7 +2296,6 @@ Suni-Lajunen
 Suntila
 Suojanen
 Suokas
-Suomi-Riski
 Suonio
 Suorsa
 Suortti
@@ -2389,7 +2341,6 @@ Talonen
 Talvela
 Talvio
 Tamminen
-Tampere-Talonen
 Tanner
 Tanninen
 Tanskanen
@@ -2502,7 +2453,6 @@ Tuovila
 Tuovinen
 Tuppurainen
 Turkia
-Turku-Hall
 Turpeinen
 Turtiainen
 Turunen
@@ -2511,9 +2461,6 @@ Tuulonen
 Tuunainen
 Tuunanen
 Tuurna
-Tuvalu-Saari
-TV-Julkunen
-TV-Kuvaaja
 Tykkyläinen
 Tyni
 Tynjälä
@@ -2532,7 +2479,6 @@ Unelma-Asukas
 Uosukainen
 Uotila
 Uotinen
-Ural-Vuori
 Uronen
 Uros-Hallikainen
 Urpilainen
@@ -2670,7 +2616,6 @@ Vitikainen
 Voionmaa
 Voipio
 Volanen
-Volga-Autto
 Volvo-Markkanen
 Vornanen
 Voutilainen

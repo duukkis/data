@@ -32,8 +32,6 @@ adoptoida
 adoptoitua
 aerosolilevitä
 äestää
-Afganistan-epäonnistua
-Afganistan-vetäytyä
 agitoida
 ahavoittaa
 ahdata
@@ -53,7 +51,6 @@ ahnehtia
 ahtaa
 ahtailla
 ahtautua
-Ahvenanmaa-osata
 aidata
 aiheellistaa
 aiheuttaa
@@ -370,7 +367,6 @@ balansoida
 balsamoida
 banaalistaa
 banalisoida
-Barcelona-kohdata
 beetatestata
 betonirakentaa
 betonitalorakentaa
@@ -385,7 +381,6 @@ blogikirjoittaa
 blokkiutua
 bluffata
 bodata
-Bodom-osata
 boikotoida
 boikotoitua
 boksipelata
@@ -530,12 +525,8 @@ elpyä
 elvyttää
 emännöidä
 emäspariutua
-EM-kohdata
 empiä
-EM-pudota
 emuloida
-EM-valmistautua
-EM-valmistua
 enemmistöomistaa
 energiahyödyntää
 energiakerätä
@@ -544,7 +535,6 @@ energiaosata
 energiasäästää
 energiavarautua
 enetä
-Englanti-kohdata
 enkelisijoittaa
 ennakkoäänestää
 ennakkoilmoittautua
@@ -693,19 +683,11 @@ etsiytyä
 etuilla
 etukäteisilmoittautua
 etukäteisvarautua
-EU-erkaantua
-EU-huipputavata
-EU-laajentua
-EU-laajeta
-EU-lähentyä
-EU-lobata
 e-urheilla
 euroepäonnistua
 eurooppalaistaa
 eurooppalaistua
-Eurooppa-tiedottaa
 euroviisuesiintyä
-EU-vaikuttaa
 evakuoida
 evakuoitua
 evästää
@@ -1607,7 +1589,6 @@ inventoitua
 investoida
 investoitua
 ionisoida
-Iran-kohdata
 ironisoida
 ironisoitua
 irrota
@@ -2500,7 +2481,6 @@ kiillottua
 kiiltää
 kiilua
 kiinalaistaa
-Kiina-näkyä
 kiinnijäädä
 kiinnijäätyä
 kiinniottaa
@@ -4032,7 +4012,6 @@ markkinoida
 markkinointiosata
 markkinoitua
 marmattaa
-Mars-laskeutua
 marssia
 marssittaa
 masennella
@@ -4192,16 +4171,6 @@ mittailla
 mittarilähestyä
 mittarilentää
 mittauttaa
-MM-diskata
-MM-kieltäytyä
-MM-kisarakentaa
-MM-kohdata
-MM-kyntää
-MM-osallistua
-MM-rämpiä
-MM-sulaa
-MM-tehdä
-MM-valmistautua
 mobiilimaksaa
 mobiiliosata
 mobiilipelata
@@ -4571,9 +4540,6 @@ neutraloida
 neuvoa
 neuvotella
 neuvotteluosata
-NHL-kohdata
-NHL-osata
-NHL-puolustaa
 nielaista
 nieleskellä
 niellä
@@ -4621,7 +4587,6 @@ nojata
 nojautua
 nokankoputtaa
 nokeentua
-Nokia-villiintyä
 nokitella
 nokittaa
 nokkaista
@@ -6442,7 +6407,6 @@ salpautua
 salvata
 salvoa
 sälyttää
-Salzburg-osata
 samaistaa
 samaistua
 samankaltaistaa
@@ -6605,7 +6569,6 @@ seurajohtaa
 seurajoukkuevalmentaa
 seurata
 seurustella
-Sevilla-kohdata
 shokeerata
 shokkiedetä
 shokkipudota
@@ -6962,10 +6925,6 @@ suomentaa
 suomentua
 suomettua
 suomia
-Suomi-kohdata
-Suomi-Ruotsi-tavata
-Suomi-sulaa
-Suomi-tavata
 suomustaa
 suo-ojittaa
 suoratoistaa
@@ -7208,7 +7167,6 @@ tampata
 tanhuta
 tankata
 tankkailla
-Tanska-kohdata
 tanskalaisosata
 tanssahdella
 tanssata
@@ -7749,7 +7707,6 @@ tuputtaa
 turhauttaa
 turhautua
 turista
-Turkki-tavata
 turmella
 turmeltua
 turnausosallistua
@@ -7802,10 +7759,6 @@ tuupertua
 tuuppia
 tuurata
 tuutata
-TV-avautua
-TV-esiintyä
-TV-esittää
-TV-kohdata
 twistata
 Twitter-avautua
 Twitter-käyttäytyä
@@ -8731,7 +8684,6 @@ ydinosata
 ydintehdä
 ydinvoimaosata
 ydinvoimarakentaa
-Yellowstone-tavata
 yhdeksänkertaistua
 yhdenmukaistaa
 yhdenmukaistua

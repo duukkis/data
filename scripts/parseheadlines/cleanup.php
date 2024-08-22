@@ -4,16 +4,17 @@
  */
 
 $paikannimet = explode(PHP_EOL, file_get_contents("../../uutisotsikot/paikannimi.txt"));
-$etuliitteet = ["NHL", "äiti", "EM", "MM", "EU", "Missi", "TV", "äiti"];
+$etuliitteet = ["NHL", "äiti", "EM", "MM", "EU", "Missi", "TV", "äiti", "Afganistanin", "Afrikan"];
+$badSeconds = ["Päivä", "Sisko", "Akseli", "poika", "vaimo"];
 
-$debug = true;
+$debug = false;
 $runOnFiles = [
-    "etunimi" => false,
-    "laatusana" => false,
-    "lukusana" => false,
-    "nimisana" => false,
+    "etunimi" => true,
+    "laatusana" => true,
+    "lukusana" => true,
+    "nimisana" => true,
     "sukunimi" => true,
-    "teonsana" => false,
+    "teonsana" => true,
 ];
 
 if ($runOnFiles["etunimi"]) {
@@ -22,7 +23,6 @@ if ($runOnFiles["etunimi"]) {
     $p = explode(PHP_EOL, $c);
 
     $badFirsts = array_merge($paikannimet, $etuliitteet);
-    $badSeconds = ["Päivä", "Sisko", "Akseli"];
 
     unset($badFirsts[array_search("Kaija", $badFirsts)]);
     unset($badFirsts[array_search("Mari", $badFirsts)]);

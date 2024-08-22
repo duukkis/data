@@ -27,7 +27,6 @@ aamuvarhainen
 äänekoskelainen
 äänekoskelaislähtöinen
 äänekoskelaissyntyinen
-Äänekoski-teemainen
 äänellinen
 äänestämätön
 äänestänyt
@@ -112,8 +111,6 @@ aasialaistyylinen
 aasialaisvaikutteinen
 aasialaisvastainen
 Aasian-puoleinen
-Aasia-vastainen
-Aasia-vetoinen
 aataminakuinen
 aatehistoriallinen
 aatelisniminen
@@ -173,14 +170,10 @@ aerogeelinen
 äestetty
 affektiivinen
 afgaanitaustainen
-Afganistan-aiheinen
 afganistanilainen
 afganistanilaissyntyinen
 afganistanilaistaustainen
 Afganistanin-tehtävä
-Afganistan-johtoinen
-Afganistan-konferenssinen
-Afganistan-roolinen
 aforistinen
 afrikkalainen
 afrikkalais-amerikkalainen
@@ -766,7 +759,6 @@ alustojenvälinen
 älytty
 a-maajoukkueluotsinen
 amatöörimäinen
-Amazon-lähetty
 ambulanssihallinen
 amerikanaasialainen
 amerikanirlantilainen
@@ -787,7 +779,6 @@ amerikkalaistyyppinen
 amerikkalaisvaikutteinen
 amerikkalaisvalmisteinen
 amerikkalaisvastainen
-Amerikka-mielinen
 a-merkitty
 amfetamiinipäinen
 amfetamiinipositiivinen
@@ -1622,14 +1613,8 @@ bangladeshilainen
 barbaarinen
 barbadoslainen
 barbimainen
-Barcelona-ikoninen
-Barcelona-konkarinen
 barcelonalainen
 barcelonalaishostellinen
-Barcelona-laiturinen
-Barcelona-taiturinen
-Barcelona-taustainen
-Barcelona-topparinen
 barokkityylinen
 basaarimainen
 basalttinen
@@ -1644,7 +1629,6 @@ belgialainen
 belgialais-iranilainen
 belgialaissaksalainen
 belgialaistaustainen
-Belgia-pelinen
 belgradilainen
 beniniläinen
 bensakäyttöinen
@@ -1743,8 +1727,6 @@ bluesvetoinen
 bluffaava
 bluffannut
 bodattu
-Bodom-epäilty
-Bodom-taustainen
 boikotoinut
 boikotoitu
 boikotoiva
@@ -1768,9 +1750,7 @@ boreaalinen
 borssikeittokasvinen
 bosniahertsegovinalainen
 bosnialainen
-Bosnia-tasapelinen
 bostonilainen
-Boston-leirinen
 botaaninen
 botswanalainen
 botuliinitoksiininen
@@ -1785,7 +1765,6 @@ brasilialaistopparinen
 bratislavalainen
 britannialainen
 britannialais-nigerialainen
-Britannia-mielinen
 brittihovinen
 brittijännärinen
 brittijohtoinen
@@ -1862,7 +1841,6 @@ buukattu
 byrokraattinen
 byrokratiaton
 bysanttilainen
-Cannes-palkittu
 Castro-niminen
 CD-tasoinen
 c-farmarinen
@@ -1871,7 +1849,6 @@ charmikas
 chattaava
 chattaillut
 chattipohjainen
-Chicago-konkarinen
 chicagolainen
 chileläinen
 chileläissyntyinen
@@ -1893,7 +1870,6 @@ curlingystävällinen
 c-vitamiinipitoinen
 dadaistinen
 dagestanilainen
-Dallas-leirinen
 dalmatialainen
 dalmatialaiskuvioinen
 damaskoslainen
@@ -3239,8 +3215,6 @@ espanjalaissyntyinen
 espanjalaistaiturinen
 espanjalaisveteraaninen
 espanjankielinen
-Espanja-pelinen
-Espoo-aiheinen
 espoolainen
 espoolaislähtöinen
 espressokupillinen
@@ -3419,8 +3393,6 @@ eurooppalaismielinen
 eurooppalaisperäinen
 eurooppalaistunut
 eurooppalaistyylinen
-Eurooppa-mielinen
-Eurooppa-myönteinen
 europatriarkaalinen
 europelinen
 europerustainen
@@ -4276,14 +4248,12 @@ härski
 harsomainen
 hartaanraukea
 harteikas
-Hartola-merkkinen
 harva
 harvahiuksinen
 harvahko
 harvalukuinen
 harvalukukuinen
 harvaoksainen
-Harvard-koulutettu
 harvasanainen
 harveneva
 harvennettava
@@ -4622,8 +4592,6 @@ helppokäyttöinen
 helppokulkuinen
 helppolukuinen
 helppotajuinen
-Helsinki-aiheinen
-Helsinki-biisinen
 helsinkiläinen
 helsinkiläishotellinen
 helsinkiläislähtöinen
@@ -5201,10 +5169,7 @@ höllentävä
 höllentynyt
 höllentyvä
 hollolalainen
-Hollywood-henkinen
 hollywoodilainen
-Hollywood-konkarinen
-Hollywood-roolinen
 hölmistynyt
 hölmistyttävä
 hölmö
@@ -6049,7 +6014,6 @@ iänikuinen
 iankaikkinen
 iätön
 ibizalainen
-Ibiza-skandaalinen
 idaholainen
 Ida-hurrikaaninen
 idänpuoleinen
@@ -6586,14 +6550,12 @@ iranilaismielinen
 iranilaistaustainen
 iranilaisvalmisteinen
 Iranin-vastainen
-Iran-mielinen
 Irene-niminen
 iridiumpitoinen
 irlantilainen
 irlantilaismielinen
 irlantilaissyntyinen
 irlantilaistaustainen
-Irlanti-pelinen
 irokeesitukkainen
 ironinen
 ironisoiva
@@ -6743,8 +6705,6 @@ israelilaisamerikkalainen
 israelilais-kanadalainen
 israelilais-yhdysvaltalainen
 Israelin-vastainen
-Israel-myönteinen
-Israel-vastainen
 istahtanut
 istanbulilainen
 istuinpäällinen
@@ -6799,7 +6759,6 @@ itävaltalais-italialainen
 itävaltalaisomisteinen
 itävaltalais-saksalainen
 itävaltalais-tshekkoslovakialainen
-Itävalta-pelinen
 itävantaalainen
 itikkapitoinen
 IT-infrastruktuurinen
@@ -7744,11 +7703,9 @@ jyskyttänyt
 jyskyttävä
 jyväskyläinen
 jyväskyläislähtöinen
-Jyväskylä-kotipelargoninen
 jyväskyläläinen
 jyväskyläläislähtöinen
 jyväskyläläistaustainen
-Jyväskylä-vetoinen
 jyvitettävä
 jyvitetty
 kaadettava
@@ -7820,7 +7777,6 @@ kaareva
 kaarevanäyttöinen
 kaarevateräinen
 kaarimainen
-Kaarina-aiheinen
 kaarinalainen
 käärinyt
 käärittävä
@@ -8359,7 +8315,6 @@ kanadalaispainotteinen
 kanadalais-ranskalainen
 kanadalaistaustainen
 kanadalais-yhdysvaltalainen
-Kanada-leirinen
 kanadankiinalainen
 kanadanranskalainen
 kanakorinen
@@ -9235,7 +9190,6 @@ käyttövalmis
 käyty
 käyvä
 kazakstanilainen
-Kazakstan-pelinen
 kazanilainen
 kehaissut
 kehdannut
@@ -9953,7 +9907,6 @@ kiiluva
 kiiluvasilmäinen
 kiimainen
 kiiminkiläinen
-Kiina-kriittinen
 kiinalainen
 kiinalais-amerikkalainen
 kiinalais-italialainen
@@ -9971,14 +9924,9 @@ kiinalaisvalmisteinen
 kiinalaisvetoinen
 kiinalais-yhdysvaltalainen
 kiinalaisystävällinen
-Kiina-mielinen
-Kiina-myönteinen
 kiinankielinen
 kiinantaitoinen
 Kiinan-vastainen
-Kiina-projektinen
-Kiina-tehtävä
-Kiina-vastainen
 kiinniajettava
 kiinnijäänyt
 kiinnijäävä
@@ -10395,7 +10343,6 @@ kitsas
 kitsasteltu
 kitsch-tyylinen
 kittiläläinen
-Kittilä-tuomittu
 kitukasvuinen
 kitulias
 kitunut
@@ -11104,7 +11051,6 @@ koputteleva
 korallinpunainen
 korallinvärinen
 korea
-Korea-buuminen
 korealainen
 korealaisenglantilainen
 korealaistyylinen
@@ -11649,8 +11595,6 @@ kreikkalaistyyppinen
 kreikkalaisvetoinen
 Kremlin-mielinen
 Kremlin-vastainen
-Kreml-mielinen
-Kreml-myönteinen
 kriisinaikainen
 kriisinkestävä
 kriisipalaverinen
@@ -11663,7 +11607,6 @@ kriisitilanteinen
 kriisiytynyt
 kriisiytyvä
 kriittinen
-Krim-aiheinen
 krimiläinen
 kriminaalipoliittinen
 kriminalisoinut
@@ -12332,7 +12275,6 @@ kuurotyyppinen
 kuurouduttu
 kuuroutunut
 kuuroutuva
-Kuusamo-buuminen
 kuusamolainen
 kuusamolaisjuurinen
 kuusamolaislähtöinen
@@ -13213,11 +13155,7 @@ läpiviety
 lappajärveläinen
 lappeenrantalainen
 lappeenrantalaislähtöinen
-Lappi-aiheinen
-Lappi-eksentrinen
-Lappi-illallinen
 lappilainen
-Lappi-teemainen
 lapsekas
 lapsellinen
 lapsenkasvoinen
@@ -14103,9 +14041,6 @@ livautettu
 live-lähetty
 livennyt
 liverpoolilainen
-Liverpool-merkkinen
-Liverpool-pelinen
-Liverpool-topparinen
 live-säestetty
 live-spesiaalinen
 livetty
@@ -15263,7 +15198,6 @@ marokkolaissyntyinen
 marokkolaistaustainen
 marokkolaistyylinen
 marraskuinen
-Mars-kopterinen
 marssillinen
 marssinut
 marssipainotteinen
@@ -17028,7 +16962,6 @@ nasakka
 nasaretilainen
 näsäviisas
 naseva
-Nashville-leirinen
 nastapohjainen
 nastaton
 nastoitettu
@@ -17499,10 +17432,7 @@ nojauduttu
 nojautunut
 nojautuva
 nokeentunut
-Nokia-kannettava
 nokialainen
-Nokia-merkkinen
-Nokia-taustainen
 nokikasvoinen
 nokinaamainen
 nokinen
@@ -18478,7 +18408,6 @@ otteluvoiton
 oudoksunut
 oudoksuttu
 oudonvärinen
-Oulu-aiheinen
 oululainen
 oululais-haapajärvinen
 oululaislähtöinen
@@ -19559,7 +19488,6 @@ peittynyt
 peittyvä
 peitytty
 pekingiläinen
-Peking-mielinen
 Pekka-niminen
 pelaajakarusellinen
 pelaajakohtainen
@@ -20390,7 +20318,6 @@ pirunmoinen
 Pisanniitty-niminen
 pisaranmuotoinen
 pisarasuojallinen
-Pisa-romahtanut
 piskuinen
 pissaava
 pissahätäinen
@@ -20875,7 +20802,6 @@ porilaishotellinen
 porilaislähtöinen
 porilaissyntyinen
 porilaistaustainen
-Pori-rockinen
 pörisevä
 porkkananpunainen
 pormestaripelinen
@@ -21387,11 +21313,8 @@ puolalaisjohtoinen
 puolalaisomisteinen
 puolalaistaustainen
 puolalaisvastainen
-Puola-murskavoiton
 puolankalainen
 Puolan-vastainen
-Puola-pelinen
-Puola-tyyppinen
 puoleensavetävä
 puoleinen
 puoliaavikkoinen
@@ -22271,8 +22194,6 @@ ranskalaistyylinen
 ranskalaisvalmisteinen
 ranskalais-yhdysvaltalainen
 ranskankielinen
-Ranska-vastainen
-Ranska-vetoinen
 Ranta-asemakaava
 Ranta-asuinen
 rantabaarinen
@@ -22463,7 +22384,6 @@ rauhoituttu
 raukea
 raukeava
 raukkamainen
-Rauma-aiheinen
 raumalainen
 raumalaissyntyinen
 raunioittanut
@@ -23393,8 +23313,6 @@ ruotsinnettava
 Ruotsin-puoleinen
 ruotsinturkkilainen
 Ruotsin-vastainen
-Ruotsi-pelinen
-Ruotsi-trillerinen
 ruoveteläinen
 rupateltu
 rupeutunut
@@ -23832,7 +23750,6 @@ säilyttävä
 säilytty
 säilyvä
 saimaalainen
-Saimaa-niminen
 saippuanmakuinen
 saippuoitu
 sairaala-asuinen
@@ -24701,7 +24618,6 @@ seurustelukuuluminen
 seutukunnallinen
 sevettijärveläinen
 sevillalainen
-Sevilla-laiturinen
 sfinksimäinen
 s-geeninegatiivinen
 s-geenipositiivinen
@@ -24751,7 +24667,6 @@ sietänyt
 sietävä
 sievä
 sieviläinen
-Sievi-merkkinen
 sievistelevä
 sievistelty
 sievoinen
@@ -25181,20 +25096,17 @@ skeittaava
 skeittailtu
 skenaariotyyppinen
 skeptinen
-Skinnarila-niminen
 skitsofreeninen
 SKL-merkkinen
 s-kokoinen
 skotlantilainen
 skotlantilaissyntyinen
-Skotlanti-pelinen
 skottilaissyntyinen
 skottiviskinen
 slaavilaisortodoksinen
 slaavinkielinen
 sliipattu
 slovakialainen
-Slovakia-pelinen
 slovakkitopparinen
 slovenialainen
 slummimainen
@@ -26004,21 +25916,11 @@ suomenvirolainen
 suomenwalesilainen
 suometinen
 suomettunut
-Suomi-aiheinen
-Suomi-biisinen
 suomidubattu
 suomifilmiesteettinen
-Suomi-hehkuttu
-Suomi-illallinen
-Suomi-myönteinen
 suominut
-Suomi-palkittu
 suomipop-festivaalinen
-Suomi-tatuoitu
-Suomi-taustainen
-Suomi-testinen
 suomittu
-Suomi-vetoinen
 suomuinen
 suomumainen
 suomupintainen
@@ -28602,14 +28504,11 @@ tšekkiläislähtöinen
 tšekkiläissävytteinen
 tsekkiläissyntyinen
 tšekkiläissyntyinen
-Tšekki-pelinen
 tšekkitaustainen
-Tšekki-taustainen
 tšekkoslovakialainen
 tšetšeenitaustainen
 tšetšenialainen
 tshekkiläinen
-Tshekki-pelinen
 tshekkoslovakialainen
 tshetsheenitaustainen
 Tšingis-kaaninen
@@ -29102,12 +29001,10 @@ turkkilaisomisteinen
 turkkilaissyntyinen
 turkkilaistaustainen
 turkkilaisvalmisteinen
-Turkki-taustainen
 turkmenistanilainen
 turkoosi
 turkoosinsininen
 turkoosipaitainen
-Turku-aiheinen
 turkulainen
 turkulaisinsinöörinen
 turkulaislähtöinen
@@ -31130,8 +31027,6 @@ vannottava
 vannottu
 vannoutunut
 vannova
-Vantaa-aiheinen
-Vantaa-kohtainen
 vantaalainen
 vantaalaislähtöinen
 vantaalaisväritteinen
@@ -32714,7 +32609,6 @@ vuodentarkka
 vuodettava
 vuodettu
 vuodoton
-Vuokatti-painotteinen
 vuokraamaton
 vuokra-asuntopainotteinen
 vuokraava
@@ -33528,7 +33422,6 @@ yönsininen
 yöpainotteinen
 yöpynyt
 yöpyvä
-York-projektinen
 yötön
 YouTube-lähetty
 YouTube-tilinen
