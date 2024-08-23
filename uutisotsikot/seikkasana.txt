@@ -329,6 +329,7 @@ kissun
 kiukuspäissä
 kohdakkain
 kohdakkoin
+kohderyhmittäin
 kohme
 kohta
 koillismaalaisittain
