@@ -1065,6 +1065,7 @@ armeijahenkinen
 armeijaikäinen
 armeijamainen
 armeijapukuinen
+armeijasertifioitu
 armeijataustainen
 armeijatyylinen
 armelias
@@ -1855,6 +1856,7 @@ chileläissyntyinen
 chileläis-turkulainen
 chilimaustettu
 Chris-niminen
+c-koodinen
 college-ikäinen
 coloradolainen
 Colt-merkkinen
@@ -1968,6 +1970,7 @@ digimyönteinen
 digipainava
 digipainettu
 digipelinen
+digipostinen
 digistressinen
 digisyrjäytynyt
 digitaalinen
@@ -2702,6 +2705,7 @@ enontekiöläinen
 ensiapuluonteinen
 ensiaputaitoinen
 ensiarvoinen
+ensiesitelty
 ensiharvennettu
 ensi-iltatyylinen
 ensikontaktinen
@@ -3265,6 +3269,7 @@ etäopiskeleva
 etäopiskellut
 etäopiskeltu
 etäpainotteinen
+etäpalaverinen
 etappivoiton
 etäsuosittu
 etätyöntäyteinen
@@ -4021,6 +4026,7 @@ hälyttänyt
 hälyttävä
 hälytyskelpoinen
 hälytystoimintasektorinen
+hämääntynyt
 hämäävä
 hämähäkkikammoinen
 hämähäkkimäinen
@@ -6662,12 +6668,14 @@ isobritannialainen
 isohko
 isoikkunainen
 isojokelainen
+isokätinen
 isokauriinen
 isokehoinen
 isokenkäinen
 isokokoinen
 isokorvainen
 isokyröläinen
+isolierinen
 isolohkoinen
 isomaalinen
 isometrinen
@@ -7116,6 +7124,7 @@ järjestelmänvastainen
 järjestelmäpiirinen
 järjesteltävä
 järjestelty
+järjestelyintoinen
 järjestettävä
 järjestetty
 järjestölähtöinen
@@ -8942,6 +8951,7 @@ kattobaarinen
 katujenginen
 katukohtainen
 katukorinen
+katukulttuurinen
 katulaillinen
 katulehtiprojektinen
 katumaasturimainen
@@ -10018,6 +10028,7 @@ kiivennyt
 kiivettävä
 kiivetty
 kikattava
+kikatteleva
 kikkailematon
 kikkaileva
 kikkaillut
@@ -12149,6 +12160,7 @@ kustannusperusteinen
 kustannustehokas
 kustannustehoton
 kustannustietoinen
+kustannusvaikuttava
 kustantanut
 kustantava
 kustavilainen
@@ -13422,6 +13434,7 @@ leijuva
 leikannut
 leikattava
 leikattu
+leikellyt
 leikeltävä
 leikelty
 leikillinen
@@ -15897,6 +15910,7 @@ MM-kisabuuminen
 MM-kisamainen
 MM-kultamitalinen
 MM-kultamitalistinen
+MM-kultasankarinen
 MM-maalinen
 MM-materiaalinen
 MM-mitalinen
@@ -15943,6 +15957,7 @@ modulaattorilääkkeinen
 moduulirakenteinen
 mogadishulainen
 Mohamed-alin
+möhkälemäinen
 möhlännyt
 möhlinyt
 möhlitty
@@ -16916,6 +16931,7 @@ naposteltava
 naposteltu
 nappaava
 näppäilty
+näppäimetön
 näppäimistöllinen
 näppärä
 nappisilmäinen
@@ -17286,6 +17302,7 @@ NHL-revanssinen
 NHL-saavuttu
 NHL-sankarinen
 NHL-skandaalinen
+NHL-tähtijoukkuetoverinen
 NHL-tasoinen
 NHL-taustainen
 NHL-tavinen
@@ -20102,6 +20119,7 @@ piipitoinen
 piipittävä
 piippaava
 piiputon
+piiputtanut
 piirakoinen
 piirikunnallinen
 piirisarjallinen
@@ -21140,6 +21158,7 @@ puhkottu
 puhkova
 puhkunut
 puhkuva
+puhtaanvalkoinen
 puhtoinen
 puhumaton
 puhunut
@@ -21219,6 +21238,7 @@ pulmallinen
 pulmankijärveläinen
 pulmatilanteinen
 pulmaton
+pulpahdeltu
 pulpahtanut
 pulpahtava
 pulppuava
@@ -22455,6 +22475,7 @@ räyhännyt
 Ray-puskurinen
 reaaliaikainen
 reaalinen
+reaalipalkoinen
 reaalipoliittinen
 reagoimaton
 reagoinut
@@ -22742,6 +22763,7 @@ riitaantunut
 riitaantuva
 riitainen
 riitaisa
+riitasointuinen
 riitatilanteinen
 riitautettu
 riitauttanut
@@ -23347,6 +23369,7 @@ rustiikkinen
 rutattu
 rutiiniluonteinen
 rutiiniluontoinen
+rutiinimainen
 rutiininomainen
 rutiiniomainen
 rutiinivoiton
@@ -24601,6 +24624,7 @@ seuraillut
 seurailtu
 seurakaverinen
 seurakohtainen
+seurakulttuurinen
 seurakunnallinen
 seuralaisgalaksinen
 seurallinen
@@ -27808,6 +27832,7 @@ testikammoinen
 testiperusteinen
 testipositiivinen
 testirallinen
+testosteronintäyteinen
 teuraskokoinen
 teurastanut
 teurastava
@@ -29578,6 +29603,7 @@ Ukraina-teemainen
 Ukraina-vastainen
 uliseva
 uljas
+ulkoamerikkalainen
 ulkoavaruudellinen
 ulkoenglantilainen
 ulkohuussinen
@@ -31574,6 +31600,7 @@ Venäjän-viisuminen
 Venäjä-pelinen
 Venäjä-riskinen
 Venäjä-taustainen
+Venäjä-trillerinen
 Venäjä-tyylinen
 Venäjä-vastainen
 Venäjä-vetoinen
@@ -32082,6 +32109,7 @@ viimainen
 viime
 viimeaikainen
 viimeinen
+viimeistelemätön
 viimeistelevä
 viimeistellyt
 viimeisteltävä
@@ -32283,6 +32311,7 @@ villainen
 villapaitamainen
 villi
 villieläinystävällinen
+villiinnyttänyt
 villiinnytty
 villiintynyt
 villikäänteinen

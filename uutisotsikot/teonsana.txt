@@ -222,6 +222,7 @@ apinoida
 aplodeerata
 aprikoida
 aprillata
+apteekkirokottaa
 ärähdellä
 ärähtää
 arastaa
@@ -517,6 +518,7 @@ elinkeinonharjoittaa
 elintarvikeosata
 elinvoida
 elokuvaesiintyä
+elokuvanäytellä
 elokuvantehdä
 elokuvaosata
 elollistaa
@@ -4203,6 +4205,7 @@ mollata
 möllöttää
 molskahtaa
 mölytä
+mongertaa
 monikudosmallintaa
 monimuodostua
 monimuotoistua

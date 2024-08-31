@@ -888,6 +888,7 @@ maanläheinen
 maapallokeskeinen
 maapoliittinen
 maaseutuelinkeinoviranomainen
+maaseutuviranomainen
 maastomallinen
 maatalouspoliittinen
 madridilaisvieras

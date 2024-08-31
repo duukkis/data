@@ -986,6 +986,7 @@ Koillis-Ruotsi
 Koillis-Satakunta
 Koillis-Savo
 Koillis-Siperia
+Koillis-Sudan
 Koillis-Suomi
 Koillis-Syyria
 Koillis-Ukraina
@@ -1048,6 +1049,7 @@ Kotka-Pyhtää
 Kotkatjärvi
 Kouvola
 Kouvola-Joensuu
+Kouvola-Sotkamo
 Köyliö
 Köyliön-Säkylä
 Krakova
@@ -2029,6 +2031,7 @@ Siilainen
 Siilinjärvi
 Siinai
 Siion
+Silja-Mari
 Silvola
 Simo
 Simojärvi
@@ -2099,6 +2102,7 @@ Suomi-Islanti
 Suomi-Japani
 Suomi-Latvia
 Suomi-Montenegro
+Suomi-Puola
 Suomi-Ranska
 Suomi-Romania
 Suomi-Ruotsi

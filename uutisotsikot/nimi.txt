@@ -147,6 +147,7 @@ kunnia-Oscar
 Lada
 lähi-Alko
 lahja-Porsche
+laina-Mersu
 laina-Volvo
 Lego
 LibreOffice
