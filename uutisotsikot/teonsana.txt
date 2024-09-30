@@ -310,6 +310,7 @@ asuinpientalorakentaa
 asuinrakentaa
 asukasosallistua
 asukastavata
+asukasvaikuttaa
 asumisoikeusasua
 asumisoikeusrakentaa
 asuntorakentaa
@@ -1622,6 +1623,7 @@ isotella
 istahtaa
 istua
 istuskella
+istutella
 istuttaa
 istuutua
 itää
@@ -2812,6 +2814,7 @@ koputella
 koputtaa
 koreilla
 koripallo-osata
+koripallovalmentaa
 korista
 koristaa
 koristautua
@@ -4172,6 +4175,7 @@ mitoittaa
 mittailla
 mittarilähestyä
 mittarilentää
+mittausosata
 mittauttaa
 mobiilimaksaa
 mobiiliosata
@@ -4206,6 +4210,7 @@ möllöttää
 molskahtaa
 mölytä
 mongertaa
+monialustapelata
 monikudosmallintaa
 monimuodostua
 monimuotoistua
@@ -4846,6 +4851,7 @@ pääministeritavata
 päänaukoa
 päänhakata
 pääomasijoittaa
+pääomasijoitusosata
 pääomittaa
 pääpelata
 paapoa
@@ -5273,6 +5279,7 @@ pikakouluttaa
 pikalaihduttaa
 pikapalautua
 pikaparantua
+pikapelata
 pikapoistua
 pikarakentaa
 pikatavata
@@ -5348,6 +5355,7 @@ pitkittää
 pitkittyä
 pitopalveluyrittää
 pizzayrittää
+pizzeria-ampua
 plagioida
 plagioitua
 plarata
@@ -5770,6 +5778,7 @@ räätälöityä
 radikalisoida
 radikalisoitua
 radioavautua
+radioesiintyä
 radioida
 raha-automaattipelata
 rahanpestä
@@ -7001,6 +7010,7 @@ sykähdellä
 sykähdyttää
 sykähtää
 sykäyttää
+sykeosata
 sykkiä
 syleillä
 syljeskellä
@@ -7424,6 +7434,7 @@ tiimivalmentaa
 tiirailla
 tiirata
 tiirikoida
+tiistaitavata
 tiivistää
 tiivistyä
 tiivistysrakentaa
@@ -8315,6 +8326,7 @@ vedostaa
 vedota
 vehdata
 vehkeillä
+vehtailla
 veikata
 veikkailla
 veikkausliigakohdata
@@ -8327,6 +8339,7 @@ veljeillä
 velkaannuttaa
 velkaantua
 velkajankata
+velkarakentaa
 velkavipusijoittaa
 velkoa
 velloa

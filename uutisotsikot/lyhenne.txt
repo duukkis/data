@@ -104,6 +104,7 @@ musiikki-TV
 MWh
 netti-TV
 NHL
+nuhapumppu-PC
 nyky-EU
 nyky-NHL
 OECD

@@ -127,6 +127,7 @@ brittiaikuinen
 brittikilpailuviranomainen
 brittiläinen
 brittiläis-ruotsalainen
+brittirikollinen
 brittiviranomainen
 Brysselin-suomalainen
 buddhalainen
@@ -191,6 +192,7 @@ EM-loisto
 energialäheinen
 energiapoliittinen
 energiaviranomainen
+englantilaisaatelinen
 englantilaisnuori
 englantilais-suomalainen
 ennusteidenmukainen
@@ -601,6 +603,7 @@ kellertävänharmaa
 kelmi
 kelpo
 kelta
+keltaisenruskea
 keltakulta
 keltamusta
 keltaruskea
@@ -997,6 +1000,7 @@ näköinen
 naku
 nami
 namibialaisnuori
+naminami
 Nato-lainen
 natsirikollinen
 naurulainen
@@ -1895,6 +1899,7 @@ ulosottoviranomainen
 ultrakylmä
 ultraortodoksijuutalainen
 ultrapehmeä
+ultraraaka
 ultrarikas
 ultrarohkea
 ultratiukka
@@ -1904,6 +1909,7 @@ ummikko
 umpihölmö
 umpihullu
 umpiköyhä
+umpiluterilainen
 umpimätä
 umpiouto
 umpipimeä

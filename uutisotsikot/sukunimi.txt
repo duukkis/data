@@ -564,6 +564,7 @@ Heliö
 Heliövaara
 Helismaa
 Helkama
+Helkama-Autto
 Hellgren
 Hellman
 Hellsten
@@ -2205,6 +2206,7 @@ Sivonen
 Sivula
 Sjöberg
 Sjöblom
+Sjöblom-Korhonen
 Sjögren
 Sjöholm
 Sjöstedt

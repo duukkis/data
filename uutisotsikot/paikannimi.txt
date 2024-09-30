@@ -488,10 +488,12 @@ Helsingborg
 Helsingin-Uusimaa
 Helsinki
 Helsinki-Bangkok
+Helsinki-Dubai
 Helsinki-Dubrovnik
 Helsinki-Kolari
 Helsinki-Lappeenranta-Helsinki
 Helsinki-Lontoo
+Helsinki-Miami
 Helsinki-Oulu
 Helsinki-Pariisi
 Helsinki-Sipoo
@@ -1897,6 +1899,7 @@ Riihimäki-Herrala
 Riika
 Riika-Helsinki
 Riikka-Mari
+Riina-Mari
 Rinteelä
 Rissala
 Ristee
