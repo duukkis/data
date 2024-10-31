@@ -1331,6 +1331,7 @@ Lyy
 Lyytikäinen
 Lyytinen
 Määttä
+Määttä-Kumpulainen
 Määttänen
 Macleod
 Madetoja
@@ -1822,6 +1823,7 @@ Puhakka-Tarvainen
 Puheloinen
 Puhtila
 Puikkonen
+Puittinen
 Pukkala
 Pukkinen
 Pulkkanen

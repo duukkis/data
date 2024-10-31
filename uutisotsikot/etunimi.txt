@@ -1046,6 +1046,7 @@ Maarit
 Madeleine
 Magnus
 Maija
+Maija-Elina
 Maija-Leena
 Maija-Liisa
 Maija-Riitta
@@ -1372,6 +1373,7 @@ Pernilla
 Perry
 Pertteli
 Pertti
+Pertti-Veli
 Perttu
 Peter
 Peter-Michael

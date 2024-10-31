@@ -979,6 +979,7 @@ Koillis-Italia
 Koillis-Itävalta
 Koillis-Kanada
 Koillis-Kiina
+Koillis-Kuusamo
 Koillis-Lappi
 Koillis-Moskova
 Koillis-Nigeria
@@ -1268,6 +1269,7 @@ Louisiana
 Loukinainen
 Lounais-Afrikka
 Lounais-Australia
+Lounais-Florida
 Lounais-Häme
 Lounais-Kolumbia
 Lounais-Lappi
@@ -1316,6 +1318,7 @@ Macao
 Madagaskar
 Madeira
 Madrid
+Madrid-Boston
 Mainila
 Maisonvaara
 Makari
@@ -1350,6 +1353,7 @@ Manner-Kreikka
 Manner-Naantali
 Manner-Suomi
 Manner-Venäjä
+Manner-Yhdysvalta
 Mannila
 Mansaari
 Mantojärvi
@@ -1359,6 +1363,7 @@ Mänttä
 Mänttä-Vilppula
 Mäntyharju
 Mäntyharju-Hirvensalmi
+Mäntyjärvi
 Marburg
 Mari
 Mariaani
@@ -1743,6 +1748,7 @@ Pohjois-Kuusankoski
 Pohjois-Kypros
 Pohjois-Laos
 Pohjois-Lappi
+Pohjois-Libanon
 Pohjois-Liberia
 Pohjois-Lontoo
 Pohjois-Mali

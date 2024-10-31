@@ -94,6 +94,7 @@ Google
 Graal
 Gulag
 Haades
+hakukone-Google
 Halloween
 Hamlet
 Hari
@@ -117,6 +118,7 @@ Intersport
 Interzone
 iskelmä-Finlandia
 islam-Puh
+Israel-Puh
 Jaguar
 Jeesus
 Jehova
@@ -208,6 +210,7 @@ nyky-Yle
 Odin
 OECD-Maa
 Off
+ohjaaja-Oscar
 öky-Audi
 öky-Mersu
 öky-Porsche

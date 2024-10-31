@@ -436,6 +436,7 @@ digikehittää
 digilevittää
 digimaksaa
 digimarkkinointiosata
+digionnistua
 digiosata
 digipainattaa
 digipelata
@@ -885,6 +886,7 @@ hankkiutua
 hännänlätkiä
 hännystellä
 häpäistä
+hapanjuurileipoa
 hapantua
 haparoida
 hapata
@@ -1160,6 +1162,7 @@ hipsiä
 hipsutella
 hipsuttaa
 hirmustua
+hirnahdella
 hirnahtaa
 hirnua
 hirsirakentaa
@@ -1291,6 +1294,7 @@ huiputtaa
 huiskaista
 huiskia
 huiskutella
+huispata
 huitaista
 huitoa
 hujahtaa
@@ -1534,6 +1538,7 @@ iltanuotiokohdata
 iltapäiväkohdata
 iltavalvoa
 iltavihkiä
+ilvehtiä
 ilveillä
 imaista
 imarrella
@@ -2428,6 +2433,7 @@ kiehua
 kiehuttaa
 kiekaista
 kiekkoilla
+kiekkokontrollipelata
 kiekko-osata
 kiekua
 kielenkääntää
@@ -2954,6 +2960,7 @@ kreditoida
 kreikkalaisosata
 kriisiauttaa
 kriisijohtaa
+kriisinhallintaosallistua
 kriisiosata
 kriisitiedottaa
 kriisivarautua
@@ -3678,6 +3685,7 @@ litistä
 litistää
 litistyä
 litkiä
+litteroida
 litteroitua
 liudentaa
 liudentua
@@ -3952,6 +3960,7 @@ mailapelata
 mainita
 mainostaa
 mairitella
+maisemarakentaa
 maisemoida
 maisemoitua
 mäiskähtää
@@ -5031,6 +5040,7 @@ panna
 pannoittaa
 panostaa
 panssarimiinoittaa
+panssaroida
 panssaroitua
 pantata
 päntätä
@@ -5185,6 +5195,7 @@ perushoitaa
 peruskorjata
 peruskouluosata
 peruslentää
+peruslukea
 perusosata
 perusparantaa
 peruspelata
@@ -6731,6 +6742,7 @@ soimata
 sointua
 soistua
 soitella
+soitinrakentaa
 soittaa
 sojottaa
 sokaista
@@ -6942,6 +6954,7 @@ suo-ojittaa
 suoratoistaa
 suoria
 suoristaa
+suoristella
 suoristua
 suorittaa
 suoriutua
@@ -7434,6 +7447,7 @@ tiimivalmentaa
 tiirailla
 tiirata
 tiirikoida
+tiirikoitua
 tiistaitavata
 tiivistää
 tiivistyä
@@ -7833,6 +7847,7 @@ työskennellä
 työstää
 työsuojelurikkoa
 työtavata
+työuupua
 typerryttää
 typistää
 typistyä
@@ -7888,6 +7903,7 @@ ukkostella
 ukkoutua
 Ukraina-tavata
 ulista
+ulkoharrastaa
 ulkoilla
 ulkoilmapelata
 ulkoiluttaa
@@ -8083,6 +8099,7 @@ vaihtua
 väijyä
 vaikeroida
 vaikeroitua
+vaikertaa
 vaikeuttaa
 vaikeutua
 väikkyä
@@ -8302,6 +8319,7 @@ vastuullisuusosata
 vastuunkantaa
 vastuunottaa
 väsyä
+väsytellä
 väsyttää
 vatkata
 vatkautua
@@ -8471,6 +8489,7 @@ viestitellä
 viestittää
 vietellä
 viettää
+vihakatsoa
 vihastua
 vihastuttaa
 vihata

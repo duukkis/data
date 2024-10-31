@@ -224,6 +224,7 @@ epätotuudenmukainen
 epävarma
 epäyhteensopiva
 eräkerholainen
+erävalvontaviranomainen
 erikoisäijä
 erikoiskuiva
 erikoiskylmä
@@ -299,6 +300,7 @@ hallintokeskeinen
 hallintopoliittinen
 hallintoviranomainen
 hallituspoliittinen
+halsualaisvieras
 hämärä
 hämeenlinnalaisnuori
 haminalaisnuori
@@ -353,6 +355,7 @@ höhlä
 hollantilais-brittiläinen
 hollantilaisrakas
 hollantilaistulokas
+hollantilaisvieras
 hölmö
 hölmöläinen
 hömppä
@@ -728,6 +731,7 @@ kristitty
 kroatialaisnuori
 kroatialaisvieras
 krouvi
+kryptorikollinen
 kryptovaluuttarikollinen
 kuiva
 kuljetusmallinen
@@ -763,6 +767,7 @@ kuurosokea
 kuusamolaisnuori
 kuutiomallinen
 kuvankaltainen
+kyberjuoni
 kyberrikollinen
 kyberriski
 kyberturvallisuusviranomainen
@@ -1383,6 +1388,7 @@ rohkea
 roisto
 rokkarihölmöläinen
 rokoteviranomainen
+romanialaisvieras
 roomalais-katolinen
 roomalaiskatolinen
 röttelö
@@ -1517,6 +1523,7 @@ skyyttalainen
 slaavilainen
 slovakialaisviranomainen
 slovenialaisvieras
+SM-erikoispitkä
 SM-kulta
 s-mobiili
 SM-pitkä
@@ -2038,6 +2045,7 @@ vellihousu
 velmu
 veltto
 velvollinen
+Venäjä-mieleinen
 venäjänjuutalainen
 venäläinen
 venäläishirmu
@@ -2117,6 +2125,7 @@ voimapoliittinen
 vuoristolainen
 vuorottelumallinen
 vuosilomalainen
+vuosimallinen
 Wagner-rikollinen
 Yakuza-rikollinen
 ydinjätevelvollinen
