@@ -5,6 +5,7 @@ Aadolf
 Aale
 Aamos
 Aamu
+äänikirja-Alan
 Aapeli
 Aapo
 ääripää-Annikki
@@ -130,6 +131,7 @@ Anna-Maria
 Anna-Reeta
 Anna-Reetta
 Anna-Riikka
+Anna-Riitta
 Anna-Roosa
 Anna-Rosa
 Anna-Sofia
@@ -1794,6 +1796,7 @@ USA-Unelma
 Uuno
 Uvas
 Väinö
+Väinö-Kalle
 Väiski
 Valde
 Valdemar

@@ -496,6 +496,7 @@ Helsinki-Lontoo
 Helsinki-Miami
 Helsinki-Oulu
 Helsinki-Pariisi
+Helsinki-Rovaniemi
 Helsinki-Sipoo
 Helsinki-Tallinna
 Helsinki-Tampere
@@ -1262,6 +1263,7 @@ Lokka
 Lokka-Porttipahta
 Lombardia
 Lontoo
+Lontoo-Bangkok
 Loppi
 Los
 Louhela
@@ -1319,6 +1321,7 @@ Madagaskar
 Madeira
 Madrid
 Madrid-Boston
+Madrid-Tokio
 Mainila
 Maisonvaara
 Makari
@@ -1835,6 +1838,7 @@ Puikkola
 Puistola
 Pukkila
 Pulkkila
+Pulkonkoski
 Pulmanki
 Pulmankijärvi
 Pultava
@@ -2307,6 +2311,7 @@ Tver
 Tyrjä
 Tyrnävä
 Tyrnävä-Muhos
+Tyros
 Tyrvää
 Tyynimeri
 Udmurtia

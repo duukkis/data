@@ -142,6 +142,7 @@ Kiasma
 klassikko-Jaguar
 klassikko-Windows
 kohu-Jaguar
+kone-Jeesus
 Koraani
 Kotus
 Krapi
@@ -187,6 +188,7 @@ Mitsubishi
 mobiili-Google
 Mossad
 Mosse
+museo-Mersu
 muskeli-Audi
 Musti
 mustikka-Oscar
@@ -196,6 +198,7 @@ nalle-Puh
 napero-Finlandia
 Nato
 Natura
+neliveto-Mersu
 Nemesis
 Neptunus
 Nessu
@@ -280,6 +283,7 @@ Schengen-Maa
 Schumi
 Selecta
 Shell
+Simppa
 sinkku-Kia
 Sirius
 sisar-Toyota
@@ -316,6 +320,7 @@ Tavastia
 Teboil
 tehdas-Hyundai
 Tehy
+tekoäly-Jeesus
 Temo
 Tend
 t-Ford

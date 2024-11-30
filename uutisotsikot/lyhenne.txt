@@ -23,6 +23,7 @@ bar
 BBC
 BKT
 bosnia-h
+britti-TV
 °C
 CD
 CIA
@@ -79,6 +80,7 @@ krs
 kuu-WC
 kWh
 LED
+leffa-DVD
 leijona-TV
 lisä-m
 LP

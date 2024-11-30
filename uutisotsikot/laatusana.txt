@@ -685,6 +685,7 @@ alleviivannut
 alleviivattava
 alleviivattu
 allianssikumppaninen
+ällistellyt
 ällisteltävä
 ällistelty
 ällistynyt
@@ -756,6 +757,7 @@ alustojenvälinen
 älykäs
 älykaupunkikehitty
 älykehitty
+älylaastarinen
 älyllinen
 älynäytön
 älynnyt
@@ -3147,6 +3149,7 @@ erottu
 erottunut
 erottuva
 erotuomarinen
+erotuomariskandaalinen
 erotuttava
 erovuoroinen
 esiasennettava
@@ -4571,6 +4574,7 @@ heivannut
 heivattava
 heivattu
 heiveröinen
+hekotellut
 hektinen
 hekumallinen
 hekumoinut
@@ -4973,6 +4977,7 @@ himmennettävä
 himmennyt
 himmentänyt
 himmentynyt
+himmentyvä
 himoava
 himoiltu
 himoinen
@@ -5262,7 +5267,9 @@ höpissyt
 höpöttelevä
 hoputettu
 hoputtanut
+horiseva
 horisontaalinen
+horissut
 höristelty
 horjahdeltu
 horjahdettu
@@ -5377,6 +5384,7 @@ huippuarvokas
 huippuarvostettu
 huippubrändinen
 huippudramaattinen
+huippuedistyksellinen
 huippuedullinen
 huippueksoottinen
 huippuentisöity
@@ -5484,6 +5492,7 @@ huippuvoiton
 huippuvuorinen
 huiputettava
 huiputettu
+huiputtanut
 huiteleva
 huitonut
 huitova
@@ -6112,6 +6121,7 @@ ihmisaiheinen
 ihmisarka
 ihmisarvoinen
 ihmisbiisoninen
+ihmisenkokoinen
 ihmisentapainen
 ihmishahmoinen
 ihmiskasvoinen
@@ -6293,6 +6303,7 @@ ilmastomyönteinen
 ilmastonmuutoskriittinen
 ilmastopainotteinen
 ilmastopaneelinen
+ilmastoperusteinen
 ilmastopoliittinen
 ilmastopomminen
 ilmastopositiivinen
@@ -6737,6 +6748,7 @@ isorenkainen
 isorintainen
 isosilmäinen
 isosuinen
+isosummainen
 isosydäminen
 isotehoinen
 isotöinen
@@ -7307,6 +7319,7 @@ jättisatsaava
 jättiskandaalinen
 jättistadioninen
 jättisuosittu
+jättiterassinen
 jättitestinen
 jättivaalivoiton
 jättivelallinen
@@ -7455,6 +7468,7 @@ joulubiisinen
 jouluillallinen
 jouluinen
 joulukalenterinen
+joulukoristeinen
 joulukuinen
 joulukuuluminen
 joululahjasaalinen
@@ -7465,6 +7479,7 @@ joulunpunainen
 jouluntuoksuinen
 joulupukkirallinen
 jouluruuhkainen
+joulustressinen
 jouluteemainen
 jouluterveinen
 jouluton
@@ -7816,6 +7831,7 @@ kaapillinen
 kaapinkokoinen
 kaapinut
 kääpiögalaksinen
+kääpiökokoinen
 kaappaava
 kaappausluonteinen
 kaappausriskinen
@@ -8723,6 +8739,7 @@ kartallinen
 kartelliluontoinen
 kartellityyppinen
 kartellut
+karteltu
 kartiomainen
 kartionmuotoinen
 kartoiteltu
@@ -9199,6 +9216,7 @@ kaventanut
 kaventava
 kaventunut
 kaventuva
+kaverikapitalisminen
 kaverikuvamainen
 kaverillinen
 kaverimainen
@@ -9893,6 +9911,7 @@ kiertyvänäytöllinen
 kietonut
 kietoutunut
 kietoutuva
+kietova
 kihahtanut
 kiharahiuksinen
 kiharainen
@@ -10030,11 +10049,13 @@ kiinteäpohjainen
 kiinteäsiipinen
 kiinteistöbuuminen
 kiinteistökohtainen
+kiinteistöleasinginen
 kiinteistörekisterinen
 kiinteistösektorinen
 kiinteistötaloudellinen
 kiinteistöverorekisterinen
 kiintiöity
+kiintiöturkulainen
 kiintoisa
 kiintynyt
 kiipeävä
@@ -10314,6 +10335,7 @@ kirkkonummelainen
 kirkkosalinen
 kirkollinen
 kirkontorninen
+kirkunut
 kirkuva
 kirmaava
 kirmannut
@@ -10378,6 +10400,7 @@ kiskurimainen
 kismittänyt
 kismittävä
 kissa-asuinen
+kissakriisinen
 kissamainen
 kissankokoinen
 kissapetomainen
@@ -10497,6 +10520,7 @@ klassillinen
 klassinen
 klassismivaikutteinen
 klassistinen
+klaukkalalainen
 kliininen
 kliinis-farmakologinen
 klikannut
@@ -10587,6 +10611,7 @@ kohentanut
 kohentava
 kohentunut
 kohentuva
+koherentti
 köhisevä
 kohissut
 kohistu
@@ -10648,6 +10673,7 @@ kohutaikurinen
 kohutallinen
 kohutällinen
 kohuttu
+kohutuomarinen
 kohutyyppinen
 kohu-uimarinen
 koillinen
@@ -10956,6 +10982,7 @@ kommunistinen
 kommunistityylinen
 kommuunimainen
 kompakti
+kompaktikokoinen
 kompaktinkokoinen
 kompassiton
 kompasteleva
@@ -12067,6 +12094,7 @@ kuolemanhiljainen
 kuolemanjälkeinen
 kuolemankaunis
 kuolemanleirinen
+kuolemannäytön
 kuolemanpelinen
 kuolemanvaarallinen
 kuolemanvakava
@@ -12138,6 +12166,7 @@ kupolikattoinen
 kupolinen
 kuppikuntainen
 kuppimainen
+kupsahtanut
 kupumainen
 kurahousuikäinen
 kurainen
@@ -12504,8 +12533,11 @@ kykeneväinen
 kykyinen
 kykyjenhankintatiiminen
 kylähotellinen
+kyläillyt
 kyläilty
 kyläkohtainen
+kyläkouluton
+kyläkuuluminen
 kylällinen
 kylämäinen
 kylänvanha
@@ -12561,7 +12593,9 @@ kylvetetty
 kylvettävä
 kylvetty
 kymenlaaksolainen
+kymenlaaksolaislähtöinen
 kymiläinen
+kymiläislähtöinen
 kymmenenkertainen
 kymmenenmetrinen
 kymmenenosainen
@@ -12679,6 +12713,7 @@ kyydittänyt
 kyydittävä
 kyyhkymäinen
 kyyhkyslakoinen
+kyyhkysmäinen
 kyyhöttänyt
 kyyjärveläinen
 kyykistynyt
@@ -12868,6 +12903,7 @@ lahjaluonteinen
 lahjaluovuttu
 lahjapaperinen
 lahjaton
+lahjavoiton
 lahjoitettava
 lahjoitettu
 lahjoittanut
@@ -13168,6 +13204,7 @@ länsihenkinen
 länsileirinen
 länsiliittoutunut
 länsilontoolainen
+länsimaaninkalainen
 länsimainen
 länsimäinen
 länsimaistettava
@@ -13599,6 +13636,7 @@ lentelevä
 lentoboikottisuosittu
 lentokelinen
 lentokelpoinen
+lentokelvoton
 lentokenttäbussinen
 lentokenttähotellinen
 lentokenttämäinen
@@ -13765,6 +13803,7 @@ lievittänyt
 lievittävä
 lievittynyt
 liftaava
+liftannut
 lihainen
 lihaisa
 lihaksensisäinen
@@ -14226,6 +14265,7 @@ lokoisa
 loksahdellut
 loksahtanut
 loksahtava
+loksauteltu
 loksauttanut
 loksauttava
 lomaileva
@@ -14475,6 +14515,7 @@ lumihuippuinen
 lumijokelainen
 lumijokinen
 lumijuminen
+lumikuormariskinen
 lumikuorrutettu
 lumilautaileva
 lumilautailtu
@@ -15284,6 +15325,7 @@ Marko-kihlattu
 marmattava
 marmorimainen
 marmorinen
+marmoripalatsinen
 marmoroitunut
 marokkolainen
 marokkolaissyntyinen
@@ -15360,6 +15402,7 @@ matalakuluinen
 matalakustanteinen
 matalalämpöinen
 matalalatenssinen
+matalalentoinen
 matalampiääninen
 matalaotsainen
 matalapainevoittoinen
@@ -15780,6 +15823,7 @@ mielenterveysperusteinen
 mielenterveyspomminen
 mielenterveyspoolinen
 mielenterveystaustainen
+mielenterveysteemainen
 mielenterveystiiminen
 mielenvikainen
 mieletön
@@ -16197,6 +16241,7 @@ monipaikkainen
 monipäinen
 monipäiväinen
 moniperusteinen
+moniplanetaarinen
 monipolkuinen
 monipolvinen
 moniportainen
@@ -16289,6 +16334,7 @@ mopoikäinen
 mopoileva
 mopokolarinen
 mopokortiton
+mopokortti-ikäinen
 moporallinen
 mopoton
 moppaava
@@ -17394,6 +17440,7 @@ NHL-tähtijoukkuetoverinen
 NHL-tasoinen
 NHL-taustainen
 NHL-tavinen
+NHL-tulokasillallinen
 NHL-tyylinen
 NHL-valmis
 NHL-varattu
@@ -17642,6 +17689,7 @@ norppaystävällinen
 norsumainen
 norsunluutorninen
 nörttihenkinen
+nostalgiahaluinen
 nostalgiahuuruinen
 nostalgiannälkäinen
 nostalginen
@@ -17951,6 +17999,7 @@ ohuenohut
 ohut
 ohutlehtinen
 ohutpohjainen
+ohutreunainen
 oikaisematon
 oikaiseva
 oikaissut
@@ -17997,6 +18046,7 @@ oikeuskanslerinen
 oikeuskelpoinen
 oikeuskemiallinen
 oikeuslääketieteellinen
+oikeusministerinen
 oikeusoppinut
 oikeusprosessinen
 oikeuspsykiatrinen
@@ -18142,6 +18192,7 @@ olympialähetty
 olympialaishenkinen
 olympiamarssinen
 olympiamitalinen
+olympiamitalistinen
 olympiamittainen
 olympianäytön
 olympiapronssinen
@@ -18409,6 +18460,7 @@ osaamaton
 osaava
 osainen
 osakalainen
+osakaslähtöinen
 osakeindeksinen
 osakekohtainen
 osakekurssinen
@@ -18982,6 +19034,7 @@ pakattu
 pakeneva
 paketillinen
 paketoinut
+paketoitava
 paketoitu
 paketoiva
 pakettiautollinen
@@ -19034,6 +19087,7 @@ pakkosyötetty
 pakkotahtinen
 pakkotestattu
 pakkotestinen
+pakkotuoksuttu
 pakkovaltainen
 pakkovärväävä
 pakkovärvätty
@@ -20266,6 +20320,7 @@ pikaromanssinen
 pikatestinen
 pikatoimittu
 pikaviestinen
+pikavippivelkaantunut
 pikavoiton
 pikinen
 pikkainen
@@ -20284,6 +20339,7 @@ pikkulasinen
 pikkulettipäinen
 pikkumainen
 pikkunäppärä
+pikkunätti
 pikkupelinen
 pikkupieni
 pikkupitäjämäinen
@@ -20444,6 +20500,7 @@ pissahätäinen
 pissannut
 pissapäinen
 pissattu
+pissivä
 pistämätön
 pistänyt
 pistävä
@@ -20686,6 +20743,7 @@ poisheitettävä
 poisheitetty
 poisjäänyt
 poisjäävä
+poisjätetty
 poiskaupattu
 poiskuljetettu
 poiskulutettu
@@ -21036,6 +21094,7 @@ potkukelkkaileva
 potkukelkkailtu
 potkunyrkkeilytaustainen
 potra
+Potter-tyylinen
 pottumainen
 poukkoileva
 poukkoillut
@@ -21162,6 +21221,7 @@ provosoitunut
 provosoituva
 provosoiva
 pröystäilevä
+pröystäillyt
 pröystäilty
 psykedeeliavusteinen
 psykedeelinen
@@ -21177,6 +21237,7 @@ psykologinen
 psykologisoinut
 psykologisoiva
 psykoottinen
+psykoottistyyppinen
 psykopaatinen
 psykopaattinen
 psykoseksuaalinen
@@ -21443,6 +21504,7 @@ puolankalainen
 Puolan-vastainen
 puoleensavetävä
 puoleinen
+puoleton
 puoliaavikkoinen
 puoliaavikkomainen
 puoliakateeminen
@@ -21640,6 +21702,7 @@ puskakollektiivinen
 puskenut
 puskettu
 puskeva
+pussaava
 pussaileva
 pussaillut
 pussailtu
@@ -21664,6 +21727,7 @@ putkahtava
 putkellinen
 putkikasvinen
 putkilomainen
+putkilukkotyyppinen
 putkimainen
 putkirakenteinen
 putoamisvaarallinen
@@ -21677,6 +21741,7 @@ putsattava
 putsattu
 puttaava
 puubiomassapohjainen
+puudutettu
 puuduttava
 puuduttu
 puuhaava
@@ -22074,6 +22139,7 @@ rahtiterminaalinen
 raidallinen
 raidenäytön
 raidepainotteinen
+raideprojektinen
 raidevälinen
 raihnainen
 raihnas
@@ -22715,6 +22781,7 @@ rengastuspussinen
 renkaaton
 renkolainen
 rennohko
+rennonletkeä
 rennonoloinen
 rento
 rentotunnelmainen
@@ -23478,6 +23545,7 @@ ruskehtava
 ruskettava
 ruskettunut
 ruskistanut
+ruskistettu
 ruskolainen
 rustannut
 rustattu
@@ -24134,6 +24202,7 @@ sammutusautollinen
 sammutushelikopterinen
 sammutuskopterinen
 sammuva
+samoileva
 samoiltu
 samppanjaillallinen
 samppanjanvärinen
@@ -24231,6 +24300,7 @@ särkisalolainen
 särkymätön
 särkynyt
 särkyvä
+särmäinen
 särmätön
 särmikäs
 säröillyt
@@ -24390,6 +24460,7 @@ scifi-henkinen
 scifihenkinen
 scifi-kauhupelinen
 scifimäinen
+scifi-pelinen
 scifi-romaaninen
 scifi-roolipelinen
 scifi-spektaakkelinen
@@ -24779,6 +24850,7 @@ shokeeraava
 shokeerannut
 shokeerattu
 shokkikloorattu
+shokkipudottu
 shokkirokkarinen
 shokkivoiton
 show-henkinen
@@ -24828,6 +24900,7 @@ siikaislainen
 siikajokinen
 siikalatvalainen
 siilinjärveläinen
+siilinjärveläistaustainen
 siilitukkainen
 siimajalkainen
 siimanokkainen
@@ -25100,6 +25173,7 @@ sisäfestivaalinen
 sisäilmakoditon
 sisäilmaongelmainen
 sisäilmatekninen
+sisäilmaystävällinen
 sisäinen
 sisäistänyt
 sisäistävä
@@ -25349,6 +25423,7 @@ sokeriton
 sokeroimaton
 sokeroitu
 sokeuduttu
+sokeuttava
 sokeutunut
 sokeutuva
 sokkeloinen
@@ -25487,6 +25562,7 @@ sormeileva
 sorrettu
 sorruttava
 sorruttu
+sorsakoskelainen
 sorsinut
 sorsittu
 sorsiva
@@ -26022,6 +26098,7 @@ suomalaistaiturinen
 suomalaistallinen
 suomalais-tanskalainen
 suomalaistaustainen
+suomalaistava
 suomalaistäyteinen
 suomalaistekoinen
 suomalaistettu
@@ -26060,6 +26137,7 @@ suomennettu
 Suomen-puoleinen
 suomenruotsalaistunut
 suomensaksalainen
+suomensomalialainen
 Suomen-somalitaustainen
 suomensudanilainen
 suomensukuinen
@@ -26075,6 +26153,7 @@ suometinen
 suomettunut
 suomidubattu
 suomifilmiesteettinen
+suomikorinen
 suominut
 suomipop-festivaalinen
 suomittu
@@ -26208,6 +26287,7 @@ superhuijarinen
 superhyvä
 superihana
 superiloinen
+superjännittävä
 superjärkyttävä
 superjymymegamahtava
 superkallis
@@ -26281,6 +26361,7 @@ supersuojattu
 supersuorituskykyinen
 supersuosittu
 supertähtivetoinen
+supertaifuuninen
 supertaitava
 supertankkerinen
 supertärkeä
@@ -26457,6 +26538,7 @@ suurituloinen
 suuriyleisöinen
 suurjännitteinen
 suurkarjalainen
+suurkatastrofinen
 suurmestarinen
 suurmusikaalinen
 suurpelinen
@@ -27080,6 +27162,7 @@ taltuttanut
 taltuttava
 taltuttu
 taluteltu
+talutettava
 talutettu
 taluttanut
 taluttava
@@ -27728,6 +27811,7 @@ teknokraattinen
 teknologiamyönteinen
 teknologiaorientoitunut
 teknologiapainotteinen
+teknologiapelkoinen
 teknologiaprojektinen
 teknologiatestinen
 teknologiauskovainen
@@ -27849,6 +27933,7 @@ tepasteltu
 tepsinyt
 tepsivä
 tepsutteleva
+tequilabaarinen
 teräksinen
 terapeuttinen
 terapiamyönteinen
@@ -27864,6 +27949,7 @@ teräsrunkoinen
 terassilasillinen
 terassipainotteinen
 terässulaton
+terästävä
 terästäydyttävä
 terästäytynyt
 terästäytyvä
@@ -28693,6 +28779,7 @@ tuhahteleva
 tuhantinen
 tuhatasteinen
 tuhathankajalkainen
+tuhatheppainen
 tuhathevosvoimainen
 tuhatjalkainen
 tuhatkertainen
@@ -28771,6 +28858,7 @@ tukahdutettava
 tukahdutettu
 tukahduttanut
 tukahduttava
+tukahtunut
 tukahtuva
 tukala
 tukaloitunut
@@ -28839,6 +28927,7 @@ tulisieluinen
 tulistunut
 tulistuva
 tulitettu
+tulitikkuaskinen
 tulittanut
 tulittava
 tulitukkainen
@@ -28870,6 +28959,7 @@ tulokehitty
 tuloksekas
 tuloksellinen
 tulokseton
+tulokuninkaallinen
 tulonjaollinen
 tulonsiirtounioninen
 tuloperusteinen
@@ -28904,6 +28994,7 @@ tulvanalainen
 tulvankestävä
 tulvariskinen
 tulvatasanteellinen
+tulvauhrinen
 tulvinut
 tulvittu
 tulviva
@@ -29056,6 +29147,7 @@ tuonut
 tuopillinen
 tuore
 tuoreehko
+tuoreenmakuinen
 tuorejalkainen
 tuoretuotteinen
 tuotannollinen
@@ -29367,11 +29459,13 @@ tuutoroitava
 tuutoroiva
 tuuttaava
 tuvallinen
+Tverin-leirinen
 TV-haastateltava
 TV-kelpoinen
 TV-lähetty
 TV-lookinen
 TV-ohjelmatyylinen
+TV-pestinen
 TV-pohjainen
 TV-protestinen
 TV-romanssinen
@@ -29853,6 +29947,7 @@ ultradiffuusi
 ultrafeminiininen
 ultrahalpa
 ultraharvinainen
+ultrahieno
 ultrakammottava
 ultrakannettava
 ultrakestävä
@@ -29933,6 +30028,7 @@ unelmamaalinen
 unelmapelinen
 unelmapestinen
 unelmaroolinen
+unelmasuorittu
 unelmavoiton
 unelmoinut
 unelmoitava
@@ -30654,6 +30750,7 @@ vainunnut
 vaipallinen
 vaippaikäinen
 vaipunut
+vaipuva
 väistämätön
 väistänyt
 väistävä
@@ -30833,6 +30930,7 @@ väläyttänyt
 väläyttelevä
 valeasuinen
 valehdellut
+valehdeltava
 valehdeltu
 valehtelematon
 valehteleva
@@ -31089,6 +31187,7 @@ valtionpäämiesmäinen
 valtionpalkittu
 valtiontaloudellinen
 valtionterrorisminen
+valtionvarainministerinen
 valtionvastainen
 valtionverotettava
 valtio-omisteinen
@@ -31105,6 +31204,7 @@ valtioterrorisminen
 valtioterroristinen
 valtiotieteellinen
 valtiovaltavetoinen
+valtiovarainministerinen
 valtiovastainen
 valtiovetoinen
 valtioviisas
@@ -31916,6 +32016,7 @@ verrattava
 verrattu
 verrytelty
 versioinut
+versioitava
 versioitu
 versova
 vertaava
@@ -33055,6 +33156,7 @@ yhteyttävä
 yhtiöitetty
 yhtiöittänyt
 yhtiökohtainen
+yhtiökumppaninen
 yhtiömuotoinen
 yhtiöoikeudellinen
 yhtiövetoinen

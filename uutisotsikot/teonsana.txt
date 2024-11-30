@@ -199,6 +199,7 @@ anastaa
 anastella
 anella
 ängetä
+angstata
 animoida
 animoitua
 änkeytyä
@@ -1536,6 +1537,7 @@ iltakokoontua
 iltalukea
 iltanuotiokohdata
 iltapäiväkohdata
+iltasyödä
 iltavalvoa
 iltavihkiä
 ilvehtiä
@@ -1776,6 +1778,7 @@ jauhottaa
 jäykistää
 jäykistyä
 jäytää
+jeesustella
 jekkuilla
 jelpata
 jemmailla
@@ -2169,6 +2172,7 @@ karttaa
 kärttää
 karttua
 kartuttaa
+karvailla
 karvata
 karvauspelata
 kärventää
@@ -3238,6 +3242,7 @@ kyyhöttää
 kyykistyä
 kyykkiä
 kyykyttää
+kyylätä
 kyynelehtiä
 kyyristellä
 kyyristyä
@@ -3451,6 +3456,7 @@ lausahtaa
 lausua
 lautailla
 lautapelata
+lautata
 lavaesiintyä
 lävähdellä
 lävähtää
@@ -3678,6 +3684,7 @@ lisensioida
 lisensoida
 lisensoitua
 lisenssipelata
+listailla
 listata
 listautua
 listiä
@@ -4038,6 +4045,7 @@ maskeerata
 maskikohdata
 maskipelata
 maskivarautua
+maskottitavata
 massa-altistua
 massaeläköityä
 massaerottaa
@@ -4588,6 +4596,7 @@ niskoitella
 niskuroida
 nitistä
 nitistää
+nitistellä
 nitistyä
 nitoa
 niuhottaa
@@ -4848,6 +4857,7 @@ oudoksuttaa
 oululaisosata
 ounastella
 öykkäröidä
+päähenkilöityä
 paahtaa
 paahtua
 paakkuuntua
@@ -4907,6 +4917,7 @@ paikkauttaa
 paikoitella
 paimentaa
 painaa
+painajaisloukkaantua
 painattaa
 painautua
 paineistaa
@@ -5668,6 +5679,7 @@ purkautua
 purkittaa
 purnata
 purra
+purskahdella
 purskahtaa
 purskauttaa
 purskuttaa
@@ -5926,6 +5938,7 @@ rasvata
 rasvoittua
 ratarakentaa
 ratifioida
+ratikkamatkata
 rationaalistaa
 rationalisoida
 ratista
@@ -6383,6 +6396,7 @@ säikyttää
 säiliöidä
 säilöä
 säilyä
+säilytellä
 säilyttää
 saippuoida
 saippuoitua
@@ -6415,6 +6429,7 @@ salamarakastua
 salamatkustaa
 salametsästää
 salamoida
+salamurhailla
 salamurhata
 salasairastaa
 salasanakäyttäytyä
@@ -6575,6 +6590,7 @@ sementoida
 sementoitua
 senioriasua
 senioriliikkua
+senioritavata
 sensuroida
 sensuroitua
 seostaa
@@ -7957,6 +7973,7 @@ urheiluharrastaa
 urheilujohtaa
 urheilukannustaa
 urheilurakentaa
+urheiluseuraharrastaa
 urista
 urkkia
 urkurakentaa
@@ -8859,6 +8876,7 @@ yllätysluhistua
 yllätyspoistua
 yllätyspudota
 yllätystavata
+yllätysvetäytyä
 yllyttää
 ylpeillä
 ylpistyä

@@ -234,6 +234,7 @@ japanilaisittain
 järin
 jäsenmaittain
 jätesäkeittäin
+jenkkiläisittäin
 jo
 jokseenkin
 jolloin

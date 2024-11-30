@@ -179,6 +179,7 @@ Bergström
 Bering
 Berner
 Biaudet
+Bill-Smith
 Bingen
 Bismarck
 Björk
@@ -800,6 +801,7 @@ Junes-Leinonen
 Junkers
 Junkkarinen
 Junnila
+Juntto
 Juntunen
 Juopperi
 Jurvanen
@@ -2440,6 +2442,7 @@ Töyrylä
 Trotski
 Trulli
 Trump
+Trump-Riski
 Tuhkanen
 Tuisku
 Tukiainen

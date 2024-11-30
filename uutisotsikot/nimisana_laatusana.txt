@@ -41,6 +41,7 @@ aktiivi
 aktiivimallinen
 akuutti
 albaani
+Albania-mallinen
 algerianjuutalainen
 alituttava
 alkiolainen
@@ -389,6 +390,7 @@ hulivili
 hullu
 hullunhauska
 hullunrohkea
+hulttio
 humaani
 humalainen
 huokauksenomainen
@@ -537,6 +539,7 @@ kaiho
 kaikennäköinen
 kaikenpituinen
 kaivosviranomainen
+kajaanilaisnuori
 kaksoismaalainen
 kalastusviranomainen
 kaldealaiskatolinen
@@ -648,6 +651,7 @@ keskustaoikeistolainen
 keskustavasemmistolainen
 kidutuksenomainen
 kiekkoeläkeläinen
+kielimallinen
 kielipoliittinen
 kielisukulainen
 kihara
@@ -1056,6 +1060,7 @@ nuorisorikollinen
 nuorsuomalainen
 nuoska
 nurmijärveläinen
+nurmijärveläisnuori
 nuuskarikollinen
 nykerö
 nykyaikuinen
@@ -1206,6 +1211,7 @@ pikimusta
 pikkuäijä
 pikkuhelle
 pikkuinen
+pikkukaupunkilainen
 pikkukuuro
 pikkumusta
 pikkuparka
@@ -1272,6 +1278,7 @@ protestanttiviranomainen
 protestinomainen
 PS-aktiivi
 PS-nuori
+psykoosinkaltainen
 puertoricolainen
 puhdas
 puhelinmallinen
@@ -1388,6 +1395,7 @@ rohkea
 roisto
 rokkarihölmöläinen
 rokoteviranomainen
+romanialais-suomalainen
 romanialaisvieras
 roomalais-katolinen
 roomalaiskatolinen
