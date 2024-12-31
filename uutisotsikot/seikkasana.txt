@@ -435,6 +435,7 @@ liiketoiminnoittain
 liiketoiminta-alueittain
 liitoittain
 likellä
+likemmäs
 liki
 likimain
 likipitäen

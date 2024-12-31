@@ -1,5 +1,6 @@
 Aada
 Aada-Liina
+Aadam
 Aada-Olivia
 Aadolf
 Aale
@@ -182,6 +183,7 @@ Antti-Pekka
 Antti-Pentti
 Antti-Petteri
 Antti-Tuomas
+Antti-Veikko
 Antti-Ville
 Antto
 Antton
@@ -811,6 +813,7 @@ Jonne
 Jonni
 Joona
 Joona-Hermanni
+Joona-Kim
 Joonas
 Joonatan
 Joose
@@ -893,6 +896,7 @@ Kaj-Gustaf
 Kalervo
 Kalevi
 Kalle
+Kalle-Antti
 Kalle-Kustaa
 Kalle-Pekka
 Kari-Matti
@@ -1345,6 +1349,7 @@ Pär
 Pärssinen-Markus
 Pasi
 Pasi-Heikki
+Pasi-Pekka
 Patricia
 Patrick
 Patrik

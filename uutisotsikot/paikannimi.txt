@@ -349,6 +349,7 @@ Etelä-Saksa
 Etelä-Salla
 Etelä-Satakunta
 Etelä-Savo
+Etelä-Siilinjärvi
 Etelä-Siperia
 Etelä-Sipoo
 Etelä-Sudan
@@ -357,6 +358,7 @@ Etelä-Taivalkoski
 Etelä-Tanska
 Etelä-Tapiola
 Etelä-Texas
+Etelä-Thaimaa
 Etelä-Tiibet
 Etelä-Tiroli
 Etelä-Tukholma
@@ -535,6 +537,7 @@ Höytiäinen
 Hudson
 Huittinen
 Hulmi
+Humallahti
 Humppila
 Humppilan-Urjala
 Hyrylä
@@ -1112,6 +1115,7 @@ Kuwait
 Kylmäkoski
 Kylmälä
 Kymi
+Kymi-Saimaa
 Kypros
 Kyrönjoki
 Kyrönmaa
@@ -1146,6 +1150,7 @@ Länsi-Englanti
 Länsi-Etiopia
 Länsi-Eurooppa
 Länsi-Grönlanti
+Länsi-Haaga
 Länsi-Helsinki
 Länsi-Intia
 Länsi-Jaala
@@ -1383,6 +1388,7 @@ Massachusetts
 Matinkylä-Olari
 Mauritania
 Mauritius
+Mayotte
 Medina
 Meilahti
 Mekrijärvi
@@ -2173,6 +2179,7 @@ Syrjälä
 Sysmä
 Syväri
 Syyria
+Taabor
 Tadžikistan
 Tahiti
 Taipale
@@ -2215,6 +2222,7 @@ Teisko
 Teksas
 Tenerife
 Teneriffa
+Tenka
 Tennessee
 Teno
 Tenojoki

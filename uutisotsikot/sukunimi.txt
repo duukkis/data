@@ -237,6 +237,7 @@ Canth
 Carlson
 Carlsson
 Carpelan
+Caruso
 Casanova
 Castrén
 Castro
@@ -305,6 +306,7 @@ Ekström
 Elenius
 Ellin-Laitinen
 Elonen
+Elsinen
 Elton
 Enckell
 Engblom
@@ -2028,6 +2030,7 @@ Rundgren
 Rundman
 Runeberg
 Ruohola
+Ruohola-Baker
 Ruohonen
 Ruokolainen
 Ruokonen

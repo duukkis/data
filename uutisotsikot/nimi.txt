@@ -71,6 +71,7 @@ erikois-Halloween
 erikois-Oscar
 Esso
 Estonia
+etno-Tokmanni
 EU-Maa
 EU-Puh
 Euribor
@@ -105,6 +106,7 @@ Hesburger
 Homeros
 huippu-Samsung
 hybridi-Audi
+hybridi-Porsche
 hybridi-Toyota
 hybridi-Volvo
 Hyundai
@@ -192,6 +194,7 @@ museo-Mersu
 muskeli-Audi
 Musti
 mustikka-Oscar
+muumi-Volvo
 Myyrmanni
 naispääosa-Oscar
 nalle-Puh

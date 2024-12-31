@@ -270,6 +270,7 @@ eurooppalaistulokas
 eurooppalais-venäläinen
 Eurooppa-poliittinen
 EU-suomalainen
+EU-vieras
 EU-viranomainen
 EU-vironomainen
 EU-yhteensopiva
@@ -821,6 +822,7 @@ lappilaisnuori
 lapsenomainen
 lapsiaikuinen
 lapsikuorolainen
+lapsimallinen
 lapsipoliittinen
 lapualaisnuori
 laskuhumalainen
@@ -1191,6 +1193,7 @@ periruotsalainen
 perisuomalainen
 perivihollinen
 permanentti
+persoonakeskeinen
 perusmallinen
 perussuomalainen
 perussuomalaisaktiivi
@@ -1350,6 +1353,7 @@ rakenneilmainen
 rakennusvalvontaviranomainen
 rakennusviranomainen
 rämä
+rämäkkä
 rampa
 rangaistuksenomainen
 rankaisukeskeinen
