@@ -100,6 +100,7 @@ Anttila
 Anttila-Huhtinen
 Anttila-Huovinen
 Anttinen
+Antti-Roikonen
 Anttonen
 Apo
 Apunen
@@ -1517,6 +1518,7 @@ Myller
 Myllylä
 Myllynen
 Myllys
+Myllys-Kinnunen
 Myllyviita
 Myöhänen
 Myyryläinen
@@ -2103,6 +2105,7 @@ Santala
 Santanen
 Sappinen
 Sarajuuri
+Sara-Koiranen
 Sarasalo
 Sarasvuo
 Sariola

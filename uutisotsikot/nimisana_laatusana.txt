@@ -255,6 +255,7 @@ espoolaisnuori
 espoolaisvieras
 etelähämäläinen
 eteläkarjalainen
+eteläkarjalaisnuori
 eteläpohjanmaalainen
 Etelä-Pohjanmaalainen
 eteläsaamelainen
@@ -675,6 +676,7 @@ kiltti
 kipeä
 kirjava
 kirkkaanvihreä
+kirkkonummelaisnuori
 kisamallinen
 kitaramallinen
 kivannäköinen
@@ -711,6 +713,7 @@ kosovolaisvieras
 kosteankylmä
 kotikeskeinen
 kotitoimistosi
+kotkalaisnuori
 kotosuomalainen
 kotouttamispoliittinen
 kotva
@@ -1044,6 +1047,7 @@ Nokia-klassikkomallinen
 nollakerholainen
 norja
 norjalaishirmu
+norjalaisjuoni
 norjalaisnuori
 norjalais-suomalainen
 norjalaistulokas
@@ -1376,6 +1380,7 @@ rauhanpoliittinen
 raukka
 raumalaisvieras
 rautatieviranomainen
+rautias
 reaalipoliittinen
 referenssimallinen
 refleksinomainen
@@ -1467,6 +1472,7 @@ samanmaalainen
 samanmallinen
 samannäköinen
 samanpituinen
+sammonlahtelainen
 samoalainen
 sanfranciscolainen
 sankamallinen
@@ -1478,6 +1484,7 @@ sateenkaarisaamelainen
 sateenkaarisensuuri
 säteilyturvallisuusviranomainen
 saudiviranomainen
+savolaisnuori
 scifi-uutukainen
 SDP-nuori
 Sedan-mallinen
@@ -1619,6 +1626,7 @@ suomenruotsalainen
 suomenvenäläinen
 suora
 suorituskeskeinen
+suosikkimallinen
 suosikkisukulainen
 supererityinen
 superhauska
@@ -1663,6 +1671,7 @@ suuri
 suurkaupunkilainen
 suurpetopoliittinen
 suurrikas
+suurrikollinen
 suursuomalainen
 suursyömäri
 suurvaltapoliittinen
@@ -1918,6 +1927,7 @@ ulosottoviranomainen
 ultrakylmä
 ultraortodoksijuutalainen
 ultrapehmeä
+ultrapitkä
 ultraraaka
 ultrarikas
 ultrarohkea
@@ -2144,6 +2154,7 @@ ydinjätevelvollinen
 ydinturvallisuusviranomainen
 ydinvoimaviranomainen
 yhdyntäkeskeinen
+yhdysvaltaisviranomainen
 yhdysvaltalaisaikuinen
 yhdysvaltalaisaituri
 yhdysvaltalais-brittiläinen

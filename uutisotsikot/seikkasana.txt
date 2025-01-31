@@ -683,6 +683,7 @@ ranskalaisittain
 ranualaisittain
 ratsain
 rautatie
+rautavaaralaisittain
 reilassa
 rekkalasteittain
 rempallaan

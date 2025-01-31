@@ -1292,6 +1292,7 @@ huippuosata
 huippupelata
 huippusuorittaa
 huipputavata
+huippuvenyä
 huiputtaa
 huiskaista
 huiskia
@@ -1303,6 +1304,7 @@ hujahtaa
 hujauttaa
 hukata
 hukkaantua
+hukkailla
 hukkua
 hukuttaa
 hukuttautua
@@ -1481,6 +1483,7 @@ ihmetyttää
 ihmisenkaltaistaa
 ihmisjohtaa
 ihmiskohdata
+ihmissuhdepelata
 ikääntyä
 ikäjohtaa
 ikätoverikiusata
@@ -2011,6 +2014,7 @@ kaivautua
 kaivella
 kaiverruttaa
 kaivertaa
+kaivososata
 kaivospelastautua
 kaivossukeltaa
 kajahdella
@@ -2663,6 +2667,7 @@ kobolttialtistua
 koeajaa
 koeampua
 koe-esiintyä
+koeistua
 koekäyttää
 koekuvata
 koelaukaista
@@ -2909,6 +2914,7 @@ kosteikkorakentaa
 kosteuttaa
 kosto-ostaa
 kostua
+kostutella
 kostuttaa
 koteloitua
 kotiäänestää
@@ -2922,6 +2928,7 @@ kotiopettaa
 kotipelata
 kotipolttaa
 kotitavata
+kotitehdä
 kotitestata
 kotitreenata
 kotiuttaa
@@ -3524,6 +3531,7 @@ lepäillä
 lepatella
 lepattaa
 leperrellä
+lepertää
 leppyä
 lepsuilla
 lepuuttaa
@@ -3687,6 +3695,7 @@ lisärakentaa
 lisärokottaa
 lisäselvittää
 lisätä
+lisätehostaa
 lisätunnistautua
 lisävelkaantua
 lisensioida
@@ -3971,6 +3980,7 @@ mahdollistua
 mahduttaa
 mahtaa
 mahtailla
+mahtionnistua
 mahtua
 mailapelata
 mainita
@@ -4775,6 +4785,7 @@ oleilla
 oleskella
 olettaa
 öljylämmittää
+öljynporata
 öljytä
 olla
 olopaastota
@@ -4988,6 +4999,7 @@ pakkolunastaa
 pakkonaittaa
 pakko-ottaa
 pakkopalauttaa
+pakkopilkkoa
 pakkorokottaa
 pakkosäästää
 pakkosiirtää
@@ -6622,6 +6634,7 @@ seurapelata
 seurata
 seurustella
 shokeerata
+shokkiavautua
 shokkiedetä
 shokkipudota
 sidosryhmätavata
@@ -6974,6 +6987,7 @@ suomalaisloukkaantua
 suomalaisonnistua
 suomalaisosata
 suomalaistaa
+suomalaistavata
 suomalaistua
 suomentaa
 suomentua
@@ -7298,6 +7312,7 @@ tasautua
 tasavertaistaa
 tasavertaistua
 taskuparkkeerata
+täsmäkouluttaa
 täsmätä
 täsmäyttää
 täsmennellä
@@ -7601,6 +7616,7 @@ töräyttää
 torikohdata
 toritavata
 torjua
+torkahdella
 torkahtaa
 törkeillä
 torkkua
@@ -8389,6 +8405,7 @@ veistellä
 veivailla
 veivata
 veljeillä
+veljeskohdata
 velkaannuttaa
 velkaantua
 velkajankata
@@ -8466,6 +8483,7 @@ vertaisvuokrata
 vertautua
 vertyä
 vesakoitua
+vesilentää
 vesiliikennekäyttäytyä
 vesiliukua
 vesiosata

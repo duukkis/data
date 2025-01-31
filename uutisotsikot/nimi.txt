@@ -93,6 +93,7 @@ Gestapo
 g-Mersu
 Google
 Graal
+Grönlanti-Puh
 Gulag
 Haades
 hakukone-Google
@@ -292,6 +293,7 @@ Sirius
 sisar-Toyota
 Siska
 sisu-Valmet
+siviili-Lada
 sivuosa-Oscar
 Siwa
 Sojuz
@@ -301,6 +303,7 @@ some-Puh
 Sonera
 Sony
 sote-Puh
+Spar
 Spartacus
 Sprite
 Sputnik

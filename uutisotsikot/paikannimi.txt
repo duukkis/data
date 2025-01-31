@@ -333,6 +333,7 @@ Etelä-Miami
 Etelä-Nevada
 Etelä-Nikkilä
 Etelä-Norja
+Etelä-Nummela
 Etelä-Ohio
 Etelä-Orkney
 Etelä-Ossetia
@@ -503,6 +504,7 @@ Helsinki-Sipoo
 Helsinki-Tallinna
 Helsinki-Tampere
 Helsinki-Tartto
+Helsinki-Tokio
 Helsinki-Tukholma
 Helsinki-Turku
 Helsinki-Uusimaa
@@ -585,6 +587,7 @@ Inka-Mari
 Inkeri
 Inkoo
 Innsbruck
+Ino
 Intia
 Iowa
 Irak
@@ -1097,6 +1100,7 @@ Kurala
 Kurdistan
 Kurgan
 Kurikka
+Kurolanlahti
 Kursk
 Kuru
 Kustaanmiekka
@@ -1165,6 +1169,7 @@ Länsi-Kreikka
 Länsi-Kuuba
 Länsi-Lappi
 Länsi-Lontoo
+Länsi-Maaninka
 Länsi-Meksiko
 Länsi-Myanmar
 Länsi-Niili
@@ -1513,6 +1518,7 @@ Nevada
 Newark
 NHL-Seattle
 NHL-Taipale
+NHL-Utah
 Niagara
 Nicaragua
 Nieminen

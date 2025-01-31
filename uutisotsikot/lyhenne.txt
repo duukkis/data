@@ -61,6 +61,7 @@ inva-WC
 IPCC
 irto-a
 iso-d
+iso-g
 IT
 jäärata-SM
 juhla-DVD
@@ -190,6 +191,7 @@ WSOY
 WTO
 WWW
 YK
+yleisö-EK
 yleisö-WC
 YM
 YYA
