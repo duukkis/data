@@ -711,6 +711,7 @@ korvausvelvollinen
 kosovolaisnuori
 kosovolaisvieras
 kosteankylmä
+kotalahtelainen
 kotikeskeinen
 kotitoimistosi
 kotkalaisnuori
@@ -821,6 +822,7 @@ lantalainen
 lapinjärveläinen
 Lapin-lomalainen
 läpipoliittinen
+lappeenrantalaisnuori
 lappilaisnuori
 lapsenomainen
 lapsiaikuinen
@@ -2185,6 +2187,7 @@ yleissuomalainen
 yleisvenäläinen
 Yle-lainen
 ylihauska
+yli-iso
 ylijäävi
 ylikiltti
 ylikova

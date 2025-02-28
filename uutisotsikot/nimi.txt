@@ -89,6 +89,7 @@ Freija
 Galileo
 Ganymedes
 Gaudeamus
+Gaza-Puh
 Gestapo
 g-Mersu
 Google
@@ -151,6 +152,7 @@ Kotus
 Krapi
 Kristus
 kunnia-Oscar
+kvantti-Internet
 Lada
 lähi-Alko
 lahja-Porsche
@@ -316,6 +318,7 @@ Suomi-Netflix
 Suomi-Puh
 Suomi-Twitter
 suosikki-Linux
+super-Maa
 super-Mersu
 Supo
 taksi-Mersu
@@ -346,6 +349,7 @@ ukraina-Puh
 Unesco
 UNICEF
 Unicode
+Urantia
 Uranus
 Ursa
 Uspenski

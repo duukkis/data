@@ -34,6 +34,7 @@ Adrian
 Agnes
 Ahab
 Ahmed
+Ahonpää-Kim
 Ahti
 Ahto
 Ahvo
@@ -48,6 +49,7 @@ Ainikki
 Aino
 Aino-Kaisa
 Aino-Maija
+Aino-Sofia
 Aira
 Airi
 Åke
@@ -392,6 +394,7 @@ Eleonoora
 Elias
 Eliel
 Eliisa
+Elin
 Elina
 Elis
 Elisa
@@ -530,6 +533,7 @@ Hanna-Marjut
 Hanna-Riikka
 Hanne
 Hannele
+Hanne-Leena
 Hannes
 Hannibal
 Hanno
@@ -769,10 +773,12 @@ Jemina
 Jenna
 Jenna-Marie
 Jenni
+Jenni-Emilia
 Jennifer
 Jenni-Julia
 Jenny
 Jenny-Julia
+Jenny-Sofia
 Jere
 Jere-Matias
 Jeremias
@@ -899,6 +905,7 @@ Kalle
 Kalle-Antti
 Kalle-Kustaa
 Kalle-Pekka
+Kangas-Pirkka
 Kari-Matti
 Karin
 Kari-Pekka
@@ -973,6 +980,7 @@ Kyllönen-Katri
 Kyösti
 Laila
 Lalli
+Lari-Pekka
 Lars
 Lars-Christian
 Lars-Göran
@@ -1464,6 +1472,7 @@ Reidar
 Reija
 Reijo
 Reima
+Reima-Ville
 Reinhold
 Reino
 Reko
@@ -1687,6 +1696,7 @@ Tea
 Teea
 Teemu
 Teemu-Taavetti
+Teemu-Veli
 Teija
 Teija-Liisa
 Tellervo

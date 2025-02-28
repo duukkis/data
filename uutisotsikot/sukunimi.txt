@@ -213,6 +213,7 @@ Brahe
 Brander
 Brander-Keskinen
 Brandt
+Brandt-Ahtee
 Brask
 Braun
 Brax
@@ -569,6 +570,7 @@ Heliövaara
 Helismaa
 Helkama
 Helkama-Autto
+Hellevuo
 Hellgren
 Hellman
 Hellsten
@@ -2106,6 +2108,7 @@ Santanen
 Sappinen
 Sarajuuri
 Sara-Koiranen
+Sarapää
 Sarasalo
 Sarasvuo
 Sariola
@@ -2397,6 +2400,7 @@ Tiitinen
 Tiittanen
 Tikka
 Tikkanen
+Tikkanen-Eloranta
 Tikkinen
 Timonen
 Timpuri

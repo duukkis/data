@@ -123,6 +123,7 @@ päätös-EK
 PC
 peli-PC
 perus-CV
+perus-PC
 pH
 pikku-g
 pikku-PC

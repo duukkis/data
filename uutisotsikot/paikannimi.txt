@@ -707,6 +707,7 @@ Jongunjoki
 Jordan
 Jordania
 Joroinen
+Joukaa
 Joutsa
 Joutsa-Pertunmaa-Hartola-Sysmä
 Joutseno
@@ -1419,6 +1420,7 @@ Michigan
 Miehikkälä
 Miekojärvi
 Mietoinen
+Miia-Mari
 Mikkeli
 Mikkola
 Mikronesia
@@ -1445,6 +1447,7 @@ MM-Praha
 MM-Qatar
 MM-Taipale
 MM-Tampere
+MM-Trondheim
 MM-Tshekki
 MM-Unkari
 Mogadishu
@@ -2278,6 +2281,7 @@ Toukola
 Toulouse
 Töysä
 Traakia
+Transilvania
 Travemünde
 Trinidad
 Tripoli
@@ -2342,6 +2346,7 @@ Uppsala
 Ural
 Urjala
 Uruguay
+USA-Kanada
 USA-Kiina
 USA-Venäjä
 Utah

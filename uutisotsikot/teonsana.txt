@@ -965,6 +965,7 @@ hauduttaa
 haukahdella
 haukahtaa
 haukata
+haukkailla
 haukkoa
 haukkua
 haukotella
@@ -1037,6 +1038,7 @@ hellitä
 hellitellä
 hellittää
 hellyttää
+helmeillä
 helottaa
 helpontua
 helpottaa
@@ -1518,6 +1520,7 @@ ilmastonlämmetä
 ilmasto-osata
 ilmastotavata
 ilmastovaikuttaa
+ilmastoverkostotavata
 ilmata
 ilmaveivata
 ilmeillä
@@ -1653,6 +1656,7 @@ itsenäistää
 itsenäistyä
 itsenmitata
 itseohjautua
+itseorganisoitua
 itsepuhdistautua
 itsesyttyä
 itsetyydyttää
@@ -2263,6 +2267,7 @@ kaupallistaa
 kaupallistua
 kaupata
 kaupitella
+kauppakeskusampua
 kaupungistua
 kaupunkiajaa
 kaupunkiasua
@@ -2509,6 +2514,7 @@ kiinnipalaa
 kiinnipitää
 kiinnisaada
 kiinnittää
+kiinnittäytyä
 kiinnittyä
 kiinnostaa
 kiinnostella
@@ -3502,6 +3508,7 @@ leikkiä
 leimahdella
 leimahtaa
 leimata
+leimauttaa
 leimautua
 leimuta
 leipääntyä
@@ -3838,6 +3845,7 @@ luetteloida
 luetuttaa
 luhistaa
 luhistua
+luikahdella
 luikahtaa
 luikauttaa
 luikerrella
@@ -4456,6 +4464,7 @@ nähdä
 nahinoida
 nahista
 nahistella
+nahjustella
 naida
 naisistua
 naisvaltaistua
@@ -4929,6 +4938,7 @@ paijata
 paikalliskohdata
 paikallispuolustaa
 paikallistaa
+paikallistua
 paikantaa
 paikantua
 paikata
@@ -5399,6 +5409,7 @@ pitkästyttää
 pitkittää
 pitkittyä
 pitopalveluyrittää
+pitseria-ampua
 pizzayrittää
 pizzeria-ampua
 plagioida
@@ -5650,6 +5661,7 @@ pultata
 pulttailla
 pummailla
 pummata
+pummimatkustaa
 pumpata
 pumppailla
 pumputa
@@ -7434,6 +7446,7 @@ teräskennorakentaa
 terassirakentaa
 terästää
 terästäytyä
+terästyä
 terävöittää
 terävöityä
 terminoida
@@ -7660,6 +7673,7 @@ treenata
 treenikaatua
 trimmata
 troolata
+Trump-tavata
 tsätätä
 tsättäillä
 tuberkuloosialtistua
@@ -8092,6 +8106,7 @@ vaakkua
 vaalentaa
 vaaleta
 vaalia
+vaalisekaantua
 vaalivaikuttaa
 vaania
 väännellä
@@ -8383,6 +8398,7 @@ vaurastua
 vaurastuttaa
 vaurioittaa
 vaurioitua
+vauvatavata
 vavahdella
 vavahduttaa
 vavista
@@ -8751,6 +8767,7 @@ vuokrailla
 vuokramökkiyöpyä
 vuokranalentaa
 vuokrata
+vuokratalorakentaa
 vuokravelkaantua
 vuolla
 vuorata
