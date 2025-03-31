@@ -106,6 +106,7 @@ avioliittomallinen
 avojalo
 avomallinen
 avunantovelvollinen
+avustusmallinen
 avustusviranomainen
 ay-aktiivi
 baltialaisvieras
@@ -361,6 +362,7 @@ hollantilaistulokas
 hollantilaisvieras
 hölmö
 hölmöläinen
+hölö
 hömppä
 honkkeli
 höntti
@@ -422,6 +424,7 @@ ihmiskaupparikollinen
 ihmiskeskeinen
 ihmisläheinen
 ihmisoikeuspoliittinen
+ihonkaltainen
 iisalmelaisnuori
 ikävä
 ikävännäköinen
@@ -489,6 +492,7 @@ itäsaksalainen
 itäslaavilainen
 itäsuomalainen
 itäsuomalais-goottilainen
+itkukarjalainen
 itsekeskeinen
 jäävi
 jakomallinen
@@ -750,6 +754,7 @@ kulosaarelainen
 kulovalkea
 kulta
 kultapossukerholainen
+kultasuora
 kultavasuri
 kultinomainen
 kulttuuripoliittinen
@@ -762,6 +767,7 @@ kuntapoliittinen
 kuolansuomalainen
 kuolinriski
 kuopiolaisnuori
+kuopiolais-siilinjärveläinen
 kuorolainen
 kuppimallinen
 kurditurvallisuusviranomainen
@@ -1719,6 +1725,7 @@ tanskalaisnuori
 tanskalais-ruotsalainen
 tanskalaisvieras
 tanskalaisviranomainen
+tapahtumaviranomainen
 taparikollinen
 tarhakarkulainen
 tarinakeskeinen
@@ -1927,6 +1934,7 @@ ulkosuomalainen
 ulkovenäläinen
 ulosottoviranomainen
 ultrakylmä
+ultramatala
 ultraortodoksijuutalainen
 ultrapehmeä
 ultrapitkä
@@ -2199,6 +2207,7 @@ ylisuuri
 ylitiukka
 ylitörkeä
 yllätyssuomalainen
+yltiöraaka
 ympäristölupaviranomainen
 ympäristönsuojeluviranomainen
 ympäristönvalvontaviranomainen

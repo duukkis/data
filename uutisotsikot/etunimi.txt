@@ -410,6 +410,7 @@ Ella-Sofia
 Ellen
 Elli
 Elli-Alina
+Elli-Maija
 Elli-Noora
 Elli-Saara
 Elma
@@ -654,6 +655,7 @@ Ilta
 Ilta-Ale
 Ilta-Auri
 Immanuel
+Immi
 Immo
 Impi
 Inga
@@ -725,6 +727,7 @@ Jan-Johannes
 Jan-Kristian
 Jan-Mikael
 Janna
+Janna-Emilia
 Janna-Juuli
 Janne
 Janne-Juha
@@ -955,6 +958,7 @@ Klaas
 Klaudia
 Klaus
 Klaus-Fred
+Klaus-Peter
 Kleopatra
 Knut
 Knuutti

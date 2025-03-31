@@ -693,6 +693,7 @@ e-urheilla
 euroepäonnistua
 eurooppalaistaa
 eurooppalaistua
+europudota
 euroviisuesiintyä
 evakuoida
 evakuoitua
@@ -1660,6 +1661,7 @@ itseorganisoitua
 itsepuhdistautua
 itsesyttyä
 itsetyydyttää
+IT-turhautua
 ivailla
 ivata
 jäädä
@@ -1755,6 +1757,7 @@ jarrutella
 jarruttaa
 jarrutusnykiä
 järsiä
+järviruokorakentaa
 jäsennellä
 jäsentää
 jäsentyä
@@ -2217,6 +2220,7 @@ kasvatella
 kasvattaa
 kasvikäyttäytyä
 katalysoida
+katastrofitavata
 kategorisoida
 käteismaksaa
 katella
@@ -2410,6 +2414,7 @@ kesätyöllistää
 kesätyöllistyä
 kesiä
 keskenjäädä
+keskeytellä
 keskeyttää
 keskeytyä
 keski-ikäistyä
@@ -2715,6 +2720,7 @@ kohuhermostua
 kohukadota
 kohupettää
 kohuta
+kohutavata
 koikkelehtia
 koillissanoa
 koirakohdata
@@ -2933,6 +2939,7 @@ kotimajoittaa
 kotiopettaa
 kotipelata
 kotipolttaa
+kotisulaa
 kotitavata
 kotitehdä
 kotitestata
@@ -3098,6 +3105,7 @@ kuolata
 kuolettaa
 kuoleutua
 kuolla
+kuolo-osata
 kuopaista
 kuopata
 kuopia
@@ -3179,6 +3187,7 @@ kuultaa
 kuulua
 kuulustella
 kuulusteluosata
+kuulutella
 kuuluttaa
 kuumaliimata
 kuumeilla
@@ -3311,6 +3320,7 @@ lahjoittaa
 lahota
 lahottaa
 lähteä
+lahtelaisosata
 lähtöpelata
 laiduntaa
 laihduttaa
@@ -3517,6 +3527,7 @@ leiri-ilmoittautua
 leirintäalueyöpyä
 leirittää
 leiriytyä
+leiskahtaa
 leiskauttaa
 leiskua
 lekotella
@@ -5940,6 +5951,7 @@ raportoitua
 rappeuttaa
 rappeutua
 rappioittaa
+rappioitua
 rappukäytäväampua
 rapsahdella
 räpsähdellä
@@ -6298,6 +6310,7 @@ rustailla
 rustata
 rutata
 rutiinitavata
+rutiinitehdä
 rutinoitua
 rutista
 rutistaa
@@ -6452,6 +6465,7 @@ sakotella
 sakottaa
 säksättää
 saksia
+salaesiintyä
 salailla
 salakalastaa
 salakatsella
@@ -6915,6 +6929,7 @@ stressitestata
 stripata
 strippailla
 strukturoitua
+Stubb-tavata
 studioesiintyä
 studiolaulaa
 substanssiosata
@@ -7522,6 +7537,7 @@ tilapäisrakentaa
 tilastoida
 tilastoitua
 tilata
+tilimaksaa
 tilisäästää
 tilittää
 tilkitä
@@ -7802,6 +7818,7 @@ turmeltua
 turnausosallistua
 turnauspelata
 turruttaa
+turskahtaa
 tursuta
 turtua
 turvallisuusjohtaa
@@ -8495,6 +8512,7 @@ versoa
 vertailla
 vertaisohjata
 vertaisoppia
+vertaistavata
 vertaisvuokrata
 vertautua
 vertyä
@@ -8766,6 +8784,7 @@ vuokra-asua
 vuokrailla
 vuokramökkiyöpyä
 vuokranalentaa
+vuokrasaada
 vuokrata
 vuokratalorakentaa
 vuokravelkaantua
@@ -8928,6 +8947,7 @@ yllätyslaskeutua
 yllätysluhistua
 yllätyspoistua
 yllätyspudota
+yllätyssulaa
 yllätystavata
 yllätysvetäytyä
 yllyttää

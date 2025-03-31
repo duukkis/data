@@ -364,6 +364,7 @@ Etelä-Tiibet
 Etelä-Tiroli
 Etelä-Tukholma
 Etelä-Turku
+Etelä-Tuusniemi
 Etelä-Ukraina
 Etelä-Unkari
 Etelä-Vantaa
@@ -376,6 +377,7 @@ Etelä-Yhdysvalta
 Etiopia
 Etna
 EU-Irlanti
+EU-Islanti
 Eura
 Euraasia
 Eurajoki
@@ -1167,6 +1169,7 @@ Länsi-Kenia
 Länsi-Kiina
 Länsi-Kotka
 Länsi-Kreikka
+Länsi-Kursk
 Länsi-Kuuba
 Länsi-Lappi
 Länsi-Lontoo
@@ -1758,6 +1761,7 @@ Pohjois-Kalifornia
 Pohjois-Kanada
 Pohjois-Kaukasia
 Pohjois-Kazakstan
+Pohjois-Keitele
 Pohjois-Konnevesi
 Pohjois-Kosovo
 Pohjois-Krim
@@ -2250,6 +2254,7 @@ Tiina-Mari
 Tiirismaa
 Tikkala
 Tikkurila
+Tikkurila-Kerava
 Tilsit
 Timola
 Timor
@@ -2481,6 +2486,7 @@ Ylä-Levi
 Ylämaa
 Ylä-Malmi
 Yläne
+Ylänne
 Ylä-Oulanka
 Ylä-Satakunta
 Ylä-Savo

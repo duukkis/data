@@ -258,6 +258,7 @@ Crichton
 Crowley
 Curie
 Cygnaeus
+Daavitsainen
 Dahl
 Dahlberg
 Dahlström
@@ -1778,6 +1779,7 @@ Pihlström
 Piik
 Piiparinen
 Piippo
+Piippolainen
 Piipponen
 Piirainen
 Piiroinen
