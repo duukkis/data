@@ -101,6 +101,7 @@ erittäin
 erityisvastuualueittain
 esillä
 espanjalaisittain
+espoolaisittain
 etäällä
 etäämpänä
 etänä

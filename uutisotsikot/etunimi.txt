@@ -373,12 +373,14 @@ Eeva-Stiina
 Eevert
 Eevi
 Eija
+Eija-Elina
 Eija-Irmeli
 Eija-Leena
 Eija-Liisa
 Eija-Riitta
 Eija-Sinikka
 Eila
+Eila-Maija
 Eila-Maria
 Einar
 Einari
@@ -1012,6 +1014,7 @@ Leena-Kaisa
 Leena-Maija
 Leena-Riitta
 Leeni
+Leeni-Elina
 Leevi
 Leevi-Veli
 Leif
@@ -1530,6 +1533,7 @@ Ruth
 Ruusu
 Saara
 Saara-Eliisa
+Saara-Kaisa
 Saara-Lotta
 Saara-Sofia
 Sabina
@@ -1862,6 +1866,7 @@ Vilho
 Vili
 Vili-Jesper
 Vili-Pekka
+Viljam
 Viljami
 Viljo
 Ville

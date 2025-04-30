@@ -583,6 +583,7 @@ kartanomainen
 kartellinomainen
 kartelliviranomainen
 kartiomallinen
+karunharmaa
 käskyläinen
 kasvinterveysviranomainen
 katastrofiviranomainen
@@ -1752,6 +1753,7 @@ tavoitekeskeinen
 täydennyspalvelusvelvollinen
 täyskorkea
 täysmusta
+täysorpo
 täyspitkä
 täyspöljä
 täystollo
@@ -1811,6 +1813,7 @@ toimilupaviranomainen
 toimintamallinen
 toimitusvelvollinen
 toipumiskeskeinen
+toistuttava
 toistuttu
 tökerö
 tollo
@@ -2201,6 +2204,7 @@ ylikiltti
 ylikova
 ylikuuma
 yliopistolainen
+ylipaljo
 ylipitkä
 ylirohkea
 ylisuuri

@@ -244,6 +244,7 @@ pikku-Mersu
 pikku-Volvo
 pistoke-Volvo
 Pluto
+podcast-Puh
 pop-Finlandia
 Porsche
 Poseidon
@@ -318,6 +319,7 @@ Suomi-Netflix
 Suomi-Puh
 Suomi-Twitter
 suosikki-Linux
+suosikki-Volvo
 super-Maa
 super-Mersu
 Supo
@@ -339,6 +341,7 @@ tila-Kia
 Tokmanni
 Toyota
 traileri-Saab
+Trump-Puh
 Tuonela
 tuotanto-Audi
 TV-Aurinko

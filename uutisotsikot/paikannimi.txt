@@ -1,3 +1,4 @@
+Aada-Mari
 Aalto-Luoto
 Äänekoski
 Äänekoski-Pihtipudas
@@ -67,6 +68,7 @@ Amerikka
 Amman
 ämpäri-Suomi
 Amsterdam
+Amsterdam-Ivalo-Kuusamo
 Amuri
 Anatolia
 Ancylus
@@ -304,6 +306,7 @@ Etelä-Hervanta
 Etelä-Hyvinkää
 Etelä-Intia
 Etelä-Irak
+Etelä-Iran
 Etelä-Israel
 Etelä-Italia
 Etelä-Itämeri
@@ -496,6 +499,7 @@ Helsinki-Bangkok
 Helsinki-Dubai
 Helsinki-Dubrovnik
 Helsinki-Kolari
+Helsinki-Lahti
 Helsinki-Lappeenranta-Helsinki
 Helsinki-Lontoo
 Helsinki-Miami
@@ -1223,6 +1227,7 @@ Laura-Mari
 Lauritsala
 Lausanne
 Lavia
+Leea-Mari
 Lego-Colosseum
 Lego-Oulu
 Lehmo
@@ -1285,6 +1290,7 @@ Louisiana
 Loukinainen
 Lounais-Afrikka
 Lounais-Australia
+Lounais-Eurooppa
 Lounais-Florida
 Lounais-Häme
 Lounais-Kolumbia
@@ -2320,6 +2326,7 @@ Turkki
 Turkmenistan
 Turku
 Turku-Helsinki
+Turku-Kööpenhamina
 Turku-Maarianhamina-Tukholma
 Turku-Tampere
 Turku-Tukholma

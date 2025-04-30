@@ -168,6 +168,7 @@ alueellistua
 aluejohtaa
 aluekehittää
 aluerakentaa
+aluetavata
 alusasupukeutua
 aluspukeutua
 alustaa
@@ -509,6 +510,7 @@ elannonsaada
 elätellä
 elättää
 elävöittää
+elävöityä
 eläytyä
 elehtiä
 elektroniikkaosata
@@ -580,6 +582,7 @@ epäimarrella
 epäinhimillistää
 epäkunnioittaa
 epämotivoitua
+epänähdä
 epäonnistua
 epäpäteä
 epäröidä
@@ -587,6 +590,7 @@ epäsopia
 epätasa-arvoistaa
 epätasa-arvoistua
 epävakauttaa
+epäviehättää
 erääntyä
 erakoitua
 erata
@@ -674,6 +678,7 @@ etäopiskella
 etäoppia
 etäosallistua
 etäpelata
+etätaiteilijatavata
 etätavata
 etätehdä
 etätunnistaa
@@ -2245,6 +2250,7 @@ katsoa
 kattaa
 katua
 katuesiintyä
+katujengiampua
 katujengiytyä
 katukerjätä
 katurakentaa
@@ -4681,6 +4687,7 @@ noteerata
 notkahtaa
 notkauttaa
 notkistaa
+notkistua
 notkua
 noudatella
 noudattaa
@@ -5390,6 +5397,7 @@ pinota
 pinttyä
 piparirakentaa
 pipetoida
+pippuroida
 pirahtaa
 pirauttaa
 piristä
