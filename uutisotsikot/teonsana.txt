@@ -375,6 +375,7 @@ beetatestata
 betonirakentaa
 betonitalorakentaa
 betonoida
+biisinkirjoittaa
 bikinipukeutua
 bingota
 bisnesmatkustaa
@@ -1093,6 +1094,7 @@ herpaannuttaa
 herpaantua
 herrasmiespelata
 herrastella
+herruuskohdata
 hersyä
 herua
 herutella
@@ -2033,6 +2035,7 @@ kajahdella
 kajahtaa
 kajastaa
 kajastella
+kajastua
 kajautella
 kajauttaa
 kajota
@@ -2244,6 +2247,7 @@ katoilla
 katsahtaa
 katsastaa
 katsastella
+katsastuttaa
 katsella
 katselmoida
 katsoa
@@ -3340,6 +3344,7 @@ läikyttää
 laillistaa
 läimähtää
 läimäistä
+läimäytellä
 läimäyttää
 laimentaa
 laimentua
@@ -3920,6 +3925,7 @@ luovuttaa
 lupailla
 lupautua
 luritella
+lurittaa
 lusia
 lusikoida
 lutviutua
@@ -6376,6 +6382,7 @@ ryövätä
 rypeä
 rypistää
 rypistellä
+rypistyä
 ryppyillä
 rypyttää
 rysähtää
@@ -6888,6 +6895,7 @@ sössöttää
 sotahämätä
 sotakuvata
 sotalentää
+sotata
 sotavarautua
 sote-osata
 sotia
@@ -7024,6 +7032,7 @@ suomalaisosata
 suomalaistaa
 suomalaistavata
 suomalaistua
+Suomen-esiintyä
 suomentaa
 suomentua
 suomettua
@@ -7088,7 +7097,9 @@ suurennella
 suurentaa
 suurentua
 suureta
+suurkokoontua
 suurkuluttaa
+suurtavata
 suurustaa
 suurvaltatavata
 suutahtaa
@@ -7418,6 +7429,7 @@ tekijäkohdata
 teknologiajohtaa
 teknologiaosata
 teknologiatavata
+tekoälykuvata
 tekoälyosata
 tekohengittää
 tekonurmipelata
@@ -8544,6 +8556,7 @@ vetäistä
 vetäytyä
 vetelehtiä
 vetistellä
+vetistyä
 vetkutella
 vetreyttää
 vetreytyä
@@ -8637,6 +8650,7 @@ viisikkopuolustaa
 viisinkertaistaa
 viisinkertaistua
 viistää
+viisuesiintyä
 viisuosallistua
 viitata
 viitoittaa
@@ -8977,6 +8991,7 @@ ympyröityä
 ynistä
 ynnäillä
 ynnätä
+yökätä
 yökerhoaltistua
 yökkäillä
 yököttää

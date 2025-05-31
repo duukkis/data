@@ -88,6 +88,7 @@ Alma
 Al-Noora
 Alpo
 Altti
+Altti-Jussi
 ALV-Ale
 Alvar
 Alvi
@@ -151,6 +152,7 @@ Anne-Maarit
 Anne-Maija
 Anne-Maria
 Anne-Marie
+Anne-Mette
 Anne-Pauliina
 Annette
 Anni
@@ -219,6 +221,7 @@ Arto
 Arttu
 Arttu-Pekka
 Artturi
+Artturi-Veli
 Arturo
 Arvi
 Arvid
@@ -806,6 +809,7 @@ Johann
 Johanna
 Johannes
 John
+John-Erik
 John-Oskar
 John-Sebastian
 Jon
@@ -903,6 +907,7 @@ Kaisa-Reeta
 Kaisa-Riikka
 Kaisu
 Kaj
+Kaj-Axel
 Kaj-Gustaf
 Kalervo
 Kalevi
@@ -925,6 +930,7 @@ Kasperi
 Katariina
 Katarina
 Kati
+Kati-Annika
 Kati-Susanna
 Katja
 Katja-Maaria
@@ -1331,6 +1337,7 @@ Olli-Jussi
 Olli-Markus
 Olli-Matti
 Olli-Pekka
+Olli-Petteri
 Olli-Veikko
 Olof
 Olov
@@ -1731,6 +1738,7 @@ Tiina-Riikka
 Tiitus
 Tilda
 Timo
+Timo-Janne
 Timo-Juha
 Timo-Jukka
 Timo-Kalevi

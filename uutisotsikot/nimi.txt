@@ -130,6 +130,7 @@ Jesaja
 Joma
 Jupiter
 kaasu-Mersu
+Kaj-Maa
 Kaleva
 Kalevala
 Kansallis-Osake-Pankki
@@ -315,6 +316,7 @@ STT-Reuters
 STT-Yle
 Stuka
 Suomi-Instagram
+Suomi-Lada
 Suomi-Netflix
 Suomi-Puh
 Suomi-Twitter

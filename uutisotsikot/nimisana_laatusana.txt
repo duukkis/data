@@ -129,6 +129,7 @@ brittiaikuinen
 brittikilpailuviranomainen
 brittiläinen
 brittiläis-ruotsalainen
+brittiläis-suomalainen
 brittirikollinen
 brittiviranomainen
 Brysselin-suomalainen
@@ -839,6 +840,7 @@ lapsipoliittinen
 lapualaisnuori
 laskuhumalainen
 lastensuojeluviranomainen
+lateksisuomalainen
 latinalainen
 latvialaisvieras
 lauha
@@ -1037,6 +1039,7 @@ neuvostomallinen
 newjerseyläinen
 newyorkilainen
 NHL-äijä
+NHL-hirmu
 NHL-huipputulokas
 NHL-jermu
 NHL-lomalainen
@@ -1637,6 +1640,7 @@ suora
 suorituskeskeinen
 suosikkimallinen
 suosikkisukulainen
+superäijä
 supererityinen
 superhauska
 superhelle
@@ -1957,6 +1961,7 @@ umpiouto
 umpipimeä
 umpipoliittinen
 umpirohkea
+umpitörkeä
 umpivenäläinen
 unenkaltainen
 unenomainen
@@ -2117,6 +2122,7 @@ viekas
 vienankarjalainen
 vientimallinen
 vieras
+vieraskorea
 vierasmaalainen
 vierasvarma
 viestintäviranomainen

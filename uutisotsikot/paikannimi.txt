@@ -358,6 +358,7 @@ Etelä-Siperia
 Etelä-Sipoo
 Etelä-Sudan
 Etelä-Suomi
+Etelä-Syyria
 Etelä-Taivalkoski
 Etelä-Tanska
 Etelä-Tapiola
@@ -736,6 +737,7 @@ Jynkkä
 Jyväskylä
 Jyväskylä-Helsinki
 Jyväskylä-Kemi
+Jyväskylän-Muurame
 Jyväskylä-Tampere
 Kaaba
 Kaakkois-Aasia
@@ -1452,12 +1454,14 @@ MM-Koitto
 MM-Kolari
 MM-Lahti
 MM-Latvia
+MM-Portugali
 MM-Praha
 MM-Qatar
 MM-Taipale
 MM-Tampere
 MM-Trondheim
 MM-Tshekki
+MM-Tukholma
 MM-Unkari
 Mogadishu
 Möhkö
@@ -1946,6 +1950,7 @@ Rodos
 Röksä
 Romania
 Rooma
+Roosa-Mari
 Ropi
 Rosala
 Rosa-Mari
@@ -2235,6 +2240,7 @@ Tarvo
 Taškent
 Taskila
 Tasmania
+Täyssinä
 Tegucigalpa
 Teheran
 Teisko
