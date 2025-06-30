@@ -211,6 +211,7 @@ Ari-Pekka
 Aristoteles
 Arja
 Arja-Liisa
+Arja-Tuulikki
 Armi
 Arndt
 Arno
@@ -292,6 +293,7 @@ Carl-Henrik
 Carl-Johan
 Carl-Kristian
 Carl-Magnus
+Carl-Philip
 Carola
 Caroline
 Carolus
@@ -1087,6 +1089,7 @@ Mailis
 Maini
 Maire
 Maisa
+Major-Unelma
 Mäki-Matti
 Mäki-Teppo
 Maksim
@@ -1224,6 +1227,7 @@ Mika-Matti
 Mike
 Mikko
 Mikko-Juha
+Mikko-Olavi
 Mikko-Pekka
 Mikko-Petteri
 Miko

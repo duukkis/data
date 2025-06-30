@@ -411,6 +411,7 @@ cup-kohdata
 cup-pudota
 deaktivoida
 deaktivoitua
+deanonymisoida
 debytoida
 dekoodata
 dekriminalisoida
@@ -730,6 +731,7 @@ filmikuvata
 filosofoida
 finaalikohdata
 finaalisulaa
+flirtata
 flirttailla
 flopata
 fokusoida
@@ -922,6 +924,7 @@ harjailla
 harjata
 harjoitella
 harjoittaa
+harjoituslähestyä
 harjoituttaa
 harkita
 harmaantua
@@ -1219,6 +1222,7 @@ hölistä
 hölkätä
 hölkkäillä
 hölläillä
+Hollanti-kohdata
 höllätä
 höllentää
 höllentyä
@@ -1863,6 +1867,7 @@ joustaa
 joutaa
 joutua
 juhannusesiintyä
+juhannushukkua
 juhlajuoda
 juhlapukeutua
 juhlasaunoa
@@ -2074,6 +2079,7 @@ kalvaa
 kalveta
 kalvo-oikoa
 kamanvetää
+kameraosata
 kammata
 kammeta
 kammoksua
@@ -3569,6 +3575,7 @@ lepyttää
 lerpahtaa
 lerpattaa
 letittää
+letkajuosta
 letkautella
 letkauttaa
 leudontua
@@ -3790,6 +3797,7 @@ loiskua
 loistaa
 loisto-onnistua
 loitontaa
+loitontua
 loitota
 loitsia
 loiventaa
@@ -5314,6 +5322,7 @@ pienryhmätavata
 pientalorakentaa
 pieraista
 piereskellä
+pierettää
 pierrä
 piestä
 pietä
@@ -5942,6 +5951,7 @@ rämpyttää
 rangaista
 rankata
 ränsistyä
+ranskalaisosata
 Ranta-asua
 rantaimeytyä
 rantarakentaa
@@ -6556,6 +6566,7 @@ sarastaa
 säristä
 sarjailmoittautua
 sarjamurhata
+sarjapolttaa
 sarjapudota
 sarjasekoilla
 sarjasilpoa
@@ -6644,6 +6655,7 @@ selkiyttää
 selkiytyä
 sellunjalostaa
 selostaa
+selvennellä
 selventää
 selventyä
 selvetä
@@ -7099,6 +7111,7 @@ suurentua
 suureta
 suurkokoontua
 suurkuluttaa
+suurtalouskeittiöosata
 suurtavata
 suurustaa
 suurvaltatavata
@@ -8198,6 +8211,7 @@ vaiheistaa
 vaihtaa
 vaihteisto-osata
 vaihtoehtohoitaa
+vaihtotilannepelata
 vaihtua
 väijyä
 vaikeroida

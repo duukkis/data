@@ -610,6 +610,7 @@ Iso-Kouvola
 Isokyrö
 Iso-Ylläs
 Israel
+Israelin-Iran
 Israel-Palestiina
 Istanbul
 Itä-Aasia
@@ -1043,6 +1044,7 @@ Kontiolahti-Eno
 Kontula
 Kontula-Vesala
 Kööpenhamina
+Kööpenhamina-Mumbai
 Koppelo
 Korea
 Korfu
@@ -1118,6 +1120,7 @@ Kuttura
 Kuuba
 Kuurinmaa
 Kuusamo
+Kuusamon-Rovaniemi
 Kuusamo-Oulu
 Kuusamo-Pirttikoski
 Kuusamo-Posio
@@ -1576,6 +1579,7 @@ Nuvvus
 Nykopp-Koski
 Odessa
 Ohio
+Ohtaansalmi
 Ojala-Nieminen
 Ojama
 Ojamäki
@@ -2337,6 +2341,7 @@ Turku-Maarianhamina-Tukholma
 Turku-Tampere
 Turku-Tukholma
 Turku-Uusikaupunki
+Tuula-Kaarina
 Tuula-Mari
 Tuulos
 Tuupovaara

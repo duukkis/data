@@ -941,6 +941,7 @@ Kauppi
 Kauppinen
 Kauranen
 Kautto
+Kautto-Niemi
 Käyhkö
 Keihänen
 Keinänen
@@ -2050,6 +2051,7 @@ Rusanen-Kartano
 Rusi
 Rutanen
 Rutherford
+Ruttunen
 Ruuhela
 Ruuska
 Ruuskanen
