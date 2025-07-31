@@ -280,6 +280,7 @@ sähkö-Mersu
 sähkö-Porsche
 sähkö-Volvo
 Saint
+sala-Lidl
 Samsung
 San
 sarjakuva-Finlandia

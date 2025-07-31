@@ -1042,6 +1042,7 @@ helistä
 helisyttää
 helkähtää
 hellepukeutua
+hellesyödä
 hellevarautua
 helliä
 hellitä
@@ -1796,6 +1797,7 @@ jättikohdata
 jättiläiskohdata
 jättilistautua
 jättionnistua
+jättirikastua
 jauhaa
 jauhautua
 jauhottaa
@@ -1848,6 +1850,7 @@ joukkokytätä
 joukkoliikennematkustaa
 joukkolopettaa
 joukkomurhata
+joukkonälkiintyä
 joukkorantautua
 joukkorokottaa
 joukkosairastua
@@ -2440,6 +2443,7 @@ keskitellä
 keskittää
 keskittyä
 keskusjärjestösopia
+keskusta-asioida
 keskusta-asua
 keskustarakentaa
 keskustella
@@ -2534,6 +2538,7 @@ kiinniottaa
 kiinnipalaa
 kiinnipitää
 kiinnisaada
+kiinnitellä
 kiinnittää
 kiinnittäytyä
 kiinnittyä
@@ -3110,6 +3115,7 @@ kuntoilla
 kuntosalipukeutua
 kuntouttaa
 kuntoutua
+kuohahdella
 kuohahtaa
 kuohauttaa
 kuohia
@@ -4076,6 +4082,7 @@ manifestoitua
 manipuloida
 manipuloitua
 mankeloida
+mankeloitua
 mankua
 mapittaa
 märehtiä
@@ -6210,6 +6217,7 @@ rivitalorakentaa
 robotisoitua
 robottiajaa
 robottilentää
+rock-osata
 röhähtää
 rohjeta
 rohkaista
@@ -6689,6 +6697,7 @@ seurustella
 shokeerata
 shokkiavautua
 shokkiedetä
+shokkiloukkaantua
 shokkipudota
 sidosryhmätavata
 siedättää
@@ -6880,6 +6889,7 @@ sönköttää
 sonnustautua
 sontia
 sooloilla
+soperrella
 sopertaa
 sopeuttaa
 sopeutua
@@ -7058,6 +7068,7 @@ suoristella
 suoristua
 suorittaa
 suoriutua
+suoryömiä
 suosia
 suositella
 suosittaa
@@ -7856,6 +7867,7 @@ tursuta
 turtua
 turvallisuusjohtaa
 turvallisuusosata
+turvanrepiä
 turvata
 turvautua
 turvaväliohjeistaa
@@ -8639,6 +8651,7 @@ viihtyä
 viikata
 viikkotiedottaa
 viikonloppuajaa
+viikonlopputehdä
 viilailla
 viilata
 viilennellä

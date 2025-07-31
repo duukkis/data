@@ -1335,6 +1335,7 @@ Oivi
 Olavi
 Olga
 Oliver
+Oliver-Veli
 Olivia
 Olli
 Olli-Jussi
@@ -1594,6 +1595,7 @@ Santtu
 Santtu-Matias
 Sara-Elise
 Sarah
+Sara-Julia
 Sara-Lotta
 Sari-Anna
 Sari-Annika
@@ -1693,6 +1695,7 @@ Taavi
 Tage
 Tahvo
 Taija
+Taija-Liisa
 Taimi
 Taimi-Alan
 Taimi-Tapio

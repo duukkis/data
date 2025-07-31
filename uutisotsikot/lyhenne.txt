@@ -64,6 +64,7 @@ iso-d
 iso-g
 IT
 jäärata-SM
+jätti-TV
 jippo-j
 juhla-DVD
 kaapeli-TV

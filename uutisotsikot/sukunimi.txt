@@ -720,6 +720,7 @@ Ikola
 Ikonen
 Ilaskivi
 Illikainen
+Ilmola
 Ilvonen
 Immonen
 Inberg
@@ -735,6 +736,7 @@ Irwin
 Isaksson
 Isberg
 Ishiguro
+Iskariot
 Isopahkala
 Issakainen
 Itälä
@@ -1316,6 +1318,7 @@ Lukkala
 Lukkala-Mäkinen
 Lukkarinen
 Lumio
+Lumppio
 Lund
 Lundahl
 Lundberg
@@ -1560,6 +1563,7 @@ Niemistö
 Nietzsche
 Niikko
 Niinistö
+Niinistön-Stubb
 Niiranen
 Nikander
 Nikkanen
@@ -2489,6 +2493,7 @@ Tuunanen
 Tuurna
 Tykkyläinen
 Tyni
+Tyni-Määttä
 Tynjälä
 Tynkkynen
 Tynni

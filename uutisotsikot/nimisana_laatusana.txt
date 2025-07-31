@@ -690,6 +690,7 @@ kirkkonummelaisnuori
 kisamallinen
 kitaramallinen
 kivannäköinen
+kivenlahtelainen
 kivikko
 kodinomainen
 kohtalonomainen
@@ -1049,6 +1050,7 @@ NHL-hirmu
 NHL-huipputulokas
 NHL-jermu
 NHL-lomalainen
+NHL-nousukas
 NHL-sisäpiiriläinen
 NHL-suomalainen
 NHL-supertulokas
@@ -1074,6 +1076,7 @@ norjalaisviranomainen
 norjansaamelainen
 normaali
 normaaliterve
+normisuomalainen
 norsunluurannikkolainen
 nousuhumalainen
 nousukas
@@ -1149,6 +1152,7 @@ ovaali
 ovenkaltainen
 oxfordilaismallinen
 öykkäri
+pääkaupunkikeskeinen
 pääkaupunkilainen
 päänomainen
 päästökauppamallinen
@@ -2012,6 +2016,7 @@ vaaleankirjava
 vaaleanruskea
 vaaleanvihreä
 vaaleanvioletti
+vaalialuemallinen
 vaaliviranomainen
 väärä
 vääränkorkuinen

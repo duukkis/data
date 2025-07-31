@@ -642,6 +642,7 @@ Itä-Lappi
 Italia
 Italia-Espanja
 Italia-Saksa
+Itä-Libanon
 Itä-Lontoo
 Itä-Malawi
 Itämeri
@@ -1126,6 +1127,7 @@ Kuusamo-Pirttikoski
 Kuusamo-Posio
 Kuusankoski
 Kuusela
+Kuusjärvi
 Kuusjoki
 Kuwait
 Kylmäkoski
@@ -1462,6 +1464,7 @@ MM-Praha
 MM-Qatar
 MM-Taipale
 MM-Tampere
+MM-Tokio
 MM-Trondheim
 MM-Tshekki
 MM-Tukholma
@@ -2002,6 +2005,7 @@ Säkkijärvi
 Sakkola
 Saksa
 Saksa-Espanja
+Saksa-Suomi
 Saksa-Unkari
 Saku
 Säkylä
