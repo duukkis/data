@@ -9,6 +9,7 @@ Aapala
 Aapo-Koiranen
 Aarnio
 Aarnio-Haavisto
+Aatamila
 Abbey
 Abdulla
 Åberg
@@ -81,6 +82,7 @@ Al-Malkki
 Alonso
 Altmann
 Alzheimer
+Amerikan-Autto
 Amerikan-Kartano
 Amerikan-Tuominen
 Amin
@@ -1490,6 +1492,7 @@ Mökkönen
 Molander
 Mollberg
 Molotov
+Molotov-Ribbentrop
 Mölsä
 Mönkkönen
 Mononen
@@ -1857,6 +1860,7 @@ Purhonen
 Purmonen
 Puronen
 Pursiainen
+Pursiainen-Hautala
 Puruskainen
 Pusa
 Puskala
@@ -2548,6 +2552,7 @@ Vallgren
 Vallin
 Vallius
 Valonen
+Valste
 Valtanen
 Valtonen
 Valtonen-Aittola

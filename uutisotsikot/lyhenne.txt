@@ -74,6 +74,7 @@ kHz
 kJ
 kk
 klassikko-CD
+klassikko-DVD
 klo
 km
 kokooma-CD

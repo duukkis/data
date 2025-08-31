@@ -474,6 +474,7 @@ Hanne-Mari
 Hannover
 Hanoi
 Harare
+Hartikka
 Hartikkala
 Hartola
 Harvard
@@ -502,6 +503,7 @@ Helsinki-Dubrovnik
 Helsinki-Kolari
 Helsinki-Lahti
 Helsinki-Lappeenranta-Helsinki
+Helsinki-Leppävaara
 Helsinki-Lontoo
 Helsinki-Miami
 Helsinki-Oulu
@@ -708,6 +710,7 @@ Jersey
 Jerusalem
 Joensuu
 Joensuu-Oulu
+Joensuu-Pieksämäki
 Johannesburg
 Jokioinen
 Jokipii
@@ -1678,6 +1681,7 @@ Pariisi
 Pariisi-Moskova
 Parikkala
 Parkano
+Parkano-Tampere
 Pärnävaara
 Pärnu
 Parola
@@ -2334,6 +2338,7 @@ Tunguska
 Tunisia
 Tuntsa
 Tuomarila
+Tuominen-Rein
 Tupala
 Turenki
 Turkki

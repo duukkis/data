@@ -838,6 +838,7 @@ Joosef
 Jooseppi
 Jori
 Jorma
+Jorma-Petteri
 Jörn
 Josef
 Josef-Emanuel
@@ -967,6 +968,7 @@ Klaara
 Klaas
 Klaudia
 Klaus
+Klaus-Erik
 Klaus-Fred
 Klaus-Peter
 Kleopatra
@@ -1579,6 +1581,7 @@ Samuli
 Samu-Petteri
 Sanda
 Sandra
+Sanelma
 Sanna
 Sanna-Kaisa
 Sanna-Leena

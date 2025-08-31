@@ -18,6 +18,7 @@ aamupalatavata
 ääntelehtiä
 ääntyä
 aateloida
+aateloitua
 aavikoitua
 aavistaa
 aavistella
@@ -120,6 +121,7 @@ aktivoitua
 aktuaalistaa
 aktualisoitua
 älähtää
+Alaskan-tavata
 alentaa
 alentua
 aleta
@@ -747,10 +749,12 @@ gaalavalmistautua
 generoida
 Georgia-kohdata
 ghettoutua
+gigahertsiosata
 globaalistaa
 globalisoitua
 golfailla
 golfata
+golftavata
 GPS-pannoittaa
 graavata
 graffitimaalata
@@ -1041,6 +1045,7 @@ heläyttää
 helistä
 helisyttää
 helkähtää
+helkkyä
 hellepukeutua
 hellesyödä
 hellevarautua
@@ -1297,6 +1302,7 @@ huikennella
 huikkailla
 huilata
 huimata
+huipata
 huipentaa
 huipentua
 huippuesiintyä
@@ -1775,6 +1781,7 @@ jäsentää
 jäsentyä
 jätättää
 jatkaa
+jatkoaikapelata
 jatkoesiintyä
 jatkohyödyntää
 jatkoilmoittautua
@@ -2789,6 +2796,7 @@ kolkutella
 kolkuttaa
 köllötellä
 köllöttää
+kolmikantatavata
 kolminkertaistaa
 kolminkertaistua
 kolonisoida
@@ -3405,6 +3413,7 @@ lakata
 lakittaa
 lakkauttaa
 lakkoilla
+lakoontua
 läksyttää
 lallatella
 lamaannuttaa
@@ -3631,6 +3640,7 @@ lihottaa
 liidellä
 liietä
 liigakohdata
+liigapelata
 liigavalmentaa
 liihotella
 liihottaa
@@ -3960,6 +3970,7 @@ lykätä
 lykkääntyä
 lykkäytyä
 lykkiä
+lyllertää
 lymyillä
 lymytä
 lynkata
@@ -4042,6 +4053,7 @@ maistella
 maistraattivihkiä
 maistua
 maittaa
+mäjähdellä
 mäjähtää
 majailla
 mäjäyttää
@@ -4317,6 +4329,7 @@ monottaa
 moottorikelkkailla
 moottorikokoontua
 moottoriosata
+moottoripyöräillä
 moottoripyörätavata
 moottoroitua
 mopata
@@ -4837,6 +4850,7 @@ olettaa
 öljytä
 olla
 olopaastota
+olympiakokoontua
 olympiaosallistua
 olympiavetäytyä
 omakotiasua
@@ -5698,6 +5712,7 @@ pulputa
 pulputella
 pulputtaa
 pulskistaa
+pulskistua
 pultata
 pulttailla
 pummailla
@@ -5829,6 +5844,7 @@ pyrähtää
 pyräyttää
 pyristellä
 pyrkiä
+pyrskähtää
 pyrskäyttää
 pyryttää
 pysähdellä
@@ -6403,6 +6419,7 @@ rypistellä
 rypistyä
 ryppyillä
 rypyttää
+rysähdellä
 rysähtää
 rysäyttää
 ryskyä
@@ -7081,6 +7098,7 @@ superkohdata
 superlevitä
 superonnistua
 supersopeutua
+supertavata
 supeta
 supista
 supistaa
@@ -7689,6 +7707,7 @@ töräyttää
 torikohdata
 toritavata
 torjua
+torjuntapelata
 torkahdella
 torkahtaa
 törkeillä
@@ -9028,6 +9047,7 @@ yöpyä
 YouTube-esiintyä
 YouTube-käyttäytyä
 yövalvoa
+yövihkiä
 yritellä
 yrittää
 yrittäjyysosata

@@ -233,6 +233,7 @@ erävalvontaviranomainen
 erikoisäijä
 erikoiskuiva
 erikoiskylmä
+erikoismatala
 erikoispitkä
 erikoissuuri
 erikoisvieras
@@ -682,6 +683,7 @@ kilpailukeskeinen
 kilpailunomainen
 kilpailupoliittinen
 kilpailuviranomainen
+kilpilahtelainen
 kiltti
 kipeä
 kirjava
@@ -981,6 +983,7 @@ miesmallinen
 miessukulainen
 minäkeskeinen
 minimipalkkalainen
+MM-aituri
 MM-kulta
 MM-lohkovihollinen
 MM-pitkä
@@ -1439,6 +1442,7 @@ ruotsalainen
 ruotsalaisaatelinen
 ruotsalaisaituri
 ruotsalais-brittiläinen
+ruotsalaishirmu
 ruotsalaisnuori
 ruotsalaisrakas
 ruotsalaisrikollinen
@@ -1483,6 +1487,7 @@ saksalais-brittiläinen
 saksalaishirmu
 saksalaisnuori
 saksalais-suomalainen
+saksalaissuomalainen
 saksalais-venäläinen
 saksalaisvieras
 saksalaisviranomainen
@@ -1845,6 +1850,7 @@ torkku
 tornimallinen
 tosi
 tosiäijä
+tosi-TV-hömppä
 tosi-TV-rakas
 toteutusmallinen
 totuudenmukainen
@@ -2024,6 +2030,7 @@ vääränmallinen
 väärännäköinen
 väärti
 väärtti
+vaasalaisnuori
 vaatimustenmukainen
 väestönsuojeluviranomainen
 väestöpoliittinen

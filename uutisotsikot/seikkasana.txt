@@ -233,6 +233,7 @@ jamassa
 jaostoittain
 japanilaisittain
 järin
+järjesteillä
 jäsenmaittain
 jätesäkeittäin
 jenkkiläisittäin
