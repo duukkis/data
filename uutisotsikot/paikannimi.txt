@@ -254,6 +254,7 @@ Emma-Mari
 Emmi-Inkeri
 EM-München
 EM-Ranska
+EM-Riika
 EM-Rooma
 EM-Saksa
 EM-Taipale
@@ -444,6 +445,7 @@ Guinea-Bissau
 Guyana
 Haag
 Haaga
+Haavio-Mannila
 Haifa
 Hailuoto
 Haiti
@@ -500,6 +502,7 @@ Helsinki
 Helsinki-Bangkok
 Helsinki-Dubai
 Helsinki-Dubrovnik
+Helsinki-Kirkkonummi
 Helsinki-Kolari
 Helsinki-Lahti
 Helsinki-Lappeenranta-Helsinki
@@ -653,6 +656,7 @@ Itä-Pakila
 Itä-Pariisi
 Itä-Pasila
 Itä-Pori
+Itä-Porvoo
 Itä-Puola
 Itä-Pyrene
 Itä-Ranska
@@ -2418,6 +2422,7 @@ Vähä-Venäjä
 Vahto
 Vahto-Rusko
 Vahviala
+Vaikko
 Vainikkala
 Väinölä
 Väisälä
@@ -2477,6 +2482,7 @@ Villala
 Ville-Eno
 Villinki
 Vilna
+Vilna-Turku
 Vilppula
 Vimpeli
 Virginia

@@ -254,6 +254,7 @@ Chandler
 Chevalier
 Churberg
 Chydenius
+Cornelius
 Cornwell
 Corti
 Coulthard
@@ -666,6 +667,7 @@ Huhtilainen
 Huhtinen
 Huikuri
 Hujanen
+Hukari
 Hukkanen
 Huldén
 Hulkko
@@ -2511,6 +2513,7 @@ Ukko-Koli
 Ukkola-Paronen
 Ulmanen
 Unelma-Asukas
+Unelma-Autto
 Uosukainen
 Uotila
 Uotinen
@@ -2518,6 +2521,8 @@ Uronen
 Uros-Hallikainen
 Urpilainen
 Ursin
+USA-Riski
+USB-Virta
 Utriainen
 Utrio
 Uusimäki

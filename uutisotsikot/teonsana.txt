@@ -720,6 +720,7 @@ festariesiintyä
 festarikäyttäytyä
 festaripukeutua
 festivaaliesiintyä
+festivaalijohtaa
 festivaaliperua
 festivaaliperuuntua
 fileerata
@@ -1295,6 +1296,7 @@ huhkia
 huhuilla
 huhuta
 huidella
+huijailla
 huijata
 huikaista
 huikata
@@ -3536,6 +3538,7 @@ Lego-robottirakentaa
 lehahtaa
 lehdistötavata
 lehteillä
+lehtipainaa
 leijailla
 leijonakohdata
 leijua
@@ -4646,6 +4649,7 @@ neuvoa
 neuvotella
 neuvotteluosata
 nielaista
+nieleksiä
 nieleskellä
 niellä
 nietostaa
@@ -5309,6 +5313,7 @@ perusvarautua
 peruuntua
 peruutella
 peruuttaa
+pesettää
 peseytyä
 pesiä
 pesiytyä
@@ -6714,6 +6719,7 @@ seurustella
 shokeerata
 shokkiavautua
 shokkiedetä
+shokkikarsiutua
 shokkiloukkaantua
 shokkipudota
 sidosryhmätavata
@@ -7825,6 +7831,7 @@ tummentaa
 tummeta
 tummua
 tunaroida
+tunaroitua
 tungeksia
 tungeskella
 tungetella
@@ -8100,6 +8107,7 @@ urheilla
 urheiluharrastaa
 urheilujohtaa
 urheilukannustaa
+urheilupaikkarakentaa
 urheilurakentaa
 urheiluseuraharrastaa
 urista
@@ -8217,6 +8225,7 @@ vaeltaa
 väenkokoontua
 väentavata
 väestölevitä
+väestönhaihtua
 vähätellä
 väheksyä
 vähentää
@@ -9013,6 +9022,7 @@ yllätysesiintyä
 yllätyskadota
 yllätyslaskeutua
 yllätysluhistua
+yllätysnaida
 yllätyspoistua
 yllätyspudota
 yllätyssulaa

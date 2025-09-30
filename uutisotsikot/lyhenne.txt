@@ -69,6 +69,7 @@ jippo-j
 juhla-DVD
 kaapeli-TV
 kaupunki-TV
+kehä-i
 kg
 kHz
 kJ
@@ -140,6 +141,7 @@ PR
 propaganda-TV
 PS
 puoli-q
+rallicross-MM
 ralli-SM
 rata-SM
 rkl
@@ -179,6 +181,7 @@ toosa-TV
 tosi-TV
 tri
 tshekki-DNA
+turbo-s
 TV
 UKK
 urheilu-TV

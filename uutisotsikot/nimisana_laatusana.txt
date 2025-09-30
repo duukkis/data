@@ -126,6 +126,7 @@ bonusmallinen
 brasilialais-suomalainen
 brasiliansuomalainen
 britanniansuomalainen
+brittiaatelinen
 brittiaikuinen
 brittikilpailuviranomainen
 brittiläinen
@@ -604,6 +605,7 @@ kaukonäköinen
 kaunoinen
 kauppapoliittinen
 kauppaviranomainen
+kaupunkikarjalainen
 kaupunkikeskeinen
 kaupunkilainen
 kaupunkilaisaikuinen
@@ -984,6 +986,7 @@ miessukulainen
 minäkeskeinen
 minimipalkkalainen
 MM-aituri
+MM-hirmu
 MM-kulta
 MM-lohkovihollinen
 MM-pitkä
@@ -1062,6 +1065,7 @@ NHL-tupla
 nigerialaiskulta
 nigerialaisnuori
 nilkkapituinen
+nilsiäläisnuori
 nimenomainen
 nimikkoaikuinen
 niukka
@@ -1182,6 +1186,7 @@ palestiinalaisviranomainen
 paljo
 palkkamallinen
 paloviranomainen
+palvelusvelvollinen
 pandemiankaltainen
 paniikinomainen
 paniikkikohtauksenomainen
@@ -1261,6 +1266,7 @@ piru
 pirulainen
 piruparka
 pisaranmallinen
+pisteytysmallinen
 pistokoeomainen
 pistoolimallinen
 pistoolinmallinen
@@ -1715,6 +1721,7 @@ syvänvihreä
 syyshelle
 syyskylmä
 syyslomalainen
+syysmatti
 syyspimeä
 syyttäjänviranomainen
 syyttäjäviranomainen
@@ -1993,6 +2000,7 @@ upporikas
 urakeskeinen
 urheilijakeskeinen
 urheilupoliittinen
+urheiluvihollinen
 uskalikko
 utelias
 uudenmallinen
@@ -2100,6 +2108,7 @@ vaurastuttava
 vaurastuttu
 vedenjakeluviranomainen
 vedonlyöntirikollinen
+vehkalahtelainen
 vehmas
 veikeä
 vekkuli
@@ -2195,6 +2204,7 @@ Wagner-rikollinen
 Yakuza-rikollinen
 ydinjätevelvollinen
 ydinturvallisuusviranomainen
+ydinvalvontaviranomainen
 ydinvoimaviranomainen
 yhdyntäkeskeinen
 yhdysvaltaisviranomainen
