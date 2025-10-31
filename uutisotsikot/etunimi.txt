@@ -476,6 +476,7 @@ Esa-Veikko
 Esko
 Esko-Juha
 Essi
+Essi-Noora
 Ester
 Esteri
 Eugen
@@ -642,6 +643,7 @@ Iida-Lotta
 Iida-Maria
 Iina
 Iina-Katariina
+Iina-Leena
 Iina-Lotta
 Iina-Reetta
 Iines
@@ -1206,6 +1208,7 @@ Merituuli
 Meri-Tuuli
 Merja
 Merja-Hannele
+Mersu-Kimi
 Mervi
 Mette
 Mette-Marie
@@ -1236,6 +1239,7 @@ Mika-Matti
 Mike
 Mikko
 Mikko-Juha
+Mikko-Matias
 Mikko-Olavi
 Mikko-Pekka
 Mikko-Petteri
@@ -1527,6 +1531,7 @@ Risto
 Risto-Matti
 Risto-Pekka
 Risto-Veikko
+Risto-Veli
 Ritva
 Ritva-Liisa
 Robert
@@ -1688,6 +1693,7 @@ Sulevi
 Suni
 Susan
 Susanna
+Susannah
 Susanne
 Sven
 Sven-Bertil
@@ -1795,6 +1801,7 @@ Tove
 Tracy
 Trump-John
 Tuija
+Tuija-Liisa
 Tuire
 Tuomas
 Tuomo
@@ -1833,6 +1840,7 @@ Unelma-Alan
 Uno
 Untamo
 Unto
+Unto-Olavi
 Uolevi
 Uoti
 Urho

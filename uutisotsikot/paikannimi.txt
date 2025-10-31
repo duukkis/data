@@ -107,6 +107,7 @@ Asikkala
 Aska
 Askainen
 Askola
+Askolan-Pukkila
 Assyria
 Astuvansalmi
 Ateena
@@ -611,6 +612,7 @@ Islamabad
 Island
 Islanti
 Iso-Britannia
+Iso-Kisko
 Iso-Kouvola
 Isokyrö
 Iso-Ylläs

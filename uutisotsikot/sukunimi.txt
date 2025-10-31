@@ -1998,6 +1998,7 @@ Rissanen
 Rista
 Ristolainen
 Ritala
+Ritanen
 Ritola
 Ritvanen
 Roberts
@@ -2470,6 +2471,7 @@ Töyrylä
 Trotski
 Trulli
 Trump
+Trump-Putin
 Trump-Riski
 Tuhkanen
 Tuisku

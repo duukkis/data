@@ -316,6 +316,7 @@ Stockmann
 STT-Reuters
 STT-Yle
 Stuka
+suomalais-Jeesus
 Suomi-Instagram
 Suomi-Lada
 Suomi-Netflix

@@ -1693,6 +1693,8 @@ jäähdyttää
 jäähtyä
 jääkiekko-osata
 jäänmurtaa
+jäänmurtajaosata
+jäänmurtajatavata
 jaaritella
 jääsaunarakentaa
 jäätää
@@ -2296,6 +2298,7 @@ kaunistautua
 kaunistella
 kaunistua
 kaupallistaa
+kaupallistamisosata
 kaupallistua
 kaupata
 kaupitella
@@ -3608,6 +3611,7 @@ leventyä
 levetä
 levitä
 levitellä
+levitoida
 levittää
 levittäytyä
 levittyä
@@ -3658,6 +3662,7 @@ liikehtiä
 liikematkustaa
 liikennekäyttäytyä
 liikennetiedottaa
+liikenneturvallisuusosata
 liikennevakuuttaa
 liikennöidä
 liikennöityä
@@ -4228,6 +4233,7 @@ metsänomistaa
 metsänuudistaa
 metsäosata
 metsästää
+metsästellä
 metsästyskäyttäytyä
 metsittää
 metsittyä
@@ -4291,6 +4297,7 @@ möhliä
 moikata
 moikkailla
 moittia
+mojahtaa
 mojauttaa
 mokailla
 mokata
@@ -5967,6 +5974,7 @@ räkyttää
 rallatella
 rallattaa
 ralliosata
+rallipelata
 rämähtää
 rämettyä
 rämistä
@@ -5989,6 +5997,7 @@ raottaa
 raottua
 rapata
 räpätä
+räpättää
 rapauttaa
 rapautua
 räpäyttää
@@ -6971,6 +6980,7 @@ stabilisoida
 stabilisoitua
 stabiloida
 stabiloitua
+stadionrakentaa
 standardoida
 standardoitua
 startata
@@ -7407,6 +7417,7 @@ tasavertaistaa
 tasavertaistua
 taskuparkkeerata
 täsmäkouluttaa
+täsmäosata
 täsmätä
 täsmäyttää
 täsmennellä
@@ -7479,6 +7490,7 @@ teknologiaosata
 teknologiatavata
 tekoälykuvata
 tekoälyosata
+tekoälypelata
 tekohengittää
 tekonurmipelata
 tekopöyristyä
@@ -7750,6 +7762,7 @@ touhottaa
 touhuilla
 touhuta
 töytäistä
+traktorikyntää
 traumaosata
 traumatisoida
 traumatisoitua
@@ -7821,6 +7834,7 @@ tulli-ilmoittaa
 tulliselvittää
 tulonhankkia
 tulonjakautua
+tulosohjeistaa
 tulostaa
 tulostua
 tulouttaa
@@ -7847,6 +7861,7 @@ tunnelmoida
 tunnesyödä
 tunnistaa
 tunnistautua
+tunnistusosata
 tunnustaa
 tunnustautua
 tunnustella
@@ -8090,6 +8105,7 @@ uneksia
 unelmakohdata
 unelmoida
 unettaa
+Unkarin-tavata
 Unkari-tavata
 unohdella
 unohtaa
@@ -8432,6 +8448,7 @@ varjella
 varjeltua
 varjoliitää
 varjostaa
+varjostua
 värjötellä
 värkätä
 varmentaa
@@ -8562,6 +8579,7 @@ verkkokiusata
 verkkokuulla
 verkkomaksaa
 verkko-ostaa
+verkkopankkimaksaa
 verkkopankkitunnistautua
 verkkopelata
 verkkorahapelata
@@ -8879,6 +8897,7 @@ vyöryttää
 vyöttää
 WC-säästää
 WhatsApp-soittaa
+XI-tavata
 ydinaseistaa
 ydinaseosata
 ydinosata

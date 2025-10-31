@@ -18,6 +18,7 @@ afganistanilaissiviili
 afganistanilaisviranomainen
 afrikkalaisrakas
 afrosuomalainen
+ahdasnäköinen
 ahmatti
 äidinkielenomainen
 aidonkaltainen
@@ -82,6 +83,7 @@ arjalainen
 arkkitehtuuripoliittinen
 arkkivihollinen
 armas
+armonanomusta
 arrogantti
 arvonlisäverovelvollinen
 arvopaperimarkkinaviranomainen
@@ -195,6 +197,7 @@ elsalvadorilainen
 EM-kulta
 EM-kulta-aituri
 EM-loisto
+EM-tupla
 energialäheinen
 energiapoliittinen
 energiaviranomainen
@@ -296,6 +299,8 @@ flunssankaltainen
 formaali
 forssalaisnuori
 freudilais-marksilainen
+gazalaisnuori
+gazalaissiviili
 geopoliittinen
 gnostilainen
 goottilainen
@@ -371,6 +376,7 @@ hölö
 hömppä
 honkkeli
 höntti
+hoopo
 höperö
 höppänä
 höpsö
@@ -803,6 +809,7 @@ kylmänviileä
 kylmäviileä
 kyömy
 kypsä
+kyyhkyläinen
 lääkepoliittinen
 lääketarkastusviranomainen
 lääketurvallisuusviranomainen
@@ -979,6 +986,7 @@ metsäsaamelainen
 metsäsuomalainen
 miehenkorkuinen
 mieleinen
+mielenterveysläheinen
 mielenterveysomainen
 mieskeskeinen
 miesmallinen
@@ -1028,6 +1036,7 @@ mustasaarelainen
 mustavalkea
 muunmaalainen
 mykkä
+mynämäkeläisnuori
 myöhä
 myöhäisherännäinen
 mysteerinomainen
@@ -1040,6 +1049,7 @@ nami
 namibialaisnuori
 naminami
 Nato-lainen
+Nato-mallinen
 natsirikollinen
 naurulainen
 neandertalilainen
@@ -1660,6 +1670,7 @@ suomenruotsalainen
 suomenvenäläinen
 suora
 suorituskeskeinen
+suosikkikielimallinen
 suosikkimallinen
 suosikkisukulainen
 superäijä
@@ -1718,6 +1729,7 @@ sysioikeistolainen
 syvä
 syväkylmä
 syvänvihreä
+syyshämärä
 syyshelle
 syyskylmä
 syyslomalainen
@@ -1792,6 +1804,7 @@ teemasuomalainen
 teerijärveläinen
 tehtäväkeskeinen
 teinimallinen
+teinirikollinen
 teknologiakeskeinen
 tekotakamusta
 tekovelvollinen
@@ -1929,6 +1942,7 @@ työnomainen
 työsuhdeviranomainen
 työsuojeluviranomainen
 työttömyysturvamallinen
+työttömyysviranomainen
 työvelvollinen
 työviranomainen
 työvoimamallinen
@@ -1967,6 +1981,7 @@ ulkosuomalainen
 ulkovenäläinen
 ulosottoviranomainen
 ultrakylmä
+ultraliberaali
 ultramatala
 ultraortodoksijuutalainen
 ultrapehmeä
@@ -2039,6 +2054,7 @@ väärännäköinen
 väärti
 väärtti
 vaasalaisnuori
+vaasalaisvieras
 vaatimustenmukainen
 väestönsuojeluviranomainen
 väestöpoliittinen

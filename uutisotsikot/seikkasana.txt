@@ -492,6 +492,7 @@ minnepäin
 minuuteittain
 missäpäin
 miten
+mobiilitie
 moderato
 moksis
 moni
@@ -774,6 +775,7 @@ sukupuolittain
 summamutikassa
 summanmutikassa
 summittain
+sunnuntai-iltapäivisin
 sunnuntaisin
 suomalaisittain
 suotta
