@@ -194,6 +194,7 @@ Burundi
 Bysantti
 Calgary
 California
+Calla
 Cambridge
 Canberra
 Cannes
@@ -749,6 +750,7 @@ Jyväskylä
 Jyväskylä-Helsinki
 Jyväskylä-Kemi
 Jyväskylän-Muurame
+Jyväskylä-Pieksämäki
 Jyväskylä-Tampere
 Kaaba
 Kaakkois-Aasia
@@ -1269,6 +1271,7 @@ Liechtenstein
 Lieksa
 Lieksa-Nurmes
 Lielahti
+Lielahti-Ylöjärvi
 Lieto
 Lievestuore
 Liinahamari
@@ -1313,6 +1316,7 @@ Lounais-Kolumbia
 Lounais-Lappi
 Lounais-Lontoo
 Lounais-Meksiko
+Lounais-Sipoo
 Lounais-Yunnan
 Lounas-Ranska
 Lounas-Suomi
@@ -1954,6 +1958,7 @@ Riihimäki-Helsinki
 Riihimäki-Herrala
 Riika
 Riika-Helsinki
+Riika-Mari
 Riikka-Mari
 Riina-Mari
 Rinteelä
@@ -2163,6 +2168,7 @@ Suomi-Islanti
 Suomi-Japani
 Suomi-Latvia
 Suomi-Montenegro
+Suomi-Norja
 Suomi-Puola
 Suomi-Ranska
 Suomi-Romania

@@ -549,6 +549,7 @@ jyrkkä
 jyväskyläläisnuori
 kaakkois-norja
 kaakkoissuomalainen
+kaappikepulainen
 kade
 kähärä
 kaheli
@@ -675,6 +676,7 @@ kiekkoeläkeläinen
 kielimallinen
 kielipoliittinen
 kielisukulainen
+kielivihollinen
 kihara
 kiinalais-australialais-brittiläinen
 kiinalaisnuori
@@ -1187,6 +1189,7 @@ painokeskeinen
 päivänpoliittinen
 pakettiautomallinen
 pakonomainen
+pakoteviranomainen
 paksu
 paksukainen
 palestiinalaisnuori

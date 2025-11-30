@@ -3995,6 +3995,7 @@ maadoittaa
 maailmanparantaa
 maajoukkuekohdata
 maajoukkuevalmentaa
+maajoukkuevetäytyä
 määkiä
 maakunnallistaa
 määkyä
@@ -5071,6 +5072,7 @@ pakkolaskeutua
 pakkolomauttaa
 pakkolunastaa
 pakkonaittaa
+pakko-onnistua
 pakko-ottaa
 pakkopalauttaa
 pakkopilkkoa
@@ -5294,6 +5296,7 @@ perinneosata
 perinnerakentaa
 periyttää
 periytyä
+perjantaivihkiä
 personoida
 personoitua
 perua
@@ -5359,6 +5362,7 @@ pierettää
 pierrä
 piestä
 pietä
+pihahtaa
 pihapelata
 piharakentaa
 pihdata
@@ -6048,6 +6052,7 @@ rasvoittua
 ratarakentaa
 ratifioida
 ratikkamatkata
+ratikkarakentaa
 rationaalistaa
 rationalisoida
 ratista
@@ -7134,6 +7139,7 @@ surmata
 surra
 surrata
 suruliputtaa
+suruviedä
 survaista
 survoa
 susijengikohdata
@@ -7263,6 +7269,8 @@ tähystellä
 tähytä
 taidejohtaa
 taidesijoittaa
+taidetanssia
+taikinoida
 taikoa
 tainnuttaa
 taintua
@@ -8931,6 +8939,7 @@ yhteisöasua
 yhteisökuulla
 yhteisrakentaa
 yhteistavata
+yhteistyökohdata
 yhteistyöpelata
 yhtenäistää
 yhtenäistyä
@@ -8963,6 +8972,7 @@ Yle-esiintyä
 yleisjuosta
 yleisöesiintyä
 yleisökokoontua
+yleisötavata
 yleistää
 yleistajuistaa
 yleistyä

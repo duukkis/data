@@ -58,6 +58,7 @@ Dallas-Mersu
 Daniel-San
 Dei
 dieetti-Coca-Cola
+diesel-Audi
 diesel-Mersu
 diesel-Volvo
 Dionysos
@@ -67,6 +68,7 @@ El
 e-Mersu
 EM-Maa
 Englannin-Maa
+Erikeeper
 erikois-Halloween
 erikois-Oscar
 Esso
@@ -243,6 +245,7 @@ Peugeot
 pikku-Finlandia
 pikku-Mersu
 pikku-Volvo
+piraatti-Windows
 pistoke-Volvo
 Pluto
 podcast-Puh
@@ -277,6 +280,7 @@ sähkö-Audi
 sähkö-Ford
 sähkö-Hyundai
 sähkö-Mersu
+sähkö-Mitsubishi
 sähkö-Porsche
 sähkö-Volvo
 Saint
@@ -285,6 +289,7 @@ Samsung
 San
 sarjakuva-Finlandia
 sarjatuotanto-Peugeot
+sarjatuotanto-Porsche
 satelliitti-Internet
 Saturnus
 Sauber
@@ -327,6 +332,7 @@ suosikki-Volvo
 super-Maa
 super-Mersu
 Supo
+syöttöporsas-Yle
 taksi-Mersu
 Tamiflu
 Tarzan

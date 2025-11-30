@@ -7,6 +7,7 @@ ab
 ABC
 ADD
 ADHD
+ADSL
 AIDS
 äijä-TV
 alfa-TV
@@ -70,6 +71,7 @@ juhla-DVD
 kaapeli-TV
 kaupunki-TV
 kehä-i
+kesä-SM
 kg
 kHz
 kJ

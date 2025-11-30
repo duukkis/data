@@ -9,6 +9,7 @@ Aapala
 Aapo-Koiranen
 Aarnio
 Aarnio-Haavisto
+Aaron-Taylor
 Aatamila
 Abbey
 Abdulla
@@ -95,6 +96,7 @@ Angelos
 Angerkoski
 Annala
 Annemari
+Anne-Mari-Ollikainen
 Antikainen
 Antila
 Antila-Andersson
@@ -146,6 +148,7 @@ Aunio
 Auranen
 Auravuo
 Autio
+Autio-Keränen
 Autto
 Auvinen
 Axelsson
@@ -1402,6 +1405,7 @@ Mäntylä
 Mäntynen
 Mäntysaari
 Mao
+Mario-Linna
 Marja-Aho
 Marjanen
 Markkanen
@@ -2340,6 +2344,7 @@ Sutinen
 Suuronen
 Suutela
 Suvivuo
+Svanljung
 Svensson
 Svinhufvud
 Swift
