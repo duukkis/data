@@ -616,6 +616,7 @@ Iso-Britannia
 Iso-Kisko
 Iso-Kouvola
 Isokyrö
+Iso-Puolala
 Iso-Ylläs
 Israel
 Israelin-Iran
@@ -678,6 +679,7 @@ Itä-Tampere
 Itä-Timor
 Itä-Turkmenistan
 Itä-Turku
+Itä-Tyynimeri
 Itä-Ukraina
 Itä-Unkari
 Itä-Ural
@@ -814,6 +816,7 @@ Kamppi
 Kamputsea
 Kanada
 Kanada-Kazakstan
+Kanada-Koitto
 Kanada-Suomi
 Kanaria
 Kangasala
@@ -1690,6 +1693,7 @@ Parainen
 Pariisi
 Pariisi-Moskova
 Parikkala
+Parikkalan-Rautjärvi
 Parkano
 Parkano-Tampere
 Pärnävaara
@@ -2195,6 +2199,7 @@ Suur-Hollola
 Suur-Jyväskylä
 Suur-Kairo
 Suur-Keuruu
+Suur-Kouvola
 Suur-Lontoo
 Suur-Manchester
 Suur-Miami

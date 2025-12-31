@@ -964,6 +964,7 @@ Kemppainen
 Kemppanen
 Kemppinen
 Kennedy
+Kennedy-Trump
 Kepler
 Keränen
 Kerkkänen
@@ -2476,6 +2477,7 @@ Töyrylä
 Trotski
 Trulli
 Trump
+Trump-Kennedy
 Trump-Putin
 Trump-Riski
 Tuhkanen
@@ -2495,6 +2497,7 @@ Tuononen
 Tuovila
 Tuovinen
 Tuppurainen
+Turakainen
 Turkia
 Turpeinen
 Turtiainen

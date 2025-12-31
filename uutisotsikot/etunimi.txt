@@ -98,6 +98,7 @@ Amalia
 Amanda
 Amelia
 Amis-Miika
+ämpäri-Antti
 Anastas
 Anastasia
 Anastasio
@@ -621,6 +622,7 @@ Hilja
 Hille
 Hillevi
 Hilma
+Hilma-Liina
 Hilppa
 Hjalmar
 Hjalmar-Veli
@@ -749,6 +751,7 @@ Janne-Olli
 Janne-Pekka
 Janne-Veli
 Jannika
+Jan-Olavi
 Jan-Olof
 Janos
 János
@@ -1593,6 +1596,7 @@ Samuel
 Samu-Jussi
 Samuli
 Samu-Petteri
+Samu-Sirkka
 Sanda
 Sandra
 Sanelma

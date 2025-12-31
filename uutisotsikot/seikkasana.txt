@@ -151,6 +151,7 @@ hetimmiten
 hetkittäin
 hevillä
 hevin
+hevoskuormittain
 hieman
 hienokseltaan
 hiirenhiljaa
@@ -456,6 +457,7 @@ luo
 luokittain
 luokse
 luterilaisittain
+luumäkeläisittäin
 lysyssä
 lytyssä
 maa

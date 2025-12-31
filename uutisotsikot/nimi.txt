@@ -139,6 +139,7 @@ Kansallis-Osake-Pankki
 Kanteletar
 Karisto
 käyttötesti-Hyundai
+käyttötesti-Mersu
 Kemira
 Kerberos
 keski-Maa
@@ -366,6 +367,7 @@ Urantia
 Uranus
 Ursa
 Uspenski
+vaihtoauto-Audi
 Väinämö
 Väinämöinen
 Valmet

@@ -680,6 +680,7 @@ kielivihollinen
 kihara
 kiinalais-australialais-brittiläinen
 kiinalaisnuori
+kiinalaisrikas
 kiinalais-suomalainen
 kiinalaistulokas
 kiinalaisvieras
@@ -722,6 +723,7 @@ komea
 komeannäköinen
 konemallinen
 konkreetti
+konkurssirikollinen
 konservatiivis-äärioikeistolainen
 konsolimallinen
 konstantti
@@ -730,6 +732,7 @@ korinttilainen
 korkea
 korkuinen
 koronankaltainen
+korruptioviranomainen
 körttiläinen
 korvausvelvollinen
 kosovolaisnuori
@@ -1188,6 +1191,7 @@ paikallisviranomainen
 painokeskeinen
 päivänpoliittinen
 pakettiautomallinen
+pakkomallinen
 pakonomainen
 pakoteviranomainen
 paksu
@@ -1438,6 +1442,7 @@ revolverimallinen
 rietas
 rikas
 rikollinen
+rikollisnuori
 rikostutkintaviranomainen
 risa
 riskialtis
