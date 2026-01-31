@@ -1096,6 +1096,7 @@ Kristiansson
 Kröger
 Krogerus
 Krohn
+Kronholm
 Krook
 Kuhanen
 Kuhmonen
@@ -2129,6 +2130,7 @@ Sandström-Hovi
 Santala
 Santanen
 Sappinen
+Sara-Aho
 Sarajuuri
 Sara-Koiranen
 Sarapää

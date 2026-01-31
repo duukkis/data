@@ -134,6 +134,7 @@ Anna-Maaria
 Anna-Maija
 Annamari
 Anna-Maria
+Anna-Pyry
 Anna-Reeta
 Anna-Reetta
 Anna-Riikka
@@ -633,6 +634,7 @@ Hulda
 Ibrahim
 Ida
 Ida-Elina
+Ida-Kaisa
 Ida-Liina
 Ida-Lotta
 Ida-Sofia
@@ -929,6 +931,7 @@ Kalle-Antti
 Kalle-Kustaa
 Kalle-Pekka
 Kalle-Tapio
+Kalle-Veikko
 Kangas-Pirkka
 Kari-Matti
 Karin
@@ -1255,6 +1258,7 @@ Milja
 Milja-Maaria
 Milka
 Milla
+Milla-Maaria
 Milla-Sofia
 Mimmi
 Mimosa

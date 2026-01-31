@@ -120,6 +120,7 @@ Aulanko
 Aunus
 Aura
 Aurajoki
+Auran-Paimio
 Auschwitz
 Australia
 Äyräpää
@@ -228,6 +229,7 @@ Dominikaaninen
 Dragsfjärd
 Dresden
 Dubai
+Dubai-Helsinki
 Dublin
 Dubrovnik
 Durban
@@ -1357,6 +1359,7 @@ Maalahti
 Maaninka
 Maaninkavaara
 Määri
+Maaria-Ilmarinen
 Maarianhamina
 Maastricht
 Macao
@@ -1708,6 +1711,7 @@ Pattijoki
 Pedersöre
 Peipsijärvi
 Peking
+Peking-Helsinki
 Pekkanen-Mattila
 Pelkosenniemen-Savukoski
 Pellinki
@@ -2192,6 +2196,7 @@ Suonenjoki
 Suorlahti
 Surinam
 Suriname
+Suur-Amerikka
 Suur-Barcelona
 Suur-Göteborg
 Suur-Helsinki

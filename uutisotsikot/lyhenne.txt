@@ -65,6 +65,7 @@ iso-d
 iso-g
 IT
 jäärata-SM
+jäljitelmä-YK
 jätti-TV
 jippo-j
 juhla-DVD

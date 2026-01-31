@@ -350,6 +350,7 @@ automatisoida
 automatisoitua
 auttaa
 availla
+avajaisesiintyä
 avartaa
 avartua
 avaruusrakentaa
@@ -866,6 +867,7 @@ haltioitua
 haluta
 halvaannuttaa
 halvaantua
+halvauttaa
 halvautua
 halveerata
 halveksia
@@ -886,6 +888,7 @@ hämätä
 hämmästellä
 hämmästyä
 hämmästyttää
+hämmennellä
 hämmentää
 hämmentyä
 hamstrata
@@ -1865,6 +1868,7 @@ joukkonälkiintyä
 joukkorantautua
 joukkorokottaa
 joukkosairastua
+joukkosurmata
 joukkotallautua
 joukkotavata
 joukkotestata
@@ -2545,6 +2549,7 @@ kiillottua
 kiiltää
 kiilua
 kiinalaistaa
+Kiinan-tavata
 kiinnijäädä
 kiinnijäätyä
 kiinniottaa
@@ -2750,6 +2755,7 @@ kohotella
 kohottaa
 kohtuullistaa
 kohtuullistua
+kohuampua
 kohuhermostua
 kohukadota
 kohupettää
@@ -3213,6 +3219,7 @@ kutsua
 kutsuttaa
 kuukahtaa
 kuukausisäästää
+kuukausisijoittaa
 kuulaskeutua
 kuulla
 kuullottaa
@@ -4002,6 +4009,7 @@ maajoukkuevalmentaa
 maajoukkuevetäytyä
 määkiä
 maakunnallistaa
+maakuntakehittää
 määkyä
 maalailla
 maalata
@@ -5400,6 +5408,7 @@ piirrellä
 piirtää
 piirtyä
 piisata
+piiskailla
 piiskata
 piitata
 pika-aloittaa
@@ -5581,6 +5590,7 @@ ponnahtaa
 ponnistaa
 ponnistella
 pontata
+pop-osata
 popsia
 popularisoida
 popularisoitua
@@ -6025,6 +6035,7 @@ rappeuttaa
 rappeutua
 rappioittaa
 rappioitua
+rappuampua
 rappukäytäväampua
 rapsahdella
 räpsähdellä
@@ -6663,6 +6674,7 @@ savuta
 savutella
 savuttaa
 sävyttää
+seeprajuoda
 seestyä
 seikkailla
 seilailla
@@ -7162,6 +7174,7 @@ suukotella
 suukottaa
 suunnata
 suunnistaa
+suunnistusosata
 suunnitella
 suunnitteluosata
 suuntautua
@@ -7498,6 +7511,7 @@ tehotestata
 tehtailla
 teilata
 teipata
+teippailla
 teititellä
 tekaista
 tekeytyä
@@ -8556,6 +8570,7 @@ velkoa
 velloa
 velmuilla
 veloittaa
+velttoilla
 velvoitetyöllistää
 velvoittaa
 venähtää
@@ -8848,6 +8863,7 @@ viskautua
 viskellä
 viskinvalmistaa
 viskoa
+vislailla
 vislata
 vispata
 visualisoida
@@ -8914,6 +8930,7 @@ vyöryttää
 vyöttää
 WC-säästää
 WhatsApp-soittaa
+WHO-vetäytyä
 Wilma-irtisanoa
 XI-tavata
 ydinaseistaa
@@ -9058,6 +9075,7 @@ ylläpitoladata
 yllätellä
 yllättää
 yllättyä
+yllätyserottaa
 yllätysesiintyä
 yllätyskadota
 yllätyslaskeutua

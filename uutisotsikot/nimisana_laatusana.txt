@@ -78,6 +78,7 @@ antidopingviranomainen
 antiseptinen
 a-nuori
 apea
+apurahamallinen
 apurahasuomalainen
 arjalainen
 arkkitehtuuripoliittinen
@@ -497,6 +498,7 @@ italialaisnuori
 italialaisrakas
 italialais-ruotsalainen
 italialais-suomalainen
+italialaissuomalainen
 italialais-venäläinen
 italialaisviranomainen
 itämerensuomalainen
@@ -537,6 +539,7 @@ jörö
 joululomalainen
 joutilas
 j-poppa
+juhlamallinen
 julmannäköinen
 juniorikuorolainen
 juoni
@@ -597,6 +600,7 @@ kartellinomainen
 kartelliviranomainen
 kartiomallinen
 karunharmaa
+karvalakkimallinen
 käskyläinen
 kasvinterveysviranomainen
 katastrofiviranomainen
@@ -702,6 +706,7 @@ kirkkaanvihreä
 kirkkonummelaisnuori
 kisamallinen
 kitaramallinen
+kiväärimallinen
 kivannäköinen
 kivenlahtelainen
 kivikko
@@ -1279,6 +1284,7 @@ pikkuvieras
 pilkkopimeä
 pilottimallinen
 pimeä
+pirkanmaalaisnuori
 piru
 pirulainen
 piruparka
@@ -1356,6 +1362,7 @@ puolinaku
 puolinormaali
 puoliorpo
 puolipitkä
+puolipuhdas
 puoliraaka
 puoliruotsalainen
 puolisokea
@@ -1404,6 +1411,7 @@ rakas
 rakenneilmainen
 rakennusvalvontaviranomainen
 rakennusviranomainen
+rallieläkeläinen
 rämä
 rämäkkä
 rampa

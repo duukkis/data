@@ -109,6 +109,7 @@ Hesari
 Hesburger
 Homeros
 huippu-Samsung
+huume-Alko
 hybridi-Audi
 hybridi-Porsche
 hybridi-Toyota
@@ -354,11 +355,13 @@ Toyota
 traileri-Saab
 Trump-Puh
 Tuonela
+tuonti-Saab
 tuotanto-Audi
 TV-Aurinko
 Twitter
 työmarkkina-Aurinko
 työsuhde-Audi
+Ukko-Jumala
 ukraina-Puh
 Unesco
 UNICEF
@@ -374,11 +377,13 @@ Valmet
 Valpo
 Vampire
 van
+Vantaa-Puh
 varjo-Facebook
 vasta-Aurinko
 Vellamo
 venäjä-Puh
 Venus
+veteraani-Ford
 Vietkong
 Volkswagen
 Volvo
