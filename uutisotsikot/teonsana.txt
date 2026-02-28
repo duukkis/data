@@ -378,6 +378,7 @@ beetatestata
 betonirakentaa
 betonitalorakentaa
 betonoida
+betonoitua
 biisinkirjoittaa
 bikinipukeutua
 bingota
@@ -798,6 +799,7 @@ haaveksia
 haavoittaa
 haavoittua
 haeskella
+haettaa
 hahmotella
 hahmottaa
 hahmottua
@@ -1187,6 +1189,7 @@ hipsiä
 hipsutella
 hipsuttaa
 hirmustua
+hirmuvenyä
 hirnahdella
 hirnahtaa
 hirnua
@@ -1669,6 +1672,7 @@ istuutua
 itää
 itälaajentua
 itälaajeta
+italialaisonnistua
 IT-johtaa
 itkeä
 itkeskellä
@@ -2049,6 +2053,7 @@ kaivattaa
 kaivauttaa
 kaivautua
 kaivella
+kaiverrella
 kaiverruttaa
 kaivertaa
 kaivososata
@@ -2352,6 +2357,7 @@ kehua
 kehuskella
 kehystää
 keihästää
+keikahdella
 keikahtaa
 keikaroida
 keikauttaa
@@ -2693,6 +2699,7 @@ kitkutella
 kitkuttaa
 kitsastella
 kitua
+kituutella
 kituuttaa
 kiukkuilla
 kiukustua
@@ -3348,6 +3355,7 @@ lähetä
 lähetellä
 lähettää
 lähialtistua
+lähiasua
 lähijakaa
 lähijohtaa
 lähikohdata
@@ -4642,6 +4650,7 @@ näytöslentää
 näyttää
 näyttäytyä
 näytteenottaa
+näyttöosata
 nelinkertaistaa
 nelinkertaistua
 neliöidä
@@ -4875,8 +4884,10 @@ olettaa
 öljytä
 olla
 olopaastota
+olympiakohdata
 olympiakokoontua
 olympiaosallistua
+olympiavalmistautua
 olympiavetäytyä
 omakotiasua
 omakotirakentaa
@@ -4931,6 +4942,7 @@ orjuuttaa
 orkesterisoittaa
 orkestroida
 osa-aikaistaa
+osakeomistaa
 osakepalkita
 osakesäästää
 osakesijoittaa
@@ -5254,6 +5266,7 @@ pelaajakehittää
 pelailla
 pelastaa
 pelastautua
+pelastella
 pelastua
 pelästyä
 pelästyttää
@@ -5582,6 +5595,7 @@ pompata
 pompauttaa
 pompotella
 pompottaa
+pomppailla
 pomppia
 ponkaista
 pönkittää
@@ -6847,6 +6861,7 @@ sirklata
 sirkutella
 sirkuttaa
 siroilla
+sirota
 sirotella
 sirottaa
 sirpaloitua
@@ -6927,6 +6942,7 @@ soluttautua
 solvata
 someavautua
 some-esiintyä
+somejulistaa
 somekäyttäytyä
 somekiusata
 somekytätä
@@ -6974,6 +6990,7 @@ sössöttää
 sotahämätä
 sotakuvata
 sotalentää
+sotapelata
 sotata
 sotavarautua
 sote-osata
@@ -7113,6 +7130,7 @@ suomalaisosata
 suomalaistaa
 suomalaistavata
 suomalaistua
+suomalaisvenyä
 Suomen-esiintyä
 suomentaa
 suomentua
@@ -7356,6 +7374,7 @@ talutella
 taluttaa
 talvehtia
 talviasua
+talvikokoontua
 talvilaiduntaa
 talvilatautua
 talviliikkua
@@ -7540,6 +7559,7 @@ teljetä
 telmiä
 teloa
 teloittaa
+teloitusampua
 teloituttaa
 teltta-asua
 telttailla
@@ -8046,6 +8066,7 @@ työsuojelurikkoa
 työtavata
 työuupua
 typerryttää
+typertyä
 typistää
 typistyä
 typpilannoittaa
@@ -8580,6 +8601,7 @@ Venäjä-tavata
 venäläistää
 venäläistyä
 venäyttää
+veneampua
 veneillä
 veneyöpyä
 venkoilla

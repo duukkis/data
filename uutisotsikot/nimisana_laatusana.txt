@@ -302,6 +302,7 @@ forssalaisnuori
 freudilais-marksilainen
 gazalaisnuori
 gazalaissiviili
+gazalaisviranomainen
 geopoliittinen
 gnostilainen
 goottilainen
@@ -490,6 +491,7 @@ isotoope
 isovenäläinen
 israelilaissiviili
 israelilaisvieras
+israelilaisviranomainen
 itäfriisiläinen
 itähelsinkiläisnuori
 itäkarjalainen
@@ -516,8 +518,10 @@ jälkimmäinen
 jalo
 jamaikalaisaituri
 japanilaisnuori
+japanilais-suomalainen
 japanilaistulokas
 japanilais-venäläinen
+järeännäköinen
 järveläinen
 jätehuoltoviranomainen
 jätepoliittinen
@@ -764,6 +768,7 @@ köyhä
 köyry
 k-poppa
 kreikansuomalainen
+kreikkalaishirmu
 kreikkalaiskatolilainen
 kreikkalaiskatolinen
 kriminaalipoliittinen
@@ -1147,6 +1152,7 @@ oireenmukainen
 olympiakulta
 olympialoisto
 olympiatulokas
+olympiatupla
 olympiavieras
 oma
 omainen
@@ -1513,6 +1519,7 @@ sähkömarkkinamallinen
 säikky
 sairas
 sairaslomalainen
+sairastupalainen
 sairauslomalainen
 saita
 saksalais-brittiläinen

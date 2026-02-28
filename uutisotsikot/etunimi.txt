@@ -53,6 +53,7 @@ Aino-Maija
 Aino-Sofia
 Aira
 Airi
+Aivi
 Åke
 Aki
 Aki-Mauri
@@ -377,6 +378,7 @@ Eeva-Leena
 Eeva-Liina
 Eeva-Liisa
 Eeva-Maarit
+Eeva-Maija
 Eeva-Marja
 Eeva-Riitta
 Eeva-Stiina
@@ -781,6 +783,7 @@ Jasper
 Jasperi
 Jatta
 Jean
+Jean-Charles
 Jean-Daniel
 Jean-Gabriel
 Jean-Jacques
@@ -924,6 +927,7 @@ Kaisu
 Kaj
 Kaj-Axel
 Kaj-Gustaf
+Kaj-Kevin
 Kalervo
 Kalevi
 Kalle
@@ -938,6 +942,7 @@ Karin
 Kari-Pekka
 Karita
 Karl
+Karl-Anthony
 Karl-Erik
 Karl-Petter
 Karoliina
@@ -1009,6 +1014,7 @@ Kylli
 Kyllikki
 Kyllönen-Katri
 Kyösti
+Lada-Jussi
 Laila
 Lalli
 Lari-Pekka
@@ -1030,6 +1036,7 @@ Laura-Liisa
 Laura-Maija
 Laura-Tuuli
 Lauri
+Lauri-Eemil
 Lawrence
 Lea
 Leander
@@ -1219,6 +1226,7 @@ Merja-Hannele
 Mersu-Kimi
 Mervi
 Mette
+Mette-Maarit
 Mette-Marie
 Mia
 Mia-Riitta
@@ -1686,6 +1694,7 @@ Sokrates
 Solja
 Solveig
 Sonja
+Sonja-Elina
 Stanislaw
 Stavros
 Stefan
@@ -1727,6 +1736,7 @@ Taimi-Alan
 Taimi-Tapio
 Taina
 Taisto
+Taisto-Bertil
 Talvikki
 Tamara
 Taneli

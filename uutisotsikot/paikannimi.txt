@@ -903,6 +903,7 @@ Kempele
 Kenia
 Kentucky
 Kerava
+Kerava-Sipoo
 Kerimäki
 Kesälahti
 Keski-Aasia
@@ -1087,6 +1088,7 @@ Kotka-Pyhtää
 Kotkatjärvi
 Kouvola
 Kouvola-Joensuu
+Kouvola-Kuopio
 Kouvola-Sotkamo
 Köyliö
 Köyliön-Säkylä
@@ -1516,6 +1518,7 @@ Multala
 Multia
 Mumbai
 München
+München-Ivalo
 München-Kiova
 Muolaa
 Muonio
@@ -2318,6 +2321,7 @@ Tokelau
 Tokio
 Tonava
 Tonga
+Tonkininlahti
 Töölö
 Torino
 Torkkeli-Lahti

@@ -54,6 +54,7 @@ halli-SM
 Hämeenlinna-LP
 hepatiitti-c
 HIV
+hra
 HTML
 Hz
 IMF
