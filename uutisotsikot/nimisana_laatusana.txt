@@ -20,6 +20,7 @@ afrikkalaisrakas
 afrosuomalainen
 ahdasnäköinen
 ahmatti
+ahvenmaalainen
 äidinkielenomainen
 aidonkaltainen
 aidonnäköinen
@@ -879,6 +880,7 @@ lauha
 lautasmallinen
 lauttasaarelainen
 legioonalainen
+lehtisaarelainen
 leikinomainen
 leikkovihreä
 lemmikkikarkulainen
@@ -948,6 +950,7 @@ maanläheinen
 maapallokeskeinen
 maapoliittinen
 maaseutuelinkeinoviranomainen
+maaseutupoliittinen
 maaseutuviranomainen
 maastomallinen
 maatalouspoliittinen
@@ -993,6 +996,7 @@ megatakamusta
 mekkomallinen
 meksikolaisviranomainen
 merenkulkuviranomainen
+merenlahtelainen
 meripelastusviranomainen
 mestaririkollinen
 metsäläinen
@@ -1321,6 +1325,7 @@ pohjoisruotsalainen
 pohjoissuomalainen
 pohjois-venäläinen
 pöhkö
+pöhlö
 pökkelö
 poliisiviranomainen
 poliittinen
@@ -1948,6 +1953,7 @@ tutuntuttu
 tuusulalaisnuori
 TV-kiire
 TV-spesiaali
+TV-tuttu
 tyhjä
 tyhmä
 tyhmänrohkea

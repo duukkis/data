@@ -141,6 +141,7 @@ Kanteletar
 Karisto
 käyttötesti-Hyundai
 käyttötesti-Mersu
+käyttötesti-Toyota
 Kemira
 Kerberos
 keski-Maa
@@ -196,6 +197,7 @@ mini-Neptunus
 ministeri-Audi
 Minotauros
 Mitsubishi
+MM-Maa
 mobiili-Google
 Mossad
 Mosse
@@ -252,6 +254,7 @@ piraatti-Windows
 pistoke-Volvo
 Pluto
 podcast-Puh
+polttomoottori-Mersu
 pop-Finlandia
 Porsche
 Poseidon

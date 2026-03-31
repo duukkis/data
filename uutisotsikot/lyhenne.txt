@@ -50,6 +50,7 @@ GPS
 GSM
 ha
 halli-EM
+halli-MM
 halli-SM
 Hämeenlinna-LP
 hepatiitti-c

@@ -607,6 +607,7 @@ Ino
 Intia
 Iowa
 Irak
+Irakin-Iran
 Ira-Mari
 Iran
 Irkutsk
@@ -1027,6 +1028,7 @@ Koillis-Siperia
 Koillis-Sudan
 Koillis-Suomi
 Koillis-Syyria
+Koillis-Tuusniemi
 Koillis-Ukraina
 Koillis-Vantaa
 Koillis-Viro
@@ -1419,6 +1421,7 @@ Marburg
 Mari
 Mariaani
 Marino
+Marino-Suomi
 Marjala
 Marokko
 Mars
@@ -1653,6 +1656,7 @@ Oulu-Lieksa
 Oulu-München
 Oulunkylä-Patola
 Oulunsalo-Kempele-Liminka-Lumijoki
+Oulu-Riika
 Oulu-Rovaniemi
 Oulu-Tampere
 Oulu-Vaasa
@@ -1794,6 +1798,7 @@ Pohjois-Hervanta
 Pohjois-Ii
 Pohjois-Intia
 Pohjois-Irak
+Pohjois-Iran
 Pohjois-Irlanti
 Pohjois-Israel
 Pohjois-Itämeri
@@ -2177,6 +2182,7 @@ Suomi-Belgia
 Suomi-Espanja
 Suomi-Islanti
 Suomi-Japani
+Suomi-Kypros
 Suomi-Latvia
 Suomi-Montenegro
 Suomi-Norja

@@ -282,6 +282,7 @@ asennoitua
 asennuttaa
 asentaa
 asentua
+aseosata
 aseriehua
 asetella
 asettaa
@@ -365,6 +366,7 @@ avunantaa
 avunsaada
 avustaa
 avustajatavata
+äyskäistä
 äyskäröidä
 äyskiä
 baariampua
@@ -402,6 +404,7 @@ brändivaikuttaa
 briljeerata
 budjetoida
 budjetoitua
+budjettipelata
 budjettirakentaa
 bussiampua
 bussimatkustaa
@@ -448,6 +451,7 @@ digionnistua
 digiosata
 digipainattaa
 digipelata
+digisyrjäytyä
 digitalisaatio-osata
 digitalisoida
 digitalisoitua
@@ -474,6 +478,7 @@ dreijata
 droonikuvata
 droonilennättää
 drooniosata
+droonipudota
 dubata
 dumpata
 duunata
@@ -500,6 +505,7 @@ ehostaa
 ehostua
 ehtiä
 ehtyä
+ejakuloida
 ekorakentaa
 ekosysteemiosata
 eksyä
@@ -1342,6 +1348,7 @@ hulinoida
 hullaannuttaa
 hullaantua
 hullutella
+hulmahtaa
 hulmuta
 hulvahtaa
 humahtaa
@@ -2472,6 +2479,7 @@ keskustarakentaa
 keskustella
 kessutella
 kestää
+kestävöidä
 kestävyysosata
 kestitä
 kestittää
@@ -3548,6 +3556,7 @@ lavaesiintyä
 lävähdellä
 lävähtää
 lavapukeutua
+lavashow-osata
 lavastaa
 läväyttää
 laventaa
@@ -3764,6 +3773,7 @@ lisäkuulla
 lisälaajentaa
 lisälämmetä
 lisälannoittaa
+lisäliikkua
 lisämyöhästyä
 lisäosata
 lisäostaa
@@ -3773,6 +3783,7 @@ lisärakentaa
 lisärokottaa
 lisäselvittää
 lisätä
+lisätehdä
 lisätehostaa
 lisätunnistautua
 lisävelkaantua
@@ -3821,6 +3832,7 @@ lohjeta
 lohkaista
 lohkeilla
 lohkoa
+lohkorakentaa
 löhöillä
 löhötä
 loihtia
@@ -4094,6 +4106,7 @@ makailla
 mäkättää
 makeilla
 mäkihypätä
+mäkihyppyonnistua
 makoilla
 maksaa
 maksattaa
@@ -6399,6 +6412,7 @@ rupatella
 rupeutua
 rusahdella
 rusahtaa
+rusauttaa
 rusentaa
 rusentua
 rusikoida
@@ -8863,6 +8877,7 @@ virrata
 virtaviivaistaa
 virtaviivaistua
 virtsata
+virtuaaliajaa
 virtuaalikohdata
 virtuaalimatkustaa
 virtuaaliosata
@@ -9071,6 +9086,7 @@ ylimitoittaa
 ylinäytellä
 yliopistoampua
 ylipäästä
+ylipaineistaa
 ylipuhua
 ylipukeutua
 ylireagoida

@@ -255,6 +255,7 @@ Aulis
 Aune
 Auno
 Auri
+Auroora
 Aurora
 Auvo
 Axel
@@ -1568,6 +1569,7 @@ Roope-Uki
 Roope-Veli
 Roosa
 Rosa
+Rosa-Tuuli
 Rose
 Rüdiger
 Rudolf
