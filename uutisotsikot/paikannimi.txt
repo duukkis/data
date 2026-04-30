@@ -56,6 +56,7 @@ Albania
 Alberta
 Aleksandria
 Algeria
+Al-Mali
 Almaty
 Alppi
 Alppila
@@ -506,6 +507,7 @@ Helsinki
 Helsinki-Bangkok
 Helsinki-Dubai
 Helsinki-Dubrovnik
+Helsinki-Istanbul
 Helsinki-Kirkkonummi
 Helsinki-Kolari
 Helsinki-Lahti
@@ -835,6 +837,7 @@ Kansas
 Kanta-Häme
 Kanta-Helsinki
 Kanta-Kouvola
+Kanta-Lieto
 Kanta-Oulu
 Kanttura
 Kapkaupunki
@@ -1149,6 +1152,7 @@ Kuusankoski
 Kuusela
 Kuusjärvi
 Kuusjoki
+Kuvansi
 Kuwait
 Kylmäkoski
 Kylmälä
@@ -2138,6 +2142,7 @@ Skotlanti-Hollanti-Saksa-Puola-Venäjä
 Slovakia
 Slovakia-Suomi
 Slovenia
+SM-Inari
 Smolensk
 Sodankylä
 Sodankylä-Ivalo

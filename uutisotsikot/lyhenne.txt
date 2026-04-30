@@ -172,6 +172,7 @@ STT
 suomi-TV
 suomi-USA
 super-g
+super-n
 super-PC
 tasku-PC
 tauti-x
@@ -209,4 +210,5 @@ YK
 yleisö-EK
 yleisö-WC
 YM
+ympäristö-DNA
 YYA

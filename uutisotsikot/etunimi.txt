@@ -84,6 +84,7 @@ Aliina
 Aliisa
 Alina
 Alisa
+Al-Kai
 Allan
 Allen
 Alma
@@ -385,6 +386,7 @@ Eeva-Riitta
 Eeva-Stiina
 Eevert
 Eevi
+Eevi-Tuuli
 Eija
 Eija-Elina
 Eija-Irmeli
@@ -1011,6 +1013,7 @@ Kurt
 Kustaa
 Kusti
 Kusti-Emil
+Kuutti-Martta
 Kylli
 Kyllikki
 Kyllönen-Katri
@@ -1235,6 +1238,7 @@ Michael
 Michael-Veli
 Michel
 Michelangelo
+Michelin-Ukko
 Michelle
 Mielikki
 Miguel
@@ -1576,6 +1580,7 @@ Rudolf
 Rurik
 Ruth
 Ruusu
+Ruut-Maaria
 Saara
 Saara-Eliisa
 Saara-Kaisa
@@ -1602,6 +1607,7 @@ Sam
 Sami
 Sami-Antti
 Sami-Matti
+Sami-Pekka
 Sami-Petteri
 Sammeli
 Sampsa
@@ -1766,6 +1772,7 @@ Terhi
 Terhi-Anna
 Terhikki
 Tero
+Tero-Mikko
 Tero-Petri
 Terry
 Terttu
@@ -1776,6 +1783,7 @@ Tiia
 Tiia-Elina
 Tiia-Maria
 Tiina
+Tiina-Emilia
 Tiina-Kaisa
 Tiina-Leena
 Tiina-Liisa
@@ -1831,6 +1839,7 @@ Tuovi
 Turkka
 Tuukka
 Tuula
+Tuula-Leena
 Tuula-Maija
 Tuula-Sinikka
 Tuuli

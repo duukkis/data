@@ -84,6 +84,7 @@ Al-Malkki
 Alonso
 Altmann
 Alzheimer
+Alzheimer-Riski
 Amerikan-Autto
 Amerikan-Kartano
 Amerikan-Tuominen
@@ -424,6 +425,7 @@ Grönqvist
 Grönroos
 Grundström
 Guggenheim
+Guidetti
 Guillou
 Gummerus
 Gustafsson
@@ -1201,6 +1203,7 @@ Lander
 Landström
 Lång
 Långström
+Lankia
 Lankinen
 Lantiainen
 Laplace
@@ -1563,6 +1566,7 @@ Neiglick
 Nenonen
 Neruda
 Nesser
+Nestori-Pekkarinen
 Neuman
 Neuvonen
 Nevala

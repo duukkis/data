@@ -105,6 +105,7 @@ australialais-brittiläinen
 australialaismallinen
 australialaisrakas
 australialaisviranomainen
+autolomalainen
 automallinen
 autuas
 avioliittomallinen
@@ -127,6 +128,7 @@ b-nuori
 boikotinomainen
 bonusaikuinen
 bonusmallinen
+brändinmukainen
 brasilialais-suomalainen
 brasiliansuomalainen
 britanniansuomalainen
@@ -164,6 +166,7 @@ ei-akuutti
 ei-binääri
 ei-islamilainen
 ei-juutalainen
+ei-kristitty
 eilinen
 ei-musta
 ei-normaali
@@ -274,6 +277,7 @@ eteläsuomalainen
 etelävenäläinen
 EU-kiire
 EU-kilpailuviranomainen
+EU-liberaali
 EU-norja
 EU-nuori
 EU-poliittinen
@@ -440,6 +444,7 @@ ihmisläheinen
 ihmisoikeuspoliittinen
 ihonkaltainen
 iisalmelaisnuori
+ikärajaviranomainen
 ikävä
 ikävännäköinen
 iki-ihanainen
@@ -527,6 +532,7 @@ järveläinen
 jätehuoltoviranomainen
 jätepoliittinen
 jätkäsaarelainen
+jättivihollinen
 jazz-sisäpiiriläinen
 jemeninjuutalainen
 jengirikollinen
@@ -558,6 +564,7 @@ jyväskyläläisnuori
 kaakkois-norja
 kaakkoissuomalainen
 kaappikepulainen
+kaavanmukainen
 kade
 kähärä
 kaheli
@@ -720,6 +727,7 @@ kohtalonomainen
 kohtisuora
 kohumallinen
 kohurikollinen
+kohusuomalainen
 kohuvenäläinen
 koillismaalainen
 kokoomuslainen
@@ -1100,6 +1108,7 @@ nimikkoaikuinen
 niukka
 Nokia-älypuhelinmallinen
 Nokia-klassikkomallinen
+nokialaisnuori
 nollakerholainen
 norja
 norjalaishirmu

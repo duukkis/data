@@ -24,6 +24,7 @@ Apilas
 Apollo
 Apollon
 Apple
+Aquarius
 Arava
 arkkitehtuuri-Finlandia
 arvo-Porsche
@@ -40,6 +41,7 @@ avo-Porsche
 Baltian-Maa
 Basic
 Beatles
+Benecol
 bensa-Mersu
 bin
 Borealis

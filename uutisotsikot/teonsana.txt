@@ -171,6 +171,7 @@ aluejohtaa
 aluekehittää
 aluerakentaa
 aluetavata
+alumnitavata
 alusasupukeutua
 aluspukeutua
 alustaa
@@ -289,6 +290,7 @@ asettaa
 asettautua
 asettua
 asfaltoida
+asfalttiosata
 asiajohtaa
 asiakaskäyttäytyä
 asiakaskohdata
@@ -2860,6 +2862,7 @@ konekirjoittaa
 konenäköosata
 koneoppia
 konetunnistaa
+konfirmoida
 kongressikuulla
 konjakkivarautua
 konkretisoida
@@ -3364,6 +3367,7 @@ lähetellä
 lähettää
 lähialtistua
 lähiasua
+lähihetkiennustaa
 lähijakaa
 lähijohtaa
 lähikohdata
@@ -3693,6 +3697,7 @@ liikenneturvallisuusosata
 liikennevakuuttaa
 liikennöidä
 liikennöityä
+liikenteenrauhoittaa
 liikenteenvaarantaa
 liikerakentaa
 liiketavata
@@ -4152,6 +4157,7 @@ markkinoida
 markkinointiosata
 markkinoitua
 marmattaa
+marmoroitua
 marssia
 marssittaa
 masennella
@@ -4354,6 +4360,7 @@ monikudosmallintaa
 monimuodostua
 monimuotoistua
 monimutkaistaa
+monimutkaistella
 monimutkaistua
 moninaistua
 moninkertaistaa
@@ -6322,6 +6329,7 @@ rojahtaa
 rojauttaa
 rokata
 rökittää
+rokkailla
 rokotekehittää
 rokotekieltäytyä
 rokoteosata
@@ -6851,6 +6859,7 @@ silpoa
 silpoutua
 silputa
 simputtaa
+simulaattoripelata
 simuloida
 simuloitua
 sinertää
@@ -7493,6 +7502,7 @@ tassutella
 tassuttaa
 tatuoida
 tatuoitua
+taukotehdä
 taulukoida
 tauota
 tauottaa
@@ -7836,6 +7846,7 @@ treenata
 treenikaatua
 trimmata
 troolata
+Trump-huutaa
 Trump-tavata
 tsätätä
 tsättäillä
@@ -7992,7 +8003,9 @@ tutkailla
 tutkia
 tutkimiskäyttäytyä
 tutkimusjohtaa
+tutkimusosata
 tutkiskella
+tutkittaa
 tutkituttaa
 tutoroida
 tutustua
@@ -8179,6 +8192,7 @@ unohtua
 upota
 upottaa
 upottautua
+uppopaistaa
 uppoutua
 urahdella
 urakoida
@@ -8580,6 +8594,7 @@ vavisuttaa
 vedättää
 vedellä
 vedenjakaa
+vedenottaa
 vedenpuhdistaa
 vedostaa
 vedota
@@ -9116,6 +9131,7 @@ yllättyä
 yllätyserottaa
 yllätysesiintyä
 yllätyskadota
+yllätyskohdata
 yllätyslaskeutua
 yllätysluhistua
 yllätysnaida
