@@ -11,6 +11,7 @@ aava
 ABC-mobiili
 aborttilupaviranomainen
 ADHD-aikuinen
+ADHD-käyrä
 ADHD-nuori
 afgaaniviranomainen
 afganistanilaisnuori
@@ -27,6 +28,7 @@ aidonnäköinen
 äijä
 aikuinen
 äimä
+ainavihanta
 ainoa
 äitelä
 äitikeskeinen
@@ -44,6 +46,7 @@ aktiivimallinen
 akuutti
 albaani
 Albania-mallinen
+albuminkaltainen
 algerianjuutalainen
 alituttava
 alkiolainen
@@ -202,6 +205,7 @@ elsalvadorilainen
 EM-kulta
 EM-kulta-aituri
 EM-loisto
+empaatti
 EM-tupla
 energialäheinen
 energiapoliittinen
@@ -584,6 +588,7 @@ kamala
 kamalannäköinen
 kanadalaishirmu
 kanadalaisnuori
+kanadalais-suomalainen
 kanadalaistohelo
 kanadansuomalainen
 kanavaviranomainen
@@ -607,6 +612,7 @@ karikonkaltainen
 Karjalais-kolttasaamelainen
 Karjalais-suomalainen
 karkulainen
+kärpässarjalainen
 kartanomainen
 kartellinomainen
 kartelliviranomainen
@@ -1027,6 +1033,7 @@ MM-lohkovihollinen
 MM-pitkä
 MM-tulokas
 MM-tupla
+MM-vieras
 MM-vihollinen
 mobiili
 mobiilivapaa
@@ -1086,6 +1093,7 @@ nero
 nettirikollinen
 neutraali
 neuvostomallinen
+neuvostovenäläinen
 newjerseyläinen
 newyorkilainen
 NHL-äijä
@@ -1094,6 +1102,7 @@ NHL-huipputulokas
 NHL-jermu
 NHL-lomalainen
 NHL-nousukas
+NHL-seko
 NHL-sisäpiiriläinen
 NHL-suomalainen
 NHL-supertulokas
@@ -1329,6 +1338,7 @@ pohjois-korea
 pohjoismaalainen
 pohjoismais-balttilainen
 pohjois-norja
+pohjois-pohjanmaalainen
 pohjoispohjanmaalainen
 pohjoisruotsalainen
 pohjoissuomalainen
@@ -1350,6 +1360,7 @@ porosaamelainen
 porttiteatterilainen
 portugalilaisnuori
 povikeskeinen
+pöytämallinen
 presidenttikeskeinen
 priima
 privaatti
@@ -1470,6 +1481,7 @@ revolverimallinen
 rietas
 rikas
 rikollinen
+rikollisnero
 rikollisnuori
 rikostutkintaviranomainen
 risa
@@ -1736,6 +1748,7 @@ superrikas
 superrikollinen
 superrohkea
 superroisto
+supersuomalainen
 supersuuri
 supersyömäri
 supersyvä
@@ -1909,6 +1922,7 @@ tosi
 tosiäijä
 tosi-TV-hömppä
 tosi-TV-rakas
+totaaliväärä
 toteutusmallinen
 totuudenmukainen
 transsinomainen

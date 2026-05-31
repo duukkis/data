@@ -155,6 +155,7 @@ ry
 ryhmä-x
 SA
 sääntö-EU
+sähkö-c
 sähkö-g
 SAK
 SDP
@@ -175,12 +176,14 @@ super-g
 super-n
 super-PC
 tasku-PC
+taulu-TV
 tauti-x
 teho-PC
 tekoäly-PC
 teksti-TV
 teline-EM
 testi-EK
+tippa-t
 tl
 tmi
 toosa-TV
@@ -197,6 +200,7 @@ uutuus-TV
 vara-pj
 varjo-IT
 verso-s
+vision-m
 vision-s
 VR
 VRK

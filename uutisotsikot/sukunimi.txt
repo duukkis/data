@@ -1171,6 +1171,7 @@ Laasanen
 Laasonen
 Laatikainen
 Laden
+Laestadius
 Lagercrantz
 Lagus
 Lähdesmäki
@@ -1293,6 +1294,7 @@ Lindroth
 Lindström
 Lindvall
 Linkola
+Linkomies
 Linna
 Linnala
 Linnamo
@@ -2056,6 +2058,7 @@ Rosso
 Roth
 Rothovius
 Rothschild
+Rötkö
 Rouhiainen
 Rousseau
 Rouvinen
@@ -2503,6 +2506,7 @@ Tuomaala
 Tuomainen
 Tuomala
 Tuomala-Nikkanen
+Tuomas-Kettunen
 Tuomela
 Tuominen
 Tuomisto

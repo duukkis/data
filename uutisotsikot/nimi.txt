@@ -200,6 +200,7 @@ ministeri-Audi
 Minotauros
 Mitsubishi
 MM-Maa
+MM-Mitsubishi
 mobiili-Google
 Mossad
 Mosse
@@ -337,6 +338,7 @@ Suomi-Puh
 Suomi-Twitter
 suosikki-Linux
 suosikki-Volvo
+super-El
 super-Maa
 super-Mersu
 Supo

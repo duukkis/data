@@ -222,6 +222,7 @@ Damaskos
 Danzig
 Dardanelli
 Delaware
+Delfoi
 Delhi
 Detroit
 Djibouti
@@ -839,6 +840,7 @@ Kanta-Helsinki
 Kanta-Kouvola
 Kanta-Lieto
 Kanta-Oulu
+Kanta-Rusko
 Kanttura
 Kapkaupunki
 Käpylä
@@ -1487,9 +1489,11 @@ MM-Koitto
 MM-Kolari
 MM-Lahti
 MM-Latvia
+MM-Peking
 MM-Portugali
 MM-Praha
 MM-Qatar
+MM-Sveitsi
 MM-Taipale
 MM-Tampere
 MM-Tokio
@@ -1497,6 +1501,7 @@ MM-Trondheim
 MM-Tshekki
 MM-Tukholma
 MM-Unkari
+MM-Zürich
 Mogadishu
 Möhkö
 Moldavia
@@ -2143,6 +2148,7 @@ Slovakia
 Slovakia-Suomi
 Slovenia
 SM-Inari
+SM-Kerava
 Smolensk
 Sodankylä
 Sodankylä-Ivalo
@@ -2195,6 +2201,7 @@ Suomi-Puola
 Suomi-Ranska
 Suomi-Romania
 Suomi-Ruotsi
+Suomi-Saksa
 Suomi-Serbia
 Suomi-Slovakia
 Suomi-Somalia
@@ -2206,6 +2213,7 @@ Suomi-Venäjä
 Suomi-Viro
 Suomi-Wales
 Suomussalmi
+Suonenjoen-Rautalampi
 Suonenjoki
 Suorlahti
 Surinam

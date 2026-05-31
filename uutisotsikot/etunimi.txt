@@ -242,6 +242,7 @@ Astrid
 Ate
 ATK-Alan
 ATK-Päivi
+Atlantin-Unelma
 Atro
 Atso
 Atte
@@ -714,6 +715,7 @@ Isto
 IT-Alan
 IT-Kimmo
 IT-Mikko
+IT-Niklas
 Ivan
 Ivar
 Ivari
@@ -985,6 +987,7 @@ Kim
 Kimi
 Kimmo
 Kingsley
+Kirsi
 Kirsti
 Klaara
 Klaas
@@ -1427,6 +1430,7 @@ Paulina
 Peetu
 Pehr
 Pekka
+Pekka-Eemeli
 Pekka-Matias
 Pekka-Veli
 Pekko

@@ -481,6 +481,8 @@ droonikuvata
 droonilennättää
 drooniosata
 droonipudota
+droonitiedottaa
+droonivarautua
 dubata
 dumpata
 duunata
@@ -845,6 +847,7 @@ hajauttaa
 hajautua
 hajoilla
 hajota
+hajotella
 hajottaa
 hakata
 hakea
@@ -1329,6 +1332,7 @@ huippuosata
 huippupelata
 huippusuorittaa
 huipputavata
+huippu-urheiluosata
 huippuvenyä
 huiputtaa
 huiskaista
@@ -1788,6 +1792,7 @@ järkähtää
 järkeillä
 järkeistää
 järkevöittää
+järkiperäistää
 järkkyä
 järkyttää
 järkyttyä
@@ -2042,6 +2047,7 @@ kahmaista
 kahmia
 kähmiä
 kähveltää
+kahvitavata
 kahvitella
 kahvittaa
 kaihertaa
@@ -2265,6 +2271,7 @@ kasvaa
 kasvatella
 kasvattaa
 kasvikäyttäytyä
+kasvuyrittää
 katalysoida
 katastrofitavata
 kategorisoida
@@ -2493,6 +2500,7 @@ ketjuuntua
 ketuttaa
 kevätjuhlamatkustaa
 kevätsuojautua
+kevättavata
 kevennellä
 keventää
 keventyä
@@ -2533,6 +2541,7 @@ kierrätyskuluttaa
 kierrellä
 kiertää
 kiertotalousosata
+kiertotalousrakentaa
 kiertyä
 kietaista
 kietoa
@@ -2670,6 +2679,7 @@ kirjoa
 kirjoitella
 kirjoittaa
 kirjoittautua
+kirkaista
 kirkastaa
 kirkastua
 kirkkoampua
@@ -4219,6 +4229,7 @@ mättää
 maukua
 maustaa
 maustua
+media-avautua
 mediaesiintyä
 mediakohdata
 mediaseurata
@@ -5279,6 +5290,7 @@ peilata
 peilautua
 peitata
 peitellä
+peitonjatkaa
 peitota
 peittää
 peittyä
@@ -6822,6 +6834,7 @@ siirrellä
 siirtää
 siirtokuntarakentaa
 siirtyä
+siirtyillä
 siistiä
 siistiytyä
 siitä
@@ -7020,6 +7033,7 @@ sote-osata
 sotia
 sotilasjohtaa
 sotilasosata
+sotilasvetäytyä
 sotkea
 sotkeutua
 soudella
@@ -8043,6 +8057,7 @@ tyhjentyä
 tyhjetä
 tyhjiöpakata
 tyhmentää
+tyhmentyä
 tyhmetä
 tyhmistää
 tykästyä
@@ -8865,6 +8880,7 @@ vioittaa
 vioittua
 vipata
 vipeltää
+vippailla
 virallistaa
 viranhoitaa
 viranomaistavata
@@ -8962,6 +8978,7 @@ vuodattaa
 vuodenvaihtua
 vuokra-asua
 vuokrailla
+vuokrajohtaa
 vuokramökkiyöpyä
 vuokranalentaa
 vuokrasaada
@@ -9128,6 +9145,7 @@ ylläpitoladata
 yllätellä
 yllättää
 yllättyä
+yllätysampua
 yllätyserottaa
 yllätysesiintyä
 yllätyskadota
