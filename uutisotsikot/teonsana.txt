@@ -176,6 +176,7 @@ alusasupukeutua
 aluspukeutua
 alustaa
 älykaupunkikehittää
+älyosata
 älytä
 älytalo-osata
 ammatillistaa
@@ -400,6 +401,7 @@ boksipelata
 bongailla
 bongata
 brändijohtaa
+brändinrakentaa
 brändiosata
 bränditehdä
 brändivaikuttaa
@@ -453,6 +455,7 @@ digionnistua
 digiosata
 digipainattaa
 digipelata
+digisyrjäyttää
 digisyrjäytyä
 digitalisaatio-osata
 digitalisoida
@@ -1302,6 +1305,7 @@ hourailla
 houria
 höyhentää
 höykyttää
+höyläillä
 höylätä
 höynäyttää
 höyrystää
@@ -2009,6 +2013,7 @@ kääntyä
 kääntyillä
 kaapaista
 kaapata
+kaapelinkatkoa
 kaapeloida
 kaapia
 kääräistä
@@ -2699,6 +2704,7 @@ kirvellä
 kirveltää
 kirvoittaa
 kirvota
+kisaheittää
 kisailla
 kisamatkustaa
 kisasuorittaa
@@ -4153,6 +4159,7 @@ manipuloitua
 mankeloida
 mankeloitua
 mankua
+mäntsäläläisosata
 mapittaa
 märehtiä
 marginalisoida
@@ -4204,6 +4211,7 @@ massavangita
 massiivipuurakentaa
 masto-osata
 masturboida
+matalalähestyä
 materialisoitua
 mätiä
 matikanosata
@@ -4529,6 +4537,7 @@ muutosjohtaa
 muutosrakentaa
 muuttaa
 muuttokäyttäytyä
+muuttosuojata
 muuttua
 myhäillä
 mykistää
@@ -4942,6 +4951,7 @@ ongelmavelkaantua
 onkia
 onnahdella
 onnettomuuspaikkakuvata
+onnettomuustiedottaa
 onnistaa
 onnistua
 onnitella
@@ -5107,6 +5117,7 @@ päivystää
 pakahduttaa
 pakahtua
 pakastaa
+pakastella
 pakastua
 pakata
 pakertaa
@@ -5300,6 +5311,7 @@ pelastaa
 pelastautua
 pelastella
 pelastua
+pelastustiedottaa
 pelästyä
 pelästyttää
 pelata
@@ -5462,6 +5474,7 @@ pikaistua
 pikakouluttaa
 pikalaihduttaa
 pikalatautua
+pikamaksaa
 pikapalautua
 pikaparantua
 pikapelata
@@ -6152,6 +6165,7 @@ ravintolasyödä
 ravipelata
 ravistaa
 ravistella
+ravistua
 ravisuttaa
 ravita
 ravustaa
@@ -6743,6 +6757,7 @@ sekasyödä
 sekoilla
 sekoitella
 sekoittaa
+sekoittamisyrittää
 sekoittua
 seksikäyttäytyä
 seksipukeutua
@@ -7239,6 +7254,7 @@ suurentua
 suureta
 suurkokoontua
 suurkuluttaa
+suurlistautua
 suurtalouskeittiöosata
 suurtavata
 suurustaa
@@ -8175,6 +8191,7 @@ ulkorakentaa
 ulkotavata
 ulosastua
 ulosjättää
+uloskirjautua
 uloslähteä
 ulosmennä
 ulosmitata
@@ -8683,6 +8700,7 @@ verkkopelata
 verkkorahapelata
 verkkotavata
 verkkotehdä
+verkkotilata
 verkkotunnistautua
 verkostoitua
 verkostojohtaa

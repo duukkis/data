@@ -73,6 +73,7 @@ amerikkalais-venäläinen
 amerikkalaisvieras
 amerikkalaisviranomainen
 ammattiaikuinen
+ammattiopistolainen
 ammattirikollinen
 ammattivihollinen
 amurinsuomalainen
@@ -448,6 +449,7 @@ ihmisläheinen
 ihmisoikeuspoliittinen
 ihonkaltainen
 iisalmelaisnuori
+ikäkerholainen
 ikärajaviranomainen
 ikävä
 ikävännäköinen
@@ -1123,6 +1125,7 @@ norja
 norjalaishirmu
 norjalaisjuoni
 norjalaisnuori
+norjalaisrakas
 norjalais-suomalainen
 norjalaistulokas
 norjalaisvieras
@@ -2035,6 +2038,7 @@ ulosottoviranomainen
 ultrakylmä
 ultraliberaali
 ultramatala
+ultramusta
 ultraortodoksijuutalainen
 ultrapehmeä
 ultrapitkä
@@ -2319,6 +2323,7 @@ ylisuuri
 ylitiukka
 ylitörkeä
 yllätyssuomalainen
+yltiömakea
 yltiöraaka
 ympäristölupaviranomainen
 ympäristönsuojeluviranomainen

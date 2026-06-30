@@ -3,6 +3,7 @@ Abloy
 af
 a-Ford
 Afrikan-Maa
+Afrikka-Puh
 Agonist
 Airam
 Airbus
@@ -141,6 +142,7 @@ Kalevala
 Kansallis-Osake-Pankki
 Kanteletar
 Karisto
+käyttötesti-Ford
 käyttötesti-Hyundai
 käyttötesti-Mersu
 käyttötesti-Toyota
@@ -174,6 +176,7 @@ Linux
 loki-Jumala
 lokinsiipi-Mersu
 Lost
+Lovejoy
 lukiolais-Linnea
 luksus-Mersu
 Lumikki

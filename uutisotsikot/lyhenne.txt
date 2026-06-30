@@ -124,6 +124,7 @@ NHL
 nuhapumppu-PC
 nyky-EU
 nyky-NHL
+nyky-USA
 OECD
 OK
 oppilas-WC
@@ -131,6 +132,7 @@ ostos-TV
 oy
 oyj
 päätös-EK
+paikallis-TV
 PC
 peli-PC
 perus-CV
@@ -148,6 +150,7 @@ PS
 puoli-q
 rallicross-MM
 ralli-SM
+rata-DNA
 rata-SM
 rkl
 RKP
@@ -193,6 +196,7 @@ tshekki-DNA
 turbo-s
 TV
 UKK
+ulko-SM
 urheilu-TV
 USA
 USB

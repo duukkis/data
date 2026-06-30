@@ -246,6 +246,7 @@ Eeva-Mari
 Eevi-Inkeri
 Egeanmeri
 Egypti
+Egypti-Iran
 Eira
 EK-Pohja
 Elbe
@@ -266,6 +267,7 @@ EM-Saksa
 EM-Taipale
 EM-Tampere
 Englanti
+Englanti-Ghana
 Englanti-Italia
 Englanti-Kroatia
 Englanti-Saksa
@@ -514,6 +516,7 @@ Helsinki-Kolari
 Helsinki-Lahti
 Helsinki-Lappeenranta-Helsinki
 Helsinki-Leppävaara
+Helsinki-Lissabon
 Helsinki-Lontoo
 Helsinki-Miami
 Helsinki-Oulu
@@ -611,8 +614,10 @@ Intia
 Iowa
 Irak
 Irakin-Iran
+Irak-Norja
 Ira-Mari
 Iran
+Iranin-Yhdysvalta
 Irkutsk
 Irlanti
 Islamabad
@@ -911,6 +916,7 @@ Kentucky
 Kerava
 Kerava-Sipoo
 Kerimäki
+Kerkola
 Kesälahti
 Keski-Aasia
 Keski-Afganistan
@@ -1703,6 +1709,7 @@ Pallas-Yllästunturi
 Palojärvi
 Palojoensuu
 Paltamo
+Pamilo
 Panama
 Pankakoski
 Pansio
@@ -1952,7 +1959,9 @@ Raisio-Naantali
 Raja-Jooseppi
 Ramallah
 Ranska
+Ranska-Irak
 Ranskan-Saksa
+Ranska-Senegal
 Ranska-Sveitsi
 Ranta-Mutala
 Rantasalmi
@@ -2255,6 +2264,7 @@ Sydän-Laukaa
 Sydän-Satakunta
 Sydän-Suomi
 Sydney
+Sydney-Lontoo
 Syrjälä
 Sysmä
 Syväri
@@ -2358,6 +2368,7 @@ Traakia
 Transilvania
 Travemünde
 Trinidad
+Trinidad-Tobago
 Tripoli
 Troija
 Tromssa
