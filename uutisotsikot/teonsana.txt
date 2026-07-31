@@ -51,6 +51,7 @@ ahmia
 ahnehtia
 ahtaa
 ahtailla
+ahtauttaa
 ahtautua
 aidata
 aiheellistaa
@@ -465,6 +466,7 @@ digitoitua
 digiturvallisuusosata
 digiturvaosata
 diivailla
+diivata
 dipata
 diplomaattitavata
 diskata
@@ -515,6 +517,7 @@ ehtyä
 ejakuloida
 ekorakentaa
 ekosysteemiosata
+ekskommunikoida
 eksyä
 eksyttää
 elää
@@ -715,6 +718,7 @@ etukäteisilmoittautua
 etukäteisvarautua
 e-urheilla
 euroepäonnistua
+Euroopan-vetäytyä
 eurooppalaistaa
 eurooppalaistua
 europudota
@@ -3197,6 +3201,7 @@ kuorolaulaa
 kuorruttaa
 kuorsata
 kupata
+kuplettiosata
 kuplia
 kuponkipelata
 kupruilla
@@ -3894,6 +3899,7 @@ lomailla
 lomajuoda
 lomakiirehtiä
 lomalentää
+lomalukea
 lomamatkustaa
 lomapelata
 lomatavata
@@ -3924,6 +3930,7 @@ lörpötellä
 lorvia
 lotista
 lotkauttaa
+lötkötellä
 lotota
 lotrata
 louhia
@@ -4243,6 +4250,7 @@ mediakohdata
 mediaseurata
 mediatavata
 mediavaikuttaa
+mediayhdistyä
 meditoida
 meemisijoittaa
 mehevöittää
@@ -4964,6 +4972,7 @@ opettaa
 opinto-ohjata
 opintosuoriutua
 opiskelija-asua
+opiskelija-asuntorakentaa
 opiskelijakadota
 opiskella
 oppia
@@ -5210,6 +5219,7 @@ panettaa
 paneutua
 paniikkihamstrata
 paniikkiostaa
+panimotavata
 pankkikorttimaksaa
 pankkisulkea
 pankkitunnistautua
@@ -5324,6 +5334,7 @@ pelikehitysosata
 pelimyöhästyä
 pelinavata
 pelinrakentaa
+peliomistaa
 peliosata
 peliselostaa
 peljästyä
@@ -6320,6 +6331,7 @@ risteyttää
 risteytyä
 ristiä
 ristiinnaulita
+ristikoida
 ristikuulustella
 ritistä
 riuduttaa
@@ -6425,6 +6437,7 @@ runsastua
 runtata
 ruoanvalmistaa
 ruohonjuurivaikuttaa
+ruohonleikata
 ruokailla
 ruokailukäyttäytyä
 ruokailukokoontua
@@ -7012,6 +7025,7 @@ sompailla
 sönköttää
 sonnustautua
 sontia
+sooloesiintyä
 sooloilla
 soperrella
 sopertaa
@@ -7723,6 +7737,7 @@ tilastoida
 tilastoitua
 tilata
 tilimaksaa
+tilintunnistautua
 tilisäästää
 tilittää
 tilkitä
@@ -8121,6 +8136,7 @@ työryhmätavata
 työskennellä
 työstää
 työsuojelurikkoa
+työsyödä
 työtavata
 työuupua
 typerryttää
@@ -8168,6 +8184,7 @@ uinahtaa
 uinailla
 uinua
 uiskennella
+uistella
 uittaa
 ujeltaa
 ujostella
@@ -8215,6 +8232,7 @@ umpioida
 uneksia
 unelmakohdata
 unelmoida
+Unesco-hyväksyä
 unettaa
 Unkarin-tavata
 Unkari-tavata
@@ -8273,6 +8291,7 @@ uudelleenkouluttautua
 uudelleenlaskea
 uudelleenluoda
 uudelleenmetsittää
+uudelleenmuovautua
 uudelleennimetä
 uudelleenohjelmoida
 uudelleenorganisoida
@@ -8545,6 +8564,7 @@ varavarjolaskeutua
 väreillä
 varhentaa
 varioida
+varioitua
 varista
 väristä
 varistaa

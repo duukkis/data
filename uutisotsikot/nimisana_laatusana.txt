@@ -110,6 +110,7 @@ australialaismallinen
 australialaisrakas
 australialaisviranomainen
 autolomalainen
+automaattivaihteistosi
 automallinen
 autuas
 avioliittomallinen
@@ -522,6 +523,7 @@ itäsuomalainen
 itäsuomalais-goottilainen
 itkukarjalainen
 itsekeskeinen
+jäänmurtomallinen
 jäävi
 jakomallinen
 jalkapallopikkuinen
@@ -977,6 +979,7 @@ mainio
 makea
 mäkieläkeläinen
 mäkitupalainen
+maksimipituinen
 maksuvelvollinen
 malaijilainen
 mallinen
@@ -1032,6 +1035,7 @@ MM-aituri
 MM-hirmu
 MM-kulta
 MM-lohkovihollinen
+MM-nuori
 MM-pitkä
 MM-tulokas
 MM-tupla
@@ -1088,6 +1092,7 @@ Nato-lainen
 Nato-mallinen
 natsirikollinen
 naurulainen
+näytöksenomainen
 neandertalilainen
 neitsytsaarelainen
 neliönmallinen
@@ -1398,6 +1403,7 @@ puoliorpo
 puolipitkä
 puolipuhdas
 puoliraaka
+puolirikollinen
 puoliruotsalainen
 puolisokea
 puolisuomalainen
@@ -1563,6 +1569,7 @@ saksansuomalainen
 saksanvenäläinen
 salaliittoteorianomainen
 salibandyvihollinen
+sallalaisnuori
 samankaltainen
 samanmaalainen
 samanmallinen
@@ -2059,6 +2066,7 @@ umpipimeä
 umpipoliittinen
 umpirohkea
 umpitörkeä
+umpituttu
 umpivenäläinen
 unenkaltainen
 unenomainen
@@ -2228,6 +2236,7 @@ vientimallinen
 vieras
 vieraskorea
 vierasmaalainen
+vierastupla
 vierasvarma
 viestintäviranomainen
 vietto

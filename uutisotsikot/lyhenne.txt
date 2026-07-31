@@ -71,6 +71,7 @@ jäljitelmä-YK
 jätti-TV
 jippo-j
 juhla-DVD
+juniori-EM
 kaapeli-TV
 kaupunki-TV
 kehä-i

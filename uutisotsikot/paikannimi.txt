@@ -95,6 +95,7 @@ Arabiemiirikunta
 Aragonia
 Argentiina
 Argentiina-Brasilia
+Argentiina-Egypti
 Arizona
 Arkadia
 Arkangeli
@@ -255,6 +256,7 @@ Elimäki
 Ella-Mari
 El-Medina
 EM-Altai
+EM-Birmingham
 EM-Helsinki
 EM-Koitto
 Emma-Mari
@@ -334,6 +336,7 @@ Etelä-Korea
 Etelä-Kuusamo
 Etelä-Lahti
 Etelä-Lappi
+Etelä-Leppävaara
 Etelä-Libanon
 Etelä-Liettua
 Etelä-Lontoo
@@ -1145,6 +1148,7 @@ Kurgan
 Kurikka
 Kurolanlahti
 Kursk
+Kurtakko
 Kuru
 Kustaanmiekka
 Kustavi

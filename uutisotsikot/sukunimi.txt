@@ -1232,6 +1232,7 @@ Lauslahti
 Lavikainen
 Lavonen
 Lecter
+Leevi-Koiranen
 Lehikoinen
 Lehkonen
 Lehtelä
@@ -1629,6 +1630,7 @@ Nurmela
 Nurmio
 Nuutila
 Nuutinen
+Nuutinen-Mäntylä
 Nyberg
 Nybondas
 Nybondas-Kangas
@@ -2691,6 +2693,7 @@ Vitikka
 Voionmaa
 Voipio
 Volanen
+Volotinen
 Volvo-Markkanen
 Vornanen
 Voutilainen

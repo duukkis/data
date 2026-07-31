@@ -893,6 +893,7 @@ Juho-Jari
 Juho-Kustaa
 Juho-Matti
 Juho-Pekka
+Juho-Valdemar
 Juho-Veli
 Juice
 Julia
@@ -1019,6 +1020,7 @@ Kustaa
 Kusti
 Kusti-Emil
 Kuutti-Martta
+Kuvaaja-Jenni
 Kylli
 Kyllikki
 Kyllönen-Katri
@@ -1048,6 +1050,7 @@ Lauri
 Lauri-Eemil
 Lawrence
 Lea
+Lea-Marja
 Leander
 Leea
 Leena
@@ -1189,6 +1192,7 @@ Markit
 Markku
 Marko
 Marko-Oskari
+Marko-Riitta
 Mark-Paul
 Markus
 Marleena
@@ -1205,6 +1209,7 @@ Mathias
 Matias
 Matilda
 Matleena
+Matroona
 Matteus
 Matthias
 Matti

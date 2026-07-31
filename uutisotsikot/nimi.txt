@@ -45,6 +45,7 @@ Beatles
 Benecol
 bensa-Mersu
 bin
+bitcoin-Veda
 Borealis
 Botnia
 britti-Audi
@@ -153,6 +154,7 @@ Kesko
 kestotesti-Saab
 Kia
 Kiasma
+Kiina-Puh
 klassikko-Jaguar
 klassikko-Windows
 kohu-Jaguar
@@ -183,6 +185,7 @@ Lumikki
 Maamme-laulu
 maasturi-Lada
 maasturi-Mersu
+maasturi-Volvo
 Macbeth
 Magyar
 mahti-Kia
@@ -342,6 +345,7 @@ Suomi-Twitter
 suosikki-Linux
 suosikki-Volvo
 super-El
+super-Jupiter
 super-Maa
 super-Mersu
 Supo
