@@ -1157,6 +1157,7 @@ Kylliäinen
 Kyllönen
 Kylmänen
 Kymäläinen
+Kyröläinen
 Kytö
 Kytölä
 Kytömaa
@@ -1713,6 +1714,7 @@ Paavilainen
 Paavola
 Paavolainen
 Paavo-Metso
+Paavo-Varis
 Pacius
 Packalen
 Packalén
@@ -2059,6 +2061,7 @@ Rosholm
 Roslund
 Rossi
 Rosso
+Rosso-Honda
 Roth
 Rothovius
 Rothschild

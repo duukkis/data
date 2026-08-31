@@ -506,6 +506,7 @@ Heimola
 Heinjoki
 Heinola
 Helens
+Heli-Mari
 Helka-Mari
 Helsingborg
 Helsingin-Uusimaa
@@ -749,6 +750,7 @@ Joutseno
 Juankoski
 Jugoslavia
 Junttila
+Juojärvi
 Juokslahti
 Juorkuna
 Jurmo
@@ -2076,6 +2078,7 @@ Sanna-Mari
 Sanni-Mari
 Santahamina
 Santiago
+Sappu
 Sarajärvi
 Sarajevo
 Sarakylä
@@ -2285,6 +2288,7 @@ Taiwan
 Takalo
 Talaskangas
 Tallinna
+Tallinna-Helsinki
 Tallinna-Tampere
 Tammela
 Tammela-Kaleva-Petsamo
@@ -2398,6 +2402,7 @@ Tunguska
 Tunisia
 Tuntsa
 Tuomarila
+Tuomarila-Suvela
 Tuominen-Rein
 Tupala
 Turenki

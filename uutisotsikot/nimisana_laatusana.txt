@@ -156,6 +156,7 @@ debiili
 dekadentti
 demokraatti
 diagnoosikeskeinen
+digihömppä
 digikiire
 digiuuno
 digivihreä
@@ -204,10 +205,13 @@ elintarviketurvallisuusviranomainen
 elintarvikevalvontaviranomainen
 elintarvikeviranomainen
 elsalvadorilainen
+EM-aituri
+EM-helle
 EM-kulta
 EM-kulta-aituri
 EM-loisto
 empaatti
+EM-suomalainen
 EM-tupla
 energialäheinen
 energiapoliittinen
@@ -269,6 +273,7 @@ esimerkinomainen
 esimerkkisuomalainen
 esitutkintaviranomainen
 espanjalaisnuori
+espanjalais-suomalainen
 espanjalaisvieras
 espanjalaisviranomainen
 espoolaisnuori
@@ -1710,6 +1715,7 @@ suomalaisnousukas
 suomalaisnuori
 suomalaisrakas
 suomalaisrikollinen
+suomalaisriski
 suomalais-ruotsalainen
 suomalaisruotsalainen
 suomalais-thaimaalainen
@@ -1727,6 +1733,7 @@ suomenjuutalainen
 suomenkaltainen
 suomenruotsalainen
 suomenvenäläinen
+Suomi-mallinen
 suora
 suorituskeskeinen
 suosikkikielimallinen
@@ -1800,6 +1807,7 @@ syyttäjäviranomainen
 taianomainen
 taidepoliittinen
 taiderikollinen
+taideyliopistolainen
 taistolainen
 taistolaisaktiivi
 taitoheimolainen
@@ -2238,6 +2246,7 @@ vieraskorea
 vierasmaalainen
 vierastupla
 vierasvarma
+vieremäläisnuori
 viestintäviranomainen
 vietto
 vihanta
@@ -2304,6 +2313,7 @@ yhteisökeskeinen
 yhteistupalainen
 yhteistyömallinen
 yhteistyöviranomainen
+yhtenäiskuntamallinen
 yhteysviranomainen
 yhtiömallinen
 ykkössuomalainen

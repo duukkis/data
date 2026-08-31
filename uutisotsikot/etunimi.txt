@@ -586,6 +586,7 @@ Helen
 Helena
 Helena-Ahti
 Helene
+Helen-Lahja
 Helga
 Helge
 Heli
@@ -758,6 +759,7 @@ Janna-Emilia
 Janna-Juuli
 Janne
 Janne-Juha
+Janne-Matti
 Janne-Olli
 Janne-Pekka
 Janne-Veli
@@ -1165,6 +1167,7 @@ Mario
 Marion
 Mari-Pauliina
 Mari-Sanna
+Mari-Sofia
 Mari-Sohvi
 Marita
 Maritta
@@ -1594,6 +1597,7 @@ Ruusu
 Ruut-Maaria
 Saara
 Saara-Eliisa
+Saara-Henriikka
 Saara-Kaisa
 Saara-Lotta
 Saara-Sofia

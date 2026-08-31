@@ -345,6 +345,7 @@ autioitua
 autismiosata
 autoilla
 autoistua
+autojahdata
 autokokoontua
 automaalata
 automaatio-osata
@@ -961,6 +962,7 @@ härmistyä
 harmitella
 harmittaa
 harmonisoida
+harmonisoitua
 härnäillä
 härnätä
 haroa
@@ -1945,6 +1947,7 @@ jumputtaa
 junailla
 junamatkustaa
 junareissata
+junasuistua
 junnata
 juntata
 juoda
@@ -2801,6 +2804,7 @@ kohutavata
 koikkelehtia
 koillissanoa
 koirakohdata
+koirasurffata
 koisia
 koittaa
 koitua
@@ -2901,6 +2905,7 @@ konsultoida
 kontaktipelata
 kontaktoida
 kontata
+kontrastoida
 kontrolloida
 kontrolloitua
 konttailla
@@ -3503,6 +3508,7 @@ läpäistä
 läpättää
 läpikäydä
 läpilaskea
+läpilaskeutua
 läpimennä
 lapioida
 läpipäästä
@@ -3713,6 +3719,7 @@ liikaviljellä
 liikehtiä
 liikematkustaa
 liikennekäyttäytyä
+liikennesääntöosata
 liikennetiedottaa
 liikenneturvallisuusosata
 liikennevakuuttaa
@@ -4327,6 +4334,7 @@ miinoittaa
 miinustaa
 mikroliikkua
 mikromuovialtistua
+mikropettää
 mikrosäästää
 miksailla
 miksata
@@ -5540,6 +5548,7 @@ piristä
 piristää
 piristäytyä
 piristyä
+pirskahdella
 pirstaloitua
 pirstoa
 pirstoutua
@@ -5633,6 +5642,7 @@ pöllyttää
 polskahtaa
 polskia
 polskutella
+poltattaa
 poltella
 polttaa
 polttohaudata
@@ -6993,6 +7003,7 @@ sokeroida
 sokeroitua
 sokeuttaa
 sokeutua
+sokkikarsiutua
 solahtaa
 solista
 soljua
@@ -7356,6 +7367,7 @@ taapertaa
 taata
 taeta
 tähdätä
+tähdennellä
 tähdentää
 tähdentyä
 tahdistaa
@@ -7993,6 +8005,7 @@ tuoda
 tuohtua
 tuoksahtaa
 tuoksua
+tuomariavautua
 tuomita
 tuonti-ilmoittaa
 tuotanto-osata
@@ -8648,6 +8661,7 @@ vedellä
 vedenjakaa
 vedenottaa
 vedenpuhdistaa
+vedonlyöntikäyttäytyä
 vedostaa
 vedota
 vehdata
@@ -9039,6 +9053,7 @@ WC-säästää
 WhatsApp-soittaa
 WHO-vetäytyä
 Wilma-irtisanoa
+Windows-kaatua
 XI-tavata
 ydinaseistaa
 ydinaseosata
@@ -9215,6 +9230,7 @@ ympyröityä
 ynistä
 ynnäillä
 ynnätä
+yöherätä
 yökätä
 yökerhoaltistua
 yökkäillä

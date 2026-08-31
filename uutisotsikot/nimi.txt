@@ -336,6 +336,7 @@ Stockmann
 STT-Reuters
 STT-Yle
 Stuka
+suku-WhatsApp
 suomalais-Jeesus
 Suomi-Instagram
 Suomi-Lada
