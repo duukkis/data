@@ -485,6 +485,7 @@ Esa-Pentti
 Esa-Veikko
 Esko
 Esko-Juha
+Esko-Matti
 Essi
 Essi-Noora
 Ester
@@ -816,6 +817,7 @@ Jenny-Sofia
 Jere
 Jere-Matias
 Jeremias
+Jere-Veli
 Jerry
 Jesper
 Jesse
@@ -889,6 +891,7 @@ Juha-Pekka
 Juha-Petri
 Juha-Petteri
 Juha-Santeri
+Juha-Tapio
 Juho
 Juho-Antti
 Juho-Jari
@@ -930,6 +933,7 @@ Kai-Jorma
 Kaino
 Kai-Pekka
 Kaisa
+Kaisa-Leena
 Kaisa-Maija
 Kaisa-Reeta
 Kaisa-Riikka
@@ -1030,6 +1034,7 @@ Kyösti
 Lada-Jussi
 Laila
 Lalli
+Lari-Antti
 Lari-Pekka
 Lars
 Lars-Christian
@@ -1542,6 +1547,7 @@ Reijo
 Reima
 Reima-Ville
 Reinhold
+Reinikainen-Visa
 Reino
 Reko
 Rembrandt
@@ -1611,6 +1617,7 @@ Saimi
 Saimo
 Saini
 Saint-Louis
+Saint-Martti
 Sakari
 Sakarias
 Saku-Pekka
@@ -1806,6 +1813,7 @@ Tiina-Riikka
 Tiitus
 Tilda
 Timo
+Timo-Heikki
 Timo-Janne
 Timo-Juha
 Timo-Jukka
@@ -1949,6 +1957,7 @@ Viljam
 Viljami
 Viljo
 Ville
+Ville-Ale
 Ville-Eemeli
 Ville-Juha
 Ville-Matti

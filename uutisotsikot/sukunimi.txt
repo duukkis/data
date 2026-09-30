@@ -466,6 +466,7 @@ Haimakainen
 Hainari
 Haipus
 Hakala
+Hakala-Kosunen
 Häkkä
 Häkkänen
 Hakkarainen
@@ -800,6 +801,7 @@ Johanna-Ojala
 Johansson
 Jokela
 Jokelainen
+Jokela-Niinistö
 Jokinen
 Jokinen-Anttila
 Jolkkonen
@@ -2548,6 +2550,7 @@ Uimonen
 Ukko-Koiranen
 Ukko-Koli
 Ukkola-Paronen
+Ukko-Pekkanen
 Ulmanen
 Unelma-Asukas
 Unelma-Autto

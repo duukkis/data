@@ -32,6 +32,7 @@ alhaalla
 alias
 alinomaa
 allapäin
+allekkain
 ällikällä
 aloittain
 alueittain
@@ -58,6 +59,7 @@ asteittain
 asuinkunnittain
 asunnoittain
 auki
+australialaisittain
 autokunnittain
 autokuormittain
 autolasteittain
@@ -640,6 +642,7 @@ pikimmin
 pikimmiten
 pikkuhiljaa
 pikkuhoususilla
+pinoittain
 pinokuutioittain
 pisaratie
 pisteittäin
@@ -808,6 +811,7 @@ tahansa
 tainnoksissa
 taiteenlajeittain
 taiten
+taivalkoskelaisittain
 taivasalla
 takaapäin
 takaisinpäin

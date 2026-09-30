@@ -333,6 +333,7 @@ Etelä-Kiina
 Etelä-Kongo
 Etelä-Konnevesi
 Etelä-Korea
+Etelä-Kuopio
 Etelä-Kuusamo
 Etelä-Lahti
 Etelä-Lappi
@@ -1208,6 +1209,7 @@ Länsi-Eurooppa
 Länsi-Grönlanti
 Länsi-Haaga
 Länsi-Helsinki
+Länsi-Herttoniemi
 Länsi-Intia
 Länsi-Jaala
 Länsi-Jaava
@@ -1398,6 +1400,7 @@ Mäkelä
 Mäkelä-Nummela
 Mäki-Karvia
 Mäki-Patola
+Mäki-Tammela
 Mäkkylä
 Maksamaa
 Malawi
@@ -2247,6 +2250,7 @@ Suur-Lontoo
 Suur-Manchester
 Suur-Miami
 Suur-Miehikkälä
+Suur-Päijänne
 Suur-Pariisi
 Suur-Pellinki
 Suursaari
@@ -2582,6 +2586,7 @@ Ylä-Malmi
 Yläne
 Ylänne
 Ylä-Oulanka
+Ylä-Rissala
 Ylä-Satakunta
 Ylä-Savo
 Ylä-Tikkurila

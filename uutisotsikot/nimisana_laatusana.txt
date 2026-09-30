@@ -911,12 +911,14 @@ leniniläinen
 lentokenttäviranomainen
 lentoturvallisuusviranomainen
 lentoviranomainen
+leppävirtalaisnuori
 lestadiolainen
 lestadiolaisnuori
 leuhka
 liberaali
 liberaalidemokraatti
 liberaalikatolinen
+liberaalioikeistolainen
 liero
 liettualais-suomalainen
 lihanomainen
@@ -1112,6 +1114,7 @@ NHL-äijä
 NHL-hirmu
 NHL-huipputulokas
 NHL-jermu
+NHL-loisto
 NHL-lomalainen
 NHL-nousukas
 NHL-seko

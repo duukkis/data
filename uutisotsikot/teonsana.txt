@@ -419,6 +419,7 @@ buukata
 byrokraattistaa
 chatata
 chattailla
+CIA-tavata
 collegepukeutua
 cup-kohdata
 cup-pudota
@@ -701,6 +702,7 @@ etäopiskella
 etäoppia
 etäosallistua
 etäpelata
+etäseurata
 etätaiteilijatavata
 etätavata
 etätehdä
@@ -1371,6 +1373,7 @@ humahtaa
 humalajuoda
 humalakäyttäytyä
 humaltua
+humanisoida
 humanisoitua
 humauttaa
 humista
@@ -2748,6 +2751,7 @@ kivirakentaa
 kivistää
 kivittää
 kivuta
+klaaniäänestää
 klassikkokohdata
 klikata
 klikkailla
@@ -2930,6 +2934,7 @@ kopsahtaa
 kopsauttaa
 koputella
 koputtaa
+korahdella
 koreilla
 koripallo-osata
 koripallovalmentaa
@@ -3166,6 +3171,7 @@ kummuta
 kumota
 kumoutua
 kumuloitua
+kunnallistaa
 kunnianloukata
 kunnioittaa
 kunnostaa
@@ -3321,6 +3327,7 @@ kyläillä
 kyllästää
 kyllästyä
 kyllästyttää
+kylmäkuivata
 kylmätestata
 kylmävalmistaa
 kylmentää
@@ -4431,6 +4438,7 @@ morjestella
 morkata
 morsettaa
 moskeija-ampua
+Moskovan-tavata
 motata
 motittaa
 motivoida
@@ -4510,6 +4518,7 @@ murjaista
 murjoa
 murjottaa
 murjoutua
+murkinoida
 murskaantua
 murskata
 murskautua
@@ -4677,6 +4686,7 @@ Nato-lähentyä
 Nato-lähetä
 Nato-liittoutua
 Nato-liittyä
+Nato-suhtautua
 Nato-suuntautua
 Nato-tavata
 nauhoittaa
@@ -6252,6 +6262,7 @@ reputtaa
 resitoida
 resonoida
 restauroida
+restaurointiosata
 restauroitua
 resursoida
 resurssoida
@@ -6290,6 +6301,7 @@ riimitellä
 riipaista
 riipiä
 riippua
+riippuliitää
 riiputtaa
 riistää
 riistäytyä
@@ -7066,6 +7078,7 @@ sössöttää
 sotahämätä
 sotakuvata
 sotalentää
+sotaosata
 sotapelata
 sotata
 sotavarautua
@@ -7621,6 +7634,7 @@ teknologiatavata
 tekoälykuvata
 tekoälyosata
 tekoälypelata
+tekoälytavata
 tekohengittää
 tekonurmipelata
 tekopöyristyä
@@ -7988,6 +8002,7 @@ tunkeutua
 tunneheittäytyä
 tunnejuoda
 tunnelilouhia
+tunnelirakentaa
 tunneliukua
 tunnelmavalaista
 tunnelmoida
