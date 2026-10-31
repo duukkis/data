@@ -286,6 +286,7 @@ Etelä-Pohjanmaalainen
 eteläsaamelainen
 eteläsuomalainen
 etelävenäläinen
+etnopoppa
 EU-kiire
 EU-kilpailuviranomainen
 EU-liberaali
@@ -1162,6 +1163,7 @@ nuuskarikollinen
 nykerö
 nykyaikuinen
 nykydemokraatti
+nykyeläkeläinen
 nykyinen
 nykyisenkaltainen
 nykymallinen
@@ -1373,6 +1375,7 @@ porilaisnuori
 porilaisvieras
 pormestarimallinen
 porosaamelainen
+Porsche-mallinen
 porttiteatterilainen
 portugalilaisnuori
 povikeskeinen
@@ -1468,11 +1471,13 @@ rankaisukeskeinen
 ranskalais-brittiläinen
 ranskalaiseläkeläinen
 ranskalaishirmu
+ranskalaisnuori
 ranskalaisrakas
 ranskalais-suomalainen
 ranskalais-venäläinen
 ranskalaisvieras
 ranskalaisviranomainen
+ranskansuomalainen
 rantakarjalainen
 rantalomalainen
 raportinomainen
@@ -1865,6 +1870,7 @@ täyskorkea
 täysmusta
 täysorpo
 täyspitkä
+täyspöhkö
 täyspöljä
 täystollo
 täytäntöönpanoviranomainen

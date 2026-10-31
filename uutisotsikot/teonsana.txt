@@ -334,6 +334,7 @@ auditoida
 aueta
 aukaista
 aukoa
+auktorisoida
 auktorisoitua
 aumata
 aurailla
@@ -354,6 +355,7 @@ automaattipelata
 automaattipiirtää
 automatisoida
 automatisoitua
+autotavata
 auttaa
 availla
 avajaisesiintyä
@@ -734,6 +736,7 @@ evätä
 Facebook-kirjautua
 Facebook-lukijatavata
 faksata
+fanikäyttäytyä
 fanikohdata
 fanitavata
 fasilitoitua
@@ -1843,6 +1846,7 @@ jättiläiskohdata
 jättilistautua
 jättionnistua
 jättirikastua
+jättisulaa
 jauhaa
 jauhautua
 jauhottaa
@@ -2195,6 +2199,7 @@ kapselipukeutua
 kapseloida
 kapseloitua
 kapuilla
+kapuloida
 karahtaa
 kärähtää
 karaista
@@ -3324,6 +3329,7 @@ kyhjöttää
 kyhnyttää
 kykkiä
 kyläillä
+kyläkohdata
 kyllästää
 kyllästyä
 kyllästyttää
@@ -4998,6 +5004,7 @@ opponoida
 optiikkaosata
 optimoida
 optimoitua
+örähtää
 orastaa
 orastella
 organisaatiokäyttäytyä
@@ -5783,6 +5790,7 @@ puhdistella
 puhdistua
 puheenjohtaa
 puheentunnistaa
+puheentuottaa
 puheenymmärtää
 puhelintavata
 puhella
@@ -6340,6 +6348,7 @@ ripustautua
 ripustella
 ripustua
 riskeerata
+riskientunnistaa
 riskijuoda
 riskikäyttäytyä
 riskinottaa
@@ -6918,6 +6927,7 @@ silmätä
 silmukoida
 silotella
 silottaa
+silpiä
 silpoa
 silpoutua
 silputa
@@ -8281,6 +8291,7 @@ urheilla
 urheiluharrastaa
 urheilujohtaa
 urheilukannustaa
+urheilukuvata
 urheilupaikkarakentaa
 urheilurakentaa
 urheiluseuraharrastaa

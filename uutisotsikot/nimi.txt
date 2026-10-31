@@ -194,6 +194,7 @@ Maol
 Marimekko
 Mars-Maa
 Masala
+Mediheli
 Mensa
 Merkurius
 Mersu
@@ -258,6 +259,7 @@ perhe-Toyota
 perus-Mersu
 Peugeot
 pikku-Finlandia
+pikku-Ford
 pikku-Mersu
 pikku-Volvo
 piraatti-Windows
@@ -374,6 +376,7 @@ Trump-Puh
 Tuonela
 tuonti-Saab
 tuotanto-Audi
+turma-Volvo
 TV-Aurinko
 Twitter
 työmarkkina-Aurinko

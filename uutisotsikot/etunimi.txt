@@ -37,6 +37,7 @@ Ahab
 Ahmed
 Ahonpää-Kim
 Ahti
+Ahti-Pekka
 Ahto
 Ahvo
 Aija
@@ -892,6 +893,7 @@ Juha-Petri
 Juha-Petteri
 Juha-Santeri
 Juha-Tapio
+Juha-Vesa
 Juho
 Juho-Antti
 Juho-Jari
@@ -1953,6 +1955,7 @@ Vilho
 Vili
 Vili-Jesper
 Vili-Pekka
+Vili-Valtteri
 Viljam
 Viljami
 Viljo

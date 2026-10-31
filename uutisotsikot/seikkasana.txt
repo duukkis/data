@@ -188,6 +188,7 @@ huosta
 huutia
 hyllymetreittäin
 hyllyriveittäin
+hyppäyksittäin
 hyväksi
 hyvänen
 hyvänsä

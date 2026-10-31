@@ -767,6 +767,7 @@ Jaatinen
 Jäätteenmäki
 Jack-Koiranen
 Jackson
+Jahnsson
 Jahnukainen
 Jakobsson
 Jakonen
@@ -1712,6 +1713,7 @@ Paasio
 Paasonen
 Paatelainen
 Paatero
+Paavela
 Paavilainen
 Paavola
 Paavolainen
@@ -2190,6 +2192,7 @@ Scott
 Scott-Smith
 Scully
 Sederholm
+Seilonen
 Selenius
 Seligson
 Selin

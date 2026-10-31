@@ -509,6 +509,7 @@ Heinola
 Helens
 Heli-Mari
 Helka-Mari
+Hellsten-Impivaara
 Helsingborg
 Helsingin-Uusimaa
 Helsinki
@@ -633,6 +634,7 @@ Iso-Kisko
 Iso-Kouvola
 Isokyrö
 Iso-Puolala
+Iso-Tervo
 Iso-Ylläs
 Israel
 Israelin-Iran
