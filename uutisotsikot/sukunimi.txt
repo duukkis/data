@@ -70,6 +70,7 @@ Aittola
 Akkanen
 Akola
 Akvinolainen
+Alander
 Alanen
 Alanenpää
 Alanko
@@ -332,6 +333,7 @@ Enqvist
 Enström
 Eränen
 Erich
+Ericson
 Ericsson
 Erikson
 Eriksson
@@ -1039,6 +1041,7 @@ Kojonen
 Kokkari
 Kokkila
 Kokkinen
+Kokkola
 Kokkonen
 Kolehmainen
 Koli
@@ -1631,6 +1634,8 @@ Nuopponen
 Nupponen
 Nurkkala
 Nurmela
+Nurmi
+Nurminen
 Nurmio
 Nuutila
 Nuutinen
@@ -2584,6 +2589,7 @@ Vahtera
 Vahtola
 Vainikainen
 Vainikka
+Vainio
 Väinölä-Mäki
 Vainonen
 Väisänen
@@ -2640,6 +2646,7 @@ Veijanen
 Veijola
 Veijonen
 Vellonen
+Venäläinen
 Vennamo
 Vento
 Vepsäläinen

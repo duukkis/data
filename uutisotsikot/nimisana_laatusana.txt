@@ -579,6 +579,7 @@ kaakkois-norja
 kaakkoissuomalainen
 kaappikepulainen
 kaavanmukainen
+kaavilaisnuori
 kade
 kähärä
 kaheli
@@ -702,6 +703,7 @@ keskivertosuomalainen
 keskivertovenäläinen
 keskustalainen
 keskustaoikeistolainen
+keskustapoliittinen
 keskustavasemmistolainen
 kidutuksenomainen
 kiekkoeläkeläinen
@@ -1378,6 +1380,7 @@ porosaamelainen
 Porsche-mallinen
 porttiteatterilainen
 portugalilaisnuori
+posiolaisnuori
 povikeskeinen
 pöytämallinen
 presidenttikeskeinen
@@ -1507,6 +1510,7 @@ rikollisnero
 rikollisnuori
 rikostutkintaviranomainen
 risa
+riski
 riskialtis
 riskipistemallinen
 rituaalinomainen

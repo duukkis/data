@@ -256,6 +256,7 @@ Auli
 Aulikki
 Aulis
 Aune
+Auni
 Auno
 Auri
 Auroora
@@ -572,6 +573,7 @@ Hans-Otto
 Hans-Peter
 Hans-Petter
 Harald
+Harri
 Harriet
 Harry
 Hedda
@@ -642,6 +644,7 @@ Holger
 Hugo
 Hugo-Jalmari
 Hulda
+Huovis-Veikko
 Ibrahim
 Ida
 Ida-Elina
@@ -1411,6 +1414,7 @@ Osmo
 Ossi
 Ossi-Petteri
 Oswald
+Otto
 Ötzi
 Outi
 Outi-Maria
@@ -1923,6 +1927,7 @@ Valtsu
 Valtteri
 Valtteri-Pyry
 Vanessa
+Varma
 Vasili
 Vaula
 Veera

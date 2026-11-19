@@ -156,6 +156,7 @@ Kia
 Kiasma
 Kiina-Puh
 klassikko-Jaguar
+klassikko-Lada
 klassikko-Windows
 kohu-Jaguar
 kone-Jeesus
@@ -182,6 +183,7 @@ Lovejoy
 lukiolais-Linnea
 luksus-Mersu
 Lumikki
+Maa
 Maamme-laulu
 maasturi-Lada
 maasturi-Mersu

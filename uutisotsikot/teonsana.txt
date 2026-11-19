@@ -3053,6 +3053,7 @@ koulia
 kouliintua
 koulualtistua
 kouluampua
+koulukeskittää
 koulukiusata
 koulukuvata
 koululintsata
@@ -3175,6 +3176,7 @@ kummitella
 kummuta
 kumota
 kumoutua
+kumpuilla
 kumuloitua
 kunnallistaa
 kunnianloukata
@@ -4004,6 +4006,7 @@ lukittua
 lukkaroida
 lukkiutua
 luksuskuluttaa
+luksusrakentaa
 lumettaa
 lumikolata
 lumilautailla
@@ -4864,6 +4867,7 @@ nuotata
 nuotittaa
 nurista
 nurkata
+nurkua
 nussia
 nuuhkaista
 nuuhkia
@@ -5218,6 +5222,7 @@ pallonhallintapelata
 pallonjakaa
 pallotella
 paloitella
+pälpättää
 palsamoida
 paluumuuttaa
 palvata
@@ -8716,9 +8721,6 @@ velttoilla
 velvoitetyöllistää
 velvoittaa
 venähtää
-Venäjä-esiintyä
-Venäjä-osata
-Venäjä-tavata
 venäläistää
 venäläistyä
 venäyttää
@@ -9053,6 +9055,7 @@ VR-pelata
 VR-säätää
 vuodatella
 vuodattaa
+vuodella
 vuodenvaihtua
 vuokra-asua
 vuokrailla

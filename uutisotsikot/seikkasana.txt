@@ -231,6 +231,7 @@ itsestään
 jahka
 jaksain
 jaksoittain
+jälkeen
 jälkeenpäin
 jalkeilla
 jälleen
@@ -634,6 +635,7 @@ perjantaisin
 perkele
 perussuomalaisittain
 piakkoin
+pian
 piilosilla
 piip
 piirikunnittain
@@ -925,8 +927,10 @@ uuvuksissa
 vääjäämättä
 vaalikausittain
 vaalipiireittäin
+väärin
 väärinpäin
 väestöryhmittäin
+vähän
 vähäsen
 vähitellen
 vähiten

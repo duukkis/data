@@ -324,6 +324,7 @@ Etelä-Itämeri
 Etelä-Japani
 Etelä-Jemen
 Etelä-Juva
+Etelä-Jyllanti
 Etelä-Kalifornia
 Etelä-Kallavesi
 Etelä-Karjala
@@ -333,6 +334,7 @@ Etelä-Kiina
 Etelä-Kongo
 Etelä-Konnevesi
 Etelä-Korea
+Etelä-Kouvola
 Etelä-Kuopio
 Etelä-Kuusamo
 Etelä-Lahti
@@ -514,6 +516,7 @@ Helsingborg
 Helsingin-Uusimaa
 Helsinki
 Helsinki-Bangkok
+Helsinki-Bukarest
 Helsinki-Dubai
 Helsinki-Dubrovnik
 Helsinki-Istanbul
@@ -688,6 +691,7 @@ Itä-Saksa
 Itä-Sarajevo
 Itä-Savo
 Itä-Siperia
+Itä-Sipoo
 Itä-Slovakia
 Itä-Suomi
 Itä-Syyria
@@ -1427,6 +1431,7 @@ Manner-Italia
 Manner-Kiina
 Manner-Kreikka
 Manner-Naantali
+Manner-Portugali
 Manner-Suomi
 Manner-Venäjä
 Manner-Yhdysvalta
@@ -1466,6 +1471,7 @@ Melbourne
 Mellilä
 Mellunkylä
 Mellunmäki
+Meltaus
 Meltosjärvi
 Merijärvi
 Merikarvia
@@ -1589,6 +1595,7 @@ Nellim
 Nepal
 Nevada
 Newark
+NHL-Helsinki
 NHL-Seattle
 NHL-Taipale
 NHL-Utah
@@ -1847,6 +1854,7 @@ Pohjois-Lappi
 Pohjois-Libanon
 Pohjois-Liberia
 Pohjois-Lontoo
+Pohjoismaa
 Pohjois-Mali
 Pohjois-Mariaani
 Pohjois-Marokko
@@ -2520,6 +2528,7 @@ Vehmaa
 Vehmersalmi
 Veikkola
 Velkua
+Venäjä
 Venetsia
 Venezuela
 Verdun
@@ -2562,6 +2571,7 @@ Vöyri
 Vuojoki
 Vuokatti
 Vuokatti-Ruka
+Vuoksi
 Vuonislahti
 Vuorinen-Lampila
 Vuorio-Mikkola

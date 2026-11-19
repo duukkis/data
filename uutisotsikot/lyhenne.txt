@@ -8,6 +8,7 @@ ABC
 ADD
 ADHD
 ADSL
+aero-x
 AIDS
 äijä-TV
 alfa-TV
